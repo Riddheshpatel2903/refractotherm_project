@@ -28,7 +28,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/steelmaking/LadleInsulationMaterials.jpg"
+        <img src="assets/images/resources/products/steelmaking/LadleInsulationMaterials.webp"
           alt="Ladle Insulation Materials for Steelmaking and Ladle Applications" />
 
       </div>

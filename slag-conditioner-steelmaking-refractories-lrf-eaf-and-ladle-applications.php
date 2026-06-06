@@ -28,7 +28,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/steelmaking/SlagConditioner.jpg"
+        <img src="assets/images/resources/products/steelmaking/SlagConditioner.webp"
           alt="Slag Conditioner for Steelmaking and Ladle Applications" />
 
       </div>

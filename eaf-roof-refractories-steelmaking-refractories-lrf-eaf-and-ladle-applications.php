@@ -28,7 +28,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/steelmaking/EAFRoofRefractories.jpg"
+        <img src="assets/images/resources/products/steelmaking/EAFRoofRefractories.webp"
           alt="EAF Roof Refractories for Steelmaking and Ladle Applications" />
 
       </div>
@@ -157,4 +157,3 @@ include 'includes/head.php';
 </body>
 
 </html>
-
