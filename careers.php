@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html lang="en">
 
 <?php
@@ -96,7 +96,7 @@ include 'includes/head.php';
         </p>
         <ul class="cta__info">
           <li><i class="fa-solid fa-envelope"></i> <a
-              href="mailto:refectothermindia@gmail.com">refectothermindia@gmail.com</a></li>
+              href="mailto:info@refractotherm.com">info@refractotherm.com</a></li>
         </ul>
       </div>
       <form class="cta__form"

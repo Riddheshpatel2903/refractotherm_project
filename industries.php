@@ -38,176 +38,94 @@ include 'includes/head.php';
         high-temperature operations, supporting the continuous and efficient throughput of processing vessels.
       </p>
 
-      <div class="industry-stack-grid">
-        <!-- Industry 1 -->
+      <!-- Steel & Metallurgical Industries -->
+      <h3 style="margin-top: 60px; margin-bottom: 30px; border-bottom: 2px solid var(--orange); padding-bottom: 10px;">Steel & Metallurgical Industries</h3>
+      <div class="industry-stack-grid" style="margin-top: 0;">
         <div class="industry-stack-card reveal">
-          <div class="industry-stack-img"
-            style="background-image: url('assets/images/resources/IntegratedSteelPlants.jpg');"></div>
-          <div class="industry-stack-content">
-            <h3 class="industry-stack-title">Integrated Steel Plants</h3>
-          </div>
+          <div class="industry-stack-img" style="background-image: url('assets/images/resources/IntegratedSteelPlants.jpg');"></div>
+          <div class="industry-stack-content"><h3 class="industry-stack-title">Integrated Steel Plants</h3></div>
         </div>
-
-        <!-- Industry 2 -->
         <div class="industry-stack-card reveal">
-          <div class="industry-stack-img"
-            style="background-image: url('assets/images/resources/SecondarySteelPlants.avif');"></div>
-          <div class="industry-stack-content">
-            <h3 class="industry-stack-title">Secondary Steel Plants</h3>
-          </div>
+          <div class="industry-stack-img" style="background-image: url('assets/images/resources/SecondarySteelPlants.avif');"></div>
+          <div class="industry-stack-content"><h3 class="industry-stack-title">Secondary Steel Plants</h3></div>
         </div>
-
-        <!-- Industry 3 -->
         <div class="industry-stack-card reveal">
-          <div class="industry-stack-img"
-            style="background-image: url('assets/images/resources/StainlessSteelPlants.jpg');"></div>
-          <div class="industry-stack-content">
-            <h3 class="industry-stack-title">Stainless Steel Plants</h3>
-          </div>
+          <div class="industry-stack-img" style="background-image: url('assets/images/resources/StainlessSteelPlants.jpg');"></div>
+          <div class="industry-stack-content"><h3 class="industry-stack-title">Stainless Steel Plants</h3></div>
         </div>
-
-        <!-- Industry 4 -->
         <div class="industry-stack-card reveal">
-          <div class="industry-stack-img"
-            style="background-image: url('assets/images/resources/AlloySteelPlants.avif');"></div>
-          <div class="industry-stack-content">
-            <h3 class="industry-stack-title">Alloy Steel Plants</h3>
-          </div>
+          <div class="industry-stack-img" style="background-image: url('assets/images/resources/AlloySteelPlants.avif');"></div>
+          <div class="industry-stack-content"><h3 class="industry-stack-title">Alloy Steel Plants</h3></div>
         </div>
-
-        <!-- Industry 5 -->
         <div class="industry-stack-card reveal">
-          <div class="industry-stack-img" style="background-image: url('assets/images/resources/SteelFoundries.webp');">
-          </div>
-          <div class="industry-stack-content">
-            <h3 class="industry-stack-title">Steel Foundries</h3>
-          </div>
+          <div class="industry-stack-img" style="background-image: url('assets/images/resources/SteelFoundries.webp');"></div>
+          <div class="industry-stack-content"><h3 class="industry-stack-title">Steel Foundries</h3></div>
         </div>
-
-        <!-- Industry 6 -->
         <div class="industry-stack-card reveal">
-          <div class="industry-stack-img"
-            style="background-image: url('assets/images/resources/FerroAlloyPlants.png');"></div>
-          <div class="industry-stack-content">
-            <h3 class="industry-stack-title">Ferro Alloy Plants</h3>
-          </div>
+          <div class="industry-stack-img" style="background-image: url('assets/images/resources/FerroAlloyPlants.png');"></div>
+          <div class="industry-stack-content"><h3 class="industry-stack-title">Ferro Alloy Plants</h3></div>
         </div>
+      </div>
 
-        <!-- Industry 7 -->
+      <!-- Furnace & Casting Operations -->
+      <h3 style="margin-top: 60px; margin-bottom: 30px; border-bottom: 2px solid var(--orange); padding-bottom: 10px;">Furnace & Casting Operations</h3>
+      <div class="industry-stack-grid" style="margin-top: 0;">
         <div class="industry-stack-card reveal">
-          <div class="industry-stack-img"
-            style="background-image: url('assets/images/resources/Billet&SlabCastingPlants.jpg');"></div>
-          <div class="industry-stack-content">
-            <h3 class="industry-stack-title">Billet & Slab Casting Plants</h3>
-          </div>
+          <div class="industry-stack-img" style="background-image: url('assets/images/resources/InductionMeltingFurnaces.webp');"></div>
+          <div class="industry-stack-content"><h3 class="industry-stack-title">Induction Melting Furnaces</h3></div>
         </div>
-
-        <!-- Industry 8 -->
         <div class="industry-stack-card reveal">
-          <div class="industry-stack-img"
-            style="background-image: url('assets/images/resources/RollingMillRefractories.jpg');"></div>
-          <div class="industry-stack-content">
-            <h3 class="industry-stack-title">Rolling Mills</h3>
-          </div>
+          <div class="industry-stack-img" style="background-image: url('assets/images/resources/ElectricArcFurnaces(EAF).jpg');"></div>
+          <div class="industry-stack-content"><h3 class="industry-stack-title">Electric Arc Furnaces (EAF)</h3></div>
         </div>
-
-        <!-- Industry 9 -->
         <div class="industry-stack-card reveal">
-          <div class="industry-stack-img"
-            style="background-image: url('assets/images/resources/Continuous Casting Machines (CCM).avif');"></div>
-          <div class="industry-stack-content">
-            <h3 class="industry-stack-title">Continuous Casting Machines (CCM)</h3>
-          </div>
+          <div class="industry-stack-img" style="background-image: url('assets/images/resources/LadleRefiningFurnaces(LRF).jpg');"></div>
+          <div class="industry-stack-content"><h3 class="industry-stack-title">Ladle Refining Furnaces (LRF)</h3></div>
         </div>
-
-        <!-- Industry 10 -->
         <div class="industry-stack-card reveal">
-          <div class="industry-stack-img"
-            style="background-image: url('assets/images/resources/LadleRefiningFurnaces(LRF).jpg');"></div>
-          <div class="industry-stack-content">
-            <h3 class="industry-stack-title">Ladle Refining Furnaces (LRF)</h3>
-          </div>
+          <div class="industry-stack-img" style="background-image: url('assets/images/resources/Continuous%20Casting%20Machines%20(CCM).avif');"></div>
+          <div class="industry-stack-content"><h3 class="industry-stack-title">Continuous Casting Machines (CCM)</h3></div>
         </div>
-
-        <!-- Industry 11 -->
         <div class="industry-stack-card reveal">
-          <div class="industry-stack-img"
-            style="background-image: url('assets/images/resources/ElectricArcFurnaces(EAF).jpg');"></div>
-          <div class="industry-stack-content">
-            <h3 class="industry-stack-title">Electric Arc Furnaces (EAF)</h3>
-          </div>
+          <div class="industry-stack-img" style="background-image: url('assets/images/resources/Billet&SlabCastingPlants.jpg');"></div>
+          <div class="industry-stack-content"><h3 class="industry-stack-title">Billet & Slab Casting Plants</h3></div>
         </div>
-
-        <!-- Industry 12 -->
         <div class="industry-stack-card reveal">
-          <div class="industry-stack-img"
-            style="background-image: url('assets/images/resources/BlastFurnaceOperations.webp');"></div>
-          <div class="industry-stack-content">
-            <h3 class="industry-stack-title">Blast Furnace Operations</h3>
-          </div>
+          <div class="industry-stack-img" style="background-image: url('assets/images/resources/RollingMillRefractories.jpg');"></div>
+          <div class="industry-stack-content"><h3 class="industry-stack-title">Rolling Mills</h3></div>
         </div>
-
-        <!-- Industry 13 -->
         <div class="industry-stack-card reveal">
-          <div class="industry-stack-img"
-            style="background-image: url('assets/images/resources/InductionMeltingFurnaces.webp');"></div>
-          <div class="industry-stack-content">
-            <h3 class="industry-stack-title">Induction Melting Furnaces</h3>
-          </div>
+          <div class="industry-stack-img" style="background-image: url('assets/images/resources/BlastFurnaceOperations.webp');"></div>
+          <div class="industry-stack-content"><h3 class="industry-stack-title">Blast Furnace Operations</h3></div>
         </div>
-
-        <!-- Industry 14 -->
         <div class="industry-stack-card reveal">
-          <div class="industry-stack-img"
-            style="background-image: url('assets/images/resources/SpongeIron(DRI)Plants.jpg');"></div>
-          <div class="industry-stack-content">
-            <h3 class="industry-stack-title">Sponge Iron (DRI) Plants</h3>
-          </div>
+          <div class="industry-stack-img" style="background-image: url('assets/images/resources/ReheatingFurnaces.jpg');"></div>
+          <div class="industry-stack-content"><h3 class="industry-stack-title">Reheating Furnaces</h3></div>
         </div>
+      </div>
 
-        <!-- Industry 15 -->
+      <!-- Process Industries -->
+      <h3 style="margin-top: 60px; margin-bottom: 30px; border-bottom: 2px solid var(--orange); padding-bottom: 10px;">Process Industries</h3>
+      <div class="industry-stack-grid" style="margin-top: 0;">
         <div class="industry-stack-card reveal">
-          <div class="industry-stack-img" style="background-image: url('assets/images/resources/CementPlants.jpg');">
-          </div>
-          <div class="industry-stack-content">
-            <h3 class="industry-stack-title">Cement Plants</h3>
-          </div>
+          <div class="industry-stack-img" style="background-image: url('assets/images/resources/SpongeIron(DRI)Plants.jpg');"></div>
+          <div class="industry-stack-content"><h3 class="industry-stack-title">Sponge Iron (DRI) Plants</h3></div>
         </div>
-
-        <!-- Industry 16 -->
         <div class="industry-stack-card reveal">
-          <div class="industry-stack-img" style="background-image: url('assets/images/resources/manufacture.jpg');">
-          </div>
-          <div class="industry-stack-content">
-            <h3 class="industry-stack-title">Lime Plants</h3>
-          </div>
+          <div class="industry-stack-img" style="background-image: url('assets/images/resources/manufacture.jpg');"></div>
+          <div class="industry-stack-content"><h3 class="industry-stack-title">Lime Plants</h3></div>
         </div>
-
-        <!-- Industry 17 -->
         <div class="industry-stack-card reveal">
-          <div class="industry-stack-img"
-            style="background-image: url('assets/images/resources/PetrochemicalIndustries.jpg');"></div>
-          <div class="industry-stack-content">
-            <h3 class="industry-stack-title">Petrochemical Industries</h3>
-          </div>
+          <div class="industry-stack-img" style="background-image: url('assets/images/resources/PetrochemicalIndustries.jpg');"></div>
+          <div class="industry-stack-content"><h3 class="industry-stack-title">Petrochemical Industries</h3></div>
         </div>
-
-        <!-- Industry 18 -->
         <div class="industry-stack-card reveal">
-          <div class="industry-stack-img"
-            style="background-image: url('assets/images/resources/ReheatingFurnaces.jpg');"></div>
-          <div class="industry-stack-content">
-            <h3 class="industry-stack-title">Reheating Furnaces</h3>
-          </div>
+          <div class="industry-stack-img" style="background-image: url('assets/images/resources/products/spacial_industries/Copper&Non-FerrousFurnaceRefractories.jpg');"></div>
+          <div class="industry-stack-content"><h3 class="industry-stack-title">Non-Ferrous Metal Industries</h3></div>
         </div>
-
-        <!-- Industry 19 -->
         <div class="industry-stack-card reveal">
-          <div class="industry-stack-img"
-            style="background-image: url('assets/images/resources/BlastFurnaceOperations.webp');"></div>
-          <div class="industry-stack-content">
-            <h3 class="industry-stack-title">High-Temperature Process Industries Worldwide</h3>
-          </div>
+          <div class="industry-stack-img" style="background-image: url('assets/images/resources/CementPlants.jpg');"></div>
+          <div class="industry-stack-content"><h3 class="industry-stack-title">High-Temperature Process Industries</h3></div>
         </div>
       </div>
     </div>
@@ -227,7 +145,7 @@ include 'includes/head.php';
         <ul class="cta__info">
           <li><i class="fa-solid fa-phone"></i> +91 98259 57604</li>
           <li><i class="fa-solid fa-envelope"></i> <a
-              href="mailto:refectothermindia@gmail.com">refectothermindia@gmail.com</a>
+              href="mailto:info@refractotherm.com">info@refractotherm.com</a>
           </li>
         </ul>
       </div>

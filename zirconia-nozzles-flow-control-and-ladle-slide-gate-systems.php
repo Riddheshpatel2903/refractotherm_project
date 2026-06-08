@@ -28,7 +28,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/flowcontrol/zirconianozzles.jpg"
+        <img src="assets/images/resources/products/flowcontrol/ZirconiaNozzles.webp"
           alt="Zirconia Nozzles for Steel Ladles, Continuous Casting Systems, Flow Control Assemblies and Molten Steel Discharge Applications" />
 
       </div>
@@ -168,7 +168,7 @@ Preferred for demanding metallurgical processes involving aggressive steel chemi
         <ul class="cta__info">
           <li><i class="fa-solid fa-phone"></i> +91 98259 57604</li>
           <li><i class="fa-solid fa-envelope"></i> <a
-              href="mailto:refectothermindia@gmail.com">refectothermindia@gmail.com</a>
+              href="mailto:info@refractotherm.com">info@refractotherm.com</a>
           </li>
         </ul>
       </div>

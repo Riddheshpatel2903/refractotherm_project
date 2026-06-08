@@ -1,10 +1,10 @@
-<!doctype html>
+﻿<!doctype html>
 <html lang="en">
 
 <?php
-$title = "Furnace Repair Mixes Manufacturer & Supplier | Refractotherm";
-$description = "Furnace Repair Mixes are specially formulated refractory compounds designed for the quick and effective patching of worn-out or damaged sections of furn...";
-$keywords = "Furnace Repair Mixes, Induction Furnace Refractories Blocks And Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Repair Mixes Manufacturer & Supplier | Refractotherm';
+$description = 'Repair Mixes are specially formulated refractory compounds designed for the quick and effective patching of worn-out or damaged sections of furn...';
+$keywords = 'Repair Mixes, Induction Furnace Refractories Blocks And Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -20,7 +20,7 @@ include 'includes/head.php';
     <div class="container page-banner-container">
       <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>INDUCTION FURNACE REFRACTORIES, BLOCKS &
         CONSUMABLES</span>
-      <h2 class="page-banner-title">Furnace Repair Mixes</h2>
+      <h2 class="page-banner-title">Repair Mixes</h2>
     </div>
   </section>
 
@@ -28,14 +28,14 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/FurnaceProducts.avif"
-          alt="Furnace Repair Mixes for High Temperature Industrial Applications" />
+        <img src="assets/images/resources/products/induction_furnace/FurnaceRepairMixes.webp"
+          alt="Repair Mixes for High Temperature Industrial Applications" />
 
       </div>
       <div class="split__body reveal">
         <span class="eyebrow"><span class="eyebrow__bar"></span>Product Overview</span>
-        <h3>Furnace Repair Mixes</h3>
-        <p class="lead">Furnace Repair Mixes are specially formulated refractory compounds designed for the quick and
+        <h3>Repair Mixes</h3>
+        <p class="lead">Repair Mixes are specially formulated refractory compounds designed for the quick and
           effective patching of worn-out or damaged sections of furnace linings. They help in extending the campaign
           life of the furnace with minimal downtime.</p>
         <p>These repair mixes exhibit excellent adhesion to existing refractory surfaces, whether hot or cold. They are
@@ -124,20 +124,20 @@ include 'includes/head.php';
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>
-        <h3>Request a Quote for Furnace Repair Mixes </h3>
+        <h3>Request a Quote for Repair Mixes </h3>
         <p>Connect with our refractory specialists to select the ideal Alumina Crucible for your laboratory,
           metallurgical, or industrial application. Custom sizes and high-purity grades are available based on your
           requirements.</p>
         <ul class="cta__info">
           <li><i class="fa-solid fa-phone"></i> +91 98259 57604</li>
           <li><i class="fa-solid fa-envelope"></i> <a
-              href="mailto:refectothermindia@gmail.com">refectothermindia@gmail.com</a>
+              href="mailto:info@refractotherm.com">info@refractotherm.com</a>
           </li>
         </ul>
       </div>
       <form class="cta__form"
         onsubmit="event.preventDefault(); this.querySelector('button').textContent = 'Submitted âœ“';">
-        <h3>Request Furnace Repair Mixes Quote</h3>
+        <h3>Request Repair Mixes Quote</h3>
         <div class="row">
           <input type="text" class="inputsections" placeholder="Full Name" required />
           <input type="text" class="inputsections" placeholder="Company" required />

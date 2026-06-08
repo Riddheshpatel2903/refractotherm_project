@@ -22,20 +22,20 @@
   <script>
     document.addEventListener("DOMContentLoaded", function () {
       const allCategoryProducts = [
-        { name: "Blast Furnace Trough Castables", link: "blast-furnace-trough-castables-blast-furnace-and-dri-refractories.html", image: "assets/images/resources/products/blast_furnace/BlastFurnaceTroughCastables.jpg" },
+        { name: "Blast Furnace Trough Castables", link: "blast-furnace-trough-castables-blast-furnace-and-dri-refractories.html", image: "assets/images/resources/products/blast_furnace/BlastFurnaceTroughCastables.webp" },
         { name: "Runner Castables", link: "runner-castables-blast-furnace-and-dri-refractories.html", image: "assets/images/resources/products/blast_furnace/RunnerCastables.webp" },
-        { name: "Iron Runner Bricks", link: "iron-runner-bricks-blast-furnace-and-dri-refractories.html", image: "assets/images/resources/FurnaceProducts.avif" },
-        { name: "Tap Hole Clay", link: "tap-hole-clay-blast-furnace-and-dri-refractories.html", image: "assets/images/resources/products/blast_furnace/TapHoleClay.avif" },
-        { name: "Mud Gun Mass", link: "mud-gun-mass-blast-furnace-and-dri-refractories.html", image: "assets/images/resources/products/blast_furnace/MudGunMass.jpg" },
+        { name: "Iron Runner Bricks", link: "iron-runner-bricks-blast-furnace-and-dri-refractories.html", image: "assets/images/resources/products/blast_furnace/IronRunnerBricks.webp" },
+        { name: "Tap Hole Clay", link: "tap-hole-clay-blast-furnace-and-dri-refractories.html", image: "assets/images/resources/products/blast_furnace/TapHoleClay.webp" },
+        { name: "Mud Gun Mass", link: "mud-gun-mass-blast-furnace-and-dri-refractories.html", image: "assets/images/resources/products/blast_furnace/MudGunMass.webp" },
         { name: "Coke Oven Refractories", link: "coke-oven-refractories-blast-furnace-and-dri-refractories.html", image: "assets/images/resources/products/blast_furnace/CokeOvenRefractories.webp" },
-        { name: "Hot Blast Stove Bricks", link: "hot-blast-stove-bricks-blast-furnace-and-dri-refractories.html", image: "assets/images/resources/products/blast_furnace/HotBlastStoveBricks.jpg" },
-        { name: "Rotary Kiln Refractory Bricks", link: "rotary-kiln-refractory-bricks-blast-furnace-and-dri-refractories.html", image: "assets/images/resources/products/blast_furnace/RotaryKilnRefractoryBricks.jpg" },
-        { name: "Pellet Plant Refractories", link: "pellet-plant-refractories-blast-furnace-and-dri-refractories.html", image: "assets/images/resources/products/blast_furnace/PelletPlantRefractories.jpg" },
-        { name: "Kiln Lining Materials", link: "kiln-lining-materials-blast-furnace-and-dri-refractories.html", image: "assets/images/resources/products/blast_furnace/kilnliningmaterials.jpg" },
-        { name: "Slag Zone Refractories", link: "slag-zone-refractories-blast-furnace-and-dri-refractories.html", image: "assets/images/resources/FurnaceProducts.avif" },
-        { name: "Cooler Castables", link: "cooler-castables-blast-furnace-and-dri-refractories.html", image: "assets/images/resources/FurnaceProducts.avif" },
-        { name: "Kiln Burner Pipes", link: "kiln-burner-pipes-blast-furnace-and-dri-refractories.html", image: "assets/images/resources/products/blast_furnace/kilnburnerpipes.jpg" },
-        { name: "Launder Refractories", link: "launder-refractories-blast-furnace-and-dri-refractories.html", image: "assets/images/resources/products/blast_furnace/launderrefractories.jfif" }
+        { name: "Hot Blast Stove Bricks", link: "hot-blast-stove-bricks-blast-furnace-and-dri-refractories.html", image: "assets/images/resources/products/blast_furnace/HotBlastStoveBricks.webp" },
+        { name: "Rotary Kiln Refractory Bricks", link: "rotary-kiln-refractory-bricks-blast-furnace-and-dri-refractories.html", image: "assets/images/resources/products/blast_furnace/RotaryKilnRefractoryBricks.webp" },
+        { name: "Pellet Plant Refractories", link: "pellet-plant-refractories-blast-furnace-and-dri-refractories.html", image: "assets/images/resources/products/blast_furnace/PelletPlantRefractories.webp" },
+        { name: "Kiln Lining Materials", link: "kiln-lining-materials-blast-furnace-and-dri-refractories.html", image: "assets/images/resources/products/blast_furnace/kilnliningmaterials.webp" },
+        { name: "Slag Zone Refractories", link: "slag-zone-refractories-blast-furnace-and-dri-refractories.html", image: "assets/images/resources/products/blast_furnace/SlagZoneRefractories.webp" },
+        { name: "Cooler Castables", link: "cooler-castables-blast-furnace-and-dri-refractories.html", image: "assets/images/resources/products/blast_furnace/CoolerCastables.webp" },
+        { name: "Kiln Burner Pipes", link: "kiln-burner-pipes-blast-furnace-and-dri-refractories.html", image: "assets/images/resources/products/blast_furnace/kilnburnerpipes.webp" },
+        { name: "Launder Refractories", link: "launder-refractories-blast-furnace-and-dri-refractories.html", image: "assets/images/resources/products/blast_furnace/launderrefractories.webp" }
       ];
 
       const wrappers = document.querySelectorAll(".custom-carousel-wrapper");

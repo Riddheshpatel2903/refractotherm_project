@@ -2,9 +2,9 @@
 <html lang="en">
 
 <?php
-$title = "Bottom Purging Bp Sets Manufacturer & Supplier | Refractotherm";
-$description = "Bottom Purging (BP) Sets are integrated refractory and gas-injection systems installed at the bottom of steel ladles to facilitate controlled argon purg...";
-$keywords = "Bottom Purging Bp Sets, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Bottom Purging Bp Sets Manufacturer & Supplier | Refractotherm';
+$description = 'Bottom Purging (BP) System are integrated refractory and gas-injection systems installed at the bottom of steel ladles to facilitate controlled argon purg...';
+$keywords = 'Bottom Purging Bp Sets, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -20,7 +20,7 @@ include 'includes/head.php';
     <div class="container page-banner-container">
       <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Flow Control and Ladle Slide Gate
         Systems</span>
-      <h2 class="page-banner-title">Bottom Purging (BP) Sets</h2>
+      <h2 class="page-banner-title">Bottom Purging (BP) System</h2>
     </div>
   </section>
 
@@ -34,8 +34,8 @@ include 'includes/head.php';
       </div>
       <div class="split__body reveal">
         <span class="eyebrow"><span class="eyebrow__bar"></span>Product Overview</span>
-        <h3>Bottom Purging (BP) Sets</h3>
-        <p class="lead">Bottom Purging (BP) Sets are integrated refractory and gas-injection systems installed at the
+        <h3>Bottom Purging (BP) System</h3>
+        <p class="lead">Bottom Purging (BP) System are integrated refractory and gas-injection systems installed at the
           bottom of steel ladles to facilitate controlled argon purging during secondary metallurgy operations. A
           typical BP Set consists of porous plugs, seating blocks, gas supply assemblies, and associated refractory
           components designed to deliver uniform gas flow into molten steel for efficient bath stirring and refining.
@@ -138,14 +138,14 @@ include 'includes/head.php';
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>
-        <h3>Request a Quote for Bottom Purging (BP) Sets</h3>
+        <h3>Request a Quote for Bottom Purging (BP) System</h3>
         <p>Consult our steelmaking refractory specialists to select the most suitable Bottom Purging Set configuration
           for your ladle capacity, refining process, steel grade, and operational requirements. Customized BP solutions
           are available for a wide range of secondary metallurgy applications.</p>
         <ul class="cta__info">
           <li><i class="fa-solid fa-phone"></i> +91 98259 57604</li>
           <li><i class="fa-solid fa-envelope"></i> <a
-              href="mailto:refectothermindia@gmail.com">refectothermindia@gmail.com</a>
+              href="mailto:info@refractotherm.com">info@refractotherm.com</a>
           </li>
         </ul>
       </div>

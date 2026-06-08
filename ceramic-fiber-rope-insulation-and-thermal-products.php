@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html lang="en">
 
 <?php
@@ -27,7 +27,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/insulation/CeramicFiberRope.jfif"
+        <img src="assets/images/resources/products/insulation/CeramicFiberRope.webp"
           alt="Ceramic Fiber Rope - Thermal Insulation" />
 
       </div>
@@ -124,7 +124,7 @@ include 'includes/head.php';
         <ul class="cta__info">
           <li><i class="fa-solid fa-phone"></i> +91 98259 57604</li>
           <li><i class="fa-solid fa-envelope"></i> <a
-              href="mailto:refectothermindia@gmail.com">refectothermindia@gmail.com</a>
+              href="mailto:info@refractotherm.com">info@refractotherm.com</a>
           </li>
         </ul>
       </div>

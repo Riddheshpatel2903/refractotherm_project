@@ -2,9 +2,9 @@
 <html lang="en">
 
 <?php
-$title = "Well Blocks Manufacturer & Supplier | Refractotherm";
-$description = "Well Blocks are critical preformed refractory components installed in steel ladles and tundishes to house, support, and secure nozzle assemblies used in...";
-$keywords = "Well Blocks, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Well Blocks Manufacturer & Supplier | Refractotherm';
+$description = 'Well Blocks are critical preformed refractory components installed in steel ladles and tundishes to house, support, and secure nozzle assemblies used in...';
+$keywords = 'Well Blocks, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -28,7 +28,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/flowcontrol/PurgingPlugSystems.webp"
+        <img src="assets/images/resources/products/flowcontrol/WellBlocks.webp"
           alt="Purging Plug Systems for Steel Ladles, Argon Gas Injection, Secondary Metallurgy Operations and Steel Refining Applications" />
 
       </div>
@@ -167,14 +167,14 @@ Suitable for ladles operating in LF, VD, VOD, RH, and other refining application
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>
-        <h3>Request a Quote for Bottom Purging (BP) Sets</h3>
+        <h3>Request a Quote for Bottom Purging (BP) System</h3>
         <p>Consult our refractory engineering specialists to select the most suitable well block design, dimensions, and
           refractory composition for your ladle, tundish, and flow-control system requirements. Customized solutions are
           available for various steelmaking and continuous casting applications.</p>
         <ul class="cta__info">
           <li><i class="fa-solid fa-phone"></i> +91 98259 57604</li>
           <li><i class="fa-solid fa-envelope"></i> <a
-              href="mailto:refectothermindia@gmail.com">refectothermindia@gmail.com</a>
+              href="mailto:info@refractotherm.com">info@refractotherm.com</a>
           </li>
         </ul>
       </div>

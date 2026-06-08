@@ -21,17 +21,17 @@
   <script>
     document.addEventListener("DOMContentLoaded", function () {
       const allCategoryProducts = [
-        { name: "Ceramic Pouring Cups", link: "ceramic-pouring-cups-foundry-and-metallurgical-consumables.html", image: "assets/images/resources/products/foundries/CeramicPouringCups.jpg" },
-        { name: "Filter Sleeves", link: "filter-sleeves-foundry-and-metallurgical-consumables.html", image: "assets/images/resources/products/foundries/FilterSleeves.jpg" },
-        { name: "Exothermic Sleeves", link: "exothermic-sleeves-foundry-and-metallurgical-consumables.html", image: "assets/images/resources/products/foundries/ExothermicSleeves.jfif" },
-        { name: "Risering Compounds", link: "risering-compounds-foundry-and-metallurgical-consumables.html", image: "assets/images/resources/products/foundries/RiseringCompounds.avif" },
-        { name: "Foundry Coatings", link: "foundry-coatings-foundry-and-metallurgical-consumables.html", image: "assets/images/resources/products/foundries/FoundryCoatings.jpg" },
-        { name: "Synthetic Slag", link: "synthetic-slag-foundry-and-metallurgical-consumables.html", image: "assets/images/resources/products/foundries/SyntheticSlag.jpg" },
-        { name: "Slag Coagulants", link: "slag-coagulants-foundry-and-metallurgical-consumables.html", image: "assets/images/resources/products/foundries/SlagCoagulants.jpg" },
+        { name: "Ceramic Pouring Cups", link: "ceramic-pouring-cups-foundry-and-metallurgical-consumables.html", image: "assets/images/resources/products/foundries/CeramicPouringCups.webp" },
+        { name: "Filter Sleeves", link: "filter-sleeves-foundry-and-metallurgical-consumables.html", image: "assets/images/resources/products/foundries/FilterSleeves.webp" },
+        { name: "Exothermic Sleeves", link: "exothermic-sleeves-foundry-and-metallurgical-consumables.html", image: "assets/images/resources/products/foundries/ExothermicSleeves.webp" },
+        { name: "Risering Compounds", link: "risering-compounds-foundry-and-metallurgical-consumables.html", image: "assets/images/resources/products/foundries/RiseringCompounds.webp" },
+        { name: "Foundry Coatings", link: "foundry-coatings-foundry-and-metallurgical-consumables.html", image: "assets/images/resources/products/foundries/FoundryCoatings.webp" },
+        { name: "Synthetic Slag", link: "synthetic-slag-foundry-and-metallurgical-consumables.html", image: "assets/images/resources/products/foundries/SyntheticSlag.webp" },
+        { name: "Slag Coagulants", link: "slag-coagulants-foundry-and-metallurgical-consumables.html", image: "assets/images/resources/products/foundries/SlagCoagulants.webp" },
         { name: "Deoxidizers", link: "deoxidizers-foundry-and-metallurgical-consumables.html", image: "assets/images/resources/products/foundries/Deoxidizers.webp" },
-        { name: "Carbon Raisers", link: "carbon-raisers-foundry-and-metallurgical-consumables.html", image: "assets/images/resources/products/foundries/CarbonRaisers.avif" },
+        { name: "Carbon Raisers", link: "carbon-raisers-foundry-and-metallurgical-consumables.html", image: "assets/images/resources/products/foundries/CarbonRaisers.webp" },
         { name: "Thermocouple Protection Tubes", link: "thermocouple-protection-tubes-foundry-and-metallurgical-consumables.html", image: "assets/images/resources/products/foundries/ThermocoupleProtectionTubes.webp" },
-        { name: "Exothermic Compounds", link: "exothermic-compounds-foundry-and-metallurgical-consumables.html", image: "assets/images/resources/CCMConsumables.jfif" }
+        { name: "Exothermic Compounds", link: "exothermic-compounds-foundry-and-metallurgical-consumables.html", image: "assets/images/resources/products/foundries/ExothermicCompounds.webp" }
       ];
 
       const wrappers = document.querySelectorAll(".custom-carousel-wrapper");

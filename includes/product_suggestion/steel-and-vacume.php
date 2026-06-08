@@ -21,11 +21,11 @@
   <script>
     document.addEventListener("DOMContentLoaded", function () {
       const allCategoryProducts = [
-        { name: "VOD Refractories", link: "vod-refractories-special-steel-and-vacuum-refractories.html", image: "assets/images/resources/products/spacial_steel/VODRefractories.jpg" },
-        { name: "VD Refractories", link: "vd-refractories-special-steel-and-vacuum-refractories.html", image: "assets/images/resources/products/spacial_steel/VDRefractories.jpg" },
-        { name: "ESR Furnace Refractories", link: "esr-furnace-refractories-special-steel-and-vacuum-refractories.html", image: "assets/images/resources/products/spacial_steel/ESRFurnaceRefractories.jpg" },
-        { name: "Special Steel Tundish Refractories", link: "special-steel-tundish-refractories-special-steel-and-vacuum-refractories.html", image: "assets/images/resources/products/spacial_steel/SpecialSteelTundishRefractories.jpg" },
-        { name: "Vacuum Degassing Refractories", link: "vacuum-degassing-refractories-special-steel-and-vacuum-refractories.html", image: "assets/images/resources/products/spacial_steel/VacuumDegassingRefractories.jfif" }
+        { name: "VOD Refractories", link: "vod-refractories-special-steel-and-vacuum-refractories.html", image: "assets/images/resources/products/spacial_steel/VODRefractories.webp" },
+        { name: "VD Refractories", link: "vd-refractories-special-steel-and-vacuum-refractories.html", image: "assets/images/resources/products/spacial_steel/VDRefractories.webp" },
+        { name: "ESR Furnace Refractories", link: "esr-furnace-refractories-special-steel-and-vacuum-refractories.html", image: "assets/images/resources/products/spacial_steel/ESRFurnaceRefractories.webp" },
+        { name: "Special Steel Tundish Refractories", link: "special-steel-tundish-refractories-special-steel-and-vacuum-refractories.html", image: "assets/images/resources/products/spacial_steel/SpecialSteelTundishRefractories.webp" },
+        { name: "Vacuum Degassing Refractories", link: "vacuum-degassing-refractories-special-steel-and-vacuum-refractories.html", image: "assets/images/resources/products/spacial_steel/VacuumDegassingRefractories.webp" }
       ];
 
       const wrappers = document.querySelectorAll(".custom-carousel-wrapper");

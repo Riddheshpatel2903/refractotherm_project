@@ -28,7 +28,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/ccm/TundishWorkingLinings.jpeg"
+        <img src="assets/images/resources/products/ccm/TundishSprayLinings.webp"
           alt="Tundish Spray Linings for Continuous Casting, Steelmaking Refractory Protection and Thermal Insulation Applications" />
 
       </div>
@@ -165,7 +165,7 @@ include 'includes/head.php';
         <ul class="cta__info">
           <li><i class="fa-solid fa-phone"></i> +91 98259 57604</li>
           <li><i class="fa-solid fa-envelope"></i> <a
-              href="mailto:refectothermindia@gmail.com">refectothermindia@gmail.com</a>
+              href="mailto:info@refractotherm.com">info@refractotherm.com</a>
           </li>
         </ul>
       </div>

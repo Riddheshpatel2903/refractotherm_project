@@ -1,0 +1,9 @@
+RewriteEngine On
+RewriteBase /refractotherm/
+
+# If requested file or directory actually exists, serve it directly
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Otherwise route everything to index.php
+RewriteRule ^(.*)$ index.php?uri=$1 [QSA,L]
