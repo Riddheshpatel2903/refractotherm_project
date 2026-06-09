@@ -1,5 +1,6 @@
 RewriteEngine On
-RewriteBase /refractotherm/
+# RewriteBase is automatically determined relative to the directory containing .htaccess
+# RewriteBase /refractotherm/
 
 # If requested file or directory actually exists, serve it directly
 RewriteCond %{REQUEST_FILENAME} !-f
