@@ -40,7 +40,7 @@
         { name: "Porous Plugs", link: "porous-plugs-flow-control-and-ladle-slide-gate-systems.html", image: "assets/images/resources/products/flowcontrol/PorousPlugs.webp" },
         { name: "Bottom Purging (BP) System", link: "bottom-purging-bp-sets-flow-control-and-ladle-slide-gate-systems.html", image: "assets/images/resources/products/flowcontrol/BottomPurging(BP)Sets.webp" },
         // { name: "Purging Plug Systems", link: "purging-plug-systems-flow-control-and-ladle-slide-gate-systems.html", image: "assets/images/resources/products/flowcontrol/PurgingPlugSystems.webp" },
-        // { name: "Well Blocks", link: "well-blocks-flow-control-and-ladle-slide-gate-systems.html", image: "assets/images/resources/products/flowcontrol/WellBlocks.webp" },
+        { name: "Well Blocks", link: "well-blocks-flow-control-and-ladle-slide-gate-systems.html", image: "assets/images/resources/products/flowcontrol/WellBlocks.webp" },
         { name: "Seating Blocks", link: "seating-blocks-flow-control-and-ladle-slide-gate-systems.html", image: "assets/images/resources/products/flowcontrol/SeatingBlocks.webp" },
         // { name: "SEN Seating Blocks", link: "sen-seating-blocks-flow-control-and-ladle-slide-gate-systems.html", image: "assets/images/resources/products/flowcontrol/SENSeatingBlocks.webp" },
         { name: "Flow Control Systems", link: "flow-control-systems-flow-control-and-ladle-slide-gate-systems.html", image: "assets/images/resources/products/flowcontrol/FlowControlSystems.webp" }

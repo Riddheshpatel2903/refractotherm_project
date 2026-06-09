@@ -2,7 +2,7 @@
 <html lang="en">
 
 <?php
-$title = 'Refractotherm � Advanced Refractory & Thermal Engineering Solutions';
+$title = 'Refractotherm | Advanced Refractory & Thermal Engineering Solutions';
 $description = 'Refractotherm engineers high-performance refractory products, flow control systems and thermal solutions for global steel, cement, foundry and power industries.';
 include 'includes/head.php';
 ?>
@@ -23,10 +23,11 @@ include 'includes/head.php';
     </div>
     <div class="hero__overlay"></div>
     <div class="container hero__content">
-      <span class="eyebrow"><span class="eyebrow__bar"></span>Global Partner for Advanced Refractory, Metallurgical & Thermal Engineering Solutions</span>
-      <h2>
+      <span class="eyebrow"><span class="eyebrow__bar"></span>Pioneering Advanced Refractory & Thermal Solutions</span>
+      <h2>Global Partner for Advanced Refractory, Metallurgical & Thermal Engineering Solutions</h2>
+      <p class="lead">
         Delivering Reliable Refractory, Metallurgical & Thermal Solutions to Steel, Foundry and Process Industries Worldwide
-      </h2>
+      </p>
       <div class="hero__actions">
         <a href="#products" class="btn--hero-primary">Explore Products <i class="fa-solid fa-arrow-right"></i></a>
         <a href="#contact" class="btn--hero-outline">Contact Us</a>
@@ -658,7 +659,7 @@ include 'includes/head.php';
         </p>
         <ul class="cta__info">
           <li>
-            <i class="fa-solid fa-location-dot"></i> FF-71, Vraj Real Estate, Near Telephone Exchange Road, Bopal, Ahmedabad � 380058, Gujarat, India
+            <i class="fa-solid fa-location-dot"></i> FF-71, Vraj Real Estate, Near Telephone Exchange Road, Bopal, Ahmedabad | 380058, Gujarat, India
           </li>
           <li><i class="fa-solid fa-phone"></i> +91 98259 57604</li>
           <li>

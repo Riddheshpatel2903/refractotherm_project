@@ -38,7 +38,7 @@
       { name: "Delta Sections", link: "delta-sections-steelmaking-refractories-lrf-eaf-and-ladle-applications.html", image: "assets/images/resources/products/steelmaking/DeltaSections.webp" },
       // { name: "Delta Castables", link: "delta-castables-steelmaking-refractories-lrf-eaf-and-ladle-applications.html", image: "assets/images/resources/products/steelmaking/DeltaCastables.webp" },
       { name: "Burner Blocks", link: "burner-blocks-steelmaking-refractories-lrf-eaf-and-ladle-applications.html", image: "assets/images/resources/products/aod/BurnerBlocks.webp" },
-      { name: "EBT Filler Sand", link: "ebt-filler-sand-steelmaking-refractories-lrf-eaf-and-ladle-applications.html", image: "assets/images/resources/products/steelmaking/EBTFillerSand.webp" },
+      // { name: "EBT Filler Sand", link: "ebt-filler-sand-steelmaking-refractories-lrf-eaf-and-ladle-applications.html", image: "assets/images/resources/products/steelmaking/EBTFillerSand.webp" },
       { name: "Refractory Gunning Mix", link: "refractory-gunning-mix-steelmaking-refractories-lrf-eaf-and-ladle-applications.html", image: "assets/images/resources/products/steelmaking/RefractoryGunningMix.webp" }
     ];
 

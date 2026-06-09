@@ -2,9 +2,9 @@
 <html lang="en">
 
 <?php
-$title = "Furnace Safety Lining Materials Manufacturer & Supplier | Refractotherm";
-$description = "Furnace Safety Lining Materials act as the critical backup layer between the working lining and the induction coil. They are designed to prevent catastr...";
-$keywords = "Furnace Safety Lining Materials, Induction Furnace Refractories Blocks And Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Safety Lining Materials Manufacturer & Supplier | Refractotherm';
+$description = 'Safety Lining Materials act as the critical backup layer between the working lining and the induction coil. They are designed to prevent catastr...';
+$keywords = 'Safety Lining Materials, Induction Furnace Refractories Blocks And Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -20,7 +20,7 @@ include 'includes/head.php';
     <div class="container page-banner-container">
       <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>INDUCTION FURNACE REFRACTORIES, BLOCKS &
         CONSUMABLES</span>
-      <h2 class="page-banner-title">Furnace Safety Lining Materials</h2>
+      <h2 class="page-banner-title">Safety Lining Materials</h2>
     </div>
   </section>
 
@@ -29,13 +29,13 @@ include 'includes/head.php';
     <div class="container split">
       <div class="split__media reveal">
         <img src="assets/images/resources/products/induction_furnace/FurnaceSafetyLiningMaterials.webp"
-          alt="Furnace Safety Lining Materials for High Temperature Industrial Applications" />
+          alt="Safety Lining Materials for High Temperature Industrial Applications" />
 
       </div>
       <div class="split__body reveal">
         <span class="eyebrow"><span class="eyebrow__bar"></span>Product Overview</span>
-        <h3>Furnace Safety Lining Materials</h3>
-        <p class="lead">Furnace Safety Lining Materials act as the critical backup layer between the working lining and
+        <h3>Safety Lining Materials</h3>
+        <p class="lead">Safety Lining Materials act as the critical backup layer between the working lining and
           the induction coil. They are designed to prevent catastrophic metal breakouts and protect the coil in the
           event of primary lining failure.</p>
         <p>Formulated for high refractoriness and excellent insulating properties, these materials ensure that any
@@ -124,7 +124,7 @@ include 'includes/head.php';
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>
-        <h3>Request a Quote for Furnace Safety Lining Materials </h3>
+        <h3>Request a Quote for Safety Lining Materials </h3>
         <p>Connect with our refractory specialists to select the ideal Alumina Crucible for your laboratory,
           metallurgical, or industrial application. Custom sizes and high-purity grades are available based on your
           requirements.</p>
@@ -137,7 +137,7 @@ include 'includes/head.php';
       </div>
       <form class="cta__form"
         onsubmit="event.preventDefault(); this.querySelector('button').textContent = 'Submitted âœ“';">
-        <h3>Request Furnace Safety Lining Materials Quote</h3>
+        <h3>Request Safety Lining Materials Quote</h3>
         <div class="row">
           <input type="text" class="inputsections" placeholder="Full Name" required />
           <input type="text" class="inputsections" placeholder="Company" required />

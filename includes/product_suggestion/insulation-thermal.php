@@ -25,13 +25,13 @@
         { name: "Ceramic Fiber Blanket", link: "ceramic-fiber-blanket-insulation-and-thermal-products.php", image: "assets/images/resources/products/insulation/CeramicFiberBlanket.webp" },
         { name: "Ceramic Fiber Board", link: "ceramic-fiber-board-insulation-and-thermal-products.php", image: "assets/images/resources/products/insulation/CeramicFiberBoard.webp" },
         { name: "Ceramic Fiber Module", link: "ceramic-fiber-module-insulation-and-thermal-products.php", image: "assets/images/resources/products/insulation/CeramicFiberModule.webp" },
-        { name: "Ceramic Fiber Paper", link: "ceramic-fiber-paper-insulation-and-thermal-products.php", image: "assets/images/resources/products/insulation/CeramicFiberPaper.webp" },
+        // { name: "Ceramic Fiber Paper", link: "ceramic-fiber-paper-insulation-and-thermal-products.php", image: "assets/images/resources/products/insulation/CeramicFiberPaper.webp" },
         { name: "Ceramic Fiber Rope", link: "ceramic-fiber-rope-insulation-and-thermal-products.php", image: "assets/images/resources/products/insulation/CeramicFiberRope.webp" },
-        { name: "Mica Sheets", link: "mica-sheets-insulation-and-thermal-products.php", image: "assets/images/resources/products/insulation/micasheets.webp" },
+        // { name: "Mica Sheets", link: "mica-sheets-insulation-and-thermal-products.php", image: "assets/images/resources/products/insulation/micasheets.webp" },
         { name: "Calcium Silicate Boards", link: "calcium-silicate-boards-insulation-and-thermal-products.php", image: "assets/images/resources/products/insulation/CalciumSilicateBoards.webp" },
         { name: "Insulation Bricks", link: "insulation-bricks-insulation-and-thermal-products.php", image: "assets/images/resources/products/insulation/InsulationBricks.webp" },
         { name: "High Temperature Sealants", link: "high-temperature-sealants-insulation-and-thermal-products.php", image: "assets/images/resources/products/insulation/HighTemperatureSealants.webp" },
-        { name: "Thermal Insulation Materials", link: "thermal-insulation-materials-insulation-and-thermal-products.php", image: "assets/images/resources/products/insulation/ThermalInsulationMaterials.webp" }
+        // { name: "Thermal Insulation Materials", link: "thermal-insulation-materials-insulation-and-thermal-products.php", image: "assets/images/resources/products/insulation/ThermalInsulationMaterials.webp" }
       ];
 
       const wrappers = document.querySelectorAll(".custom-carousel-wrapper");

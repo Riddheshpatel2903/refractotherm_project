@@ -450,6 +450,46 @@ document.addEventListener("DOMContentLoaded", function () {
     updateSlider();
   });
 
+  // Swipe Support on Mobile/Touch Screens
+  let startX = 0;
+  let isSwiping = false;
+
+  carousel.addEventListener("touchstart", (e) => {
+    startX = e.touches[0].clientX;
+    isSwiping = true;
+  }, { passive: true });
+
+  carousel.addEventListener("touchmove", (e) => {
+    if (!isSwiping) return;
+    const currentX = e.touches[0].clientX;
+    const diff = startX - currentX;
+
+    // Trigger slide shift after 50px drag
+    if (Math.abs(diff) > 50) {
+      const containerWidth = carousel.clientWidth;
+      const itemWidth = getItemWidth();
+      const visibleItemsCount = Math.floor(containerWidth / (itemWidth + gap)) || 1;
+      const maxIndex = Math.max(0, total - visibleItemsCount);
+
+      if (diff > 0) {
+        if (currentIndex < maxIndex) {
+          currentIndex++;
+          updateSlider();
+        }
+      } else {
+        if (currentIndex > 0) {
+          currentIndex--;
+          updateSlider();
+        }
+      }
+      isSwiping = false; // Reset to prevent rapid double-shifting
+    }
+  }, { passive: true });
+
+  carousel.addEventListener("touchend", () => {
+    isSwiping = false;
+  }, { passive: true });
+
   window.addEventListener("resize", updateSlider);
 
   // Initialize

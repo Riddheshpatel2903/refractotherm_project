@@ -3,6 +3,95 @@ if (!isset($activePage)) {
   $activePage = '';
 }
 ?>
+
+<!-- PRELOADER OVERLAY -->
+<style>
+.preloader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #0d1424; /* Premium dark blue matching theme */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 999999;
+  transition: opacity 0.4s ease, visibility 0.4s ease;
+}
+
+.preloader-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+  text-align: center;
+}
+
+.preloader-logo {
+  max-width: 220px;
+  height: auto;
+  filter: drop-shadow(0 0 10px rgba(228, 87, 46, 0.2));
+  animation: preloader-pulse 2s infinite ease-in-out;
+}
+
+.preloader-spinner {
+  width: 45px;
+  height: 45px;
+  border: 3px solid rgba(228, 87, 46, 0.15);
+  border-top-color: #e4572e; /* brand orange */
+  border-radius: 50%;
+  animation: preloader-spin 1s infinite linear;
+}
+
+@keyframes preloader-spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+@keyframes preloader-pulse {
+  0%, 100% { transform: scale(1); opacity: 0.9; }
+  50% { transform: scale(1.05); opacity: 1; }
+}
+
+.preloader.fade-out {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+</style>
+
+<div id="preloader" class="preloader">
+  <div class="preloader-content">
+    <img src="assets/images/resources/logo.png" alt="Refractotherm Logo" class="preloader-logo" />
+    <div class="preloader-spinner"></div>
+  </div>
+</div>
+
+<script>
+  (function() {
+    var preloader = document.getElementById('preloader');
+    
+    function hidePreloader() {
+      if (preloader && !preloader.classList.contains('fade-out')) {
+        preloader.classList.add('fade-out');
+        document.body.style.overflow = '';
+      }
+    }
+    
+    // Block scrolling while preloader is active
+    document.body.style.overflow = 'hidden';
+
+    // Dismiss preloader on load
+    window.addEventListener('load', function() {
+      setTimeout(hidePreloader, 300);
+    });
+
+    // Safety fallback: dismiss after 5 seconds in case some image or font hangs
+    setTimeout(hidePreloader, 5000);
+  })();
+</script>
+
 <!-- NAVBAR -->
 <header class="nav" id="nav">
   <div class="container nav__inner">
@@ -39,14 +128,14 @@ if (!isset($activePage)) {
                     <div class="mega__subproducts-inner">
                       <a href="conventional-castables-monolithic-refractories-and-castables">Conventional
                         Castables</a>
-                      <a href="low-cement-castables-lcc-monolithic-refactories-and-castables">Low Cement
-                        Castables
-                        (LCC)</a>
+                         <a href="nano-bonded-castables-monolithic-refractories-and-castables">Nano Bonded
+                        Castables</a>
                       <a href="ultra-low-cement-castables-ulcc-monolithic-refractories-and-castables">Ultra Low
                         Cement
-                        Castables (ULCC)</a>
-                      <a href="nano-bonded-castables-monolithic-refractories-and-castables">Nano Bonded
-                        Castables</a>
+                        Castables (ULCC)</a>       
+                       <a href="low-cement-castables-lcc-monolithic-refactories-and-castables">Low Cement
+                        Castables
+                        (LCC)</a>
                       <a href="self-flow-castables-monolithic-refractories-product">Self Flow Castables</a>
                       <a href="alumina-spinel-castables-monolithic-refractories-and-castables">Alumina Spinel
                         Castables</a>
@@ -139,20 +228,22 @@ if (!isset($activePage)) {
                   <h4 class="mega__category-title">Continuous Casting Machine (CCM) Consumables</h4>
                   <div class="mega__subproducts">
                     <div class="mega__subproducts-inner">
+                      <a href="monoblock-stoppers-continuous-casting-machine-ccm-consumables">Monoblock
+                        Stoppers</a>
+                      <a href="tundish-well-blocks-continuous-casting-machine-ccm-consumables">Tundish
+                        Well Blocks</a>
                       <a href="ladle-to-tundish-shrouds-lts-continuous-casting-machine-ccm-consumables">Ladle
                         to Tundish Shrouds (LTS)</a> <a
                         href="submerged-entry-nozzles-sen-continuous-casting-machine-ccm-consumables">Submerged
                         Entry Nozzles (SEN)</a>
                       <!-- <a href="carbon-free-sen-continuous-casting-machine-ccm-consumables">Carbon Free SEN</a> -->
                       <!-- <a href="sen-well-blocks-continuous-casting-machine-ccm-consumables">SEN Well Blocks</a> -->
-                      <a href="monoblock-stoppers-continuous-casting-machine-ccm-consumables">Monoblock
-                        Stoppers</a>
+
                       <!-- <a href="stopper-head-bricks-continuous-casting-machine-ccm-consumables">Stopper Head
                         Bricks</a> -->
                       <!-- <a href="graphite-stopper-rods-continuous-casting-machine-ccm-consumables">Graphite Stopper
                         Rods</a>  -->
-                        <a href="tundish-well-blocks-continuous-casting-machine-ccm-consumables">Tundish
-                        Well Blocks</a>
+                        
 
                       <!-- <a href="tundish-dam-and-weirs-continuous-casting-machine-ccm-consumables">Tundish Dam &
                         Weirs</a> -->
@@ -233,7 +324,7 @@ if (!isset($activePage)) {
                         href="furnace-roof-castables-induction-furnace-refractories-blocks-and-consumables">Furnace
                         Roof Castables</a> -->
 
-                      <a href="top-cast-blocks-induction-furnace-refractories-blocks-and-consumables">Top Cast
+                      <a href="furnace-top-blocks-induction-furnace-refractories-blocks-and-consumables">Furnace Top
                         Blocks</a>
                      <!--  <a href="bottom-cast-blocks-induction-furnace-refractories-blocks-and-consumables">Bottom
                         Cast Blocks</a> -->
@@ -291,9 +382,7 @@ if (!isset($activePage)) {
                     <div class="mega__subproducts-inner">
                       <a href="magnesia-carbon-bricks-aod-refractories-argon-oxygen-decarburization">Magnesia
                         Carbon Bricks</a>
-                      <a
-                        href="alumina-magnesia-carbon-bricks-steelmaking-refractories-lrf-eaf-and-ladle-applications">Alumina
-                        Magnesia Carbon Bricks</a>
+                      
                       <!-- <a href="magnesia-spinel-bricks-steelmaking-refractories-lrf-eaf-and-ladle-applications">Magnesia
                         Spinel Bricks</a> -->
                       <a href="slag-line-refractories-aod-refractories-argon-oxygen-decarburization">Slag
@@ -316,16 +405,19 @@ if (!isset($activePage)) {
                         Side Wall Bricks</a> -->
                       <a href="ebt-refractories-steelmaking-refractories-lrf-eaf-and-ladle-applications">EBT
                         Refractories</a>
-                      <!-- <a href="delta-sections-steelmaking-refractories-lrf-eaf-and-ladle-applications">Delta
-                        Sections</a> -->
-                      <a href="delta-castables-steelmaking-refractories-lrf-eaf-and-ladle-applications">Delta
-                        Castables</a>
+                      <a href="delta-sections-steelmaking-refractories-lrf-eaf-and-ladle-applications">Delta
+                        Sections</a>
+                      <!-- <a href="delta-castables-steelmaking-refractories-lrf-eaf-and-ladle-applications">Delta
+                        Castables</a> -->
                       <a href="burner-blocks-aod-refractories-argon-oxygen-decarburization">Burner
                         Blocks</a>
                       <!-- <a href="ebt-filler-sand-steelmaking-refractories-lrf-eaf-and-ladle-applications">EBT Filler
                         Sand</a> -->
                       <a href="refractory-gunning-mix-steelmaking-refractories-lrf-eaf-and-ladle-applications">Refractory
                         Gunning Mix</a>
+                        <a
+                        href="alumina-magnesia-carbon-bricks-steelmaking-refractories-lrf-eaf-and-ladle-applications">Alumina
+                        Magnesia Carbon Bricks</a>
                     </div>
                   </div>
                 </div>
@@ -365,8 +457,6 @@ if (!isset($activePage)) {
                   <h4 class="mega__category-title">Blast Furnace & DRI Refractories</h4>
                   <div class="mega__subproducts">
                     <div class="mega__subproducts-inner">
-                      <a href="blast-furnace-trough-castables-blast-furnace-and-dri-refractories">Blast Furnace
-                        Trough Castables</a>
                       <a href="runner-castables-blast-furnace-and-dri-refractories">Runner Castables</a>
                       <a href="iron-runner-bricks-blast-furnace-and-dri-refractories">Iron Runner Bricks</a>
                       <a href="tap-hole-clay-blast-furnace-and-dri-refractories">Tap Hole Clay</a>
@@ -385,6 +475,8 @@ if (!isset($activePage)) {
                       <a href="cooler-castables-blast-furnace-and-dri-refractories">Cooler Castables</a>
                       <a href="kiln-burner-pipes-blast-furnace-and-dri-refractories">Kiln Burner Pipes</a>
                       <a href="launder-refractories-blast-furnace-and-dri-refractories">Launder Refractories</a>
+                      <a href="blast-furnace-trough-castables-blast-furnace-and-dri-refractories">Blast Furnace
+                        Trough Castables</a>
                     </div>
                   </div>
                 </div>

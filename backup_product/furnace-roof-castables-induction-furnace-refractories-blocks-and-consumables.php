@@ -2,9 +2,9 @@
 <html lang="en">
 
 <?php
-$title = "Furnace Roof Castables Manufacturer & Supplier | Refractotherm";
-$description = "Furnace Roof Castables are specially formulated monolithic refractory materials designed for lining and protecting the roof sections of industrial furna...";
-$keywords = "Furnace Roof Castables, Induction Furnace Refractories Blocks And Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Roof Castables Manufacturer & Supplier | Refractotherm';
+$description = 'Roof Castables are specially formulated monolithic refractory materials designed for lining and protecting the roof sections of industrial furna...';
+$keywords = 'Roof Castables, Induction Furnace Refractories Blocks And Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -20,7 +20,7 @@ include 'includes/head.php';
     <div class="container page-banner-container">
       <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>INDUCTION FURNACE REFRACTORIES, BLOCKS &
         CONSUMABLES</span>
-      <h2 class="page-banner-title">Furnace Roof Castables</h2>
+      <h2 class="page-banner-title">Roof Castables</h2>
     </div>
   </section>
 
@@ -29,19 +29,19 @@ include 'includes/head.php';
     <div class="container split">
       <div class="split__media reveal">
         <img src=""
-          alt="Furnace Roof Castables for Steel Plants, Foundries and High Temperature Industrial Furnace Applications" />
+          alt="Roof Castables for Steel Plants, Foundries and High Temperature Industrial Furnace Applications" />
 
       </div>
       <div class="split__body reveal">
         <span class="eyebrow"><span class="eyebrow__bar"></span>Product Overview</span>
-        <h3>Furnace Roof Castables</h3>
-        <p class="lead">Furnace Roof Castables are specially formulated monolithic refractory materials designed for
+        <h3>Roof Castables</h3>
+        <p class="lead">Roof Castables are specially formulated monolithic refractory materials designed for
           lining and protecting the roof sections of industrial furnaces. These castables are engineered to withstand
           extreme temperatures, thermal cycling, flame impingement, and mechanical stresses while maintaining structural
           integrity and thermal efficiency throughout furnace operations.</p>
         <p>The roof area of a furnace is continuously exposed to intense heat, rapid temperature fluctuations, and
           aggressive process conditions. Traditional refractory systems may suffer from cracking, spalling, or premature
-          wear in these demanding environments. Furnace Roof Castables provide a seamless refractory lining that offers
+          wear in these demanding environments. Roof Castables provide a seamless refractory lining that offers
           superior thermal shock resistance, excellent hot strength, and reliable durability. Their monolithic
           construction helps reduce joints and weak points, resulting in improved furnace performance and longer service
           life.
@@ -130,7 +130,7 @@ include 'includes/head.php';
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>
-        <h3>Request a Quote for Furnace Roof Castables </h3>
+        <h3>Request a Quote for Roof Castables </h3>
         <p>Connect with our refractory specialists to select the ideal Furnace Roof Castable for your operating
           temperature, furnace design, and production requirements. Customized refractory formulations are available to
           maximize durability, thermal performance, and service life.</p>
@@ -143,7 +143,7 @@ include 'includes/head.php';
       </div>
       <form class="cta__form"
         onsubmit="event.preventDefault(); this.querySelector('button').textContent = 'Submitted âœ“';">
-        <h3>Request Furnace Roof Castables Quote</h3>
+        <h3>Request Roof Castables Quote</h3>
         <div class="row">
           <input type="text" class="inputsections" placeholder="Full Name" required />
           <input type="text" class="inputsections" placeholder="Company" required />

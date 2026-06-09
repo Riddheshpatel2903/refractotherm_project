@@ -36,7 +36,7 @@ const productData = [
     },
     {
         category: "FLOW CONTROL & LADLE SLIDE GATE SYSTEMS",
-        image: "assets/images/resources/FlowControlSystems.jfif",
+        image: "assets/images/resources/products/FlowControlSystems.webp",
         items: [
             { name: "Slide Gate Plates", image: "assets/images/resources/products/flowcontrol/SlideGatePlates.webp" },
             // { name: "Slide Gate Sand", image: "assets/images/resources/products/flowcontrol/SlideGateSand.webp" },
@@ -64,7 +64,7 @@ const productData = [
     },
     {
         category: "CONTINUOUS CASTING MACHINE (CCM) CONSUMABLES",
-        image: "assets/images/resources/CCMConsumables.jfif",
+        image: "assets/images/resources/products/CCMConsumables.webp",
         items: [
             { name: "Ladle to Tundish Shrouds (LTS)", image: "assets/images/resources/products/ccm/LadletoTundishShrouds(LTS).webp" },
             { name: "Submerged Entry Nozzles (SEN)", image: "assets/images/resources/products/ccm/SubmergedEntryNozzles(SEN).webp" },
@@ -100,10 +100,10 @@ const productData = [
     },
     {
         category: "INDUCTION FURNACE REFRACTORIES, BLOCKS & CONSUMABLES",
-        image: "assets/images/resources/FurnaceProducts.avif",
+        image: "assets/images/resources/products/inductionmeltingfurnaces.webp",
         items: [
             { name: "Furnace Bottom Blocks", image: "assets/images/resources/products/induction_furnace/FurnaceBottomBlocks.webp" },
-            { name: "Furnace Roof Castables", image: "assets/images/resources/products/induction_furnace/FurnaceRoofCastables.webp" },
+            { name: "Roof Castables", image: "assets/images/resources/products/induction_furnace/FurnaceRoofCastables.webp" },
             { name: "Top Cast Blocks", image: "assets/images/resources/products/induction_furnace/TopCastBlocks.webp" },
             { name: "Bottom Cast Blocks", image: "assets/images/resources/products/induction_furnace/BottomCastBlocks.webp" },
             { name: "Rim Blocks", image: "assets/images/resources/products/induction_furnace/RimBlocks.webp" },
@@ -123,14 +123,14 @@ const productData = [
             // { name: "RR Coil Coat", image: "assets/images/resources/products/induction_furnace/RRCoilCoat.webp" },
             // { name: "Refractory Sleeves", image: "assets/images/resources/products/induction_furnace/RefractorySleeves.webp" },
             { name: "Furnace Lining Materials", image: "assets/images/resources/products/induction_furnace/FurnaceLiningMaterials.webp" },
-            { name: "Furnace Safety Lining Materials", image: "assets/images/resources/products/induction_furnace/FurnaceSafetyLiningMaterials.webp" },
+            { name: "Safety Lining Materials", image: "assets/images/resources/products/induction_furnace/FurnaceSafetyLiningMaterials.webp" },
             // { name: "Backup Lining Materials", image: "assets/images/resources/products/induction_furnace/BackupLiningMaterials.webp" },
             { name: "Repair Mixes", image: "assets/images/resources/products/induction_furnace/FurnaceRepairMixes.webp" }
         ]
     },
     {
         category: "STEELMAKING REFRACTORIES (LRF, EAF & LADLE APPLICATIONS)",
-        image: "assets/images/resources/SteelmakingRefractories.jpg",
+        image: "assets/images/resources/products/SteelmakingRefractories.webp",
         items: [
             { name: "Magnesia Carbon Bricks", image: "assets/images/resources/products/steelmaking/MagnesiaCarbonBricks.webp" },
             { name: "Alumina Magnesia Carbon Bricks", image: "assets/images/resources/products/steelmaking/AluminaMagnesiaCarbonBricks.webp" },
@@ -154,7 +154,7 @@ const productData = [
     },
     {
         category: "AOD REFRACTORIES (ARGON OXYGEN DECARBURIZATION)",
-        image: "assets/images/resources/SteelmakingRefractories.jpg",
+        image: "assets/images/resources/products/aod/SafetyLiningMaterials.webp",
         items: [
             { name: "AOD Converter Bricks", image: "assets/images/resources/products/aod/AODConverterBricks.webp" },
             { name: "Magnesia Carbon Bricks", image: "assets/images/resources/products/aod/MagnesiaCarbonBricks.webp" },
@@ -172,7 +172,7 @@ const productData = [
     },
     {
         category: "BLAST FURNACE & DRI REFRACTORIES",
-        image: "assets/images/resources/FurnaceProducts.avif",
+        image: "assets/images/resources/products/BlastFurnace.webp",
         items: [
             { name: "Blast Furnace Trough Castables", image: "assets/images/resources/products/blast_furnace/BlastFurnaceTroughCastables.webp" },
             { name: "Runner Castables", image: "assets/images/resources/products/blast_furnace/RunnerCastables.webp" },
@@ -192,7 +192,7 @@ const productData = [
     },
     {
         category: "PRE-CAST SHAPES & REFRACTORY BRICKS",
-        image: "assets/images/resources/Monolithic.webp",
+        image: "assets/images/resources/products/precast_shape/CustomizedRefractoryShapes.webp",
         items: [
             // { name: "Pre-Cast Pre-Fired Blocks", image: "assets/images/resources/products/precast_shape/precastprefiredblocks.webp" },
             // { name: "Walking Beam Furnace Blocks", image: "assets/images/resources/products/precast_shape/walkingbeam.webp" },
@@ -216,7 +216,7 @@ const productData = [
     },
     {
         category: "FOUNDRY & METALLURGICAL CONSUMABLES",
-        image: "assets/images/resources/products/foundries/CCMConsumables.webp",
+        image: "assets/images/resources/products/foundry.webp",
         items: [
             { name: "Ceramic Pouring Cups", image: "assets/images/resources/products/foundries/CeramicPouringCups.webp" },
             // { name: "Filter Sleeves", image: "assets/images/resources/products/foundries/FilterSleeves.webp" },
@@ -233,7 +233,7 @@ const productData = [
     },
     {
         category: "INSULATION & THERMAL PRODUCTS",
-        image: "assets/images/resources/products/insulation/ThermalInsulation.webp",
+        image: "assets/images/resources/products/insulation/CeramicFiberBlanket.webp",
         items: [
             { name: "Ceramic Fiber Blanket", image: "assets/images/resources/products/insulation/CeramicFiberBlanket.webp" },
             { name: "Ceramic Fiber Board", image: "assets/images/resources/products/insulation/CeramicFiberBoard.webp" },
@@ -249,7 +249,7 @@ const productData = [
     },
     {
         category: "SPECIAL STEEL & VACUUM REFRACTORIES",
-        image: "assets/images/resources/products/spacial_steel/SpecialSteel&VacuumRefractories.webp",
+        image: "assets/images/resources/products/SteelmakingRefractories.webp",
         items: [
             { name: "VOD Refractories", image: "assets/images/resources/products/spacial_steel/VODRefractories.webp" },
             { name: "VD Refractories", image: "assets/images/resources/products/spacial_steel/VDRefractories.webp" },
@@ -260,7 +260,7 @@ const productData = [
     },
     {
         category: "SPECIAL INDUSTRY REFRACTORIES",
-        image: "assets/images/resources/FurnaceProducts.avif",
+        image: "assets/images/resources/products/specialindustry.webp",
         items: [
             { name: "Calcination Kiln Refractories", image: "assets/images/resources/products/spacial_industries/CalcinationKilnRefractories.webp" },
             { name: "Lime Kiln Refractories", image: "assets/images/resources/products/spacial_industries/LimeKilnRefractories.webp" },
