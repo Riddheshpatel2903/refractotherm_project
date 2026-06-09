@@ -1,0 +1,235 @@
+<!doctype html>
+<html lang="en">
+
+<?php
+$title = 'AOD Tuyeres | Gas Injection Solutions | Refractotherm';
+$description = 'High-performance AOD Tuyeres engineered for superior gas injection, maximum process efficiency, and long service life in AOD converters.';
+$keywords = 'AOD Tuyeres, Gas Injection, AOD Converter, Stainless Steel Tuyeres, Argon Oxygen Decarburization, Refractotherm';
+include 'includes/head.php';
+?>
+
+<body>
+  <?php
+  $activePage = 'specialized-equipment';
+  include 'includes/navbar.php';
+  ?>
+
+  <!-- BANNER -->
+  <section class="section section--dark page-banner-section">
+    <div class="page-banner-bg" style="background-image: url('assets/images/resources/products/aod_tuyeres.png'); opacity: 0.25;"></div>
+    <div class="container page-banner-container">
+      <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Specialized Equipment</span>
+      <h2 class="page-banner-title">AOD Tuyeres</h2>
+      <p class="lead page-banner-lead">High-Performance Gas Injection Solutions for AOD Converters</p>
+    </div>
+  </section>
+
+  <!-- PRODUCT OVERVIEW -->
+  <section class="section">
+    <div class="container split">
+      <div class="split__media reveal">
+        <img src="assets/images/resources/products/aod_tuyeres.png" alt="AOD Tuyeres Gas Injection Nozzles" />
+      </div>
+      <div class="split__body reveal">
+        <span class="eyebrow"><span class="eyebrow__bar"></span>Product Overview</span>
+        <h3>Gas Injection Process Metallurgy</h3>
+        <p class="lead">Our AOD Tuyeres are engineered for superior performance and long service life in Argon Oxygen Decarburization (AOD) vessels.</p>
+        <p>Designed with precision manufacturing and high-quality materials, they ensure reliable gas injection, operational stability, and maximum process metallurgy efficiency.</p>
+        <ul class="check overview-check-list">
+          <li class="overview-check-item"><i class="fa-solid fa-check overview-check-icon"></i> High Coaxiality Accuracy via Automated Pipe Assembly</li>
+          <li class="overview-check-item"><i class="fa-solid fa-check overview-check-icon"></i> Custom Lengths Based on Refractory Wall Thickness</li>
+          <li class="overview-check-item"><i class="fa-solid fa-check overview-check-icon"></i> Leak-Proof TIG Seal-Welded Connections</li>
+          <li class="overview-check-item"><i class="fa-solid fa-check overview-check-icon"></i> High-Grade Stainless Steel &amp; Copper Lances</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- KEY FEATURES -->
+  <section class="section section--alt">
+    <div class="container">
+      <div class="section__head section__head--center">
+        <div>
+          <span class="eyebrow"><span class="eyebrow__bar"></span>Engineering Design</span>
+          <h3>Key Features</h3>
+        </div>
+      </div>
+      
+      <div class="careers-timeline" style="margin-top: 45px;">
+        <div class="careers-timeline-item reveal">
+          <div class="careers-timeline-body">
+            <h4 class="careers-timeline-title">Premium Materials</h4>
+            <p class="careers-timeline-desc">Outer pipe manufactured from high-grade stainless steel (AISI 304L/316L), similar to materials used in heat exchanger tubing, for enhanced durability and corrosion resistance.</p>
+          </div>
+        </div>
+        <div class="careers-timeline-item reveal">
+          <div class="careers-timeline-body">
+            <h4 class="careers-timeline-title">TIG Seal-Welded Connection</h4>
+            <p class="careers-timeline-desc">Frictionless, robust TIG seal-welded connections between the outer pipe and coupling ensure superior joint integrity and leak-proof performance under severe process pressures.</p>
+          </div>
+        </div>
+        <div class="careers-timeline-item reveal">
+          <div class="careers-timeline-body">
+            <h4 class="careers-timeline-title">Customized Configuration</h4>
+            <p class="careers-timeline-desc">Manufactured according to customer refractory wall thickness specifications, eliminating the need for on-site trimming or modifications.</p>
+          </div>
+        </div>
+        <div class="careers-timeline-item reveal">
+          <div class="careers-timeline-body">
+            <h4 class="careers-timeline-title">High Coaxiality Accuracy</h4>
+            <p class="careers-timeline-desc">Precision pipe assembly achieved through automated manufacturing systems guarantees consistent product quality and predictable gas flow profiles.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- TECHNICAL SPECIFICATIONS TABLE -->
+  <section class="section">
+    <div class="container">
+      <div class="section__head section__head--center">
+        <div>
+          <span class="eyebrow"><span class="eyebrow__bar"></span>Technical Specifications</span>
+          <h3>Standard Configuration</h3>
+        </div>
+      </div>
+      
+      <div style="overflow-x: auto; margin-top: 30px;" class="reveal">
+        <table class="spec-table">
+          <thead>
+            <tr>
+              <th>Part Name</th>
+              <th>Material Specification</th>
+              <th>Dimensions &amp; Sizing</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>Inner Lance</strong></td>
+              <td>Copper (Cu-DHP)</td>
+              <td>Length &amp; Diameter as per Requirement</td>
+            </tr>
+            <tr>
+              <td><strong>Outer Pipe</strong></td>
+              <td>Stainless Steel AISI 304L</td>
+              <td>Custom Design</td>
+            </tr>
+            <tr>
+              <td><strong>Connecting Pipe</strong></td>
+              <td>Carbon Steel</td>
+              <td>Custom Design</td>
+            </tr>
+            <tr>
+              <td><strong>Tee-Elbow Joint</strong></td>
+              <td>Forged Steel, 2000 LBS</td>
+              <td>¾" Elbow / 1" NPT Tee</td>
+            </tr>
+            <tr>
+              <td><strong>Quick-Action Couplings</strong></td>
+              <td>Brass Alloy</td>
+              <td>Hex Adapter 1" NPT</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="reveal" style="margin-top: 30px; padding: 25px; background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.06); border-radius: 8px;">
+        <h4 style="color: var(--orange); font-family: 'Montserrat', sans-serif; margin-bottom: 15px;">Optional Materials &amp; Customization</h4>
+        <ul style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.8; list-style: disc; padding-left: 20px;">
+          <li>Stainless Steel AISI 316L available upon request for enhanced thermal stress tolerance.</li>
+          <li>Customized designs can be manufactured according to customer-specific drawings and operational parameters.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- METALLURGICAL EXCELLENCE -->
+  <section class="section section--alt">
+    <div class="container">
+      <div class="section__head section__head--center">
+        <div>
+          <span class="eyebrow"><span class="eyebrow__bar"></span>Metallurgical Excellence</span>
+          <h3>Engineered for Process Excellence</h3>
+        </div>
+      </div>
+      <p class="section-intro-text" style="max-width: 800px; margin: 30px auto 0 auto; text-align: center;">
+        Every AOD vessel operates under unique technical parameters and process conditions. Our AOD Tuyeres are custom-engineered to match these requirements, ensuring optimal gas flow, enhanced refractory life, improved metallurgical performance, and maximum process efficiency.
+      </p>
+    </div>
+  </section>
+
+  <!-- EXPLORE MORE -->
+  <section class="section section--alt">
+    <div class="container">
+      <div class="section__head section__head--center">
+        <div>
+          <span class="eyebrow"><span class="eyebrow__bar"></span>Explore More</span>
+          <h3>Other Specialized Equipment</h3>
+        </div>
+      </div>
+      <div class="specialized-grid" style="grid-template-columns: repeat(2, 1fr); max-width: 800px; margin: 30px auto 0 auto;">
+        <!-- Card 1: INTERFLOW Ladle Slide Gate -->
+        <a href="interflow-ladle-slide-gate-systems" class="category-card">
+          <div class="category-card__img" style="background-image: url('assets/images/resources/products/interflow_slide_gate.png');"></div>
+          <div class="category-card__overlay"></div>
+          <div class="category-card__content">
+            <h4 class="category-card__title">Ladle Slide Gate Systems</h4>
+            <div class="category-card__hover-content">
+              <p>INTERFLOW® Ladle Slide Gate Systems deliver precise and reliable molten steel flow control during ladle and continuous casting operations.</p>
+              <span class="category-card__link">View Product Details <i class="fa-solid fa-arrow-right"></i></span>
+            </div>
+          </div>
+        </a>
+
+        <!-- Card 2: Pneumatic Lining Vibrator -->
+        <a href="pneumatic-lining-vibrator" class="category-card">
+          <div class="category-card__img" style="background-image: url('assets/images/resources/products/pneumatic_lining_vibrator.png');"></div>
+          <div class="category-card__overlay"></div>
+          <div class="category-card__content">
+            <h4 class="category-card__title">Pneumatic Lining Vibrator</h4>
+            <div class="category-card__hover-content">
+              <p>LININGMAN® Pneumatic Lining Vibrator ensures uniform compaction and installation of dry ramming mass in induction furnaces.</p>
+              <span class="category-card__link">View Product Details <i class="fa-solid fa-arrow-right"></i></span>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- INQUIRY CTA -->
+  <!-- <section class="cta" id="contact">
+    <div class="cta__bg" style="background-image: url('assets/images/resources/products/aod_tuyeres.png');"></div>
+    <div class="container cta__grid">
+      <div class="cta__intro">
+        <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Technical RFQ</span>
+        <h3>Request custom AOD Tuyeres quotation.</h3>
+        <p>Contact our application engineers with your converter vessel technical drawing, required gas flow specifications, and refractory thickness details for a custom engineered tuyere proposal.</p>
+        <ul class="cta__info">
+          <li><i class="fa-solid fa-phone"></i> +91 98259 57604</li>
+          <li><i class="fa-solid fa-envelope"></i> <a href="mailto:info@refractotherm.com">info@refractotherm.com</a></li>
+        </ul>
+      </div>
+      <form class="cta__form" onsubmit="event.preventDefault(); this.querySelector('button').textContent = 'Submitted ✓';">
+        <h3>Request AOD Tuyeres Quote</h3>
+        <div class="row">
+          <input type="text" class="inputsections" placeholder="Full Name" required />
+          <input type="text" class="inputsections" placeholder="Company" required />
+        </div>
+        <div class="row">
+          <input type="email" class="inputsections" placeholder="Work Email" required />
+          <input type="tel" class="inputsections" placeholder="Phone" />
+        </div>
+        <textarea rows="4" class="inputsections" placeholder="Please specify your AOD vessel specifications, required outer pipe material (304L/316L), refractory wall thickness, or connection dimensions..."></textarea>
+        <button type="submit" class="btn btn--primary btn--block">
+          Submit RFQ <i class="fa-solid fa-arrow-right"></i>
+        </button>
+      </form>
+    </div>
+  </section> -->
+
+  <!-- FOOTER -->
+  <?php include 'includes/footer.php'; ?>
+
+</body>
+</html>

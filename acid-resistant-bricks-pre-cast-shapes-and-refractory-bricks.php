@@ -2,9 +2,9 @@
 <html lang="en">
 
 <?php
-$title = "Acid Resistant Bricks Manufacturer & Supplier | Refractotherm";
-$description = "Acid Resistant Bricks are specialized ceramic products designed explicitly to endure aggressive chemical environments, particularly those involving high...";
-$keywords = "Acid Resistant Bricks, Pre Cast Shapes And Refractory Bricks, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Acid Resistant Bricks Manufacturer & Supplier | Refractotherm';
+$description = 'Acid Resistant Bricks are specialized ceramic products designed explicitly to endure aggressive chemical environments, particularly those involving high...';
+$keywords = 'Acid Resistant Bricks, Pre Cast Shapes And Refractory Bricks, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -135,23 +135,23 @@ include 'includes/head.php';
     document.addEventListener("DOMContentLoaded", function () {
       const allCategoryProducts = [
         { name: "Pre-Cast Pre-Fired Blocks", link: "pre-cast-pre-fired-blocks-pre-cast-shapes-and-refractory-bricks.html", image: "assets/images/resources/products/precast_shape/pre-castpre-firedblocks.webp" },
-        { name: "Walking Beam Furnace Blocks", link: "walking-beam-furnace-blocks-pre-cast-shapes-and-refractory-bricks.html", image: "assets/images/resources/products/precast_shape/walkingbeamfurnaceblocks.png" },
+        { name: "Walking Beam Furnace Blocks", link: "walking-beam-furnace-blocks-pre-cast-shapes-and-refractory-bricks.html", image: "assets/images/resources/products/precast_shape/walkingbeamfurnaceblocks.webp" },
         { name: "Walking Beam Support Blocks", link: "walking-beam-support-blocks-pre-cast-shapes-and-refractory-bricks.html", image: "assets/images/resources/products/precast_shape/walkingbeamsupportblocks.webp" },
-        { name: "Burner Blocks for Oil & Gas Furnaces", link: "burner-blocks-for-oil-and-gas-furnaces-pre-cast-shapes-and-refractory-bricks.html", image: "assets/images/resources/products/precast_shape/burnerblocksforoil&gasfurnaces.jfif" },
-        { name: "High Alumina Bricks", link: "high-alumina-bricks-pre-cast-shapes-and-refractory-bricks.html", image: "assets/images/resources/products/precast_shape/HighAluminaBricks.jfif" },
-        { name: "Fire Clay Bricks", link: "fire-clay-bricks-pre-cast-shapes-and-refractory-bricks.html", image: "assets/images/resources/products/precast_shape/fireclaybricks.jfif" },
-        { name: "Acid Resistant Bricks", link: "acid-resistant-bricks-pre-cast-shapes-and-refractory-bricks.html", image: "assets/images/resources/products/precast_shape/AcidResistantBricks.jfif" },
-        { name: "Side Arch Bricks", link: "side-arch-bricks-pre-cast-shapes-and-refractory-bricks.html", image: "assets/images/resources/products/precast_shape/SideArchBricks.png" },
-        { name: "End Arch Bricks", link: "end-arch-bricks-pre-cast-shapes-and-refractory-bricks.html", image: "assets/images/resources/products/precast_shape/EndArchBricks.jfif" },
-        { name: "Hanger Bricks", link: "hanger-bricks-pre-cast-shapes-and-refractory-bricks.html", image: "assets/images/resources/products/precast_shape/HangerBricks.jpg" },
-        { name: "Shoulder Bricks", link: "shoulder-bricks-pre-cast-shapes-and-refractory-bricks.html", image: "assets/images/resources/products/precast_shape/ShoulderBricks.jpeg" },
-        { name: "Sillimanite Bricks", link: "sillimanite-bricks-pre-cast-shapes-and-refractory-bricks.html", image: "assets/images/resources/products/precast_shape/SillimaniteBricks.avif" },
-        { name: "Silicon Carbide Products", link: "silicon-carbide-products-pre-cast-shapes-and-refractory-bricks.html", image: "assets/images/resources/products/precast_shape/SiliconCarbideProducts.jpg" },
-        { name: "Zircon Based Refractories", link: "zircon-based-refractories-pre-cast-shapes-and-refractory-bricks.html", image: "assets/images/resources/products/precast_shape/ZirconBasedRefractories.jpg" },
-        { name: "Isostatically Pressed Products", link: "isostatically-pressed-products-pre-cast-shapes-and-refractory-bricks.html", image: "assets/images/resources/products/precast_shape/IsostaticallyPressedProducts.jpg" },
-        { name: "Ceramic Anchors (SS304 / SS310)", link: "ceramic-anchors-ss304-ss310-pre-cast-shapes-and-refractory-bricks.html", image: "assets/images/resources/products/precast_shape/CeramicAnchors.png" },
-        { name: "Customized Refractory Shapes", link: "customized-refractory-shapes-pre-cast-shapes-and-refractory-bricks.html", image: "assets/images/resources/products/precast_shape/CustomizedRefractoryShapes.jfif" },
-        { name: "Heat Resistant Tiles", link: "heat-resistant-tiles-pre-cast-shapes-and-refractory-bricks.html", image: "assets/images/resources/products/precast_shape/HeatResistantTiles.jpg" }
+        { name: "Burner Blocks for Oil & Gas Furnaces", link: "burner-blocks-for-oil-and-gas-furnaces-pre-cast-shapes-and-refractory-bricks.html", image: "assets/images/resources/products/precast_shape/burnerblocksforoil&gasfurnaces.webp" },
+        { name: "High Alumina Bricks", link: "high-alumina-bricks-pre-cast-shapes-and-refractory-bricks.html", image: "assets/images/resources/products/precast_shape/HighAluminaBricks.webp" },
+        { name: "Fire Clay Bricks", link: "fire-clay-bricks-pre-cast-shapes-and-refractory-bricks.html", image: "assets/images/resources/products/precast_shape/fireclaybricks.webp" },
+        { name: "Acid Resistant Bricks", link: "acid-resistant-bricks-pre-cast-shapes-and-refractory-bricks.html", image: "assets/images/resources/products/precast_shape/AcidResistantBricks.webp" },
+        { name: "Side Arch Bricks", link: "side-arch-bricks-pre-cast-shapes-and-refractory-bricks.html", image: "assets/images/resources/products/precast_shape/SideArchBricks.webp" },
+        { name: "End Arch Bricks", link: "end-arch-bricks-pre-cast-shapes-and-refractory-bricks.html", image: "assets/images/resources/products/precast_shape/EndArchBricks.webp" },
+        { name: "Hanger Bricks", link: "hanger-bricks-pre-cast-shapes-and-refractory-bricks.html", image: "assets/images/resources/products/precast_shape/HangerBricks.webp" },
+        { name: "Shoulder Bricks", link: "shoulder-bricks-pre-cast-shapes-and-refractory-bricks.html", image: "assets/images/resources/products/precast_shape/ShoulderBricks.webp" },
+        { name: "Sillimanite Bricks", link: "sillimanite-bricks-pre-cast-shapes-and-refractory-bricks.html", image: "assets/images/resources/products/precast_shape/SillimaniteBricks.webp" },
+        { name: "Silicon Carbide Products", link: "silicon-carbide-products-pre-cast-shapes-and-refractory-bricks.html", image: "assets/images/resources/products/precast_shape/SiliconCarbideProducts.webp" },
+        { name: "Zircon Based Refractories", link: "zircon-based-refractories-pre-cast-shapes-and-refractory-bricks.html", image: "assets/images/resources/products/precast_shape/ZirconBasedRefractories.webp" },
+        { name: "Isostatically Pressed Products", link: "isostatically-pressed-products-pre-cast-shapes-and-refractory-bricks.html", image: "assets/images/resources/products/precast_shape/IsostaticallyPressedProducts.webp" },
+        { name: "Ceramic Anchors (SS304 / SS310)", link: "ceramic-anchors-ss304-ss310-pre-cast-shapes-and-refractory-bricks.html", image: "assets/images/resources/products/precast_shape/CeramicAnchors.webp" },
+        { name: "Customized Refractory Shapes", link: "customized-refractory-shapes-pre-cast-shapes-and-refractory-bricks.html", image: "assets/images/resources/products/precast_shape/CustomizedRefractoryShapes.webp" },
+        { name: "Heat Resistant Tiles", link: "heat-resistant-tiles-pre-cast-shapes-and-refractory-bricks.html", image: "assets/images/resources/products/precast_shape/HeatResistantTiles.webp" }
       ];
 
       const wrappers = document.querySelectorAll(".custom-carousel-wrapper");
@@ -252,8 +252,8 @@ include 'includes/head.php';
     });
   </script>
   <!-- INQUIRY CTA -->
-  <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+  <!-- <section class="cta" id="contact">
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>
@@ -286,7 +286,7 @@ include 'includes/head.php';
         </button>
       </form>
     </div>
-  </section>
+  </section> -->
 
 
   <?php include 'includes/footer.php'; ?>

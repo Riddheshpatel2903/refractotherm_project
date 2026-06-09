@@ -2,9 +2,9 @@
 <html lang="en">
 
 <?php
-$title = "Tundish Working Linings Manufacturer & Supplier | Refractotherm";
-$description = "Tundish Working Linings form the primary refractory layer that comes into direct contact with molten steel during continuous casting operations. Applied...";
-$keywords = "Tundish Working Linings, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Tundish Working Linings Manufacturer & Supplier | Refractotherm';
+$description = 'Tundish Working Linings form the primary refractory layer that comes into direct contact with molten steel during continuous casting operations. Applied...';
+$keywords = 'Tundish Working Linings, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -144,7 +144,7 @@ include 'includes/head.php';
 
   <!-- INQUIRY CTA -->
   <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>

@@ -38,7 +38,7 @@ include 'includes/head.php';
         <!-- Service 1: Refractory Installation -->
         <div class="service-alternate-row reveal">
           <div class="service-alternate-img"
-            style="background-image: url('assets/images/resources/services/RefractoryInstallationservices.jpg');">
+            style="background-image: url('assets/images/resources/services/RefractoryInstallationservices.webp');">
           </div>
           <div class="service-alternate-body">
             <h3>Refractory Installation</h3>
@@ -62,7 +62,7 @@ include 'includes/head.php';
         <!-- Service 3: Ladle Refractory Lining -->
         <div class="service-alternate-row reveal">
           <div class="service-alternate-img"
-            style="background-image: url('assets/images/resources/services/LadleRefractoryLining.jpg');"></div>
+            style="background-image: url('assets/images/resources/services/LadleRefractoryLining.webp');"></div>
           <div class="service-alternate-body">
             <h3>Ladle Refractory Lining</h3>
             <p>Complete masonry and casting configurations for transfer and treatment steel ladles, optimized to handle
@@ -73,7 +73,7 @@ include 'includes/head.php';
         <!-- Service 4: CCM Tundish Setup -->
         <div class="service-alternate-row reveal">
           <div class="service-alternate-img"
-            style="background-image: url('assets/images/resources/services/CCMTundishRefractorySetup.jpg');"></div>
+            style="background-image: url('assets/images/resources/services/CCMTundishRefractorySetup.webp');"></div>
           <div class="service-alternate-body">
             <h3>CCM Tundish Setup</h3>
             <p>Complete flow control and continuous casting layout. Precision setup of tundish safety linings, dry spray
@@ -84,7 +84,7 @@ include 'includes/head.php';
         <!-- Service 5: Shutdown Maintenance Services -->
         <div class="service-alternate-row reveal">
           <div class="service-alternate-img"
-            style="background-image: url('assets/images/resources/services/ShutdownMaintenanceServices.jpg');"></div>
+            style="background-image: url('assets/images/resources/services/ShutdownMaintenanceServices.webp');"></div>
           <div class="service-alternate-body">
             <h3>Shutdown Maintenance Services</h3>
             <p>Emergency hot repair spraying, planned maintenance, and rapid cooling relining support to maximize
@@ -95,7 +95,7 @@ include 'includes/head.php';
         <!-- Service 6: Heat-Up & Dry-Out Services -->
         <div class="service-alternate-row reveal">
           <div class="service-alternate-img"
-            style="background-image: url('assets/images/resources/services/Heat-Up&Dry-OutServices.jpg');"></div>
+            style="background-image: url('assets/images/resources/services/Heat-Up&Dry-OutServices.webp');"></div>
           <div class="service-alternate-body">
             <h3>Heat-Up & Dry-Out Services</h3>
             <p>Controlled thermal dry-out profiling utilizing specialized high-velocity gas burners. Prevents lining
@@ -106,7 +106,7 @@ include 'includes/head.php';
         <!-- Service 7: Technical Supervision -->
         <div class="service-alternate-row reveal">
           <div class="service-alternate-img"
-            style="background-image: url('assets/images/resources/services/TechnicalSupervision.jpg');">
+            style="background-image: url('assets/images/resources/services/TechnicalSupervision.webp');">
           </div>
           <div class="service-alternate-body">
             <h3>Technical Supervision</h3>
@@ -142,7 +142,7 @@ include 'includes/head.php';
         <!-- Service 10: Furnace Performance Optimization -->
         <div class="service-alternate-row reveal">
           <div class="service-alternate-img"
-            style="background-image: url('assets/images/resources/services/FurnacePerformanceOptimization.avif');">
+            style="background-image: url('assets/images/resources/services/FurnacePerformanceOptimization.webp');">
           </div>
           <div class="service-alternate-body">
             <h3>Furnace Performance Optimization</h3>
@@ -154,7 +154,7 @@ include 'includes/head.php';
         <!-- Service 11: Energy Saving Thermal Solutions -->
         <div class="service-alternate-row reveal">
           <div class="service-alternate-img"
-            style="background-image: url('assets/images/resources/services/EnergySavingThermalSolutions.jpg');"></div>
+            style="background-image: url('assets/images/resources/services/EnergySavingThermalSolutions.webp');"></div>
           <div class="service-alternate-body">
             <h3>Energy Saving Thermal Solutions</h3>
             <p>Pioneering monolithic and board systems featuring extremely low thermal conductivity to retain maximum
@@ -165,7 +165,7 @@ include 'includes/head.php';
         <!-- Service 12: Annual Maintenance Contracts (AMC) -->
         <div class="service-alternate-row reveal">
           <div class="service-alternate-img"
-            style="background-image: url('assets/images/resources/services/AnnualMaintenanceContracts(AMC).jpg');">
+            style="background-image: url('assets/images/resources/services/AnnualMaintenanceContracts(AMC).webp');">
           </div>
           <div class="service-alternate-body">
             <h3>Annual Maintenance Contracts (AMC)</h3>
@@ -312,7 +312,7 @@ include 'includes/head.php';
 
   <!-- 4. INQUquiry CTA -->
   <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url(assets/images/resources/about-2.jfif);"></div>
+    <div class="cta__bg" style="background-image: url(assets/images/resources/about-2.webp);"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Service Inquiry</span>

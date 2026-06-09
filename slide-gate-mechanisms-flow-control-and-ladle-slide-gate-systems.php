@@ -1,10 +1,10 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 
 <?php
-$title = "Slide Gate Mechanisms Manufacturer & Supplier | Refractotherm";
-$description = "Slide Gate Mechanisms are critical flow-control systems used in steel ladles to regulate, start, stop, and control the discharge of molten steel during ...";
-$keywords = "Slide Gate Mechanisms, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Slide Gate Mechanisms Manufacturer & Supplier | Refractotherm';
+$description = 'Slide Gate Mechanisms are critical flow-control systems used in steel ladles to regulate, start, stop, and control the discharge of molten steel during ...';
+$keywords = 'Slide Gate Mechanisms, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -154,8 +154,8 @@ Widely used in stainless steel, alloy steel, and clean steel manufacturing appli
   <?php include 'includes/product_suggestion/flow-control.php'; ?>
 
   <!-- INQUIRY CTA -->
-  <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+  <!-- <section class="cta" id="contact">
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>
@@ -189,7 +189,7 @@ Widely used in stainless steel, alloy steel, and clean steel manufacturing appli
         </button>
       </form>
     </div>
-  </section>
+  </section> -->
 
   <!-- FOOTER -->
 

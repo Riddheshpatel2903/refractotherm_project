@@ -2,9 +2,9 @@
 <html lang="en">
 
 <?php
-$title = "Ladle Insulation Materials Manufacturer & Supplier | Refractotherm";
-$description = "Ladle Insulation Materials are critical components placed between the safety lining and the steel shell of the ladle. Their primary function is to minim...";
-$keywords = "Ladle Insulation Materials, Steelmaking Refractories Lrf Eaf And Ladle Applications, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Ladle Insulation Materials Manufacturer & Supplier | Refractotherm';
+$description = 'Ladle Insulation Materials are critical components placed between the safety lining and the steel shell of the ladle. Their primary function is to minim...';
+$keywords = 'Ladle Insulation Materials, Steelmaking Refractories Lrf Eaf And Ladle Applications, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -115,7 +115,7 @@ include 'includes/head.php';
 
   <!-- INQUIRY CTA -->
   <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>

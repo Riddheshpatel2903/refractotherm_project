@@ -1,10 +1,10 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 
 <?php
-$title = "Seating Blocks Manufacturer & Supplier | Refractotherm";
-$description = "Seating Blocks are precision-engineered refractory components designed to provide a secure and accurately aligned seating surface for nozzles, collector...";
-$keywords = "Seating Blocks, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Seating Blocks Manufacturer & Supplier | Refractotherm';
+$description = 'Seating Blocks are precision-engineered refractory components designed to provide a secure and accurately aligned seating surface for nozzles, collector...';
+$keywords = 'Seating Blocks, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -162,8 +162,8 @@ Suitable for LF, VD, RH, and other refining applications requiring durable refra
   <?php include 'includes/product_suggestion/flow-control.php'; ?>
 
   <!-- INQUIRY CTA -->
-  <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+  <!-- <section class="cta" id="contact">
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>
@@ -196,7 +196,7 @@ Suitable for LF, VD, RH, and other refining applications requiring durable refra
         </button>
       </form>
     </div>
-  </section>
+  </section> -->
 
   <!-- FOOTER -->
 

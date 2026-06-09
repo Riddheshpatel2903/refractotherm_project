@@ -2,9 +2,9 @@
 <html lang="en">
 
 <?php
-$title = "Acidic Ramming Mass Manufacturer & Supplier | Refractotherm";
-$description = "Acidic Ramming Mass is a premium refractory lining material manufactured from carefully selected high-purity quartzite with controlled particle size dis...";
-$keywords = "Acidic Ramming Mass, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Acidic Ramming Mass Manufacturer & Supplier | Refractotherm';
+$description = 'Acidic Ramming Mass is a premium refractory lining material manufactured from carefully selected high-purity quartzite with controlled particle size dis...';
+$keywords = 'Acidic Ramming Mass, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -124,10 +124,10 @@ include 'includes/head.php';
     </div>
   </section>
 
- <?php include'includes/product_suggestion/monolithic.php';?>
+ <?php include 'includes/product_suggestion/monolithic.php'; ?>
   <!-- INQUIRY CTA -->
   <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>

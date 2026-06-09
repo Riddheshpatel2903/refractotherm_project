@@ -2,9 +2,9 @@
 <html lang="en">
 
 <?php
-$title = "Zirconia Inserts Manufacturer & Supplier | Refractotherm";
-$description = "Zirconia Inserts are specialized refractory components integrated into nozzles, collector nozzles, submerged entry nozzles (SENs), and other flow-contro...";
-$keywords = "Zirconia Inserts, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Zirconia Inserts Manufacturer & Supplier | Refractotherm';
+$description = 'Zirconia Inserts are specialized refractory components integrated into nozzles, collector nozzles, submerged entry nozzles (SENs), and other flow-contro...';
+$keywords = 'Zirconia Inserts, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -156,7 +156,7 @@ Widely used in billet, bloom, and slab casting facilities to improve refractory 
 
   <!-- INQUIRY CTA -->
   <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>

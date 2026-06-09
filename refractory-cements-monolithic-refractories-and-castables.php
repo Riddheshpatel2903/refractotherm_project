@@ -1,10 +1,10 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 
 <?php
-$title = "Refractory Cements Manufacturer & Supplier | Refractotherm";
-$description = "Refractory Cements are specialized high-temperature bonding materials used in the installation, repair, and maintenance of refractory linings across var...";
-$keywords = "Refractory Cements, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Refractory Cements Manufacturer & Supplier | Refractotherm';
+$description = 'Refractory Cements are specialized high-temperature bonding materials used in the installation, repair, and maintenance of refractory linings across var...';
+$keywords = 'Refractory Cements, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -144,8 +144,8 @@ Applied in refractory lining construction and repair of boilers, combustion cham
   <?php include 'includes/product_suggestion/monolithic.php'; ?>
 
   <!-- INQUIRY CTA -->
-  <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+  <!-- <section class="cta" id="contact">
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>
@@ -179,7 +179,7 @@ Applied in refractory lining construction and repair of boilers, combustion cham
         </button>
       </form>
     </div>
-  </section>
+  </section> -->
 
   <!-- FOOTER -->
 

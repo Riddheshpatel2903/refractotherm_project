@@ -2,9 +2,9 @@
 <html lang="en">
 
 <?php
-$title = "Ck4 Nozzles Manufacturer & Supplier | Refractotherm";
-$description = "CK4 Nozzles are advanced refractory flow-control components used in continuous casting systems to regulate and direct the flow of molten steel with high...";
-$keywords = "Ck4 Nozzles, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Ck4 Nozzles Manufacturer & Supplier | Refractotherm';
+$description = 'CK4 Nozzles are advanced refractory flow-control components used in continuous casting systems to regulate and direct the flow of molten steel with high...';
+$keywords = 'Ck4 Nozzles, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -124,7 +124,7 @@ include 'includes/head.php';
 
   <!-- INQUIRY CTA -->
   <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>

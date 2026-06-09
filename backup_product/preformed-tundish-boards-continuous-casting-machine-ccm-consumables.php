@@ -2,9 +2,9 @@
 <html lang="en">
 
 <?php
-$title = "Preformed Tundish Boards Manufacturer & Supplier | Refractotherm";
-$description = "Preformed Tundish Boards are factory-manufactured refractory lining panels designed to serve as the working lining inside tundishes used in continuous c...";
-$keywords = "Preformed Tundish Boards, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Preformed Tundish Boards Manufacturer & Supplier | Refractotherm';
+$description = 'Preformed Tundish Boards are factory-manufactured refractory lining panels designed to serve as the working lining inside tundishes used in continuous c...';
+$keywords = 'Preformed Tundish Boards, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -133,7 +133,7 @@ include 'includes/head.php';
 
   <!-- INQUIRY CTA -->
   <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>

@@ -1,10 +1,10 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 
 <?php
-$title = "Insulation Bricks Manufacturer & Supplier | Refractotherm";
-$description = "Insulating Firebricks (IFB) are highly porous refractory bricks designed to minimize heat loss and reduce the overall thermal mass of the furnace lining.";
-$keywords = "Insulation Bricks, Insulation And Thermal Products, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Insulation Bricks Manufacturer & Supplier | Refractotherm';
+$description = 'Insulating Firebricks (IFB) are highly porous refractory bricks designed to minimize heat loss and reduce the overall thermal mass of the furnace lining.';
+$keywords = 'Insulation Bricks, Insulation And Thermal Products, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -112,8 +112,8 @@ include 'includes/head.php';
   <?php include 'includes/product_suggestion/insulation-thermal.php'; ?>
 
   <!-- INQUIRY CTA -->
-  <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+  <!-- <section class="cta" id="contact">
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>
@@ -146,7 +146,7 @@ include 'includes/head.php';
         </button>
       </form>
     </div>
-  </section>
+  </section> -->
 
   <!-- FOOTER -->
 

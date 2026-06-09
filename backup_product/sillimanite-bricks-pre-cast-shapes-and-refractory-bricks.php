@@ -2,9 +2,9 @@
 <html lang="en">
 
 <?php
-$title = "Sillimanite Bricks Manufacturer & Supplier | Refractotherm";
-$description = "Sillimanite Bricks are high-grade alumino-silicate refractories (approx. 55-65% Al2O3) manufactured from natural sillimanite or kyanite minerals. They a...";
-$keywords = "Sillimanite Bricks, Pre Cast Shapes And Refractory Bricks, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Sillimanite Bricks Manufacturer & Supplier | Refractotherm';
+$description = 'Sillimanite Bricks are high-grade alumino-silicate refractories (approx. 55-65% Al2O3) manufactured from natural sillimanite or kyanite minerals. They a...';
+$keywords = 'Sillimanite Bricks, Pre Cast Shapes And Refractory Bricks, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -115,7 +115,7 @@ include 'includes/head.php';
 
   <!-- INQUIRY CTA -->
   <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>

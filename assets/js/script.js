@@ -337,7 +337,7 @@ document.addEventListener("DOMContentLoaded", function () {
       year: "2011",
       title: "Foundation of Entrepreneurship",
       desc: "Established Induction Furnace Technomart with a vision to support the steel industry through specialized induction melting furnace spares, engineering solutions, and continuous casting machine (CCM) technologies.",
-      image: "assets/images/resources/site/ourcomitment.webp"
+      image: "assets/images/resources/site/companyoverview.webp"
     },
     {
       year: "2023",
@@ -495,3 +495,30 @@ document.addEventListener("DOMContentLoaded", function () {
   // Initialize
   setTimeout(updateSlider, 100);
 });
+
+/* =========================================
+   PRELOADER LOGIC
+   ========================================= */
+(function () {
+  const preloader = document.getElementById('preloader');
+  if (!preloader) return;
+
+  const hidePreloader = () => {
+    if (!preloader.classList.contains('fade-out')) {
+      preloader.classList.add('fade-out');
+      document.body.style.overflow = '';
+    }
+  };
+
+  // Block scrolling while preloader is active
+  document.body.style.overflow = 'hidden';
+
+  // Dismiss preloader on load
+  window.addEventListener('load', () => {
+    setTimeout(hidePreloader, 300);
+  });
+
+  // Safety fallback: dismiss after 5 seconds in case some image or font hangs
+  setTimeout(hidePreloader, 5000);
+})();
+

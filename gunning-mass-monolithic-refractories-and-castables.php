@@ -1,10 +1,10 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 
 <?php
-$title = "Gunning Mass Manufacturer & Supplier | Refractotherm";
-$description = "Gunning Mass is a specially engineered monolithic refractory material designed for pneumatic application onto refractory linings for maintenance, repair...";
-$keywords = "Gunning Mass, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Gunning Mass Manufacturer & Supplier | Refractotherm';
+$description = 'Gunning Mass is a specially engineered monolithic refractory material designed for pneumatic application onto refractory linings for maintenance, repair...';
+$keywords = 'Gunning Mass, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -118,8 +118,8 @@ include 'includes/head.php';
   <?php include 'includes/product_suggestion/monolithic.php'; ?>
 
   <!-- INQUIRY CTA -->
-  <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+  <!-- <section class="cta" id="contact">
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>
@@ -154,7 +154,7 @@ include 'includes/head.php';
         </button>
       </form>
     </div>
-  </section>
+  </section> -->
 
 
   <?php include 'includes/footer.php'; ?>

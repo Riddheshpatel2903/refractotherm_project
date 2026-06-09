@@ -1,10 +1,10 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 
 <?php
-$title = "Spray Mass Manufacturer & Supplier | Refractotherm";
-$description = "Spray Mass is a specially formulated monolithic refractory material designed for application through spraying equipment onto existing refractory linings...";
-$keywords = "Spray Mass, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Spray Mass Manufacturer & Supplier | Refractotherm';
+$description = 'Spray Mass is a specially formulated monolithic refractory material designed for application through spraying equipment onto existing refractory linings...';
+$keywords = 'Spray Mass, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -144,8 +144,8 @@ Suitable for maintenance and surface protection of combustion chambers, furnace 
   <?php include 'includes/product_suggestion/monolithic.php'; ?>
 
   <!-- INQUIRY CTA -->
-  <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+  <!-- <section class="cta" id="contact">
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>
@@ -180,7 +180,7 @@ Suitable for maintenance and surface protection of combustion chambers, furnace 
         </button>
       </form>
     </div>
-  </section>
+  </section> -->
 
   <!-- FOOTER -->
 

@@ -66,7 +66,7 @@
           a.className = "carousel-item";
 
           const img = document.createElement("img");
-          img.src = prod.image || "assets/images/resources/FurnaceProducts.avif";
+          img.src = prod.image || "assets/images/resources/FurnaceProducts.webp";
 
           const overlay = document.createElement("div");
           overlay.className = "industry-overlay";

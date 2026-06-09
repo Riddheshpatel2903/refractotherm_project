@@ -2,9 +2,9 @@
 <html lang="en">
 
 <?php
-$title = "Fnc Nozzles Manufacturer & Supplier | Refractotherm";
-$description = "FNC Nozzles are specialized refractory flow-control components used in continuous casting operations to ensure controlled and uninterrupted transfer of ...";
-$keywords = "Fnc Nozzles, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Fnc Nozzles Manufacturer & Supplier | Refractotherm';
+$description = 'FNC Nozzles are specialized refractory flow-control components used in continuous casting operations to ensure controlled and uninterrupted transfer of ...';
+$keywords = 'Fnc Nozzles, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -126,7 +126,7 @@ include 'includes/head.php';
 
   <!-- INQUIRY CTA -->
   <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>

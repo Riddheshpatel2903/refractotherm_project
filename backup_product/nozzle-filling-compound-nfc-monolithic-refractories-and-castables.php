@@ -2,9 +2,9 @@
 <html lang="en">
 
 <?php
-$title = "Nozzle Filling Compound Nfc Manufacturer & Supplier | Refractotherm";
-$description = "Nozzle Filling Compound (NFC) is a specialized refractory consumable used in steel ladles to prevent molten steel from entering and clogging the ladle n...";
-$keywords = "Nozzle Filling Compound Nfc, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Nozzle Filling Compound Nfc Manufacturer & Supplier | Refractotherm';
+$description = 'Nozzle Filling Compound (NFC) is a specialized refractory consumable used in steel ladles to prevent molten steel from entering and clogging the ladle n...';
+$keywords = 'Nozzle Filling Compound Nfc, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -145,7 +145,7 @@ Provides consistent performance in carbon steel, alloy steel, stainless steel, a
 
   <!-- INQUIRY CTA -->
   <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>

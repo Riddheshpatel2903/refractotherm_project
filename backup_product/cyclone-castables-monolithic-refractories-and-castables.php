@@ -2,9 +2,9 @@
 <html lang="en">
 
 <?php
-$title = "Cyclone Castables Manufacturer & Supplier | Refractotherm";
-$description = "Cyclone Castables are high-performance refractory castables specifically designed for cyclone separators, preheater cyclones, calciner systems, circulat...";
-$keywords = "Cyclone Castables, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Cyclone Castables Manufacturer & Supplier | Refractotherm';
+$description = 'Cyclone Castables are high-performance refractory castables specifically designed for cyclone separators, preheater cyclones, calciner systems, circulat...';
+$keywords = 'Cyclone Castables, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -127,7 +127,7 @@ include 'includes/head.php';
 
   <!-- INQUIRY CTA -->
   <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>

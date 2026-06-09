@@ -2,9 +2,9 @@
 <html lang="en">
 
 <?php
-$title = "Refractory Sleeves Manufacturer & Supplier | Refractotherm";
-$description = "Refractory Sleeves are highly durable insulating components used to protect thermocouples and other sensitive instruments in high-temperature metal melt...";
-$keywords = "Refractory Sleeves, Induction Furnace Refractories Blocks And Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Refractory Sleeves Manufacturer & Supplier | Refractotherm';
+$description = 'Refractory Sleeves are highly durable insulating components used to protect thermocouples and other sensitive instruments in high-temperature metal melt...';
+$keywords = 'Refractory Sleeves, Induction Furnace Refractories Blocks And Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -120,7 +120,7 @@ include 'includes/head.php';
 
   <!-- INQUIRY CTA -->
   <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>

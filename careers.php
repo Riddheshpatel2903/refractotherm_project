@@ -2,8 +2,8 @@
 <html lang="en">
 
 <?php
-$title = "Careers | Refractotherm";
-$description = "Refractotherm engineers high-performance refractory products, flow control systems and thermal solutions for global steel, cement, foundry and power industries.";
+$title = 'Careers | Refractotherm';
+$description = 'Refractotherm engineers high-performance refractory products, flow control systems and thermal solutions for global steel, cement, foundry and power industries.';
 include 'includes/head.php';
 ?>
 
@@ -15,7 +15,7 @@ include 'includes/head.php';
 
   <!-- 1. CAREERS BANNER -->
   <section class="section section--dark page-banner-section">
-    <div class="page-banner-bg" style="background-image: url('assets/images/resources/about-1.jfif');"></div>
+    <div class="page-banner-bg" style="background-image: url('assets/images/resources/about-1.webp');"></div>
     <div class="container page-banner-container">
       <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Join Our Team</span>
       <h2 class="page-banner-title">Careers at Refractotherm</h2>
@@ -40,7 +40,7 @@ include 'includes/head.php';
         </p>
       </div>
       <div class="split__media reveal">
-        <img src="assets/images/resources/team.avif" alt="Engineering Team" loading="lazy" class="careers-image" />
+        <img src="assets/images/resources/team.webp" alt="Engineering Team" loading="lazy" class="careers-image" />
       </div>
     </div>
   </section>
@@ -85,7 +85,7 @@ include 'includes/head.php';
 
   <!-- 6. APPLICATION FORM -->
   <section class="cta" id="apply">
-    <div class="cta__bg" style="background-image: url(assets/images/resources/hero-2.jfif);"></div>
+    <div class="cta__bg" style="background-image: url(assets/images/resources/hero-2.webp);"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Join Us</span>

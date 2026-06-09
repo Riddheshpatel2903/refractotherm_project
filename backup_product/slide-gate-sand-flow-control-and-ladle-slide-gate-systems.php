@@ -2,9 +2,9 @@
 <html lang="en">
 
 <?php
-$title = "Slide Gate Sand Manufacturer & Supplier | Refractotherm";
-$description = "Slide Gate Sand is a specially engineered refractory filler material used in steel ladle slide gate systems to prevent molten steel from penetrating int...";
-$keywords = "Slide Gate Sand, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Slide Gate Sand Manufacturer & Supplier | Refractotherm';
+$description = 'Slide Gate Sand is a specially engineered refractory filler material used in steel ladle slide gate systems to prevent molten steel from penetrating int...';
+$keywords = 'Slide Gate Sand, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -152,7 +152,7 @@ Available in specialized formulations designed for carbon steel, alloy steel, st
 
   <!-- INQUIRY CTA -->
   <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>

@@ -46,7 +46,7 @@
           a.className = "carousel-item";
 
           const img = document.createElement("img");
-          img.src = prod.image || "assets/images/resources/FlowControlSystems.jfif";
+          img.src = prod.image || "assets/images/resources/FlowControlSystems.webp";
 
           const overlay = document.createElement("div");
           overlay.className = "industry-overlay";

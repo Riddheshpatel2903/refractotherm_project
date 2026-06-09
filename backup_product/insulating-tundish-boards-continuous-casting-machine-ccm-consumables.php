@@ -2,9 +2,9 @@
 <html lang="en">
 
 <?php
-$title = "Insulating Tundish Boards Manufacturer & Supplier | Refractotherm";
-$description = "Insulating Tundish Boards are preformed refractory insulation panels used as working linings in tundishes during continuous casting operations. Their pr...";
-$keywords = "Insulating Tundish Boards, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Insulating Tundish Boards Manufacturer & Supplier | Refractotherm';
+$description = 'Insulating Tundish Boards are preformed refractory insulation panels used as working linings in tundishes during continuous casting operations. Their pr...';
+$keywords = 'Insulating Tundish Boards, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -143,7 +143,7 @@ include 'includes/head.php';
 
   <!-- INQUIRY CTA -->
   <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>

@@ -52,7 +52,7 @@
           a.className = "carousel-item";
 
           const img = document.createElement("img");
-          img.src = prod.image || "assets/images/resources/CCMConsumables.jfif";
+          img.src = prod.image || "assets/images/resources/CCMConsumables.webp";
 
           const overlay = document.createElement("div");
           overlay.className = "industry-overlay";

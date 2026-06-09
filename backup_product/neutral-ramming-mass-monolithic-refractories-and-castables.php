@@ -2,9 +2,9 @@
 <html lang="en">
 
 <?php
-$title = "Neutral Ramming Mass Manufacturer & Supplier | Refractotherm";
-$description = "Neutral Ramming Mass is a high-performance refractory lining material specifically developed for induction furnaces handling stainless steel, alloy stee...";
-$keywords = "Neutral Ramming Mass, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Neutral Ramming Mass Manufacturer & Supplier | Refractotherm';
+$description = 'Neutral Ramming Mass is a high-performance refractory lining material specifically developed for induction furnaces handling stainless steel, alloy stee...';
+$keywords = 'Neutral Ramming Mass, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -155,7 +155,7 @@ Used in foundries and metallurgical plants manufacturing specialty alloys requir
 
   <!-- INQUIRY CTA -->
   <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>

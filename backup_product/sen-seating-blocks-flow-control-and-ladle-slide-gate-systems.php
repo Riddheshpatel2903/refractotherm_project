@@ -2,9 +2,9 @@
 <html lang="en">
 
 <?php
-$title = "Sen Seating Blocks Manufacturer & Supplier | Refractotherm";
-$description = "SEN Seating Blocks are specialized refractory components designed to securely support and accurately position Submerged Entry Nozzles (SENs) within cont...";
-$keywords = "Sen Seating Blocks, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Sen Seating Blocks Manufacturer & Supplier | Refractotherm';
+$description = 'SEN Seating Blocks are specialized refractory components designed to securely support and accurately position Submerged Entry Nozzles (SENs) within cont...';
+$keywords = 'Sen Seating Blocks, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -158,7 +158,7 @@ Designed for demanding casting environments involving extended sequences and agg
 
   <!-- INQUIRY CTA -->
   <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>

@@ -1,12 +1,12 @@
 <?php
 if (!isset($title)) {
-    $title = "Refractotherm — Advanced Refractory & Thermal Engineering Solutions";
+  $title = 'Refractotherm — Advanced Refractory & Thermal Engineering Solutions';
 }
 if (!isset($description)) {
-    $description = "Refractotherm engineers high-performance refractory products, flow control systems and thermal solutions for global steel, cement, foundry and power industries.";
+  $description = 'Refractotherm engineers high-performance refractory products, flow control systems and thermal solutions for global steel, cement, foundry and power industries.';
 }
 if (!isset($keywords)) {
-    $keywords = "Refractory product,Monolithic,Castables, Refractory solutions, Castables, Abrasion Resistant Castables,Abrasion Resistant Castables Manufacturer,Abrasion Resistant Castables Supplier,Abrasion Resistant Castables Price,Abrasion Resistant Castables Application,Abrasion Resistant Castables Specification,Abrasion Resistant Castables Features,Abrasion Resistant Castables Benefits";
+  $keywords = 'Refractory product,Monolithic,Castables, Refractory solutions, Castables, Abrasion Resistant Castables,Abrasion Resistant Castables Manufacturer,Abrasion Resistant Castables Supplier,Abrasion Resistant Castables Price,Abrasion Resistant Castables Application,Abrasion Resistant Castables Specification,Abrasion Resistant Castables Features,Abrasion Resistant Castables Benefits';
 }
 ?>
 <head>
@@ -23,5 +23,5 @@ if (!isset($keywords)) {
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
   <link rel="stylesheet" href="assets/css/style.css" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="shortcut icon" href="assets/images/resources/fevicon.png" type="image/x-icon">
+  <link rel="shortcut icon" href="assets/images/resources/fevicon.webp" type="image/x-icon">
 </head>

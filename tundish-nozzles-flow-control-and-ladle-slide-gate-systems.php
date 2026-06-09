@@ -1,10 +1,10 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 
 <?php
-$title = "Tundish Nozzles Manufacturer & Supplier | Refractotherm";
-$description = "Tundish Nozzles are precision-engineered refractory components installed at the base of the tundish to regulate and direct the flow of molten steel into...";
-$keywords = "Tundish Nozzles, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Tundish Nozzles Manufacturer & Supplier | Refractotherm';
+$description = 'Tundish Nozzles are precision-engineered refractory components installed at the base of the tundish to regulate and direct the flow of molten steel into...';
+$keywords = 'Tundish Nozzles, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -153,8 +153,8 @@ Applied in stainless steel, alloy steel, and clean steel casting operations dema
   <?php include 'includes/product_suggestion/flow-control.php'; ?>
 
   <!-- INQUIRY CTA -->
-  <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+  <!-- <section class="cta" id="contact">
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>
@@ -188,7 +188,7 @@ Applied in stainless steel, alloy steel, and clean steel casting operations dema
         </button>
       </form>
     </div>
-  </section>
+  </section> -->
 
   <!-- FOOTER -->
 

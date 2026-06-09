@@ -2,8 +2,8 @@
 <html lang="en">
 
 <?php
-$title = "Get a Quote | Refractotherm";
-$description = "Request a commercial quotation for Refractotherm refractory castables, monolithic mixes, flow control, and continuous casting refractories.";
+$title = 'Get a Quote | Refractotherm';
+$description = 'Request a commercial quotation for Refractotherm refractory castables, monolithic mixes, flow control, and continuous casting refractories.';
 include 'includes/head.php';
 ?>
 
@@ -16,7 +16,7 @@ include 'includes/head.php';
 
   <!-- PAGE HEADER -->
   <section class="section section--dark page-banner-section">
-    <div class="page-banner-bg" style="background-image: url('assets/images/resources/hero-1.jfif');"></div>
+    <div class="page-banner-bg" style="background-image: url('assets/images/resources/hero-1.webp');"></div>
     <div class="container page-banner-container">
       <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Commercial Portal</span>
       <h2 class="page-banner-title">Request a Commercial Quote</h2>

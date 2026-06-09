@@ -1,10 +1,10 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 
 <?php
-$title = "Purging Systems Manufacturer & Supplier | Refractotherm";
-$description = "Purging Systems, including highly engineered porous plugs and seating blocks, are vital for injecting inert gases (like Argon) into the molten bath. Whi...";
-$keywords = "Purging Systems, Aod Refractories Argon Oxygen Decarburization, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Purging Systems Manufacturer & Supplier | Refractotherm';
+$description = 'Purging Systems, including highly engineered porous plugs and seating blocks, are vital for injecting inert gases (like Argon) into the molten bath. Whi...';
+$keywords = 'Purging Systems, Aod Refractories Argon Oxygen Decarburization, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -113,8 +113,8 @@ include 'includes/head.php';
   <?php include 'includes/product_suggestion/aod-refractories.php'; ?>
 
   <!-- INQUIRY CTA -->
-  <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+  <!-- <section class="cta" id="contact">
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>
@@ -147,7 +147,7 @@ include 'includes/head.php';
         </button>
       </form>
     </div>
-  </section>
+  </section> -->
 
   <!-- FOOTER -->
 

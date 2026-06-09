@@ -1,10 +1,10 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 
 <?php
-$title = "Ceramic Anchors Ss304 Ss310 Manufacturer & Supplier | Refractotherm";
-$description = "Refractory Anchors are vital hardware components used to secure monolithic castable or plastic refractory linings to the steel casing of the furnace, pr...";
-$keywords = "Ceramic Anchors Ss304 Ss310, Pre Cast Shapes And Refractory Bricks, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Ceramic Anchors Ss304 Ss310 Manufacturer & Supplier | Refractotherm';
+$description = 'Refractory Anchors are vital hardware components used to secure monolithic castable or plastic refractory linings to the steel casing of the furnace, pr...';
+$keywords = 'Ceramic Anchors Ss304 Ss310, Pre Cast Shapes And Refractory Bricks, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -112,8 +112,8 @@ include 'includes/head.php';
   <?php include 'precast-shapes.php'; ?>
 
  <!-- INQUIRY CTA -->
-  <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+  <!-- <section class="cta" id="contact">
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>
@@ -146,7 +146,7 @@ include 'includes/head.php';
         </button>
       </form>
     </div>
-  </section>
+  </section> -->
 
 
   <?php include 'includes/footer.php'; ?>

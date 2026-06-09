@@ -2,9 +2,9 @@
 <html lang="en">
 
 <?php
-$title = "Outer Nozzles Manufacturer & Supplier | Refractotherm";
-$description = "Outer Nozzles are critical refractory flow-control components positioned at the outlet section of steel ladle and continuous casting systems. They provi...";
-$keywords = "Outer Nozzles, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Outer Nozzles Manufacturer & Supplier | Refractotherm';
+$description = 'Outer Nozzles are critical refractory flow-control components positioned at the outlet section of steel ladle and continuous casting systems. They provi...';
+$keywords = 'Outer Nozzles, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -158,7 +158,7 @@ Widely utilized in special steel applications where refractory durability and fl
 
   <!-- INQUIRY CTA -->
   <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>

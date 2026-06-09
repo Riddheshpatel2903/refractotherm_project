@@ -2,9 +2,9 @@
 <html lang="en">
 
 <?php
-$title = "Eaf Roof Refractories Manufacturer & Supplier | Refractotherm";
-$description = "Electric Arc Furnace (EAF) Roof Refractories consist of highly specialized bricks and monolithic castables designed to form the protective canopy over t...";
-$keywords = "Eaf Roof Refractories, Steelmaking Refractories Lrf Eaf And Ladle Applications, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Eaf Roof Refractories Manufacturer & Supplier | Refractotherm';
+$description = 'Electric Arc Furnace (EAF) Roof Refractories consist of highly specialized bricks and monolithic castables designed to form the protective canopy over t...';
+$keywords = 'Eaf Roof Refractories, Steelmaking Refractories Lrf Eaf And Ladle Applications, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -115,7 +115,7 @@ include 'includes/head.php';
 
   <!-- INQUIRY CTA -->
   <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>

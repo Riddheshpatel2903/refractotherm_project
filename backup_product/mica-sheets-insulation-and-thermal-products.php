@@ -2,9 +2,9 @@
 <html lang="en">
 
 <?php
-$title = "Mica Sheets Manufacturer & Supplier | Refractotherm";
-$description = "Mica Sheets (primarily Phlogopite or Muscovite based) are specialized laminate materials renowned for their dual properties of phenomenal electrical ins...";
-$keywords = "Mica Sheets, Insulation And Thermal Products, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Mica Sheets Manufacturer & Supplier | Refractotherm';
+$description = 'Mica Sheets (primarily Phlogopite or Muscovite based) are specialized laminate materials renowned for their dual properties of phenomenal electrical ins...';
+$keywords = 'Mica Sheets, Insulation And Thermal Products, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -112,7 +112,7 @@ include 'includes/head.php';
 
   <!-- INQUIRY CTA -->
   <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>

@@ -2,9 +2,9 @@
 <html lang="en">
 
 <?php
-$title = "Purging Plug Systems Manufacturer & Supplier | Refractotherm";
-$description = "Purging Plug Systems are specialized gas injection assemblies installed in steel ladles to introduce inert gases, typically argon, into molten steel dur...";
-$keywords = "Purging Plug Systems, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Purging Plug Systems Manufacturer & Supplier | Refractotherm';
+$description = 'Purging Plug Systems are specialized gas injection assemblies installed in steel ladles to introduce inert gases, typically argon, into molten steel dur...';
+$keywords = 'Purging Plug Systems, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -160,7 +160,7 @@ Essential for producing high-quality steels with stringent cleanliness and metal
 
   <!-- INQUIRY CTA -->
   <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>

@@ -1,10 +1,10 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 
 <?php
-$title = "Synthetic Slag Manufacturer & Supplier | Refractotherm";
-$description = "Synthetic Slag is a pre-fused or mechanically blended metallurgical flux utilized during secondary refining in the ladle or melting in the induction fur...";
-$keywords = "Synthetic Slag, Foundry And Metallurgical Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Synthetic Slag Manufacturer & Supplier | Refractotherm';
+$description = 'Synthetic Slag is a pre-fused or mechanically blended metallurgical flux utilized during secondary refining in the ladle or melting in the induction fur...';
+$keywords = 'Synthetic Slag, Foundry And Metallurgical Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -113,8 +113,8 @@ include 'includes/head.php';
   <?php include 'includes/product_suggestion/foundry.php'; ?>
 
   <!-- INQUIRY CTA -->
-  <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+  <!-- <section class="cta" id="contact">
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>
@@ -147,7 +147,7 @@ include 'includes/head.php';
         </button>
       </form>
     </div>
-  </section>
+  </section> -->
 
   <!-- FOOTER -->
 

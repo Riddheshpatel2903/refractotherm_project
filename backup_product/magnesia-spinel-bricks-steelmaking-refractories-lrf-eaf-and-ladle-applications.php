@@ -2,9 +2,9 @@
 <html lang="en">
 
 <?php
-$title = "Magnesia Spinel Bricks Manufacturer & Supplier | Refractotherm";
-$description = "Magnesia Spinel Bricks are high-performance basic refractories composed of high-purity magnesia and synthetic alumina-magnesia spinel. They are widely u...";
-$keywords = "Magnesia Spinel Bricks, Steelmaking Refractories Lrf Eaf And Ladle Applications, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Magnesia Spinel Bricks Manufacturer & Supplier | Refractotherm';
+$description = 'Magnesia Spinel Bricks are high-performance basic refractories composed of high-purity magnesia and synthetic alumina-magnesia spinel. They are widely u...';
+$keywords = 'Magnesia Spinel Bricks, Steelmaking Refractories Lrf Eaf And Ladle Applications, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -115,7 +115,7 @@ include 'includes/head.php';
 
   <!-- INQUIRY CTA -->
   <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>

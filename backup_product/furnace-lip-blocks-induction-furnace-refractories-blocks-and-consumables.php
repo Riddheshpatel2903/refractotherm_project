@@ -2,9 +2,9 @@
 <html lang="en">
 
 <?php
-$title = "Furnace Lip Blocks Manufacturer & Supplier | Refractotherm";
-$description = "Furnace Lip Blocks are specially designed precast refractory components installed at the lip or edge areas of furnaces, ladles, and molten metal handlin...";
-$keywords = "Furnace Lip Blocks, Induction Furnace Refractories Blocks And Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Furnace Lip Blocks Manufacturer & Supplier | Refractotherm';
+$description = 'Furnace Lip Blocks are specially designed precast refractory components installed at the lip or edge areas of furnaces, ladles, and molten metal handlin...';
+$keywords = 'Furnace Lip Blocks, Induction Furnace Refractories Blocks And Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -126,7 +126,7 @@ include 'includes/head.php';
 
   <!-- INQUIRY CTA -->
   <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>

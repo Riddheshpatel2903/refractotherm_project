@@ -2,9 +2,9 @@
 <html lang="en">
 
 <?php
-$title = "Ccm Refractory Consumables And Spares Manufacturer & Supplier | Refractotherm";
-$description = "CCM Refractory Consumables & Spares are essential components used throughout continuous casting operations to ensure efficient molten steel handling, pr...";
-$keywords = "Ccm Refractory Consumables And Spares, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Ccm Refractory Consumables And Spares Manufacturer & Supplier | Refractotherm';
+$description = 'CCM Refractory Consumables & Spares are essential components used throughout continuous casting operations to ensure efficient molten steel handling, pr...';
+$keywords = 'Ccm Refractory Consumables And Spares, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -130,7 +130,7 @@ include 'includes/head.php';
 
   <!-- INQUIRY CTA -->
   <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>

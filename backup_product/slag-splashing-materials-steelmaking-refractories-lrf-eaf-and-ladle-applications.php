@@ -2,9 +2,9 @@
 <html lang="en">
 
 <?php
-$title = "Slag Splashing Materials Manufacturer & Supplier | Refractotherm";
-$description = "Slag Splashing Materials are specialized magnesia-based formulations utilized in the Basic Oxygen Furnace (BOF) to extend the refractory lining life. Fo...";
-$keywords = "Slag Splashing Materials, Steelmaking Refractories Lrf Eaf And Ladle Applications, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Slag Splashing Materials Manufacturer & Supplier | Refractotherm';
+$description = 'Slag Splashing Materials are specialized magnesia-based formulations utilized in the Basic Oxygen Furnace (BOF) to extend the refractory lining life. Fo...';
+$keywords = 'Slag Splashing Materials, Steelmaking Refractories Lrf Eaf And Ladle Applications, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -115,7 +115,7 @@ include 'includes/head.php';
 
   <!-- INQUIRY CTA -->
   <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>

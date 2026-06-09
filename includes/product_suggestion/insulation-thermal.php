@@ -52,7 +52,7 @@
           a.className = "carousel-item";
 
           const img = document.createElement("img");
-          img.src = prod.image || "assets/images/resources/ThermalInsulation.jpg";
+          img.src = prod.image || "assets/images/resources/ThermalInsulation.webp";
 
           const overlay = document.createElement("div");
           overlay.className = "industry-overlay";

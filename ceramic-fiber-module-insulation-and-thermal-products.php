@@ -1,10 +1,10 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 
 <?php
-$title = "Ceramic Fiber Module Manufacturer & Supplier | Refractotherm";
-$description = "Ceramic Fiber Modules consist of tightly folded or stacked ceramic fiber blankets, pre-compressed and banded to specific densities, complete with integr...";
-$keywords = "Ceramic Fiber Module, Insulation And Thermal Products, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Ceramic Fiber Module Manufacturer & Supplier | Refractotherm';
+$description = 'Ceramic Fiber Modules consist of tightly folded or stacked ceramic fiber blankets, pre-compressed and banded to specific densities, complete with integr...';
+$keywords = 'Ceramic Fiber Module, Insulation And Thermal Products, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -109,11 +109,11 @@ include 'includes/head.php';
   </section>
 
   <!-- SUGGESTED PRODUCTS -->
- <?php include 'includes/product_suggestion/insulation-thermal.php'?>
+ <?php include 'includes/product_suggestion/insulation-thermal.php' ?>
 
   <!-- INQUIRY CTA -->
-  <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+  <!-- <section class="cta" id="contact">
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>
@@ -146,7 +146,7 @@ include 'includes/head.php';
         </button>
       </form>
     </div>
-  </section>
+  </section> -->
 
   <!-- FOOTER -->
  

@@ -1,10 +1,10 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 
 <?php
-$title = "Pellet Plant Refractories Manufacturer & Supplier | Refractotherm";
-$description = "Pellet Plant Refractories are utilized throughout the iron ore pelletizing process, including the traveling grate, rotary kiln, and annular cooler, wher...";
-$keywords = "Pellet Plant Refractories, Blast Furnace And Dri Refractories, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Pellet Plant Refractories Manufacturer & Supplier | Refractotherm';
+$description = 'Pellet Plant Refractories are utilized throughout the iron ore pelletizing process, including the traveling grate, rotary kiln, and annular cooler, wher...';
+$keywords = 'Pellet Plant Refractories, Blast Furnace And Dri Refractories, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -113,8 +113,8 @@ include 'includes/head.php';
   <?php include 'includes/product_suggestion/blast-furnace.php'; ?>
 
   <!-- INQUIRY CTA -->
-  <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+  <!-- <section class="cta" id="contact">
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>
@@ -147,7 +147,7 @@ include 'includes/head.php';
         </button>
       </form>
     </div>
-  </section>
+  </section> -->
 
   <!-- FOOTER -->
 

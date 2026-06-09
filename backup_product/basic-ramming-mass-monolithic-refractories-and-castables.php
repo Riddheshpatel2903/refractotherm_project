@@ -2,9 +2,9 @@
 <html lang="en">
 
 <?php
-$title = "Basic Ramming Mass Manufacturer & Supplier | Refractotherm";
-$description = "Basic Ramming Mass is a high-performance unshaped refractory material manufactured primarily from high-purity magnesia and specially selected refractory...";
-$keywords = "Basic Ramming Mass, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Basic Ramming Mass Manufacturer & Supplier | Refractotherm';
+$description = 'Basic Ramming Mass is a high-performance unshaped refractory material manufactured primarily from high-purity magnesia and specially selected refractory...';
+$keywords = 'Basic Ramming Mass, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -127,12 +127,12 @@ include 'includes/head.php';
     </div>
   </section>
 
-  <?php include'includes/product_suggestion/monolithic.php';?>
+  <?php include 'includes/product_suggestion/monolithic.php'; ?>
 
 
   <!-- INQUIRY CTA -->
   <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>

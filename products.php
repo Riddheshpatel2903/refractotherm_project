@@ -2,8 +2,8 @@
 <html lang="en">
 
 <?php
-$title = "Products | Refractotherm";
-$description = "Refractotherm engineers high-performance refractory products, flow control systems and thermal solutions for global steel, cement, foundry and power industries.";
+$title = 'Products | Refractotherm';
+$description = 'Refractotherm engineers high-performance refractory products, flow control systems and thermal solutions for global steel, cement, foundry and power industries.';
 include 'includes/head.php';
 ?>
 
@@ -15,7 +15,7 @@ include 'includes/head.php';
 
   <!-- 1. PRODUCTS BANNER -->
   <section class="section section--dark page-banner-section">
-    <div class="page-banner-bg" style="background-image: url('assets/images/resources/hero-2.jfif');"></div>
+    <div class="page-banner-bg" style="background-image: url('assets/images/resources/hero-2.webp');"></div>
     <div class="container page-banner-container">
       <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Engineered Materials</span>
       <h2 class="page-banner-title">Refractory Products</h2>
@@ -75,7 +75,7 @@ include 'includes/head.php';
 
   <!-- 9. PRODUCT INQUIRY CTA -->
   <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url(assets/images/resources/hero-1.jfif);"></div>
+    <div class="cta__bg" style="background-image: url(assets/images/resources/hero-1.webp);"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Product Inquiry</span>

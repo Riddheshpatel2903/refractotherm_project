@@ -2,9 +2,9 @@
 <html lang="en">
 
 <?php
-$title = "Pre Cast Pre Fired Blocks Manufacturer & Supplier | Refractotherm";
-$description = "Pre-Cast Pre-Fired (PCPF) Blocks represent the pinnacle of modern refractory engineering. They are manufactured under strictly controlled factory condit...";
-$keywords = "Pre Cast Pre Fired Blocks, Pre Cast Shapes And Refractory Bricks, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Pre Cast Pre Fired Blocks Manufacturer & Supplier | Refractotherm';
+$description = 'Pre-Cast Pre-Fired (PCPF) Blocks represent the pinnacle of modern refractory engineering. They are manufactured under strictly controlled factory condit...';
+$keywords = 'Pre Cast Pre Fired Blocks, Pre Cast Shapes And Refractory Bricks, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -115,7 +115,7 @@ include 'includes/head.php';
 
   <!-- INQUIRY CTA -->
   <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>

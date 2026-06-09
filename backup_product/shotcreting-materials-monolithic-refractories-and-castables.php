@@ -2,9 +2,9 @@
 <html lang="en">
 
 <?php
-$title = "Shotcreting Materials Manufacturer & Supplier | Refractotherm";
-$description = "Shotcreting Materials are specialized monolithic refractory products designed for pneumatic placement through shotcrete equipment to create durable, hig...";
-$keywords = "Shotcreting Materials, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Shotcreting Materials Manufacturer & Supplier | Refractotherm';
+$description = 'Shotcreting Materials are specialized monolithic refractory products designed for pneumatic placement through shotcrete equipment to create durable, hig...';
+$keywords = 'Shotcreting Materials, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -148,7 +148,7 @@ Used in refinery heaters, process furnaces, incinerators, and thermal processing
 
   <!-- INQUIRY CTA -->
   <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>

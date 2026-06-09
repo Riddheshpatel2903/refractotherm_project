@@ -1,10 +1,10 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 
 <?php
-$title = "Monoblock Stoppers Manufacturer & Supplier | Refractotherm";
-$description = "Monoblock Stoppers are critical flow-control components used in continuous casting tundishes to regulate and control the flow of molten steel from the t...";
-$keywords = "Monoblock Stoppers, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Monoblock Stoppers Manufacturer & Supplier | Refractotherm';
+$description = 'Monoblock Stoppers are critical flow-control components used in continuous casting tundishes to regulate and control the flow of molten steel from the t...';
+$keywords = 'Monoblock Stoppers, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -150,8 +150,8 @@ include 'includes/head.php';
   <?php include 'includes/product_suggestion/ccm.php'; ?>
 
   <!-- INQUIRY CTA -->
-  <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+  <!-- <section class="cta" id="contact">
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>
@@ -184,7 +184,7 @@ include 'includes/head.php';
         </button>
       </form>
     </div>
-  </section>
+  </section> -->
 
   <!-- FOOTER -->
 

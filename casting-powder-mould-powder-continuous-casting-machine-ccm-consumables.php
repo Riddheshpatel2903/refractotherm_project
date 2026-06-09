@@ -1,10 +1,10 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 
 <?php
-$title = "Casting Powder Mould Powder Manufacturer & Supplier | Refractotherm";
-$description = "Casting Powder, commonly known as Mould Powder or Mold Flux, is an essential consumable used in continuous casting operations to ensure smooth and effic...";
-$keywords = "Casting Powder Mould Powder, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm";
+$title = 'Casting Powder Mould Powder Manufacturer & Supplier | Refractotherm';
+$description = 'Casting Powder, commonly known as Mould Powder or Mold Flux, is an essential consumable used in continuous casting operations to ensure smooth and effic...';
+$keywords = 'Casting Powder Mould Powder, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -124,8 +124,8 @@ include 'includes/head.php';
   <!-- SUGGESTED PRODUCTS -->
   <?php include 'includes/product_suggestion/ccm.php'; ?>
   <!-- INQUIRY CTA -->
-  <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.jfif');"></div>
+  <!-- <section class="cta" id="contact">
+    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>
@@ -158,7 +158,7 @@ include 'includes/head.php';
         </button>
       </form>
     </div>
-  </section>
+  </section> -->
 
 
   <?php include 'includes/footer.php'; ?>
