@@ -20,7 +20,7 @@ include 'includes/head.php';
     <div class="container page-banner-container">
       <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>STEELMAKING REFRACTORIES (LRF, EAF &amp;
         LADLE APPLICATIONS)</span>
-      <h2 class="page-banner-title">Magnesia Carbon Bricks</h2>
+      <h1 class="page-banner-title">Magnesia Carbon Bricks</h1>
     </div>
   </section>
 

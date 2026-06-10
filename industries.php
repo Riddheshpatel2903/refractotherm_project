@@ -10,6 +10,10 @@ include 'includes/head.php';
 <body>
   <?php
   $activePage = 'industries';
+  $breadcrumbs = [
+    ['label' => 'Home', 'url' => 'home'],
+    ['label' => 'Industries We Serve', 'url' => '']
+  ];
   include 'includes/navbar.php';
   ?>
 
@@ -18,11 +22,12 @@ include 'includes/head.php';
     <div class="page-banner-bg" style="background-image: url('assets/images/resources/hero-2.webp');"></div>
     <div class="container page-banner-container">
       <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Global Sectors</span>
-      <h2 class="page-banner-title">Industries We Serve</h2>
+      <h1 class="page-banner-title">Industries We Serve</h1>
       <p class="lead page-banner-lead">Engineering advanced high-temperature process solutions for heavy industries
         worldwide, ensuring maximum thermal reliability and lifespan.</p>
     </div>
   </section>
+  <?php include 'includes/breadcrumb.php'; ?>
 
   <!-- 2. INDUSTRIES LIST SECTION -->
   <section class="section">
@@ -39,7 +44,7 @@ include 'includes/head.php';
       </p>
 
       <!-- Steel & Metallurgical Industries -->
-      <h3 style="margin-top: 60px; margin-bottom: 30px; border-bottom: 2px solid var(--orange); padding-bottom: 10px;">Steel & Metallurgical Industries</h3>
+      <h3 id="steel-metallurgical" style="margin-top: 60px; margin-bottom: 30px; border-bottom: 2px solid var(--orange); padding-bottom: 10px;">Steel & Metallurgical Industries</h3>
       <div class="industry-stack-grid" style="margin-top: 0;">
         <div class="industry-stack-card reveal">
           <div class="industry-stack-img" style="background-image: url('assets/images/resources/IntegratedSteelPlants.webp');"></div>
@@ -68,7 +73,7 @@ include 'includes/head.php';
       </div>
 
       <!-- Furnace & Casting Operations -->
-      <h3 style="margin-top: 60px; margin-bottom: 30px; border-bottom: 2px solid var(--orange); padding-bottom: 10px;">Furnace & Casting Operations</h3>
+      <h3 id="furnace-casting" style="margin-top: 60px; margin-bottom: 30px; border-bottom: 2px solid var(--orange); padding-bottom: 10px;">Furnace & Casting Operations</h3>
       <div class="industry-stack-grid" style="margin-top: 0;">
         <div class="industry-stack-card reveal">
           <div class="industry-stack-img" style="background-image: url('assets/images/resources/InductionMeltingFurnaces.webp');"></div>
@@ -105,7 +110,7 @@ include 'includes/head.php';
       </div>
 
       <!-- Process Industries -->
-      <h3 style="margin-top: 60px; margin-bottom: 30px; border-bottom: 2px solid var(--orange); padding-bottom: 10px;">Process Industries</h3>
+      <h3 id="process-industries" style="margin-top: 60px; margin-bottom: 30px; border-bottom: 2px solid var(--orange); padding-bottom: 10px;">Process Industries</h3>
       <div class="industry-stack-grid" style="margin-top: 0;">
         <div class="industry-stack-card reveal">
           <div class="industry-stack-img" style="background-image: url('assets/images/resources/SpongeIron(DRI)Plants.webp');"></div>
@@ -132,7 +137,7 @@ include 'includes/head.php';
   </section>
 
   <!-- 11. INDUSTRY INQUIRY CTA -->
-  <section class="cta" id="contact">
+  <!-- <section class="cta" id="contact">
     <div class="cta__bg" style="background-image: url(assets/images/resources/hero-1.webp);"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
@@ -176,7 +181,7 @@ include 'includes/head.php';
         </button>
       </form>
     </div>
-  </section>
+  </section> -->
 
   <?php include 'includes/footer.php'; ?>
 </body>

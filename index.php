@@ -31,6 +31,9 @@ $routes = [
   'corporate-videos' => 'corporate-videos.php',
   'testimonials' => 'testimonials.php',
   'news-events' => 'news-events.php',
+  'global-steel-tech-expo-2026' => 'global-steel-tech-expo-2026.php',
+  'new-manufacturing-line-inauguration' => 'new-manufacturing-line-inauguration.php',
+  'excellence-in-engineering-award' => 'excellence-in-engineering-award.php',
   'quote' => 'quote.php'
 ];
 

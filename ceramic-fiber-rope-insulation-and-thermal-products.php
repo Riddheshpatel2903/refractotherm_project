@@ -19,7 +19,7 @@ include 'includes/head.php';
     </div>
     <div class="container page-banner-container">
       <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>INSULATION &amp; THERMAL PRODUCTS</span>
-      <h2 class="page-banner-title">Ceramic Fiber Rope</h2>
+      <h1 class="page-banner-title">Ceramic Fiber Rope</h1>
     </div>
   </section>
 

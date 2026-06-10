@@ -10,6 +10,11 @@ include 'includes/head.php';
 <body>
   <?php
   $activePage = 'testimonials';
+  $breadcrumbs = [
+    ['label' => 'Home', 'url' => 'home'],
+    ['label' => 'About Us', 'url' => 'about'],
+    ['label' => 'Testimonials', 'url' => '']
+  ];
   include 'includes/navbar.php';
   ?>
 
@@ -18,10 +23,11 @@ include 'includes/head.php';
     <div class="page-banner-bg" style="background-image: url('assets/images/resources/hero-1.webp');"></div>
     <div class="container page-banner-container">
       <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Client Success</span>
-      <h2 class="page-banner-title">Testimonials</h2>
+      <h1 class="page-banner-title">Testimonials</h1>
       <p class="lead page-banner-lead">Hear directly from our global partners and customers who trust our engineered refractory solutions.</p>
     </div>
   </section>
+  <?php include 'includes/breadcrumb.php'; ?>
 
   <!-- CONTENT -->
   <section class="section">

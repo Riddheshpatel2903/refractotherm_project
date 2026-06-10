@@ -20,7 +20,7 @@ include 'includes/head.php';
     <div class="container page-banner-container">
       <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>AOD REFRACTORIES (ARGON OXYGEN
         DECARBURIZATION)</span>
-      <h2 class="page-banner-title">Refractory Castables</h2>
+      <h1 class="page-banner-title">Refractory Castables</h1>
     </div>
   </section>
 

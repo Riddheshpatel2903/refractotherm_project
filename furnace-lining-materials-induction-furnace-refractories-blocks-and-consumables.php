@@ -20,7 +20,7 @@ include 'includes/head.php';
     <div class="container page-banner-container">
       <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>INDUCTION FURNACE REFRACTORIES, BLOCKS &
         CONSUMABLES</span>
-      <h2 class="page-banner-title">Furnace Lining Materials</h2>
+      <h1 class="page-banner-title">Furnace Lining Materials</h1>
     </div>
   </section>
 

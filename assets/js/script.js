@@ -92,27 +92,57 @@
 const points = document.querySelectorAll('.map-point, .map-point-national');
 
 if (points.length > 0) {
+  // Clear any active tooltip when clicking outside the map points
+  document.addEventListener('click', (e) => {
+    if (!e.target.closest('.map-point, .map-point-national')) {
+      document.querySelectorAll('.map-tooltip').forEach(tooltip => {
+        tooltip.classList.remove('active');
+      });
+    }
+  });
+
   points.forEach(point => {
-    point.addEventListener('mousemove', (e) => {
+    const showTooltip = () => {
       const title = point.getAttribute('data-title');
       const desc = point.getAttribute('data-desc');
 
       const tooltip = point.parentElement.querySelector('.map-tooltip');
       if (!tooltip) return;
 
+      // Close all other tooltips first
+      document.querySelectorAll('.map-tooltip').forEach(t => {
+        if (t !== tooltip) t.classList.remove('active');
+      });
+
       tooltip.classList.add('active');
       tooltip.querySelector('h4').innerText = title;
       tooltip.querySelector('p').innerText = desc;
 
-      const mapBoxRect = point.parentElement.getBoundingClientRect();
-      // Calculate relative position within the map box
-      tooltip.style.left = (e.clientX - mapBoxRect.left + 20) + 'px';
-      tooltip.style.top = (e.clientY - mapBoxRect.top - 20) + 'px';
-    });
+      const parentWidth = point.parentElement.clientWidth;
+      const tooltipWidth = tooltip.offsetWidth || 180;
 
-    point.addEventListener('mouseleave', () => {
+      // If point is on the right side of the map (past 65% width), show tooltip on the left of the point
+      if (point.offsetLeft > parentWidth * 0.65) {
+        tooltip.style.left = (point.offsetLeft - tooltipWidth - 15) + 'px';
+      } else {
+        tooltip.style.left = (point.offsetLeft + 15) + 'px';
+      }
+      tooltip.style.top = (point.offsetTop - 20) + 'px';
+    };
+
+    const hideTooltip = () => {
       const tooltip = point.parentElement.querySelector('.map-tooltip');
       if (tooltip) tooltip.classList.remove('active');
+    };
+
+    // Desktop hover support
+    point.addEventListener('mouseenter', showTooltip);
+    point.addEventListener('mouseleave', hideTooltip);
+
+    // Mobile tap support
+    point.addEventListener('click', (e) => {
+      e.stopPropagation(); // Stop event bubbling to document click listener
+      showTooltip();
     });
   });
 }
@@ -330,25 +360,25 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       year: "1998",
       title: "Beginning of an Industry Journey",
-      desc: "Our journey began with active involvement in the steel industry, gaining hands-on experience in world-class induction melting furnace technology, steel melting operations, refractory applications, and plant engineering.",
+      desc: "Our journey began with active involvement in the steel industry, gaining hands-on experience in world-class induction melting furnace technology, steel melting operations, refractory applications, and plant engineering. Working alongside experienced industry professionals provided valuable technical knowledge and practical exposure to modern steel manufacturing processes, laying a strong foundation for future growth and innovation. ",
       image: "assets/images/resources/site/beginningofindustry.webp"
     },
     {
       year: "2011",
       title: "Foundation of Entrepreneurship",
-      desc: "Established Induction Furnace Technomart with a vision to support the steel industry through specialized induction melting furnace spares, engineering solutions, and continuous casting machine (CCM) technologies.",
+      desc: "Established Induction Furnace Technomart with a vision to support the steel industry through specialized induction melting furnace spares, engineering solutions, furnace modernization, and Continuous Casting Machine (CCM) technologies. The company provided design improvements, furnace modifications, technical consultancy, maintenance support, and performance optimization solutions aimed at enhancing productivity, operational efficiency, and plant reliability. ",
       image: "assets/images/resources/site/companyoverview.webp"
     },
     {
       year: "2023",
       title: "Expanding Capabilities",
-      desc: "Founded Inducto Concast Engineers Pvt. Ltd. to strengthen our presence in the steel industry through advanced engineering solutions, specialized equipment technologies, and turnkey project execution.",
+      desc: "Founded Inducto Concast Engineers Pvt. Ltd. to strengthen our presence in the steel industry through advanced engineering solutions, specialized equipment technologies, and turnkey project execution. The company provides comprehensive solutions for Induction Melting Furnaces, Continuous Casting Machines (CCM), Scrap Processing Equipment, and Steel Plant Upgradation & Modification Projects, including engineering, equipment supply, turnkey project execution, technical consultancy, installation supervision, commissioning, and operational support. Leveraging extensive industry expertise, Inducto Concast Engineers helps steel manufacturers optimize production processes, improve operational efficiency, enhance product quality, and achieve sustainable growth through reliable, innovative, and cost-effective engineering solutions. ",
       image: "assets/images/resources/site/expandingcapabilities.webp"
     },
     {
       year: "2026",
       title: "Establishment of Refractotherm",
-      desc: "Established Refractotherm India LLP to provide advanced refractory, metallurgical, and thermal engineering solutions for the steel, foundry, ferro alloy, and process industries globally.",
+      desc: "Established Refractotherm India LLP to provide advanced refractory, metallurgical, and thermal engineering solutions for the steel, foundry, ferro alloy, and process industries. Built on nearly three decades of industry experience, the company specializes in high-performance refractory products, metallurgical consumables, and technical solutions designed to improve operational efficiency, enhance equipment performance, reduce downtime, and support sustainable industrial growth. Today, Refractotherm India LLP serves as a trusted partner to industries operating in demanding hightemperature environments across India and international markets, delivering quality products, technical expertise, and customer-focused solutions. ",
       image: "assets/images/resources/site/steelplants.webp"
     }
   ];
@@ -364,6 +394,7 @@ document.addEventListener("DOMContentLoaded", function () {
   let currentIndex = 0;
   const total = journeyData.length;
   const gap = 30;
+  let hasEntered = false;
 
   // Render cards
   journeyData.forEach((item) => {
@@ -379,6 +410,9 @@ document.addEventListener("DOMContentLoaded", function () {
     const content = document.createElement("div");
     content.className = "journey-content";
 
+    const header = document.createElement("div");
+    header.className = "journey-header";
+
     const yearLabel = document.createElement("span");
     yearLabel.className = "journey-year";
     yearLabel.textContent = item.year;
@@ -386,6 +420,9 @@ document.addEventListener("DOMContentLoaded", function () {
     const title = document.createElement("h3");
     title.className = "journey-title";
     title.textContent = item.title;
+
+    header.appendChild(yearLabel);
+    header.appendChild(title);
 
     const descWrapper = document.createElement("div");
     descWrapper.className = "journey-desc-wrapper";
@@ -396,8 +433,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     descWrapper.appendChild(desc);
 
-    content.appendChild(yearLabel);
-    content.appendChild(title);
+    content.appendChild(header);
     content.appendChild(descWrapper);
 
     card.appendChild(img);
@@ -438,6 +474,21 @@ document.addEventListener("DOMContentLoaded", function () {
 
     nextBtn.style.opacity = currentIndex >= maxIndex ? "0.3" : "1";
     nextBtn.style.pointerEvents = currentIndex >= maxIndex ? "none" : "auto";
+
+    // Update is-expanded class on active slide for mobile/tablet screens
+    if (window.innerWidth <= 1024 && hasEntered) {
+      slides.forEach((slide, idx) => {
+        if (idx === currentIndex) {
+          slide.classList.add("is-expanded");
+        } else {
+          slide.classList.remove("is-expanded");
+        }
+      });
+    } else {
+      slides.forEach(slide => {
+        slide.classList.remove("is-expanded");
+      });
+    }
   }
 
   prevBtn.addEventListener("click", () => {
@@ -494,6 +545,24 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Initialize
   setTimeout(updateSlider, 100);
+
+  // Auto-expand journey cards on mobile/tablet when scrolled into view
+  if (window.innerWidth <= 1024) {
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          setTimeout(() => {
+            hasEntered = true;
+            updateSlider();
+          }, 1000);
+          observer.unobserve(entry.target);
+        }
+      });
+    }, {
+      threshold: 0.3
+    });
+    observer.observe(wrapper);
+  }
 });
 
 /* =========================================

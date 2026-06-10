@@ -19,7 +19,7 @@ include 'includes/head.php';
     <div class="page-banner-bg" style="background-image: url('assets/images/resources/products/pneumatic_lining_vibrator.png'); opacity: 0.25;"></div>
     <div class="container page-banner-container">
       <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Specialized Equipment</span>
-      <h2 class="page-banner-title">LININGMAN® Pneumatic Lining Vibrator</h2>
+      <h1 class="page-banner-title">LININGMAN® Pneumatic Lining Vibrator</h1>
       <p class="lead page-banner-lead">Advanced Refractory Lining Equipment for Induction Melting Furnaces</p>
     </div>
   </section>
@@ -50,7 +50,7 @@ include 'includes/head.php';
     <div class="container">
       <div class="section__head section__head--center">
         <div>
-          <span class="eyebrow"><span class="eyebrow__bar"></span>Where It\'s Used</span>
+          <span class="eyebrow"><span class="eyebrow__bar"></span>Where It's Used</span>
           <h3>Standard Applications</h3>
         </div>
       </div>

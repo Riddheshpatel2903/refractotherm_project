@@ -26,10 +26,10 @@ if (!isset($activePage)) {
     <nav class="nav__menu" id="navMenu">
       <a href="home" class="nav__link <?php echo ($activePage == 'home') ? 'active' : ''; ?>">Home</a>
       <div class="nav__item drop-container">
-        <a href="about" class="nav__link <?php echo ($activePage == 'about' || $activePage == 'global') ? 'active' : ''; ?>">About Us <i class="fa-solid fa-chevron-down nav__chevron"></i></a>
+        <a href="about" class="nav__link <?php echo ($activePage == 'about' || $activePage == 'global' || $activePage == 'group-companies' || $activePage == 'corporate-videos' || $activePage == 'testimonials' || $activePage == 'news-events') ? 'active' : ''; ?>">About Us <i class="fa-solid fa-chevron-down nav__chevron"></i></a>
         <div class="nav__dropdown">
           <a href="about" class="<?php echo ($activePage == 'about') ? 'active' : ''; ?>">About Us</a>
-          <a href="global" class="<?php echo ($activePage == 'global') ? 'active' : ''; ?>">Global Page</a>
+          <a href="global" class="<?php echo ($activePage == 'global') ? 'active' : ''; ?>">Global Presence</a>
           <a href="group-companies" class="<?php echo ($activePage == 'group-companies') ? 'active' : ''; ?>">Group
             Companies</a>
             <a href="corporate-videos" class="<?php echo ($activePage == 'corporate-videos') ? 'active' : ''; ?>">Corporate
@@ -533,4 +533,4 @@ if (!isset($activePage)) {
     </div>
   </div>
 </header>
-<a href="https://wa.me/919924257892" target="_blank" class="chat-icon"><i class="fa fa-whatsapp"></i></a>
+<a href="https://wa.me/919924257892?text=Hello%20Refractotherm%20India,%20I%20am%20interested%20in%20your%20refractory%20and%20thermal%20solutions." target="_blank" class="chat-icon"><i class="fa fa-whatsapp"></i></a>

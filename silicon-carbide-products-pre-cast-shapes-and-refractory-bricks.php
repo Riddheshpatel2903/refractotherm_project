@@ -20,7 +20,7 @@ include 'includes/head.php';
     <div class="container page-banner-container">
       <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>PRE-CAST SHAPES &amp; REFRACTORY
         BRICKS</span>
-      <h2 class="page-banner-title">Silicon Carbide Products</h2>
+      <h1 class="page-banner-title">Silicon Carbide Products</h1>
     </div>
   </section>
 

@@ -10,6 +10,11 @@ include 'includes/head.php';
 <body>
   <?php
   $activePage = 'news-events';
+  $breadcrumbs = [
+    ['label' => 'Home', 'url' => 'home'],
+    ['label' => 'About Us', 'url' => 'about'],
+    ['label' => 'News & Events', 'url' => '']
+  ];
   include 'includes/navbar.php';
   ?>
 
@@ -18,10 +23,11 @@ include 'includes/head.php';
     <div class="page-banner-bg" style="background-image: url('assets/images/resources/hero-1.webp');"></div>
     <div class="container page-banner-container">
       <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Latest Updates</span>
-      <h2 class="page-banner-title">News & Events</h2>
+      <h1 class="page-banner-title">News & Events</h1>
       <p class="lead page-banner-lead">Keep up with our recent milestones, product launches, and upcoming industry exhibitions around the world.</p>
     </div>
   </section>
+  <?php include 'includes/breadcrumb.php'; ?>
 
   <!-- CONTENT -->
   <section class="section">
@@ -35,7 +41,7 @@ include 'includes/head.php';
       
       <div class="news-card-grid">
         <!-- Placeholder News 1 -->
-        <div class="news-card reveal">
+        <a href="global-steel-tech-expo-2026" class="news-card reveal">
           <div class="news-card__img-wrapper">
             <img class="news-card__img" src="assets/images/resources/site/steelplants.webp" alt="Global Steel Tech Expo 2026">
           </div>
@@ -44,10 +50,10 @@ include 'includes/head.php';
             <h3 class="news-card__title">Global Steel Tech Expo 2026</h3>
             <p class="news-card__desc">Join Refractotherm at the upcoming international steel exhibition where we will be showcasing our newest ultra-low cement castable formulations.</p>
           </div>
-        </div>
+        </a>
 
         <!-- Placeholder News 2 -->
-        <div class="news-card reveal">
+        <a href="new-manufacturing-line-inauguration" class="news-card reveal">
           <div class="news-card__img-wrapper">
             <img class="news-card__img" src="assets/images/resources/site/expandingcapabilities.webp" alt="New Manufacturing Line Inauguration">
           </div>
@@ -56,10 +62,10 @@ include 'includes/head.php';
             <h3 class="news-card__title">New Manufacturing Line Inauguration</h3>
             <p class="news-card__desc">We have successfully launched our new automated production line for high-purity alumina slide gate plates, increasing our global capacity.</p>
           </div>
-        </div>
+        </a>
 
         <!-- Placeholder News 3 -->
-        <div class="news-card reveal">
+        <a href="excellence-in-engineering-award" class="news-card reveal">
           <div class="news-card__img-wrapper">
             <img class="news-card__img" src="assets/images/resources/site/ourcomitment.webp" alt="Excellence in Engineering Award">
           </div>
@@ -68,7 +74,7 @@ include 'includes/head.php';
             <h3 class="news-card__title">Excellence in Engineering Award</h3>
             <p class="news-card__desc">Refractotherm is proud to announce we have been recognized for outstanding contributions to metallurgical engineering and thermal efficiency.</p>
           </div>
-        </div>
+        </a>
       </div>
     </div>
   </section>

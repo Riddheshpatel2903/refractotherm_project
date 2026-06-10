@@ -19,7 +19,7 @@ include 'includes/head.php';
     </div>
     <div class="container page-banner-container">
       <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>BLAST FURNACE &amp; DRI REFRACTORIES</span>
-      <h2 class="page-banner-title">Blast Furnace Trough Castables</h2>
+      <h1 class="page-banner-title">Blast Furnace Trough Castables</h1>
     </div>
   </section>
 

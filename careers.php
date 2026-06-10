@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 
 <?php
@@ -18,7 +18,7 @@ include 'includes/head.php';
     <div class="page-banner-bg" style="background-image: url('assets/images/resources/about-1.webp');"></div>
     <div class="container page-banner-container">
       <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Join Our Team</span>
-      <h2 class="page-banner-title">Careers at Refractotherm</h2>
+      <h1 class="page-banner-title">Careers at Refractotherm</h1>
       <p class="lead page-banner-lead">Build a career engineering solutions for the world's most extreme industrial
         environments.</p>
     </div>
@@ -42,6 +42,54 @@ include 'includes/head.php';
       <div class="split__media reveal">
         <img src="assets/images/resources/team.webp" alt="Engineering Team" loading="lazy" class="careers-image" />
       </div>
+    </div>
+  </section>
+
+    <!-- 6. APPLICATION FORM -->
+  <section class="cta" id="apply">
+    <div class="cta__bg" style="background-image: url(assets/images/resources/hero-2.webp);"></div>
+    <div class="container cta__grid">
+      <div class="cta__intro">
+        <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Join Us</span>
+        <h3>Submit Your Application.</h3>
+        <p>
+          Don't see a role that fits your exact profile? We are always looking for exceptional talent in refractory
+          engineering. Submit your resume to our global talent pool.
+        </p>
+        <ul class="cta__info">
+          <li><i class="fa-solid fa-envelope"></i> <a
+              href="mailto:info@refractotherm.com">info@refractotherm.com</a></li>
+        </ul>
+      </div>
+      <form class="cta__form"
+        onsubmit="event.preventDefault(); this.querySelector('button').textContent = 'Application Submitted âœ“';">
+        <h3>Application Form</h3>
+        <div class="row">
+          <input type="text" class="inputsections" placeholder="First Name" required />
+          <input type="text" class="inputsections" placeholder="Last Name" required />
+        </div>
+        <div class="row">
+          <input type="email" class="inputsections" placeholder="Email Address" required />
+          <input type="tel" class="inputsections" placeholder="Phone Number" required />
+        </div>
+        <select class="category inputsections" required>
+          <option value="">Position Applied For</option>
+          <option>Senior Application Engineer - Steel</option>
+          <option>R&D Scientist - Monolithics</option>
+          <option>Refractory Installation Supervisor</option>
+          <option>Technical Sales Manager</option>
+          <option>Graduate Engineering Trainee (GET)</option>
+          <option>General / Other Application</option>
+        </select>
+        <div class="careers-form-group">
+          <label class="careers-file-label">Upload Resume/CV (PDF/DOCX, Max 5MB)</label>
+          <input type="file" class="inputsections careers-file-input" accept=".pdf,.doc,.docx" required />
+        </div>
+        <textarea rows="3" class="inputsections" placeholder="Cover Letter / Brief Summary of Experience"></textarea>
+        <button type="submit" class="btn btn--primary btn--block">
+          Submit Application <i class="fa-solid fa-paper-plane"></i>
+        </button>
+      </form>
     </div>
   </section>
 
@@ -83,53 +131,7 @@ include 'includes/head.php';
   </section>
 
 
-  <!-- 6. APPLICATION FORM -->
-  <section class="cta" id="apply">
-    <div class="cta__bg" style="background-image: url(assets/images/resources/hero-2.webp);"></div>
-    <div class="container cta__grid">
-      <div class="cta__intro">
-        <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Join Us</span>
-        <h3>Submit Your Application.</h3>
-        <p>
-          Don't see a role that fits your exact profile? We are always looking for exceptional talent in refractory
-          engineering. Submit your resume to our global talent pool.
-        </p>
-        <ul class="cta__info">
-          <li><i class="fa-solid fa-envelope"></i> <a
-              href="mailto:info@refractotherm.com">info@refractotherm.com</a></li>
-        </ul>
-      </div>
-      <form class="cta__form"
-        onsubmit="event.preventDefault(); this.querySelector('button').textContent = 'Application Submitted Ã¢Å“â€œ';">
-        <h3>Application Form</h3>
-        <div class="row">
-          <input type="text" class="inputsections" placeholder="First Name" required />
-          <input type="text" class="inputsections" placeholder="Last Name" required />
-        </div>
-        <div class="row">
-          <input type="email" class="inputsections" placeholder="Email Address" required />
-          <input type="tel" class="inputsections" placeholder="Phone Number" required />
-        </div>
-        <select class="category inputsections" required>
-          <option value="">Position Applied For</option>
-          <option>Senior Application Engineer - Steel</option>
-          <option>R&D Scientist - Monolithics</option>
-          <option>Refractory Installation Supervisor</option>
-          <option>Technical Sales Manager</option>
-          <option>Graduate Engineering Trainee (GET)</option>
-          <option>General / Other Application</option>
-        </select>
-        <div class="careers-form-group">
-          <label class="careers-file-label">Upload Resume/CV (PDF/DOCX, Max 5MB)</label>
-          <input type="file" class="inputsections careers-file-input" accept=".pdf,.doc,.docx" required />
-        </div>
-        <textarea rows="3" class="inputsections" placeholder="Cover Letter / Brief Summary of Experience"></textarea>
-        <button type="submit" class="btn btn--primary btn--block">
-          Submit Application <i class="fa-solid fa-paper-plane"></i>
-        </button>
-      </form>
-    </div>
-  </section>
+
 
 
   <?php include 'includes/footer.php'; ?>

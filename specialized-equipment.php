@@ -11,6 +11,10 @@ include 'includes/head.php';
 <body>
   <?php
   $activePage = 'specialized-equipment';
+  $breadcrumbs = [
+    ['label' => 'Home', 'url' => 'home'],
+    ['label' => 'Specialized Equipment', 'url' => '']
+  ];
   include 'includes/navbar.php';
   ?>
 
@@ -19,10 +23,11 @@ include 'includes/head.php';
     <div class="page-banner-bg" style="background-image: url('assets/images/resources/hero-1.webp');"></div>
     <div class="container page-banner-container">
       <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Industrial Engineering</span>
-      <h2 class="page-banner-title">Specialized Equipment</h2>
+      <h1 class="page-banner-title">Specialized Equipment</h1>
       <p class="lead page-banner-lead">High-Performance Refractory Installation &amp; Flow Control Systems</p>
     </div>
   </section>
+  <?php include 'includes/breadcrumb.php'; ?>
 
   <!-- INTRODUCTION -->
   <section class="section">

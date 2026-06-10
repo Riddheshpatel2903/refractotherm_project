@@ -20,7 +20,7 @@ include 'includes/head.php';
     <div class="container page-banner-container">
       <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Flow Control and Ladle Slide Gate
         Systems</span>
-      <h2 class="page-banner-title">Seating Blocks</h2>
+      <h1 class="page-banner-title">Seating Blocks</h1>
     </div>
   </section>
 

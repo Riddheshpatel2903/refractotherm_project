@@ -19,7 +19,7 @@ include 'includes/head.php';
     <div class="page-banner-bg" style="background-image: url('assets/images/resources/products/aod_tuyeres.png'); opacity: 0.25;"></div>
     <div class="container page-banner-container">
       <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Specialized Equipment</span>
-      <h2 class="page-banner-title">AOD Tuyeres</h2>
+      <h1 class="page-banner-title">AOD Tuyeres</h1>
       <p class="lead page-banner-lead">High-Performance Gas Injection Solutions for AOD Converters</p>
     </div>
   </section>
@@ -45,44 +45,7 @@ include 'includes/head.php';
     </div>
   </section>
 
-  <!-- KEY FEATURES -->
-  <section class="section section--alt">
-    <div class="container">
-      <div class="section__head section__head--center">
-        <div>
-          <span class="eyebrow"><span class="eyebrow__bar"></span>Engineering Design</span>
-          <h3>Key Features</h3>
-        </div>
-      </div>
-      
-      <div class="careers-timeline" style="margin-top: 45px;">
-        <div class="careers-timeline-item reveal">
-          <div class="careers-timeline-body">
-            <h4 class="careers-timeline-title">Premium Materials</h4>
-            <p class="careers-timeline-desc">Outer pipe manufactured from high-grade stainless steel (AISI 304L/316L), similar to materials used in heat exchanger tubing, for enhanced durability and corrosion resistance.</p>
-          </div>
-        </div>
-        <div class="careers-timeline-item reveal">
-          <div class="careers-timeline-body">
-            <h4 class="careers-timeline-title">TIG Seal-Welded Connection</h4>
-            <p class="careers-timeline-desc">Frictionless, robust TIG seal-welded connections between the outer pipe and coupling ensure superior joint integrity and leak-proof performance under severe process pressures.</p>
-          </div>
-        </div>
-        <div class="careers-timeline-item reveal">
-          <div class="careers-timeline-body">
-            <h4 class="careers-timeline-title">Customized Configuration</h4>
-            <p class="careers-timeline-desc">Manufactured according to customer refractory wall thickness specifications, eliminating the need for on-site trimming or modifications.</p>
-          </div>
-        </div>
-        <div class="careers-timeline-item reveal">
-          <div class="careers-timeline-body">
-            <h4 class="careers-timeline-title">High Coaxiality Accuracy</h4>
-            <p class="careers-timeline-desc">Precision pipe assembly achieved through automated manufacturing systems guarantees consistent product quality and predictable gas flow profiles.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
+
 
   <!-- TECHNICAL SPECIFICATIONS TABLE -->
   <section class="section">
@@ -135,7 +98,7 @@ include 'includes/head.php';
 
       <div class="reveal" style="margin-top: 30px; padding: 25px; background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.06); border-radius: 8px;">
         <h4 style="color: var(--orange); font-family: 'Montserrat', sans-serif; margin-bottom: 15px;">Optional Materials &amp; Customization</h4>
-        <ul style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.8; list-style: disc; padding-left: 20px;">
+        <ul style="color: #000000ff; font-size: 0.95rem; line-height: 1.8; list-style: disc; padding-left: 20px;">
           <li>Stainless Steel AISI 316L available upon request for enhanced thermal stress tolerance.</li>
           <li>Customized designs can be manufactured according to customer-specific drawings and operational parameters.</li>
         </ul>
@@ -143,6 +106,42 @@ include 'includes/head.php';
     </div>
   </section>
 
+
+    <!-- KEY FEATURES -->
+  <section class="section section--alt">
+    <div class="container">
+      <div class="section__head section__head--center">
+        <div>
+          <span class="eyebrow"><span class="eyebrow__bar"></span>Engineering Design</span>
+          <h3>Key Features</h3>
+        </div>
+      </div>
+      
+      <div class="cert-grid" style="margin-top: 30px;">
+        <div class="cert reveal">
+          <i class="fa-solid fa-shield-halved"></i>
+          <h4>Premium Materials</h4>
+          <p>Outer pipe manufactured from high-grade stainless steel (AISI 304L/316L) for enhanced durability and corrosion resistance.</p>
+        </div>
+        <div class="cert reveal">
+          <i class="fa-solid fa-screwdriver-wrench"></i>
+          <h4>TIG Seal-Welded Connection</h4>
+          <p>Frictionless, robust TIG seal-welded connections ensure superior joint integrity and leak-proof performance.</p>
+        </div>
+        <div class="cert reveal">
+          <i class="fa-solid fa-compass-drafting"></i>
+          <h4>Customized Configuration</h4>
+          <p>Manufactured according to customer refractory wall thickness specifications, eliminating on-site trimming.</p>
+        </div>
+        <div class="cert reveal">
+          <i class="fa-solid fa-bullseye"></i>
+          <h4>High Coaxiality Accuracy</h4>
+          <p>Precision pipe assembly via automated systems guarantees consistent quality and predictable gas flow profiles.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+  
   <!-- METALLURGICAL EXCELLENCE -->
   <section class="section section--alt">
     <div class="container">

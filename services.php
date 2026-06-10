@@ -10,6 +10,10 @@ include 'includes/head.php';
 <body>
   <?php
   $activePage = 'services';
+  $breadcrumbs = [
+    ['label' => 'Home', 'url' => 'home'],
+    ['label' => 'Technical Services', 'url' => '']
+  ];
   include 'includes/navbar.php';
   ?>
 
@@ -19,10 +23,11 @@ include 'includes/head.php';
     </div>
     <div class="container page-banner-container">
       <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Technical Services</span>
-      <h2 class="page-banner-title">Comprehensive Installation, Maintenance & Engineering Support Services</h2>
+      <h1 class="page-banner-title">Comprehensive Installation, Maintenance & Engineering Support Services</h1>
       <p class="lead page-banner-lead">We provide comprehensive refractory installation, maintenance, inspection, and engineering support services designed to improve operational reliability, enhance furnace performance, maximize refractory service life, and optimize overall plant efficiency.</p>
     </div>
   </section>
+  <?php include 'includes/breadcrumb.php'; ?>
 
   <!-- 3. TECHNICAL SERVICES LIST (Alternating Rows) -->
   <section class="section section--alt">
@@ -311,7 +316,7 @@ include 'includes/head.php';
   </section>
 
   <!-- 4. INQUquiry CTA -->
-  <section class="cta" id="contact">
+  <!-- <section class="cta" id="contact">
     <div class="cta__bg" style="background-image: url(assets/images/resources/about-2.webp);"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
@@ -353,7 +358,7 @@ include 'includes/head.php';
         </button>
       </form>
     </div>
-  </section>
+  </section> -->
 
   <?php include 'includes/footer.php'; ?>
 </body>

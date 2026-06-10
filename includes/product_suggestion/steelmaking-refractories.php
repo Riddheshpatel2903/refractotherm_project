@@ -22,24 +22,24 @@
 <script>
   document.addEventListener("DOMContentLoaded", function () {
     const allCategoryProducts = [
-      { name: "Magnesia Carbon Bricks", link: "magnesia-carbon-bricks-steelmaking-refractories-lrf-eaf-and-ladle-applications.html", image: "assets/images/resources/products/aod/MagnesiaCarbonBricks.webp" },
-      { name: "Alumina Magnesia Carbon Bricks", link: "alumina-magnesia-carbon-bricks-steelmaking-refractories-lrf-eaf-and-ladle-applications.html", image: "assets/images/resources/products/steelmaking/AluminaMagnesiaCarbonBricks.webp" },
-      // { name: "Magnesia Spinel Bricks", link: "magnesia-spinel-bricks-steelmaking-refractories-lrf-eaf-and-ladle-applications.html", image: "assets/images/resources/products/steelmaking/MagnesiaSpinelBricks.webp" },
-      { name: "Slag Line Refractories", link: "slag-line-refractories-steelmaking-refractories-lrf-eaf-and-ladle-applications.html", image: "assets/images/resources/products/aod/SlagLineRefractories.webp" },
-      { name: "Ladle Castables", link: "ladle-castables-steelmaking-refractories-lrf-eaf-and-ladle-applications.html", image: "assets/images/resources/products/steelmaking/LadleCastables.webp" },
-      // { name: "Ladle Insulation Materials", link: "ladle-insulation-materials-steelmaking-refractories-lrf-eaf-and-ladle-applications.html", image: "assets/images/resources/products/steelmaking/LadleInsulationMaterials.webp" },
-      // { name: "Taphole Sleeves", link: "taphole-sleeves-steelmaking-refractories-lrf-eaf-and-ladle-applications.html", image: "assets/images/resources/products/steelmaking/TapholeSleeves.webp" },
-      { name: "Taphole Mass", link: "taphole-mass-steelmaking-refractories-lrf-eaf-and-ladle-applications.html", image: "assets/images/resources/products/steelmaking/TapholeMass.webp" },
-      // { name: "Slag Conditioner", link: "slag-conditioner-steelmaking-refractories-lrf-eaf-and-ladle-applications.html", image: "assets/images/resources/products/steelmaking/SlagConditioner.webp" },
-      // { name: "Slag Splashing Materials", link: "slag-splashing-materials-steelmaking-refractories-lrf-eaf-and-ladle-applications.html", image: "assets/images/resources/products/steelmaking/SlagSplashingMaterials.webp" },
-      // { name: "EAF Roof Refractories", link: "eaf-roof-refractories-steelmaking-refractories-lrf-eaf-and-ladle-applications.html", image: "assets/images/resources/products/steelmaking/EAFRoofRefractoriese.webp" },
-      // { name: "EAF Side Wall Bricks", link: "eaf-side-wall-bricks-steelmaking-refractories-lrf-eaf-and-ladle-applications.html", image: "assets/images/resources/products/steelmaking/EAFSideWallBricks.webp" },
-      { name: "EBT Refractories", link: "ebt-refractories-steelmaking-refractories-lrf-eaf-and-ladle-applications.html", image: "assets/images/resources/products/steelmaking/EBTRefractories.webp" },
-      { name: "Delta Sections", link: "delta-sections-steelmaking-refractories-lrf-eaf-and-ladle-applications.html", image: "assets/images/resources/products/steelmaking/DeltaSections.webp" },
-      // { name: "Delta Castables", link: "delta-castables-steelmaking-refractories-lrf-eaf-and-ladle-applications.html", image: "assets/images/resources/products/steelmaking/DeltaCastables.webp" },
-      { name: "Burner Blocks", link: "burner-blocks-steelmaking-refractories-lrf-eaf-and-ladle-applications.html", image: "assets/images/resources/products/aod/BurnerBlocks.webp" },
-      // { name: "EBT Filler Sand", link: "ebt-filler-sand-steelmaking-refractories-lrf-eaf-and-ladle-applications.html", image: "assets/images/resources/products/steelmaking/EBTFillerSand.webp" },
-      { name: "Refractory Gunning Mix", link: "refractory-gunning-mix-steelmaking-refractories-lrf-eaf-and-ladle-applications.html", image: "assets/images/resources/products/steelmaking/RefractoryGunningMix.webp" }
+      { name: "Magnesia Carbon Bricks", link: "magnesia-carbon-bricks-steelmaking-refractories-lrf-eaf-and-ladle-applications", image: "assets/images/resources/products/aod/MagnesiaCarbonBricks.webp" },
+      { name: "Alumina Magnesia Carbon Bricks", link: "alumina-magnesia-carbon-bricks-steelmaking-refractories-lrf-eaf-and-ladle-applications", image: "assets/images/resources/products/steelmaking/AluminaMagnesiaCarbonBricks.webp" },
+      // { name: "Magnesia Spinel Bricks", link: "magnesia-spinel-bricks-steelmaking-refractories-lrf-eaf-and-ladle-applications", image: "assets/images/resources/products/steelmaking/MagnesiaSpinelBricks.webp" },
+      { name: "Slag Line Refractories", link: "slag-line-refractories-steelmaking-refractories-lrf-eaf-and-ladle-applications", image: "assets/images/resources/products/aod/SlagLineRefractories.webp" },
+      { name: "Ladle Castables", link: "ladle-castables-steelmaking-refractories-lrf-eaf-and-ladle-applications", image: "assets/images/resources/products/steelmaking/LadleCastables.webp" },
+      // { name: "Ladle Insulation Materials", link: "ladle-insulation-materials-steelmaking-refractories-lrf-eaf-and-ladle-applications", image: "assets/images/resources/products/steelmaking/LadleInsulationMaterials.webp" },
+      // { name: "Taphole Sleeves", link: "taphole-sleeves-steelmaking-refractories-lrf-eaf-and-ladle-applications", image: "assets/images/resources/products/steelmaking/TapholeSleeves.webp" },
+      { name: "Taphole Mass", link: "taphole-mass-steelmaking-refractories-lrf-eaf-and-ladle-applications", image: "assets/images/resources/products/steelmaking/TapholeMass.webp" },
+      // { name: "Slag Conditioner", link: "slag-conditioner-steelmaking-refractories-lrf-eaf-and-ladle-applications", image: "assets/images/resources/products/steelmaking/SlagConditioner.webp" },
+      // { name: "Slag Splashing Materials", link: "slag-splashing-materials-steelmaking-refractories-lrf-eaf-and-ladle-applications", image: "assets/images/resources/products/steelmaking/SlagSplashingMaterials.webp" },
+      // { name: "EAF Roof Refractories", link: "eaf-roof-refractories-steelmaking-refractories-lrf-eaf-and-ladle-applications", image: "assets/images/resources/products/steelmaking/EAFRoofRefractoriese.webp" },
+      // { name: "EAF Side Wall Bricks", link: "eaf-side-wall-bricks-steelmaking-refractories-lrf-eaf-and-ladle-applications", image: "assets/images/resources/products/steelmaking/EAFSideWallBricks.webp" },
+      { name: "EBT Refractories", link: "ebt-refractories-steelmaking-refractories-lrf-eaf-and-ladle-applications", image: "assets/images/resources/products/steelmaking/EBTRefractories.webp" },
+      // { name: "Delta Sections", link: "delta-sections-steelmaking-refractories-lrf-eaf-and-ladle-applications", image: "assets/images/resources/products/steelmaking/DeltaSections.webp" },
+      { name: "Delta Castables", link: "delta-castables-steelmaking-refractories-lrf-eaf-and-ladle-applications", image: "assets/images/resources/products/steelmaking/DeltaCastables.webp" },
+      { name: "Burner Blocks", link: "burner-blocks-steelmaking-refractories-lrf-eaf-and-ladle-applications", image: "assets/images/resources/products/aod/BurnerBlocks.webp" },
+      // { name: "EBT Filler Sand", link: "ebt-filler-sand-steelmaking-refractories-lrf-eaf-and-ladle-applications", image: "assets/images/resources/products/steelmaking/EBTFillerSand.webp" },
+      { name: "Refractory Gunning Mix", link: "refractory-gunning-mix-steelmaking-refractories-lrf-eaf-and-ladle-applications", image: "assets/images/resources/products/steelmaking/RefractoryGunningMix.webp" }
     ];
 
     const wrappers = document.querySelectorAll(".custom-carousel-wrapper");

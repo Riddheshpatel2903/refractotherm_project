@@ -10,6 +10,10 @@ include 'includes/head.php';
 <body>
   <?php
   $activePage = 'contact';
+  $breadcrumbs = [
+    ['label' => 'Home', 'url' => 'home'],
+    ['label' => 'Contact Us', 'url' => '']
+  ];
   include 'includes/navbar.php';
   ?>
 
@@ -18,11 +22,12 @@ include 'includes/head.php';
     <div class="page-banner-bg" style="background-image: url('assets/images/resources/hero-1.webp');"></div>
     <div class="container page-banner-container">
       <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Get In Touch</span>
-      <h2 class="page-banner-title">Contact Us</h2>
+      <h1 class="page-banner-title">Contact Us</h1>
       <p class="lead page-banner-lead">Reach out to our engineering, sales, or support teams globally for technical
         inquiries and commercial partnerships.</p>
     </div>
   </section>
+  <?php include 'includes/breadcrumb.php'; ?>
 
   <!-- 2. CONTACT INFO & FORM -->
   <section class="section">

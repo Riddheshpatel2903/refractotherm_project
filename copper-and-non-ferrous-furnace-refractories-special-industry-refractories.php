@@ -19,7 +19,7 @@ include 'includes/head.php';
     </div>
     <div class="container page-banner-container">
       <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>SPECIAL INDUSTRY REFRACTORIES</span>
-      <h2 class="page-banner-title">Copper & Non-Ferrous Furnace Refractories</h2>
+      <h1 class="page-banner-title">Copper & Non-Ferrous Furnace Refractories</h1>
     </div>
   </section>
 

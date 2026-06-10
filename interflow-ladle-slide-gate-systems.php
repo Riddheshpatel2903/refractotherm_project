@@ -19,7 +19,7 @@ include 'includes/head.php';
     <div class="page-banner-bg" style="background-image: url('assets/images/resources/products/interflow_slide_gate.png'); opacity: 0.25;"></div>
     <div class="container page-banner-container">
       <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Specialized Equipment</span>
-      <h2 class="page-banner-title">INTERFLOW® Ladle Slide Gate Systems</h2>
+      <h1 class="page-banner-title">INTERFLOW® Ladle Slide Gate Systems</h1>
       <p class="lead page-banner-lead">Advanced Flow Control Solutions for Steelmaking Operations</p>
     </div>
   </section>
@@ -49,7 +49,7 @@ include 'includes/head.php';
   <section class="section section--alt">
     <div class="container split">
       <div class="split__body reveal">
-        <span class="eyebrow"><span class="eyebrow__bar"></span>Target Sectors</span>
+        <!-- <span class="eyebrow"><span class="eyebrow__bar"></span>Target Sectors</span> -->
         <h3>Applications</h3>
         <ul class="check overview-check-list">
           <li class="overview-check-item"><i class="fa-solid fa-circle-dot" style="color: var(--orange); margin-right: 8px;"></i> Steel Ladles</li>
@@ -61,9 +61,9 @@ include 'includes/head.php';
         </ul>
       </div>
       <div class="split__body reveal">
-        <span class="eyebrow"><span class="eyebrow__bar"></span>Product Line</span>
+        <!-- <span class="eyebrow"><span class="eyebrow__bar"></span>Product Line</span> -->
         <h3>Product Range</h3>
-        <p>The INTERFLOW® slide gate family includes highly standard configurations to match various ladle capacities:</p>
+        <!-- <p>The INTERFLOW® slide gate family includes highly standard configurations to match various ladle capacities:</p> -->
         <ul class="check overview-check-list">
           <li class="overview-check-item"><i class="fa-solid fa-gears" style="color: var(--orange); margin-right: 8px;"></i> INTERFLOW® Type 1QC Hydraulic Ladle Slide Gate Systems</li>
           <li class="overview-check-item"><i class="fa-solid fa-gears" style="color: var(--orange); margin-right: 8px;"></i> INTERFLOW® Type 2QC Hydraulic Ladle Slide Gate Systems</li>
