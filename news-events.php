@@ -10,11 +10,6 @@ include 'includes/head.php';
 <body>
   <?php
   $activePage = 'news-events';
-  $breadcrumbs = [
-    ['label' => 'Home', 'url' => 'home'],
-    ['label' => 'About Us', 'url' => 'about'],
-    ['label' => 'News & Events', 'url' => '']
-  ];
   include 'includes/navbar.php';
   ?>
 
@@ -27,7 +22,6 @@ include 'includes/head.php';
       <p class="lead page-banner-lead">Keep up with our recent milestones, product launches, and upcoming industry exhibitions around the world.</p>
     </div>
   </section>
-  <?php include 'includes/breadcrumb.php'; ?>
 
   <!-- CONTENT -->
   <section class="section">

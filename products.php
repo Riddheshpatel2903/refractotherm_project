@@ -10,10 +10,6 @@ include 'includes/head.php';
 <body>
   <?php
   $activePage = 'products';
-  $breadcrumbs = [
-    ['label' => 'Home', 'url' => 'home'],
-    ['label' => 'Products', 'url' => '']
-  ];
   include 'includes/navbar.php';
   ?>
 
@@ -26,7 +22,6 @@ include 'includes/head.php';
       <p class="lead page-banner-lead">Complete Refractory, Metallurgical & Thermal Engineering Solutions</p>
     </div>
   </section>
-  <?php include 'includes/breadcrumb.php'; ?>
 
 
   <!-- 3. PRODUCT CATEGORIES GRID -->

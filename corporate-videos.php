@@ -10,11 +10,6 @@ include 'includes/head.php';
 <body>
   <?php
   $activePage = 'corporate-videos';
-  $breadcrumbs = [
-    ['label' => 'Home', 'url' => 'home'],
-    ['label' => 'About Us', 'url' => 'about'],
-    ['label' => 'Corporate Videos', 'url' => '']
-  ];
   include 'includes/navbar.php';
   ?>
 
@@ -27,7 +22,6 @@ include 'includes/head.php';
       <p class="lead page-banner-lead">Explore our state-of-the-art facilities and witness our high-performance solutions in action.</p>
     </div>
   </section>
-  <?php include 'includes/breadcrumb.php'; ?>
 
   <!-- CONTENT -->
   <section class="section">

@@ -11,10 +11,6 @@ include 'includes/head.php';
 <body>
   <?php
   $activePage = 'specialized-equipment';
-  $breadcrumbs = [
-    ['label' => 'Home', 'url' => 'home'],
-    ['label' => 'Specialized Equipment', 'url' => '']
-  ];
   include 'includes/navbar.php';
   ?>
 
@@ -27,7 +23,6 @@ include 'includes/head.php';
       <p class="lead page-banner-lead">High-Performance Refractory Installation &amp; Flow Control Systems</p>
     </div>
   </section>
-  <?php include 'includes/breadcrumb.php'; ?>
 
   <!-- INTRODUCTION -->
   <section class="section">

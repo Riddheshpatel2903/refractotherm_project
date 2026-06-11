@@ -10,10 +10,6 @@ include 'includes/head.php';
 <body>
   <?php
   $activePage = 'about';
-  $breadcrumbs = [
-    ['label' => 'Home', 'url' => 'home'],
-    ['label' => 'About Us', 'url' => '']
-  ];
   include 'includes/navbar.php';
   ?>
 
@@ -27,7 +23,6 @@ include 'includes/head.php';
         decades, serving the world's most demanding heavy industries.</p>
     </div>
   </section>
-  <?php include 'includes/breadcrumb.php'; ?>
 
   <!-- 2. COMPANY OVERVIEW -->
   <section class="section" id="overview">

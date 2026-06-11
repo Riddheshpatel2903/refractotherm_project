@@ -10,10 +10,6 @@ include 'includes/head.php';
 <body>
   <?php
   $activePage = 'industries';
-  $breadcrumbs = [
-    ['label' => 'Home', 'url' => 'home'],
-    ['label' => 'Industries We Serve', 'url' => '']
-  ];
   include 'includes/navbar.php';
   ?>
 
@@ -27,7 +23,6 @@ include 'includes/head.php';
         worldwide, ensuring maximum thermal reliability and lifespan.</p>
     </div>
   </section>
-  <?php include 'includes/breadcrumb.php'; ?>
 
   <!-- 2. INDUSTRIES LIST SECTION -->
   <section class="section">

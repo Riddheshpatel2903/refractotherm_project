@@ -10,11 +10,6 @@ include 'includes/head.php';
 <body>
   <?php
   $activePage = 'testimonials';
-  $breadcrumbs = [
-    ['label' => 'Home', 'url' => 'home'],
-    ['label' => 'About Us', 'url' => 'about'],
-    ['label' => 'Testimonials', 'url' => '']
-  ];
   include 'includes/navbar.php';
   ?>
 
@@ -27,7 +22,6 @@ include 'includes/head.php';
       <p class="lead page-banner-lead">Hear directly from our global partners and customers who trust our engineered refractory solutions.</p>
     </div>
   </section>
-  <?php include 'includes/breadcrumb.php'; ?>
 
   <!-- CONTENT -->
   <section class="section">

@@ -11,11 +11,6 @@ include 'includes/head.php';
 <body>
   <?php
   $activePage = 'global';
-  $breadcrumbs = [
-    ['label' => 'Home', 'url' => 'home'],
-    ['label' => 'About Us', 'url' => 'about'],
-    ['label' => 'Global Presence', 'url' => '']
-  ];
   include 'includes/navbar.php';
   ?>
 
@@ -26,7 +21,6 @@ include 'includes/head.php';
       <h1 class="page-banner-title">Global Presence</h1>
     </div>
   </section>
-  <?php include 'includes/breadcrumb.php'; ?>
   <!-- =========================================
      GLOBAL & NATIONAL NETWORK SECTION
 ========================================= -->

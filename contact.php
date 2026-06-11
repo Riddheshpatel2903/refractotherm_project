@@ -10,10 +10,6 @@ include 'includes/head.php';
 <body>
   <?php
   $activePage = 'contact';
-  $breadcrumbs = [
-    ['label' => 'Home', 'url' => 'home'],
-    ['label' => 'Contact Us', 'url' => '']
-  ];
   include 'includes/navbar.php';
   ?>
 
@@ -27,7 +23,6 @@ include 'includes/head.php';
         inquiries and commercial partnerships.</p>
     </div>
   </section>
-  <?php include 'includes/breadcrumb.php'; ?>
 
   <!-- 2. CONTACT INFO & FORM -->
   <section class="section">
