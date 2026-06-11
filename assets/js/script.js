@@ -449,6 +449,9 @@ document.addEventListener("DOMContentLoaded", function () {
     if (window.innerWidth <= 768) {
       return carousel.clientWidth - 20; // almost full width on mobile
     }
+    if (window.innerWidth >= 2300) {
+      return 550;
+    }
     return 380;
   }
 

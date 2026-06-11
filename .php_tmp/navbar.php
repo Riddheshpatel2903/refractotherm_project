@@ -10,7 +10,7 @@ $specialized_detail_pages = [
   'aod-tuyeres'
 ];
 $main_non_product_pages = [
-  'home', 'index', 'about', 'global', 'group-companies', 'corporate-videos', 'testimonials', 'news-events', 'careers', 'contact', 'services', 'quote', 'specialized-equipment', 'products', 'industries'
+  'home', 'index', 'about', 'global', 'group-companies', 'corporate-videos', 'testimonials', 'news-events', 'careers', 'contact', 'technical-services', 'quote', 'specialized-equipment', 'products', 'industries-we-serve'
 ];
 
 if (in_array($current_page_name, $specialized_detail_pages)) {
@@ -244,7 +244,7 @@ if (in_array($current_page_name, $specialized_detail_pages)) {
 
                       <a href="aluminium-furnace-refractories-special-industry-refractories">Aluminium Furnace
                         Refractories</a>
-                      <a href="copper-and-non-ferrous-furnace-refractories-special-industry-refractories">Copper &
+                      <a href="copper-and-non-ferrous-furnace-refractories-special-industry-refractories">Copper & Non Ferrous Furnace Refractories</a>
                         <a href="incinerator-refractories-special-industry-refractories">Incinerator
                           Refractories</a>
                     </div>
@@ -537,8 +537,8 @@ if (in_array($current_page_name, $specialized_detail_pages)) {
           </div>
         </div>
       </div>
-      <a href="industries" class="nav__link <?php echo ($activePage == 'industries') ? 'active' : ''; ?>">Industries We Serve</a>
-      <a href="services" class="nav__link <?php echo ($activePage == 'services' || $activePage == 'service-details') ? 'active' : ''; ?>">Technical Services</a>
+      <a href="industries-we-serve" class="nav__link <?php echo ($activePage == 'industries-we-serve') ? 'active' : ''; ?>">Industries We Serve</a>
+      <a href="technical-services" class="nav__link <?php echo ($activePage == 'technical-services' || $activePage == 'service-details') ? 'active' : ''; ?>">Technical Services</a>
       <a href="specialized-equipment" class="nav__link <?php echo ($activePage == 'specialized-equipment') ? 'active' : ''; ?>">Specialized Equipment</a>
     </nav>
 

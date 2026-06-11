@@ -29,7 +29,7 @@ include 'includes/head.php';
       <li><a href="home">Home</a></li>
       <li><a href="products">Products</a></li>
       <li><a href="products#aod-refractories-argon-oxygen-decarburization">AOD REFRACTORIES</a></li>
-      <li class="active">Backup Insulation Materials Details</li>
+      <li class="active">Backup Insulation Materials </li>
     </ol>
   </nav>
 
@@ -73,52 +73,83 @@ include 'includes/head.php';
     </div>
   </section>
 
-  <!-- ENGINEERING SPECIFICS -->
-  <section class="section section--alt">
+
+  <!-- APPLICATIONS & BENEFITS -->
+  <section class="section">
     <div class="container">
-      <div class="section__head section__head--center">
+      <div class="section__head">
         <div>
-          <span class="eyebrow"><span class="eyebrow__bar"></span>Application</span>
-          <h3>Standard Applications</h3>
+          <span class="eyebrow"><span class="eyebrow__bar"></span>Usage Areas</span>
+          <h3>Applications.</h3>
         </div>
       </div>
-      <div class="careers-timeline">
-        <div class="careers-timeline-item reveal">
-          <div class="careers-timeline-body">
-            <h4 class="careers-timeline-title">AOD Converters</h4>
-            <p class="careers-timeline-desc">Stainless steel refining and decarburization.</p>
-          </div>
+      <div class="benefit-list-container" style="margin-bottom: 50px;">
+        <div class="benefit-list-item reveal">
+          <i class="fa-solid fa-check benefit-tick"></i>
+          <h4 class="benefit-text">AOD Converters</h4>
         </div>
-        <div class="careers-timeline-item reveal">
-          <div class="careers-timeline-body">
-            <h4 class="careers-timeline-title">
-              Foundries & Metal Processing
-            </h4>
-            <p class="careers-timeline-desc">
-              Suitable for melting and testing of ferrous and non-ferrous metals.
-            </p>
-          </div>
+        <div class="benefit-list-item reveal">
+          <i class="fa-solid fa-check benefit-tick"></i>
+          <h4 class="benefit-text">Stainless Steel Production</h4>
         </div>
-        <div class="careers-timeline-item reveal">
-          <div class="careers-timeline-body">
-            <h4 class="careers-timeline-title">
-              Chemical & Research Labs
-            </h4>
-            <p class="careers-timeline-desc">
-              Provides reliable performance for high-temperature experiments.
-            </p>
-          </div>
+        <div class="benefit-list-item reveal">
+          <i class="fa-solid fa-check benefit-tick"></i>
+          <h4 class="benefit-text">Alloy Steel Manufacturing</h4>
         </div>
-        <div class="careers-timeline-item reveal">
-          <div class="careers-timeline-body">
-            <h4 class="careers-timeline-title">Alloy Steel Foundries</h4>
-            <p class="careers-timeline-desc">Production of high-grade specialty alloys.
-          </div>
+        <div class="benefit-list-item reveal">
+          <i class="fa-solid fa-check benefit-tick"></i>
+          <h4 class="benefit-text">Secondary Metallurgy Operations</h4>
+        </div>
+        <div class="benefit-list-item reveal">
+          <i class="fa-solid fa-check benefit-tick"></i>
+          <h4 class="benefit-text">Special Steel Production</h4>
+        </div>
+      </div>
+
+      <div class="section__head">
+        <div>
+          <span class="eyebrow"><span class="eyebrow__bar"></span>Value Added</span>
+          <h3>Key Benefits.</h3>
+        </div>
+      </div>
+      <div class="benefit-list-container">
+        <div class="benefit-list-item reveal">
+          <i class="fa-solid fa-check benefit-tick"></i>
+          <h4 class="benefit-text">Excellent Resistance to Slag Corrosion</h4>
+        </div>
+        <div class="benefit-list-item reveal">
+          <i class="fa-solid fa-check benefit-tick"></i>
+          <h4 class="benefit-text">Superior Thermal Shock Resistance</h4>
+        </div>
+        <div class="benefit-list-item reveal">
+          <i class="fa-solid fa-check benefit-tick"></i>
+          <h4 class="benefit-text">Extended Refractory Service Life</h4>
+        </div>
+        <div class="benefit-list-item reveal">
+          <i class="fa-solid fa-check benefit-tick"></i>
+          <h4 class="benefit-text">Improved Process Stability</h4>
+        </div>
+        <div class="benefit-list-item reveal">
+          <i class="fa-solid fa-check benefit-tick"></i>
+          <h4 class="benefit-text">Enhanced Converter Performance</h4>
+        </div>
+        <div class="benefit-list-item reveal">
+          <i class="fa-solid fa-check benefit-tick"></i>
+          <h4 class="benefit-text">Reduced Maintenance Requirements</h4>
+        </div>
+        <div class="benefit-list-item reveal">
+          <i class="fa-solid fa-check benefit-tick"></i>
+          <h4 class="benefit-text">Increased Operational Reliability</h4>
+        </div>
+        <div class="benefit-list-item reveal">
+          <i class="fa-solid fa-check benefit-tick"></i>
+          <h4 class="benefit-text">Optimized Production Efficiency</h4>
         </div>
       </div>
     </div>
   </section>
 
+  <!-- SUGGESTED PRODUCTS -->
   <?php include 'includes/product_suggestion/aod-refractories.php'; ?>
 
   <!-- INQUIRY CTA -->

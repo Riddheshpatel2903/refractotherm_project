@@ -204,7 +204,7 @@ include 'includes/head.php';
       </div>
       <div class="home-industries-grid">
         <!-- Card 1: Steel & Metallurgical Industries -->
-        <a href="industries.php#steel-metallurgical" class="home-industry-card reveal">
+        <a href="industries-we-serve#steel-metallurgical" class="home-industry-card reveal">
           <div class="home-industry-card-bg" style="background-image: url('assets/images/resources/IntegratedSteelPlants.webp');"></div>
           <div class="home-industry-card-overlay"></div>
           <div class="home-industry-card-content">
@@ -216,7 +216,7 @@ include 'includes/head.php';
         </a>
 
         <!-- Card 2: Furnace & Casting Operations -->
-        <a href="industries.php#furnace-casting" class="home-industry-card reveal">
+        <a href="industries-we-serve#furnace-casting" class="home-industry-card reveal">
           <div class="home-industry-card-bg" style="background-image: url('assets/images/resources/ElectricArcFurnaces(EAF).webp');"></div>
           <div class="home-industry-card-overlay"></div>
           <div class="home-industry-card-content">
@@ -228,7 +228,7 @@ include 'includes/head.php';
         </a>
 
         <!-- Card 3: Process Industries -->
-        <a href="industries.php#process-industries" class="home-industry-card reveal">
+        <a href="industries-we-serve#process-industries" class="home-industry-card reveal">
           <div class="home-industry-card-bg" style="background-image: url('assets/images/resources/CementPlants.webp');"></div>
           <div class="home-industry-card-overlay"></div>
           <div class="home-industry-card-content">
@@ -395,7 +395,7 @@ include 'includes/head.php';
         </div>
       </div>
       <div class="container btn-cnt">
-        <a href="services" class="btn btn--ghost">View All <i class="fa-solid fa-arrow-right"></i></a>
+        <a href="technical-services" class="btn btn--ghost">View All <i class="fa-solid fa-arrow-right"></i></a>
       </div>
 
     </div>

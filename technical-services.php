@@ -9,7 +9,7 @@ include 'includes/head.php';
 
 <body>
   <?php
-  $activePage = 'services';
+  $activePage = 'technical-services';
   include 'includes/navbar.php';
   ?>
 

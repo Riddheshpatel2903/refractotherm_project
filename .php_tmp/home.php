@@ -395,7 +395,7 @@ include 'includes/head.php';
         </div>
       </div>
       <div class="container btn-cnt">
-        <a href="services" class="btn btn--ghost">View All <i class="fa-solid fa-arrow-right"></i></a>
+        <a href="technical-services" class="btn btn--ghost">View All <i class="fa-solid fa-arrow-right"></i></a>
       </div>
 
     </div>
