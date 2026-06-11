@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 
 <?php
@@ -23,6 +23,15 @@ include 'includes/head.php';
       <h2 class="page-banner-title">Ladle Covering Compounds</h2>
     </div>
   </section>
+
+  <nav class="breadcrumb-nav" aria-label="Breadcrumb">
+    <ol class="breadcrumb">
+      <li><a href="home">Home</a></li>
+      <li><a href="products">Products</a></li>
+      <li><a href="products#continuous-casting-machine-ccm-consumables">CONTINUOUS CASTING MACHINE CONSUMABLES</a></li>
+      <li class="active">Ladle Covering Compounds Details</li>
+    </ol>
+  </nav>
 
   <!-- CONTENT -->
   <section class="section">

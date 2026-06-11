@@ -24,6 +24,15 @@ include 'includes/head.php';
     </div>
   </section>
 
+  <nav class="breadcrumb-nav" aria-label="Breadcrumb">
+    <ol class="breadcrumb">
+      <li><a href="home">Home</a></li>
+      <li><a href="products">Products</a></li>
+      <li><a href="products#special-steel-and-vacuum-refractories">SPECIAL STEEL &amp; VACUUM REFRACTORIES</a></li>
+      <li class="active">VD Refractories Details</li>
+    </ol>
+  </nav>
+
   <!-- CONTENT -->
   <section class="section">
     <div class="container split">

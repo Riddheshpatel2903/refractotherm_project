@@ -561,7 +561,6 @@ p {
 }
 
 
-
 .nav__link i {
     font-size: 0.65rem;
 }
@@ -726,6 +725,7 @@ p {
     position: relative;
     transition: color 0.3s ease;
     cursor: pointer;
+    text-decoration: none;
 }
 
 .mega__category-title::after {
@@ -954,10 +954,16 @@ p {
     border-top: 3px solid var(--orange);
 }
 
+.footer__logo-container {
+    width: 30%;
+    margin: 0 auto;
+    margin-bottom: 2rem;
+}
+
 .footer__title {
     text-align: center;
-    color: var(--orange);
-    font-size: 2.5rem;
+    color: var(--paper);
+    /* font-size: 2.5rem; */
     font-weight: 700;
     margin-bottom: 50px;
     font-family: 'Montserrat', sans-serif;
@@ -4009,7 +4015,7 @@ p {
     }
 
     100% {
-        transform: translateX(calc(-50% - 15px));
+        transform: translateX(calc(-50% - 10px));
     }
 }
 
@@ -4061,7 +4067,7 @@ p {
     right: 0;
     padding: 30px;
     z-index: 2;
-    transform: translateY(20px);
+    transform: translateY(0);
     transition: transform 0.4s ease;
 }
 
@@ -4083,8 +4089,9 @@ p {
 .image-card__title {
     color: #ffffff;
     font-size: 1.5rem;
-    margin-bottom: 10px;
+    margin-bottom: 0;
     font-weight: 600;
+    transition: margin-bottom 0.4s ease;
 }
 
 .image-card__desc {
@@ -4092,7 +4099,10 @@ p {
     font-size: 0.95rem;
     line-height: 1.5;
     opacity: 0;
-    transition: opacity 0.4s ease;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.4s ease, opacity 0.4s ease, margin-top 0.4s ease;
+    margin-top: 0;
 }
 
 /* Hover Effects */
@@ -4121,6 +4131,8 @@ p {
 
 .image-card:hover .image-card__desc {
     opacity: 1;
+    max-height: 150px;
+    margin-top: 10px;
 }
 
 /* Benefit Cards */
@@ -4511,10 +4523,10 @@ p {
 
 .journey-desc {
     color: #cbd5e1;
-    font-size: 0.95rem;
+    font-size: 1.2rem;
     line-height: 1.5;
     margin: 0;
-    
+
 }
 
 /* Journey Card Hover Text Effect */
@@ -5131,7 +5143,7 @@ a.news-card {
     }
 
     .nav__link {
-        font-size: 20px;
+        font-size: 1.3rem !important;
     }
 
     .hero p {
@@ -5237,6 +5249,96 @@ a.news-card {
 
 }
 
+@media (min-width: 1400px) {
+
+    /* Typography scaling */
+    body {
+        font-size: 1.1rem;
+    }
+
+    h1,
+    .page-banner-title {
+        font-size: clamp(2.2rem, 3.5vw, 3.2rem);
+    }
+
+    h2 {
+        font-size: clamp(1.6rem, 2.8vw, 2.2rem);
+    }
+
+    h3 {
+        font-size: clamp(1.3rem, 2vw, 1.6rem);
+    }
+
+    h4 {
+        font-size: clamp(1.05rem, 1.4vw, 1.25rem);
+    }
+
+    p,
+    .check li {
+        font-size: 1.05rem;
+        line-height: 1.6;
+    }
+
+    .lead {
+        font-size: 1.15rem;
+        line-height: 1.6;
+    }
+
+    /* Layout & Spacings */
+    .section {
+        padding: 80px 0;
+    }
+
+    .container {
+        padding: 0 100px;
+        max-width: 100%;
+    }
+
+    .nav__link {
+        font-size: 0.88rem;
+    }
+
+    /* Split layout adjustment */
+    .split {
+        gap: 60px;
+        padding: 0 100px;
+    }
+
+    .split__media img {
+        max-height: 550px;
+        object-fit: cover;
+        width: 100%;
+        border-radius: 8px;
+        box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15);
+    }
+
+    /* Cards scaling */
+    .image-card {
+        height: 420px;
+    }
+
+    .image-card__title {
+        font-size: 1.6rem;
+    }
+
+    .image-card__desc {
+        font-size: 1rem;
+    }
+
+    .testimonial-item {
+        width: 500px;
+        padding: 35px 30px;
+    }
+
+    .testimonial-text {
+        font-size: 1rem;
+    }
+
+    .testimonial-author {
+        font-size: 0.95rem;
+    }
+}
+
 @media (min-width: 1600px) {
     body {
         font-size: 1.2rem;
@@ -5310,7 +5412,7 @@ a.news-card {
     }
 
     .nav__link {
-        font-size: 1.3rem;
+        font-size: 0.85rem;
     }
 
     .prod__body p,
@@ -5412,6 +5514,30 @@ a.news-card {
     .image_india,
     .map-box-national {
         height: auto;
+    }
+
+    .footer__logo-container {
+        width: 50%;
+    }
+
+    .footer__grid {
+        padding: 0 2rem 2.5rem 2rem;
+    }
+
+    .footer__col p {
+        text-align: center;
+    }
+
+    .footer__col-title {
+        text-align: center;
+    }
+
+    .footer__col {
+        align-items: center;
+    }
+
+    .footer__title {
+        margin-bottom: 5%;
     }
 
     .nav__menu {
@@ -5550,6 +5676,14 @@ a.news-card {
         justify-content: space-around;
     }
 
+    .breadcrumb-nav {
+        padding: 2% 6% !important;
+    }
+
+    .breadcrumb li {
+        font-size: 1rem !important;
+    }
+
 }
 
 
@@ -5626,6 +5760,12 @@ a.news-card {
     .video-thumbnail {
         height: 220px;
     }
+
+    .footer__logo-container {
+        width: 65%;
+    }
+
+
 }
 
 @media (max-width: 1024px) {
@@ -6194,4 +6334,59 @@ a.news-card {
     .page-banner-lead {
         display: none;
     }
+}
+
+
+/* =========================================
+   BREADCRUMB NAVIGATION
+   ========================================= */
+.breadcrumb-nav {
+    background: var(--bg);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+    padding: 10px 70px;
+    position: relative;
+    z-index: 99;
+}
+
+.breadcrumb {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    flex-wrap: wrap;
+}
+
+.breadcrumb li {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 0.7rem;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #94a3b8;
+}
+
+.breadcrumb li+li::before {
+    content: ">";
+    color: rgba(255, 255, 255, 0.25);
+    font-size: 0.65rem;
+}
+
+.breadcrumb li a {
+    color: #94a3b8;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.breadcrumb li a:hover {
+    color: var(--orange);
+}
+
+.breadcrumb li.active {
+    color: #ffffff;
+    font-weight: 600;
 }

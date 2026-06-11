@@ -24,6 +24,15 @@ include 'includes/head.php';
     </div>
   </section>
 
+  <nav class="breadcrumb-nav" aria-label="Breadcrumb">
+    <ol class="breadcrumb">
+      <li><a href="home">Home</a></li>
+      <li><a href="products">Products</a></li>
+      <li><a href="products#flow-control-and-ladle-slide-gate-systems">Flow Control and Ladle Slide Gate Systems</a></li>
+      <li class="active">Seating Blocks Details</li>
+    </ol>
+  </nav>
+
   <!-- CONTENT -->
   <section class="section">
     <div class="container split">

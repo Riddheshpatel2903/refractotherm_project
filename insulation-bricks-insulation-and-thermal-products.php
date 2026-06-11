@@ -23,6 +23,15 @@ include 'includes/head.php';
     </div>
   </section>
 
+  <nav class="breadcrumb-nav" aria-label="Breadcrumb">
+    <ol class="breadcrumb">
+      <li><a href="home">Home</a></li>
+      <li><a href="products">Products</a></li>
+      <li><a href="products#insulation-and-thermal-products">INSULATION &amp; THERMAL PRODUCTS</a></li>
+      <li class="active">Insulation Bricks Details</li>
+    </ol>
+  </nav>
+
   <!-- CONTENT -->
   <section class="section">
     <div class="container split">

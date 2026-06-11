@@ -24,6 +24,14 @@ include 'includes/head.php';
     </div>
   </section>
 
+  <nav class="breadcrumb-nav" aria-label="Breadcrumb">
+    <ol class="breadcrumb">
+      <li><a href="home">Home</a></li>
+      <li><a href="specialized-equipment">Specialized Equipment</a></li>
+      <li class="active">INTERFLOW® Ladle Slide Gate Systems</li>
+    </ol>
+  </nav>
+
   <!-- PRODUCT OVERVIEW -->
   <section class="section">
     <div class="container split">

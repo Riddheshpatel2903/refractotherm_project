@@ -23,6 +23,14 @@ include 'includes/head.php';
     </div>
   </section>
 
+  <nav class="breadcrumb-nav" aria-label="Breadcrumb">
+    <ol class="breadcrumb">
+      <li><a href="home">Home</a></li>
+      <li><a href="about">About Us</a></li>
+      <li class="active">Group Companies</li>
+    </ol>
+  </nav>
+
   <!-- CONTENT -->
   <section class="section">
     <div class="container">

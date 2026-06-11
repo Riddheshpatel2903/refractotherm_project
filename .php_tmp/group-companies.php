@@ -10,11 +10,6 @@ include 'includes/head.php';
 <body>
   <?php
   $activePage = 'group-companies';
-  $breadcrumbs = [
-    ['label' => 'Home', 'url' => 'home'],
-    ['label' => 'About Us', 'url' => 'about'],
-    ['label' => 'Group Companies', 'url' => '']
-  ];
   include 'includes/navbar.php';
   ?>
 
@@ -27,7 +22,6 @@ include 'includes/head.php';
       <p class="lead page-banner-lead">Discover our affiliated companies and strategic partners working together to deliver global refractory solutions.</p>
     </div>
   </section>
-  <?php include 'includes/breadcrumb.php'; ?>
 
   <!-- CONTENT -->
   <section class="section">

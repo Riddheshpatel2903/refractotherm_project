@@ -24,6 +24,13 @@ include 'includes/head.php';
     </div>
   </section>
 
+  <nav class="breadcrumb-nav" aria-label="Breadcrumb">
+    <ol class="breadcrumb">
+      <li><a href="home">Home</a></li>
+      <li class="active">Contact Us</li>
+    </ol>
+  </nav>
+
   <!-- 2. CONTACT INFO & FORM -->
   <section class="section">
     <div class="container split">

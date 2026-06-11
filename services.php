@@ -24,6 +24,13 @@ include 'includes/head.php';
     </div>
   </section>
 
+  <nav class="breadcrumb-nav" aria-label="Breadcrumb">
+    <ol class="breadcrumb">
+      <li><a href="home">Home</a></li>
+      <li class="active">Technical Services</li>
+    </ol>
+  </nav>
+
   <!-- 3. TECHNICAL SERVICES LIST (Alternating Rows) -->
   <section class="section section--alt">
     <div class="container">

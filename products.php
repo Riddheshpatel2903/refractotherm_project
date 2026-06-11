@@ -23,6 +23,12 @@ include 'includes/head.php';
     </div>
   </section>
 
+  <nav class="breadcrumb-nav" aria-label="Breadcrumb">
+    <ol class="breadcrumb">
+      <li><a href="home">Home</a></li>
+      <li class="active">Products</li>
+    </ol>
+  </nav>
 
   <!-- 3. PRODUCT CATEGORIES GRID -->
   <section class="section section--alt" id="section">

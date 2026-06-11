@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 
 <?php
@@ -23,6 +23,15 @@ include 'includes/head.php';
       <h2 class="page-banner-title">Roof Castables</h2>
     </div>
   </section>
+
+  <nav class="breadcrumb-nav" aria-label="Breadcrumb">
+    <ol class="breadcrumb">
+      <li><a href="home">Home</a></li>
+      <li><a href="products">Products</a></li>
+      <li><a href="products#induction-furnace-refractories-blocks-and-consumables">INDUCTION FURNACE REFRACTORIES, BLOCKS & CONSUMABLES</a></li>
+      <li class="active">Roof Castables Details</li>
+    </ol>
+  </nav>
 
   <!-- CONTENT -->
   <section class="section">

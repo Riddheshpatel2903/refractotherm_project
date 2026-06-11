@@ -21,6 +21,15 @@ include 'includes/head.php';
       <h1 class="page-banner-title">Global Presence</h1>
     </div>
   </section>
+
+  <nav class="breadcrumb-nav" aria-label="Breadcrumb">
+    <ol class="breadcrumb">
+      <li><a href="home">Home</a></li>
+      <li><a href="about">About Us</a></li>
+      <li class="active">Global Presence</li>
+    </ol>
+  </nav>
+
   <!-- =========================================
      GLOBAL & NATIONAL NETWORK SECTION
 ========================================= -->

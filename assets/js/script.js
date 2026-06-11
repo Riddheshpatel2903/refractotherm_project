@@ -74,7 +74,7 @@
         nav.classList.remove('is-open'); // Close the menu immediately
 
         const text = title.innerText;
-        const slug = text.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+        const slug = text.toLowerCase().replace(/\s*&\s*/g, '-and-').replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
 
         // Wait for the slide-out animation to finish before navigating
         setTimeout(() => {
@@ -270,7 +270,8 @@ const productsMap = {
     "Monoblock Stoppers & Graphite Rods",
     "Tundish Well Blocks, Dam & Weirs",
     "Tundish Working & Spray Linings",
-    "Casting Powder / Mould Powder",
+    "Casting Powder",
+    "Mould Powder",
     "Radex Powder & Tubes",
     "Tundish Covering Compounds"
   ],

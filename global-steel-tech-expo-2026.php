@@ -23,6 +23,14 @@ include 'includes/head.php';
     </div>
   </section>
 
+  <nav class="breadcrumb-nav" aria-label="Breadcrumb">
+    <ol class="breadcrumb">
+      <li><a href="home">Home</a></li>
+      <li><a href="news-events">News &amp; Events</a></li>
+      <li class="active">Global Steel Tech Expo 2026</li>
+    </ol>
+  </nav>
+
   <!-- ARTICLE VIEW -->
   <section class="section">
     <div class="container news-detail-container">

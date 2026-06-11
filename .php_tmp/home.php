@@ -21,8 +21,11 @@ include 'includes/head.php';
       <div class="hero__slide" style="background-image: url(assets/images/resources/hero-1.webp)"></div>
       <div class="hero__slide" style="background-image: url(assets/images/resources/hero-2.webp)"></div>
     </div>
+
     <div class="hero__overlay"></div>
+
     <div class="container hero__content">
+
       <span class="eyebrow"><span class="eyebrow__bar"></span>Pioneering Advanced Refractory & Thermal Solutions</span>
       <h1>Global Partner for Advanced Refractory, Metallurgical & Thermal Engineering Solutions</h1>
       <p class="lead">

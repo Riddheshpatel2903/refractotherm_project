@@ -3,7 +3,7 @@
 
 <?php
 $title = 'Specialized Equipment | Refractotherm';
-$description = 'Explore Refractotherm\'s high-performance specialized equipment including INTERFLOW® slide gates, LININGMAN® pneumatic vibrators, and custom AOD tuyeres.';
+$description = "Explore Refractotherm's high-performance specialized equipment including INTERFLOW® slide gates, LININGMAN® pneumatic vibrators, and custom AOD tuyeres.";
 $keywords = 'Specialized Equipment, Ladle Slide Gate Systems, Pneumatic Lining Vibrator, AOD Tuyeres, Flow Control, Refractory Ramming Mass, Refractotherm';
 include 'includes/head.php';
 ?>
@@ -23,6 +23,13 @@ include 'includes/head.php';
       <p class="lead page-banner-lead">High-Performance Refractory Installation &amp; Flow Control Systems</p>
     </div>
   </section>
+
+  <nav class="breadcrumb-nav" aria-label="Breadcrumb">
+    <ol class="breadcrumb">
+      <li><a href="home">Home</a></li>
+      <li class="active">Specialized Equipment</li>
+    </ol>
+  </nav>
 
   <!-- INTRODUCTION -->
   <section class="section">

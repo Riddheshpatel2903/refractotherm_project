@@ -24,6 +24,15 @@ include 'includes/head.php';
     </div>
   </section>
 
+  <nav class="breadcrumb-nav" aria-label="Breadcrumb">
+    <ol class="breadcrumb">
+      <li><a href="home">Home</a></li>
+      <li><a href="products">Products</a></li>
+      <li><a href="products#pre-cast-shapes-and-refractory-bricks">PRE-CAST SHAPES &amp; REFRACTORY BRICKS</a></li>
+      <li class="active">Ceramic Anchors (SS304 / SS310) Details</li>
+    </ol>
+  </nav>
+
   <!-- CONTENT -->
   <section class="section">
     <div class="container split">
@@ -109,7 +118,7 @@ include 'includes/head.php';
   </section>
 
   <!-- SUGGESTED PRODUCTS -->
-  <?php include 'precast-shapes.php'; ?>
+  <?php include 'includes/product_suggestion/precast-shapes.php'; ?>
 
  <!-- INQUIRY CTA -->
   <!-- <section class="cta" id="contact">
