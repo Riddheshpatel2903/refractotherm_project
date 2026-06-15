@@ -15,7 +15,7 @@ include 'includes/head.php';
 
   <!-- 1. PRODUCTS BANNER -->
   <section class="section section--dark page-banner-section">
-    <div class="page-banner-bg" style="background-image: url('assets/images/resources/hero-2.webp');"></div>
+    <div class="page-banner-bg" style="background-image: url('assets/images/resources/site/banner.webp');"></div>
     <div class="container page-banner-container">
       <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Engineered Materials</span>
       <h1 class="page-banner-title">Refractory Products</h1>

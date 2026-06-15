@@ -55,7 +55,7 @@ if (in_array($current_page_name, $specialized_detail_pages)) {
         </div>
       </div>
       <div class="nav__item has-mega">
-        <a href="products" class="nav__link <?php echo ($activePage == 'products' || $activePage == 'product-details') ? 'active' : ''; ?>">Products <i class="fa-solid fa-chevron-down"></i></a>
+        <a href="products" class="nav__link <?php echo ($activePage == 'products' || $activePage == 'product-details') ? 'active' : ''; ?>">Products & Solutions <i class="fa-solid fa-chevron-down"></i></a>
         <div class="mega">
             <div class="mega__columns">
               <!-- Column 1 -->
@@ -537,9 +537,9 @@ if (in_array($current_page_name, $specialized_detail_pages)) {
           </div>
         </div>
       </div>
+      <a href="specialized-equipment" class="nav__link <?php echo ($activePage == 'specialized-equipment') ? 'active' : ''; ?>">Specialized Equipment</a>
       <a href="industries-we-serve" class="nav__link <?php echo ($activePage == 'industries-we-serve') ? 'active' : ''; ?>">Industries We Serve</a>
       <a href="technical-services" class="nav__link <?php echo ($activePage == 'technical-services' || $activePage == 'service-details') ? 'active' : ''; ?>">Technical Services</a>
-      <a href="specialized-equipment" class="nav__link <?php echo ($activePage == 'specialized-equipment') ? 'active' : ''; ?>">Specialized Equipment</a>
     </nav>
 
     <div class="nav__actions">

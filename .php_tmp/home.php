@@ -16,10 +16,9 @@ include 'includes/head.php';
   <!-- HERO -->
   <section class="hero">
     <div class="hero__slides" id="heroSlides">
-      <div class="hero__slide is-active" style="background-image: url(assets/images/resources/hero-1.webp)"></div>
-      <div class="hero__slide" style="background-image: url(assets/images/resources/hero-2.webp)"></div>
-      <div class="hero__slide" style="background-image: url(assets/images/resources/hero-1.webp)"></div>
-      <div class="hero__slide" style="background-image: url(assets/images/resources/hero-2.webp)"></div>
+      <div class="hero__slide is-active" style="background-image: url(assets/images/resources/hero-3.webp)"></div>
+      <div class="hero__slide" style="background-image: url(assets/images/resources/hero-5.webp)"></div>
+      <div class="hero__slide" style="background-image: url(assets/images/resources/hero-3.webp)"></div>
     </div>
 
     <div class="hero__overlay"></div>
@@ -85,7 +84,7 @@ include 'includes/head.php';
       <div class="prod-grid">
         <!-- Category 1 -->
         <a href="products#monolithic-refractories-and-castables" class="category-card">
-          <div class="category-card__img" style="background-image: url(assets/images/resources/products/monolithic.webp);"></div>
+          <div class="category-card__img" style="background-image: url(assets/images/resources/products/MONOLITHIC-REFRACTORIES-CASTABLES.webp);"></div>
           <div class="category-card__overlay"></div>
           <div class="category-card__content">
             <h4 class="category-card__title">Monolithic Refractories</h4>
@@ -98,7 +97,7 @@ include 'includes/head.php';
         <!-- Category 2 -->
         <a href="products#flow-control-and-ladle-slide-gate-systems" class="category-card">
           <div class="category-card__img"
-            style="background-image: url(assets/images/resources/products/FlowControlSystems.webp);"></div>
+            style="background-image: url(assets/images/resources/products/flowcontrol/FlowControlSystems.webp);"></div>
           <div class="category-card__overlay"></div>
           <div class="category-card__content">
             <h4 class="category-card__title">Flow Control Systems</h4>
@@ -111,7 +110,7 @@ include 'includes/head.php';
 
         <!-- Category 3 -->
         <a href="products#continuous-casting-machine-ccm-consumables" class="category-card">
-          <div class="category-card__img" style="background-image: url(assets/images/resources/products/CCMConsumables.webp);">
+          <div class="category-card__img" style="background-image: url(assets/images/resources/products/ccm.webp);">
           </div>
           <div class="category-card__overlay"></div>
           <div class="category-card__content">
@@ -125,7 +124,7 @@ include 'includes/head.php';
         <!-- Category 4 -->
         <a href="products#induction-furnace-refractories-blocks-and-consumables" class="category-card">
           <div class="category-card__img"
-            style="background-image: url(assets/images/resources/products/inductionmeltingfurnaces.webp);">
+            style="background-image: url(assets/images/resources/products/induction.webp);">
           </div>
           <div class="category-card__overlay"></div>
           <div class="category-card__content">
@@ -139,7 +138,7 @@ include 'includes/head.php';
         <!-- Category 5 -->
         <a href="products#steelmaking-refractories-lrf-eaf-and-ladle-applications" class="category-card">
           <div class="category-card__img"
-            style="background-image: url(assets/images/resources/products/SteelmakingRefractories.webp);">
+            style="background-image: url(assets/images/resources/products/Steelmaking.webp);">
           </div>
           <div class="category-card__overlay"></div>
           <div class="category-card__content">
@@ -165,7 +164,7 @@ include 'includes/head.php';
 
         <a href="products#special-industry-refractories" class="category-card">
           <div class="category-card__img"
-            style="background-image: url(assets/images/resources/products/specialindustry.webp);">
+            style="background-image: url(assets/images/resources/products/special_industries.webp);">
           </div>
           <div class="category-card__overlay"></div>
           <div class="category-card__content">
@@ -178,7 +177,7 @@ include 'includes/head.php';
         <!-- Category 9 -->
         <a href="products#foundry-and-metallurgical-consumables" class="category-card">
           <div class="category-card__img"
-            style="background-image: url(assets/images/resources/products/Foundry.webp);"></div>
+            style="background-image: url(assets/images/resources/products/Fundry_consumables.webp);"></div>
           <div class="category-card__overlay"></div>
           <div class="category-card__content">
             <h4 class="category-card__title">Foundry Consumables</h4>
@@ -204,8 +203,8 @@ include 'includes/head.php';
       </div>
       <div class="home-industries-grid">
         <!-- Card 1: Steel & Metallurgical Industries -->
-        <a href="industries.php#steel-metallurgical" class="home-industry-card reveal">
-          <div class="home-industry-card-bg" style="background-image: url('assets/images/resources/IntegratedSteelPlants.webp');"></div>
+        <a href="industries-we-serve#steel-metallurgical" class="home-industry-card reveal">
+          <div class="home-industry-card-bg" style="background-image: url('assets/images/resources/hero-4.webp');"></div>
           <div class="home-industry-card-overlay"></div>
           <div class="home-industry-card-content">
             <h4 class="home-industry-card-title">Steel & Metallurgical Industries</h4>
@@ -216,7 +215,7 @@ include 'includes/head.php';
         </a>
 
         <!-- Card 2: Furnace & Casting Operations -->
-        <a href="industries.php#furnace-casting" class="home-industry-card reveal">
+        <a href="industries-we-serve#furnace-casting" class="home-industry-card reveal">
           <div class="home-industry-card-bg" style="background-image: url('assets/images/resources/ElectricArcFurnaces(EAF).webp');"></div>
           <div class="home-industry-card-overlay"></div>
           <div class="home-industry-card-content">
@@ -228,7 +227,7 @@ include 'includes/head.php';
         </a>
 
         <!-- Card 3: Process Industries -->
-        <a href="industries.php#process-industries" class="home-industry-card reveal">
+        <a href="industries-we-serve#process-industries" class="home-industry-card reveal">
           <div class="home-industry-card-bg" style="background-image: url('assets/images/resources/CementPlants.webp');"></div>
           <div class="home-industry-card-overlay"></div>
           <div class="home-industry-card-content">
@@ -585,7 +584,7 @@ include 'includes/head.php';
   <!-- CONTACT CTA -->
   <section class="cta" id="contact">
     <div class="cta__bg" style="
-          background-image: url(assets/images/resources/site/ourmission.webp);
+          background-image: url(assets/images/resources/about-1.webp);
         "></div>
     <div class="container cta__grid">
       <div class="cta__intro">

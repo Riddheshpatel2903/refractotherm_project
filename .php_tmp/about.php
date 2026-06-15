@@ -15,7 +15,7 @@ include 'includes/head.php';
 
   <!-- 1. PAGE BANNER -->
   <section class="section section--dark page-banner-section">
-    <div class="page-banner-bg" style="background-image: url('assets/images/resources/hero-1.webp');"></div>
+    <div class="page-banner-bg" style="background-image: url('assets/images/resources/site/banner.webp');"></div>
     <div class="container page-banner-container">
       <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Our Legacy</span>
       <h1 class="page-banner-title">About REFRACTOTHERM</h1>
@@ -128,18 +128,51 @@ include 'includes/head.php';
           <h3>Our Journey</h3>
         </div>
       </div>
-      <!-- JOURNEY CAROUSEL -->
-      <div class="journey-wrapper">
-        
-        <div class="journey-carousel">
-          <div class="journey-track">
-            <!-- JS fills this -->
+      <!-- HORIZONTAL TIMELINE -->
+      <div class="horizontal-timeline-wrapper reveal">
+        <div class="horizontal-timeline">
+          <div class="horizontal-timeline-line"></div>
+          
+          <!-- Milestone 1 -->
+          <div class="timeline-step">
+            <span class="timeline-step-year">1998</span>
+            <div class="timeline-step-dot"></div>
+            <div class="timeline-step-card">
+              <h4 class="timeline-step-title">Beginning of an Industry Journey</h4>
+              <p class="timeline-step-desc">Began our journey with active involvement in the steel manufacturing industry, gaining hands-on experience in induction melting furnaces, steel plant engineering, and refractory applications alongside industry experts.</p>
+            </div>
           </div>
-        </div>
 
-        <div class="journey-nav">
-          <button class="journey-nav-btn prev-btn"><i class="fa-solid fa-arrow-left"></i></button>
-          <button class="journey-nav-btn next-btn"><i class="fa-solid fa-arrow-right"></i></button>
+          <!-- Milestone 2 -->
+          <div class="timeline-step">
+            <span class="timeline-step-year">2011</span>
+            <div class="timeline-step-dot"></div>
+            <div class="timeline-step-card">
+              <h4 class="timeline-step-title">Foundation of Entrepreneurship</h4>
+              <p class="timeline-step-desc">Established Induction Furnace Technomart to supply specialized furnace spares, CCM technologies, and engineering solutions focused on improving plant productivity and operational efficiency.</p>
+            </div>
+          </div>
+
+          <!-- Milestone 3 -->
+          <div class="timeline-step">
+            <span class="timeline-step-year">2023</span>
+            <div class="timeline-step-dot"></div>
+            <div class="timeline-step-card">
+              <h4 class="timeline-step-title">Expanding Capabilities</h4>
+              <p class="timeline-step-desc">Founded Inducto Concast Engineers Pvt. Ltd. to deliver comprehensive turnkey engineering, specialized metallurgical equipment, and modernization solutions for steel manufacturing plants.</p>
+            </div>
+          </div>
+
+          <!-- Milestone 4 -->
+          <div class="timeline-step">
+            <span class="timeline-step-year">2026</span>
+            <div class="timeline-step-dot"></div>
+            <div class="timeline-step-card">
+              <h4 class="timeline-step-title">Establishment of Refractotherm</h4>
+              <p class="timeline-step-desc">Established Refractotherm India LLP, leveraging nearly three decades of expertise to provide advanced, high-performance refractory products and thermal engineering solutions for global markets.</p>
+            </div>
+          </div>
+
         </div>
       </div>
     </div>

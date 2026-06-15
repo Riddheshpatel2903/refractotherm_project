@@ -46,9 +46,9 @@
           </h4>
           <div class="socials-clean">
             <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
-            <a href="#"><i class="fa-brands fa-youtube"></i></a>
-            <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
-            <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
+            <!-- <a href="#"><i class="fa-brands fa-youtube"></i></a> -->
+            <a href="https://www.linkedin.com/company/refractotherm-india-llp/?viewAsMember=true"><i class="fa-brands fa-linkedin-in"></i></a>
+            <!-- <a href="#"><i class="fa-brands fa-x-twitter"></i></a> -->
           </div>
         </div>
       </div>
@@ -73,10 +73,7 @@
 
       <!-- Bottom Bar -->
       <div class="footer__bottom-bar">
-        <!-- <div class="footer__bottom-links">
-          <a href="#">Privacy Policy</a> |
-          <a href="#">Disclaimer</a>
-        </div> -->
+
         <div class="footer__copyright">
           &copy; All rights reserved 2026, Refractotherm.
         </div>

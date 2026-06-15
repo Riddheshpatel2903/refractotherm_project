@@ -15,7 +15,7 @@ include 'includes/head.php';
   ?>
   <!-- PAGE HEADER -->
   <section class="section section--dark page-banner-section">
-    <div class="page-banner-bg" style="background-image: url('assets/images/resources/RefractoryInstallation.webp');">
+    <div class="page-banner-bg" style="background-image: url('assets/images/resources/site/banner.webp');">
     </div>
     <div class="container page-banner-container">
       <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>BLAST FURNACE &amp; DRI REFRACTORIES</span>
