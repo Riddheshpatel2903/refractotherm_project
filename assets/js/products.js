@@ -447,6 +447,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
             const imgDiv = document.createElement('div');
             imgDiv.className = prod.isViewMore ? 'prod__img prod__img--unified prod__img--view-more' : 'prod__img prod__img--unified';
+            imgDiv.setAttribute('role', 'img');
+            imgDiv.setAttribute('aria-label', prod.name);
+            imgDiv.setAttribute('alt', prod.name);
 
             if (!prod.isViewMore) {
                 imgDiv.setAttribute('data-bg', prod.image);

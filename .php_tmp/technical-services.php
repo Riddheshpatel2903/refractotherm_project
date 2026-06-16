@@ -208,52 +208,52 @@ include 'includes/head.php';
       <div class="industries-slider" style="margin-top: 40px;">
         <div class="industries-track">
           <div class="industry-card">
-            <img loading="lazy" src="assets/images/resources/products/steelmaking.webp">
+            <img loading="lazy" src="assets/images/resources/products/steelmaking.webp" alt="Steel Plants">
             <div class="industry-overlay"></div>
             <div class="industry-content"><h3>Steel Plants</h3></div>
           </div>
           <div class="industry-card">
-            <img loading="lazy" src="assets/images/resources/products/induction.webp">
+            <img loading="lazy" src="assets/images/resources/products/induction.webp" alt="Induction Melting Furnaces">
             <div class="industry-overlay"></div>
             <div class="industry-content"><h3>Induction Melting Furnaces</h3></div>
           </div>
           <div class="industry-card">
-            <img loading="lazy" src="assets/images/resources/ElectricArcFurnaces(EAF).webp">
+            <img loading="lazy" src="assets/images/resources/ElectricArcFurnaces(EAF).webp" alt="Electric Arc Furnaces (EAF)">
             <div class="industry-overlay"></div>
             <div class="industry-content"><h3>Electric Arc Furnaces (EAF)</h3></div>
           </div>
           <div class="industry-card">
-            <img loading="lazy" src="assets/images/resources/lrf.webp">
+            <img loading="lazy" src="assets/images/resources/lrf.webp" alt="Ladle Refining Furnaces (LRF)">
             <div class="industry-overlay"></div>
             <div class="industry-content"><h3>Ladle Refining Furnaces (LRF)</h3></div>
           </div>
           <div class="industry-card">
-            <img loading="lazy" src="assets/images/resources/products/steelmaking.webp">
+            <img loading="lazy" src="assets/images/resources/products/steelmaking.webp" alt="Continuous Casting Machines (CCM)">
             <div class="industry-overlay"></div>
             <div class="industry-content"><h3>Continuous Casting Machines (CCM)</h3></div>
           </div>
           <div class="industry-card">
-            <img loading="lazy" src="assets/images/resources/services/application/beginning of industry.webp">
+            <img loading="lazy" src="assets/images/resources/services/application/beginning of industry.webp" alt="Steel Ladles & Tundishes">
             <div class="industry-overlay"></div>
             <div class="industry-content"><h3>Steel Ladles & Tundishes</h3></div>
           </div>
           <div class="industry-card">
-            <img loading="lazy" src="assets/images/resources/services/application/steelplants.webp">
+            <img loading="lazy" src="assets/images/resources/services/application/steelplants.webp" alt="Foundries">
             <div class="industry-overlay"></div>
             <div class="industry-content"><h3>Foundries</h3></div>
           </div>
           <div class="industry-card">
-            <img loading="lazy" src="assets/images/resources/services/application/expandingcapabilities.webp">
+            <img loading="lazy" src="assets/images/resources/services/application/expandingcapabilities.webp" alt="Ferro Alloy Plants">
             <div class="industry-overlay"></div>
             <div class="industry-content"><h3>Ferro Alloy Plants</h3></div>
           </div>
           <div class="industry-card">
-            <img loading="lazy" src="assets/images/resources/services/application/LimePlants.webp">
+            <img loading="lazy" src="assets/images/resources/services/application/LimePlants.webp" alt="Lime Plants">
             <div class="industry-overlay"></div>
             <div class="industry-content"><h3>Lime Plants</h3></div>
           </div>
           <div class="industry-card">
-            <img loading="lazy" src="assets/images/resources/services/application/HighTemperatureProcessIndustries.webp">
+            <img loading="lazy" src="assets/images/resources/services/application/HighTemperatureProcessIndustries.webp" alt="High-Temperature Process Industries">
             <div class="industry-overlay"></div>
             <div class="industry-content"><h3>High-Temperature Process Industries</h3></div>
           </div>

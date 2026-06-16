@@ -65,6 +65,7 @@
 
           const img = document.createElement("img");
           img.src = prod.image || "assets/images/resources/FlowControlSystems.webp";
+          img.alt = prod.name;
 
           const overlay = document.createElement("div");
           overlay.className = "industry-overlay";
