@@ -67,7 +67,7 @@ include 'includes/head.php';
 
   <!-- 9. PRODUCT INQUIRY CTA -->
   <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url(assets/images/resources/hero-1.webp);"></div>
+    <div class="cta__bg" style="background-image: url(assets/images/resources/about-1.webp);"></div>
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Product Inquiry</span>

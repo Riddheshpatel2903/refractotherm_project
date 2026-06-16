@@ -86,7 +86,7 @@ a {
 }
 
 .section--dark {
-    background: var(--bg);
+    background: #b1b1b1;
     color: #fff;
 }
 
@@ -245,7 +245,16 @@ p {
 }
 
 .eyebrow--light {
-    color: #cf4824;
+    color: var(--orange);
+}
+
+
+.section--dark .eyebrow {
+    color: black;
+}
+
+.section--dark .eyebrow__bar {
+    background: black;
 }
 
 /* Section: Buttons & CTAs */
@@ -280,7 +289,7 @@ p {
 }
 
 .btn--primary:hover {
-    background: #cf4824;
+    background: #000000;
 }
 
 .btn--outline {
@@ -290,8 +299,8 @@ p {
 }
 
 .btn--outline:hover {
-    background: #fff;
-    color: var(--ink);
+    background: #000000;
+    color: #fff;
 }
 
 .btn--dark {
@@ -312,8 +321,8 @@ p {
 }
 
 .btn--ghost:hover {
-    border-color: var(--orange);
-    color: var(--orange);
+    border-color: #000000;
+    color: #000000;
 }
 
 .btn--block {
@@ -561,6 +570,10 @@ p {
     text-align: center;
 }
 
+.nav__link--mobile-only {
+    display: none !important;
+}
+
 
 .nav__link i {
     font-size: 0.65rem;
@@ -576,7 +589,7 @@ p {
     position: absolute;
     left: 14px;
     right: 14px;
-    bottom: 0px;
+    bottom: 5px;
     height: 2px;
     background: var(--orange);
     transform: scaleX(0);
@@ -1114,6 +1127,18 @@ p {
 }
 
 
+.page-banner-container .eyebrow,
+.page-banner-container .eyebrow__bar,
+.page-banner-container .eyebrow--light,
+.page-banner-container h1,
+.page-banner-container span {
+    color: white;
+}
+
+.page-banner-container .eyebrow__bar {
+    background-color: white;
+}
+
 /* ==========================================================================
    PAGE: INDEX (HOME) Specific Styles
    ========================================================================== */
@@ -1176,7 +1201,11 @@ p {
 }
 
 .hero__content .eyebrow {
-    color: var(--orange);
+    color: rgb(255, 255, 255);
+}
+
+.hero__content .eyebrow__bar {
+    background-color: white;
 }
 
 .hero h1,
@@ -1186,7 +1215,7 @@ p {
 }
 
 .hero p {
-    color: #cbd5e1;
+    color: #ffffff;
     max-width: 570px;
     margin-top: 24px;
     /* text-shadow: 1px 1px 2px #000; */
@@ -1695,7 +1724,7 @@ p {
 .cta {
     position: relative;
     color: #fff;
-    padding: 110px 0;
+    padding: 90px 0;
     overflow: hidden;
 }
 
@@ -1834,8 +1863,12 @@ p {
     box-shadow: 0 0 14px rgba(228, 87, 46, 0.3);
 }
 
+/* .cta .eyebrow,
+.cta .eyebrow__bar {
+    color: var(--orange);
+} */
 
-/* section globle network section  */
+/* Section: Global Network Section */
 
 .btn-network {
     display: inline-flex;
@@ -1913,7 +1946,7 @@ p {
 }
 
 .serv {
-    background: #111827;
+    background: #585858;
     overflow: hidden;
     transition: transform 0.35s;
 }
@@ -4585,7 +4618,7 @@ p {
 
 .core-value-card {
     padding: 25px 20px;
-    background: rgba(255, 255, 255, 0.03);
+    background: rgba(0, 0, 0, 0.71);
     border: 1px solid rgba(255, 255, 255, 0.08);
     border-radius: 12px;
     transition: all 0.3s ease;
@@ -4597,7 +4630,7 @@ p {
 }
 
 .core-value-card:hover {
-    background: rgba(255, 255, 255, 0.08);
+    background: rgba(0, 0, 0, 0.71);
     transform: translateY(-5px);
     border-color: var(--orange);
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
@@ -5480,7 +5513,7 @@ a.news-card {
     }
 
     .container {
-        padding: 0 100px;
+        padding: 10px 100px;
         max-width: 100%;
     }
 
@@ -5526,6 +5559,10 @@ a.news-card {
 
     .testimonial-author {
         font-size: 0.95rem;
+    }
+
+    .btn-network {
+        margin-top: 20px;
     }
 }
 
@@ -5859,6 +5896,11 @@ a.news-card {
         border-bottom: 1px solid rgba(255, 255, 255, 0.06);
     }
 
+    .nav__link--mobile-only {
+        display: flex !important;
+    }
+
+
     .brand img {
         max-height: 38px;
     }
@@ -6154,7 +6196,8 @@ a.news-card {
 
     .split {
         grid-template-columns: 1fr;
-        gap: 40px;
+        gap: 30px;
+        padding: 0 20px;
     }
 
     .split__media {
@@ -6167,8 +6210,9 @@ a.news-card {
 
     .split__media img {
         width: 100%;
-        height: 380px;
+        height: 280px;
         object-fit: cover;
+        border-radius: 8px;
     }
 
     .split__badge {
@@ -6290,16 +6334,6 @@ a.news-card {
 @media (max-width: 980px) {
 
 
-    .split {
-        grid-template-columns: 1fr;
-        gap: 40px;
-    }
-
-    .split__media img {
-        width: 100%;
-        height: 380px;
-        object-fit: cover;
-    }
 
     .hero h1,
     .hero h2,
@@ -6633,11 +6667,15 @@ a.news-card {
     }
 
     .split__media {
-        height: 30vh;
-        overflow: hidden;
-        align-items: center;
+        height: auto;
+        overflow: visible;
+    }
+
+    .split__media img {
+        height: 220px;
+        width: 100%;
         object-fit: cover;
-        object-position: center;
+        border-radius: 8px;
     }
 
     .news-detail-body {
@@ -6745,7 +6783,7 @@ a.news-card {
 
 .breadcrumb li+li::before {
     content: ">";
-    color: rgba(255, 255, 255, 0.25);
+    color: var(--orange-2);
     font-size: 0.65rem;
 }
 

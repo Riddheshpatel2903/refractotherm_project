@@ -2,9 +2,9 @@
 <html lang="en">
 
 <?php
-$title = 'Insulation Bricks Manufacturer & Supplier | Refractotherm';
-$description = 'Insulating Firebricks (IFB) are highly porous refractory bricks designed to minimize heat loss and reduce the overall thermal mass of the furnace lining.';
-$keywords = 'Insulation Bricks, Insulation And Thermal Products, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$title = 'Insulating Castables Manufacturer & Supplier | Refractotherm';
+$description = 'Insulating Castables are lightweight monolithic refractory materials specifically engineered to provide excellent thermal insulation in high-temperature...';
+$keywords = 'Insulating Castables, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 include 'includes/head.php';
 ?>
 
@@ -18,8 +18,8 @@ include 'includes/head.php';
     <div class="page-banner-bg" style="background-image: url('assets/images/resources/site/banner.webp');">
     </div>
     <div class="container page-banner-container">
-      <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>INSULATION &amp; THERMAL PRODUCTS</span>
-      <h1 class="page-banner-title">Insulation Bricks</h1>
+      <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Monolithic Refractories & Castables</span>
+      <h1 class="page-banner-title">Insulating Castables</h1>
     </div>
   </section>
 
@@ -27,8 +27,8 @@ include 'includes/head.php';
     <ol class="breadcrumb">
       <li><a href="home">Home</a></li>
       <li><a href="products">Products</a></li>
-      <li><a href="products#insulation-and-thermal-products">INSULATION &amp; THERMAL PRODUCTS</a></li>
-      <li class="active">Insulation Bricks </li>
+      <li><a href="products#monolithic-refractories-and-castables">Monolithic Refractories & Castables</a></li>
+      <li class="active">Insulating Castables </li>
     </ol>
   </nav>
 
@@ -36,35 +36,40 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/insulation/InsulationBricks.webp"
-          alt="Insulation Bricks - Thermal Insulation" />
+        <img src="assets/images/resources/products/monolithic/InsulatingCastables.webp"
+          alt="Insulating Castables for Furnaces, Boilers, Kilns, Petrochemical Heaters and High Temperature Thermal Insulation Applications" />
 
       </div>
       <div class="split__body reveal">
         <span class="eyebrow"><span class="eyebrow__bar"></span>Product Overview</span>
-        <h3>Insulation Bricks</h3>
-        <p class="lead">Insulating Firebricks (IFB) are highly porous refractory bricks designed to minimize heat loss
-          and reduce the overall thermal mass of the furnace lining.</p>
-        <p>Manufactured from high-purity refractory clays and combustible burn-out additives, these bricks feature a
-          highly uniform cellular structure. They offer excellent insulating value and can be used either as hot-face
-          linings in clean gas-fired kilns or as high-strength backup insulation behind dense firebricks and castables
-          in heavier metallurgical applications.</p>
+        <h3>Insulating Castables</h3>
+        <p class="lead">Insulating Castables are lightweight monolithic refractory materials specifically engineered to
+          provide excellent thermal insulation in high-temperature industrial equipment. Manufactured using low-density
+          refractory aggregates and advanced bonding systems, these castables help minimize heat loss, improve energy
+          efficiency, and reduce external shell temperatures while maintaining reliable mechanical stability.</p>
+        <p>
+          Unlike dense refractory castables that primarily provide wear and corrosion resistance, Insulating Castables
+          are designed to reduce thermal conductivity and improve heat retention within furnaces and thermal processing
+          units. Their lightweight structure helps lower overall refractory weight while contributing to fuel savings,
+          improved process efficiency, and enhanced thermal performance across a wide range of industrial applications.
+        </p>
         <ul class="check overview-check-list">
           <li class="overview-check-item">
+
             <i class="fa-solid fa-check overview-check-icon"></i>
-            Highly porous cellular structure provides outstanding insulation
+            Low thermal conductivity for superior insulation performance
           </li>
           <li class="overview-check-item">
             <i class="fa-solid fa-check overview-check-icon"></i>
-            Significantly reduces the thermal mass and heat storage of the furnace
+            Reduced heat loss and improved energy efficiency
           </li>
           <li class="overview-check-item">
             <i class="fa-solid fa-check overview-check-icon"></i>
-            Available across a wide range of temperature classifications
+            Lightweight structure reduces refractory load
           </li>
           <li class="overview-check-item">
             <i class="fa-solid fa-check overview-check-icon"></i>
-            Can be utilized as a hot-face lining or as a robust backup layer
+            Helps maintain lower equipment shell temperatures
           </li>
         </ul>
       </div>
@@ -84,10 +89,6 @@ include 'includes/head.php';
       <div class="benefit-list-container" style="margin-bottom: 50px;">
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Reheating Furnaces</h4>
-        </div>
-        <div class="benefit-list-item reveal">
-          <i class="fa-solid fa-check benefit-tick"></i>
           <h4 class="benefit-text">Induction Melting Furnaces</h4>
         </div>
         <div class="benefit-list-item reveal">
@@ -100,15 +101,19 @@ include 'includes/head.php';
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Boilers</h4>
+          <h4 class="benefit-text">Steel Ladles</h4>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Kilns</h4>
+          <h4 class="benefit-text">Tundishes</h4>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Petrochemical Plants</h4>
+          <h4 class="benefit-text">Reheating Furnaces</h4>
+        </div>
+        <div class="benefit-list-item reveal">
+          <i class="fa-solid fa-check benefit-tick"></i>
+          <h4 class="benefit-text">Rotary Kilns</h4>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
@@ -125,50 +130,50 @@ include 'includes/head.php';
       <div class="benefit-list-container">
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Excellent Thermal Insulation Performance</h4>
+          <h4 class="benefit-text">Superior Thermal Resistance</h4>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Reduced Heat Loss</h4>
+          <h4 class="benefit-text">Excellent Mechanical Strength</h4>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Improved Energy Efficiency</h4>
+          <h4 class="benefit-text">Enhanced Abrasion & Erosion Resistance</h4>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Lower Fuel & Energy Consumption</h4>
+          <h4 class="benefit-text">Improved Operational Reliability</h4>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Enhanced Process Stability</h4>
+          <h4 class="benefit-text">Extended Service Life</h4>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Lightweight & Easy Installation</h4>
+          <h4 class="benefit-text">Reduced Maintenance Requirements</h4>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Improved Equipment Protection</h4>
+          <h4 class="benefit-text">Improved Furnace Performance</h4>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Reduced Operating Costs</h4>
+          <h4 class="benefit-text">Lower Downtime & Maintenance Costs</h4>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Extended Equipment Service Life</h4>
+          <h4 class="benefit-text">Consistent Performance in High-Temperature Applications</h4>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Reliable High-Temperature Performance</h4>
+          <h4 class="benefit-text">Optimized Productivity & Operational Efficiency</h4>
         </div>
       </div>
     </div>
   </section>
 
   <!-- SUGGESTED PRODUCTS -->
-  <?php include 'includes/product_suggestion/insulation-thermal.php'; ?>
+  <?php include 'includes/product_suggestion/monolithic.php'; ?>
 
   <!-- INQUIRY CTA -->
   <!-- <section class="cta" id="contact">
@@ -176,10 +181,12 @@ include 'includes/head.php';
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>
-        <h3>Request a Quote for Insulation Bricks </h3>
-        <p>Connect with our refractory specialists to select the ideal Alumina Crucible for your laboratory,
-          metallurgical, or industrial application. Custom sizes and high-purity grades are available based on your
-          requirements.</p>
+        <h3>Request a quote for Insulating Castables.</h3>
+        <p>
+          Contact our refractory specialists to select the most suitable insulating castable grade for your furnace,
+          kiln, boiler, or thermal processing application. Customized solutions are available based on operating
+          temperatures, insulation requirements, and installation conditions.
+        </p>
         <ul class="cta__info">
           <li><i class="fa-solid fa-phone"></i> +91 98259 57604</li>
           <li><i class="fa-solid fa-envelope"></i> <a
@@ -189,7 +196,7 @@ include 'includes/head.php';
       </div>
       <form class="cta__form"
         onsubmit="event.preventDefault(); this.querySelector('button').textContent = 'Submitted Ã¢Å“â€œ';">
-        <h3>Request Insulation Bricks Quote</h3>
+        <h3>Request Product Quote</h3>
         <div class="row">
           <input type="text" class="inputsections" placeholder="Full Name" required />
           <input type="text" class="inputsections" placeholder="Company" required />

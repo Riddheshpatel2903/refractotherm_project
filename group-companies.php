@@ -48,8 +48,10 @@ include 'includes/head.php';
             <div class="image-card__icon">
               <i class="fa-solid fa-building"></i>
             </div>
-            <h3 class="image-card__title">Refractotherm Manufacturing Hub</h3>
-            <p class="image-card__desc">Our primary production facility equipped with state-of-the-art machinery for high-volume, precision manufacturing of refractory products.</p>
+            <h3 class="image-card__title">Refractotherm LLP</h3>
+            <p class="image-card__desc">   FF-71, Vraj Real Estate,
+              Near Telephone Exchange Road, Bopal,
+              Ahmedabad – 380058, Gujarat, India</p>
           </div>
         </a>
 
@@ -59,8 +61,10 @@ include 'includes/head.php';
             <div class="image-card__icon">
               <i class="fa-solid fa-flask"></i>
             </div>
-            <h3 class="image-card__title">Advanced Material Labs R&D</h3>
-            <p class="image-card__desc">Our dedicated research and development center focused on creating next-generation thermal and metallurgical solutions.</p>
+            <h3 class="image-card__title">Refractotherm LLP</h3>
+            <p class="image-card__desc">   FF-71, Vraj Real Estate,
+              Near Telephone Exchange Road, Bopal,
+              Ahmedabad – 380058, Gujarat, India</p>
           </div>
         </a>
 
@@ -70,8 +74,10 @@ include 'includes/head.php';
             <div class="image-card__icon">
               <i class="fa-solid fa-globe"></i>
             </div>
-            <h3 class="image-card__title">Global Distribution Partners</h3>
-            <p class="image-card__desc">Our international logistics and distribution arm ensuring timely delivery of products across global markets.</p>
+            <h3 class="image-card__title">Refractotherm LLP</h3>
+            <p class="image-card__desc">   FF-71, Vraj Real Estate,
+              Near Telephone Exchange Road, Bopal,
+              Ahmedabad – 380058, Gujarat, India</p>
           </div>
         </a>
       </div>

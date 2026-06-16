@@ -10,7 +10,7 @@ include 'includes/head.php';
 
 <body>
   <?php
-  $activePage = 'global';
+  $activePage = 'global-presence';
   include 'includes/navbar.php';
   ?>
 

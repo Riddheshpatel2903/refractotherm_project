@@ -541,7 +541,7 @@ include 'includes/head.php';
 
       </div>
       <div class="container btn-cnt">
-        <a href="global" class="btn-network btn--light btn-cnt-margin">View Global Network <i
+        <a href="global-presence" class="btn-network btn--light btn-cnt-margin">View Global Network <i
             class="fa-solid fa-arrow-right"></i></a>
       </div>
     </div>
@@ -595,13 +595,12 @@ include 'includes/head.php';
           project brief and we will match you with the right specialist.
         </p>
         <ul class="cta__info">
-          <li>
+          <li> <a href="https://maps.app.goo.gl/WTdRfAkDKHLtUGVf8" target="_blank">
             <i class="fa-solid fa-location-dot"></i> FF-71, Vraj Real Estate, Near Telephone Exchange Road, Bopal, Ahmedabad, 380058, Gujarat, India
-          </li>
-          <li><i class="fa-solid fa-phone"></i> +91 98259 57604</li>
+</a></li>
+          <li><i class="fa-solid fa-phone"> <a href="tel:+919825957604"></i> +91 98259 57604</a></li>
           <li>
-            <i class="fa-solid fa-envelope"></i> <a
-              href="mailto:info@refractotherm.com"></a>info@refractotherm.com</a>
+            <i class="fa-solid fa-envelope"></i> <a href="mailto:info@refractotherm.com"></a>info@refractotherm.com</a>
           </li>
         </ul>
       </div>

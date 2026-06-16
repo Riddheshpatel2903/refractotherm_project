@@ -18,9 +18,9 @@ include 'includes/head.php';
     <div class="page-banner-bg" style="background-image: url('assets/images/resources/site/banner.webp');">
     </div>
     <div class="container page-banner-container">
-      <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Technical Services</span>
-      <h1 class="page-banner-title">Comprehensive Installation, Maintenance & Engineering Support Services</h1>
-      <p class="lead page-banner-lead">We provide comprehensive refractory installation, maintenance, inspection, and engineering support services designed to improve operational reliability, enhance furnace performance, maximize refractory service life, and optimize overall plant efficiency.</p>
+      <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Services</span>
+      <h1 class="page-banner-title">Technical Services</h1>
+      <p class="lead page-banner-lead">Comprehensive Installation, Maintenance & Engineering Support Services</p>
     </div>
   </section>
 
@@ -317,50 +317,7 @@ include 'includes/head.php';
     </div>
   </section>
 
-  <!-- 4. INQUquiry CTA -->
-  <!-- <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url(assets/images/resources/about-2.webp);"></div>
-    <div class="container cta__grid">
-      <div class="cta__intro">
-        <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Service Inquiry</span>
-        <h3>Schedule a site audit or shutdown consultation.</h3>
-        <p>
-          Our project management team will work closely with your plant managers to integrate our relining schedule
-          seamlessly into your planned outage.
-        </p>
-        <ul class="cta__info">
-          <li><i class="fa-solid fa-phone"></i> +91 98259 57604</li>
-          <li><i class="fa-solid fa-envelope"></i> <a
-              href="mailto:info@refractotherm.com">info@refractotherm.com</a></li>
-        </ul>
-      </div>
-      <form class="cta__form"
-        onsubmit="event.preventDefault(); this.querySelector('button').textContent = 'Submitted ?';">
-        <h3>Request Services</h3>
-        <div class="row">
-          <input type="text" class="inputsections" placeholder="Full Name" required />
-          <input type="text" class="inputsections" placeholder="Company" required />
-        </div>
-        <div class="row">
-          <input type="email" class="inputsections" placeholder="Work Email" required />
-          <input type="tel" class="inputsections" placeholder="Phone" />
-        </div>
-        <select class="category inputsections" required>
-          <option value="">Select Service Required</option>
-          <option>Refractory Installation</option>
-          <option>Shutdown Maintenance</option>
-          <option>Turnkey Relining</option>
-          <option>Technical Audit & Inspection</option>
-          <option>Heat-Up & Dry-Out</option>
-        </select>
-        <textarea rows="4" class="inputsections"
-          placeholder="Project details, target dates, and scope of work"></textarea>
-        <button type="submit" class="btn btn--primary btn--block">
-          Submit Request <i class="fa-solid fa-arrow-right"></i>
-        </button>
-      </form>
-    </div>
-  </section> -->
+
 
   <?php include 'includes/footer.php'; ?>
 </body>

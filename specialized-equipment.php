@@ -64,7 +64,7 @@ include 'includes/head.php';
           <div class="category-card__content">
             <h4 class="category-card__title">Ladle Slide Gate Systems</h4>
             <div class="category-card__hover-content">
-              <p>INTERFLOW® Ladle Slide Gate Systems deliver precise and reliable molten steel flow control during ladle and continuous casting operations.</p>
+              <!-- <p>INTERFLOW® Ladle Slide Gate Systems deliver precise and reliable molten steel flow control during ladle and continuous casting operations.</p> -->
               <span class="category-card__link">View Product Details <i class="fa-solid fa-arrow-right"></i></span>
             </div>
           </div>
@@ -77,7 +77,7 @@ include 'includes/head.php';
           <div class="category-card__content">
             <h4 class="category-card__title">Pneumatic Lining Vibrator</h4>
             <div class="category-card__hover-content">
-              <p>LININGMAN® Pneumatic Lining Vibrator ensures uniform compaction and installation of dry ramming mass in induction furnaces.</p>
+              <!-- <p>LININGMAN® Pneumatic Lining Vibrator ensures uniform compaction and installation of dry ramming mass in induction furnaces.</p> -->
               <span class="category-card__link">View Product Details <i class="fa-solid fa-arrow-right"></i></span>
             </div>
           </div>
@@ -90,7 +90,7 @@ include 'includes/head.php';
           <div class="category-card__content">
             <h4 class="category-card__title">AOD Tuyeres</h4>
             <div class="category-card__hover-content">
-              <p>Custom-engineered high-performance gas injection nozzles for Argon Oxygen Decarburization (AOD) converters.</p>
+              <!-- <p>Custom-engineered high-performance gas injection nozzles for Argon Oxygen Decarburization (AOD) converters.</p> -->
               <span class="category-card__link">View Product Details <i class="fa-solid fa-arrow-right"></i></span>
             </div>
           </div>
