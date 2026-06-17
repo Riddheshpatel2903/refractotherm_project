@@ -5,6 +5,9 @@
 $title = 'Cyclone Castables Manufacturer & Supplier | Refractotherm';
 $description = 'Cyclone Castables are high-performance refractory castables specifically designed for cyclone separators, preheater cyclones, calciner systems, circulat...';
 $keywords = 'Cyclone Castables, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

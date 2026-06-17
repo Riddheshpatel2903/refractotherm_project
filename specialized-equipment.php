@@ -5,6 +5,9 @@
 $title = 'Specialized Equipment | Refractotherm';
 $description = "Explore Refractotherm's high-performance specialized equipment including INTERFLOW® slide gates, LININGMAN® pneumatic vibrators, and custom AOD tuyeres.";
 $keywords = 'Specialized Equipment, Ladle Slide Gate Systems, Pneumatic Lining Vibrator, AOD Tuyeres, Flow Control, Refractory Ramming Mass, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

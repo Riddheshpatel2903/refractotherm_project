@@ -5,6 +5,9 @@
 $title = 'Slide Gate Mechanisms Manufacturer & Supplier | Refractotherm';
 $description = 'Slide Gate Mechanisms are critical flow-control systems used in steel ladles to regulate, start, stop, and control the discharge of molten steel during ...';
 $keywords = 'Slide Gate Mechanisms, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

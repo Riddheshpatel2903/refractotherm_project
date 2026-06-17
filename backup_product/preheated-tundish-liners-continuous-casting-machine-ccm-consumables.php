@@ -5,6 +5,9 @@
 $title = 'Preheated Tundish Liners Manufacturer & Supplier | Refractotherm';
 $description = 'Preheated Tundish Liners are pre-engineered refractory lining systems manufactured and conditioned before installation, allowing steel plants to signifi...';
 $keywords = 'Preheated Tundish Liners, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

@@ -5,6 +5,9 @@
 $title = 'Hanger Bricks Manufacturer & Supplier | Refractotherm';
 $description = 'Hanger Bricks (or anchor bricks) are specially designed with built-in sockets or slots that allow them to be mechanically suspended from the metallic su...';
 $keywords = 'Hanger Bricks, Pre Cast Shapes And Refractory Bricks, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

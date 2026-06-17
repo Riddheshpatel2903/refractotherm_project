@@ -22,30 +22,18 @@
   <script>
     document.addEventListener("DOMContentLoaded", function () {
       const allCategoryProducts = [
-        { name: "Furnace Bottom Blocks", link: "furnace-bottom-blocks-induction-furnace-refractories-blocks-and-consumables", image: "assets/images/resources/products/induction_furnace/FurnaceBottomBlocks.webp" },
-        { name: "Roof Castables", link: "furnace-roof-castables-induction-furnace-refractories-blocks-and-consumables", image: "assets/images/resources/products/induction_furnace/FurnaceRoofCastables.webp" },
-        { name: "Furnace Top Blocks", link: "furnace-top-blocks-induction-furnace-refractories-blocks-and-consumables", image: "assets/images/resources/products/induction_furnace/TopCastBlocks.webp" },
-        // { name: "Bottom Cast Blocks", link: "bottom-cast-blocks-induction-furnace-refractories-blocks-and-consumables", image: "assets/images/resources/products/induction_furnace/BottomCastBlocks.webp" },
-        { name: "Rim Blocks", link: "rim-blocks-induction-furnace-refractories-blocks-and-consumables", image: "assets/images/resources/products/induction_furnace/RimBlocks.webp" },
-        { name: "Pusher Blocks", link: "pusher-blocks-induction-furnace-refractories-blocks-and-consumables", image: "assets/images/resources/products/induction_furnace/PusherBlocks.webp" },
-        { name: "Spout Blocks", link: "spout-blocks-induction-furnace-refractories-blocks-and-consumables", image: "assets/images/resources/products/induction_furnace/SpoutBlocks.webp" },
-        // { name: "Lip Pouring Spouts", link: "lip-pouring-spouts-induction-furnace-refractories-blocks-and-consumables", image: "assets/images/resources/products/induction_furnace/LipPouringSpouts.webp" },
-        // { name: "Pouring Launders", link: "pouring-launders-induction-furnace-refractories-blocks-and-consumables", image: "assets/images/resources/products/induction_furnace/PouringLaunders.webp" },
-        // { name: "Furnace Lip Blocks", link: "furnace-lip-blocks-induction-furnace-refractories-blocks-and-consumables", image: "assets/images/resources/products/induction_furnace/FurnaceLipBlocks.webp" },
-        // { name: "Slag Door Blocks", link: "slag-door-blocks-induction-furnace-refractories-blocks-and-consumables", image: "assets/images/resources/products/induction_furnace/SlagDoorBlocks.webp" },
-        { name: "Coil Support Blocks", link: "coil-support-blocks-induction-furnace-refractories-blocks-and-consumables", image: "assets/images/resources/products/induction_furnace/CoilSupportBlocks.webp" },
-        // { name: "Coil Grouting Blocks", link: "coil-grouting-blocks-induction-furnace-refractories-blocks-and-consumables", image: "assets/images/resources/products/induction_furnace/CoilGroutingBlocks.webp" },
-        // { name: "Furnace Bottom Nozzle Blocks", link: "furnace-bottom-nozzle-blocks-induction-furnace-refractories-blocks-and-consumables", image: "assets/images/resources/products/induction_furnace/FurnaceBottomNozzleBlocks.webp" },
-        // { name: "Alumina Crucibles", link: "alumina-crucibles-induction-furnace-refractories-blocks-and-consumables", image: "assets/images/resources/products/induction_furnace/AluminaCrucibles.webp" },
-        // { name: "Graphite Crucibles", link: "graphite-crucibles-induction-furnace-refractories-blocks-and-consumables", image: "assets/images/resources/products/induction_furnace/GraphiteCrucibles.webp" },
-        { name: "Coil Cement", link: "coil-cement-induction-furnace-refractories-blocks-and-consumables", image: "assets/images/resources/products/induction_furnace/CoilCement.webp" },
-        { name: "Coil Coating Compounds", link: "coil-coating-compounds-induction-furnace-refractories-blocks-and-consumables", image: "assets/images/resources/products/induction_furnace/CoilCoatingCompounds.webp" },
-        // { name: "RR Coil Coat", link: "rr-coil-coat-induction-furnace-refractories-blocks-and-consumables", image: "assets/images/resources/products/induction_furnace/RRCoilCoat.webp" },
-        // { name: "Refractory Sleeves", link: "refractory-sleeves-induction-furnace-refractories-blocks-and-consumables", image: "assets/images/resources/products/induction_furnace/RefractorySleeves.webp" },
-        { name: "Furnace Lining Materials", link: "furnace-lining-materials-induction-furnace-refractories-blocks-and-consumables", image: "assets/images/resources/products/induction_furnace/FurnaceLiningMaterials.webp" },
-        { name: "Safety Lining Materials", link: "furnace-safety-lining-materials-induction-furnace-refractories-blocks-and-consumables", image: "assets/images/resources/products/induction_furnace/FurnaceSafetyLiningMaterials.webp" },
-        // { name: "Backup Lining Materials", link: "backup-lining-materials-induction-furnace-refractories-blocks-and-consumables", image: "assets/images/resources/products/induction_furnace/BackupLiningMaterials.webp" },
-        { name: "Repair Mixes", link: "furnace-repair-mixes-induction-furnace-refractories-blocks-and-consumables", image: "assets/images/resources/products/induction_furnace/FurnaceRepairMixes.webp" }
+        { name: "Furnace Bottom Blocks", link: "furnace-bottom-blocks-induction-furnace-refractories-blocks-and-consumables",alt:"Furnace Bottom Blocks for Induction Furnace Refractories blocks and Consumables", image: "assets/images/resources/products/induction_furnace/FurnaceBottomBlocks.webp" },
+        { name: "Roof Castables", link: "furnace-roof-castables-induction-furnace-refractories-blocks-and-consumables",alt:"Furnace Roof Castables for Induction Furnace Refractories blocks and Consumables", image: "assets/images/resources/products/induction_furnace/FurnaceRoofCastables.webp" },
+        { name: "Furnace Top Blocks", link: "furnace-top-blocks-induction-furnace-refractories-blocks-and-consumables",alt:"Furnace Top Blocks for Induction Furnace Refractories blocks and Consumables", image: "assets/images/resources/products/induction_furnace/TopCastBlocks.webp" },
+        { name: "Rim Blocks", link: "rim-blocks-induction-furnace-refractories-blocks-and-consumables",alt:"Rim Blocks for Induction Furnace Refractories blocks and Consumables", image: "assets/images/resources/products/induction_furnace/RimBlocks.webp" },
+        { name: "Pusher Blocks", link: "pusher-blocks-induction-furnace-refractories-blocks-and-consumables",alt:"Pusher Blocks for Induction Furnace Refractories blocks and Consumables", image: "assets/images/resources/products/induction_furnace/PusherBlocks.webp" },
+        { name: "Spout Blocks", link: "spout-blocks-induction-furnace-refractories-blocks-and-consumables",alt:"Spout Blocks for Induction Furnace Refractories blocks and Consumables", image: "assets/images/resources/products/induction_furnace/SpoutBlocks.webp" },
+        { name: "Coil Support Blocks", link: "coil-support-blocks-induction-furnace-refractories-blocks-and-consumables",alt:"Coil Support Blocks for Induction Furnace Refractories blocks and Consumables", image: "assets/images/resources/products/induction_furnace/CoilSupportBlocks.webp" },
+        { name: "Coil Cement", link: "coil-cement-induction-furnace-refractories-blocks-and-consumables",alt:"Coil Cement for Induction Furnace Refractories blocks and Consumables", image: "assets/images/resources/products/induction_furnace/CoilCement.webp" },
+        { name: "Coil Coating Compounds", link: "coil-coating-compounds-induction-furnace-refractories-blocks-and-consumables",alt:"Coil Coating Compounds for Induction Furnace Refractories blocks and Consumables", image: "assets/images/resources/products/induction_furnace/CoilCoatingCompounds.webp" },
+        { name: "Furnace Lining Materials", link: "furnace-lining-materials-induction-furnace-refractories-blocks-and-consumables",alt:"Furnace Lining Materials for Induction Furnace Refractories blocks and Consumables", image: "assets/images/resources/products/induction_furnace/FurnaceLiningMaterials.webp" },
+        { name: "Safety Lining Materials", link: "furnace-safety-lining-materials-induction-furnace-refractories-blocks-and-consumables",alt:"Furnace Safety Lining Materials for Induction Furnace Refractories blocks and Consumables", image: "assets/images/resources/products/induction_furnace/FurnaceSafetyLiningMaterials.webp" },
+        { name: "Repair Mixes", link: "furnace-repair-mixes-induction-furnace-refractories-blocks-and-consumables",alt:"Repair Mixes for Induction Furnace Refractories blocks and Consumables", image: "assets/images/resources/products/induction_furnace/FurnaceRepairMixes.webp" }
       ];
 
       const wrappers = document.querySelectorAll(".custom-carousel-wrapper");
@@ -67,7 +55,7 @@
 
           const img = document.createElement("img");
           img.src = prod.image || "assets/images/resources/FurnaceProducts.webp";
-          img.alt = prod.name;
+          img.alt = prod.alt;
 
           const overlay = document.createElement("div");
           overlay.className = "industry-overlay";

@@ -5,6 +5,9 @@
 $title = 'Pellet Plant Refractories Manufacturer & Supplier | Refractotherm';
 $description = 'Pellet Plant Refractories are utilized throughout the iron ore pelletizing process, including the traveling grate, rotary kiln, and annular cooler, wher...';
 $keywords = 'Pellet Plant Refractories, Blast Furnace And Dri Refractories, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

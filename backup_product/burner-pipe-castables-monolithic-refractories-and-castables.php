@@ -5,6 +5,9 @@
 $title = 'Burner Pipe Castables Manufacturer & Supplier | Refractotherm';
 $description = 'Burner Pipe Castables are high-performance monolithic refractory materials specifically developed for industrial burner pipes, combustion zones, and hig...';
 $keywords = 'Burner Pipe Castables, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

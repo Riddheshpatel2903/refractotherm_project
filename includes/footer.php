@@ -45,10 +45,7 @@
             <i class="fa-solid fa-share-nodes"></i> Social
           </h4>
           <div class="socials-clean">
-            <!-- <a href="#"><i class="fa-brands fa-facebook-f"></i></a> -->
-            <!-- <a href="#"><i class="fa-brands fa-youtube"></i></a> -->
             <a href="https://www.linkedin.com/company/refractotherm-india-llp/?viewAsMember=true"><i class="fa-brands fa-linkedin-in"></i></a>
-            <!-- <a href="#"><i class="fa-brands fa-x-twitter"></i></a> -->
           </div>
         </div>
       </div>

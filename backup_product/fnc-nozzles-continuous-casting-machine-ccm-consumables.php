@@ -5,6 +5,9 @@
 $title = 'Fnc Nozzles Manufacturer & Supplier | Refractotherm';
 $description = 'FNC Nozzles are specialized refractory flow-control components used in continuous casting operations to ensure controlled and uninterrupted transfer of ...';
 $keywords = 'Fnc Nozzles, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

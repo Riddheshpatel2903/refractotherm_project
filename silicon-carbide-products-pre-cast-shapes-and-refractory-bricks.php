@@ -5,6 +5,9 @@
 $title = 'Silicon Carbide Products Manufacturer & Supplier | Refractotherm';
 $description = 'Silicon Carbide (SiC) Products are advanced refractories utilized in the most extreme abrasive and thermal environments. SiC boasts a hardness second on...';
 $keywords = 'Silicon Carbide Products, Pre Cast Shapes And Refractory Bricks, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

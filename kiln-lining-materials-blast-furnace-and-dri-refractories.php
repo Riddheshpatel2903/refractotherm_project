@@ -5,6 +5,9 @@
 $title = 'Kiln Lining Materials Manufacturer & Supplier | Refractotherm';
 $description = 'Kiln Lining Materials encompass the complete package of working and safety refractories required to line Direct Reduction kilns, calcination kilns, and ...';
 $keywords = 'Kiln Lining Materials, Blast Furnace And Dri Refractories, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

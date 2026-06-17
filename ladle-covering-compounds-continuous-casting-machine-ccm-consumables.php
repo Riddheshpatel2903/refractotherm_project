@@ -5,6 +5,9 @@
 $title = 'Ladle Covering Compounds Manufacturer & Supplier | Refractotherm';
 $description = 'Ladle Covering Compounds are specially formulated insulating materials applied to the surface of molten steel in ladles during steelmaking and secondary...';
 $keywords = 'Ladle Covering Compounds, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

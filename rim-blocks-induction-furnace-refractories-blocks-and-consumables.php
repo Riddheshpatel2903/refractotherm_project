@@ -5,6 +5,9 @@
 $title = 'Rim Blocks Manufacturer & Supplier | Refractotherm';
 $description = 'Rim Blocks are precision-engineered precast refractory components designed for installation around the peripheral or edge sections of furnaces, vessels,...';
 $keywords = 'Rim Blocks, Induction Furnace Refractories Blocks And Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

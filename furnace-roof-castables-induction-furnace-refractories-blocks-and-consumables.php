@@ -5,6 +5,9 @@
 $title = 'Roof Castables Manufacturer & Supplier | Refractotherm';
 $description = 'Roof Castables are specially formulated monolithic refractory materials designed for lining and protecting the roof sections of industrial furna...';
 $keywords = 'Roof Castables, Induction Furnace Refractories Blocks And Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

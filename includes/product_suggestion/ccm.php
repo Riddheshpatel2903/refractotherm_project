@@ -22,37 +22,18 @@
   <script>
     document.addEventListener("DOMContentLoaded", function () {
       const allCategoryProducts = [
-        { name: "Ladle to Tundish Shrouds (LTS)", link: "ladle-to-tundish-shrouds-lts-continuous-casting-machine-ccm-consumables", image: "assets/images/resources/products/ccm/LadletoTundishShrouds(LTS).webp" },
-        { name: "Submerged Entry Nozzles (SEN)", link: "submerged-entry-nozzles-sen-continuous-casting-machine-ccm-consumables", image: "assets/images/resources/products/ccm/SubmergedEntryNozzles(SEN).webp" },
-        // { name: "Carbon Free SEN", link: "carbon-free-sen-continuous-casting-machine-ccm-consumables", image: "assets/images/resources/products/ccm/CarbonFreeSEN.webp" },
-        // { name: "SEN Well Blocks", link: "sen-well-blocks-continuous-casting-machine-ccm-consumables", image: "assets/images/resources/products/ccm/SENWellBlocks.webp" },
-        { name: "Monoblock Stoppers", link: "monoblock-stoppers-continuous-casting-machine-ccm-consumables", image: "assets/images/resources/products/ccm/MonoblockStoppers.webp" },
-        // { name: "Stopper Head Bricks", link: "stopper-head-bricks-continuous-casting-machine-ccm-consumables", image: "assets/images/resources/products/ccm/StopperHeadBricks.webp" },
-        // { name: "Graphite Stopper Rods", link: "graphite-stopper-rods-continuous-casting-machine-ccm-consumables", image: "assets/images/resources/products/ccm/GraphiteStopperRods.webp" },
-        { name: "Tundish Well Blocks", link: "tundish-well-blocks-continuous-casting-machine-ccm-consumables", image: "assets/images/resources/products/ccm/TundishWellBlocks.webp" },
-        // { name: "Tundish Dam & Weirs", link: "tundish-dam-and-weirs-continuous-casting-machine-ccm-consumables", image: "assets/images/resources/products/ccm/TundishDamWeirs.webp" },
-        { name: "Tundish Impact Pads", link: "tundish-impact-pads-continuous-casting-machine-ccm-consumables", image: "assets/images/resources/products/ccm/TundishImpactPads.webp" },
-        // { name: "Tundish Working Linings", link: "tundish-working-linings-continuous-casting-machine-ccm-consumables", image: "assets/images/resources/products/ccm/TundishWorkingLinings.webp" },
-        // { name: "Tundish Spray Linings", link: "tundish-spray-linings-continuous-casting-machine-ccm-consumables", image: "assets/images/resources/products/ccm/TundishSprayLinings.webp" },
-        // { name: "Dry Tundish Powder", link: "dry-tundish-powder-continuous-casting-machine-ccm-consumables", image: "assets/images/resources/products/ccm/DryTundishPowder.webp" },
-        // { name: "Preheated Tundish Liners", link: "preheated-tundish-liners-continuous-casting-machine-ccm-consumables", image: "assets/images/resources/products/ccm/PreheatedTundishLiners.webp" },
-        { name: "Tundish Boards", link: "tundish-boards-continuous-casting-machine-ccm-consumables", image: "assets/images/resources/products/ccm/TundishBoards.webp" },
-        // { name: "Preformed Tundish Boards", link: "preformed-tundish-boards-continuous-casting-machine-ccm-consumables", image: "assets/images/resources/products/ccm/PreformedTundishBoards.webp" },
-        // { name: "Insulating Tundish Boards", link: "insulating-tundish-boards-continuous-casting-machine-ccm-consumables", image: "assets/images/resources/products/ccm/InsulatingTundishBoards.webp" },
-        { name: "Ceramic Foam Filters", link: "ceramic-foam-filters-continuous-casting-machine-ccm-consumables", image: "assets/images/resources/products/ccm/CeramicFoamFilters.webp" },
-        { name: "Casting Powder", link: "casting-powder-continuous-casting-machine-ccm-consumables", image: "assets/images/resources/products/ccm/CastingPowderMouldPowder.webp" },
-        { name: "Mould Powder", link: "mould-powder-continuous-casting-machine-ccm-consumables", image: "assets/images/resources/products/ccm/CastingPowderMouldPowder.webp" },
-        // { name: "LCC Powder", link: "lcc-powder-continuous-casting-machine-ccm-consumables", image: "assets/images/resources/products/ccm/LCCPowder.webp" },
-        // { name: "TCC Powder", link: "tcc-powder-continuous-casting-machine-ccm-consumables", image: "assets/images/resources/products/ccm/TCCPowder.webp" },
-        // { name: "Radex Powder", link: "radex-powder-continuous-casting-machine-ccm-consumables", image: "assets/images/resources/products/ccm/RadexPowder.webp" },
-        { name: "Radex Tubes", link: "radex-tubes-continuous-casting-machine-ccm-consumables", image: "assets/images/resources/products/ccm/RadexTubes.webp" },
-        { name: "Covering Compounds", link: "tundish-covering-compounds-continuous-casting-machine-ccm-consumables", image: "assets/images/resources/products/ccm/TundishCoveringCompounds.webp" },
-        { name: "Ladle Covering Compounds", link: "ladle-covering-compounds-continuous-casting-machine-ccm-consumables", image: "assets/images/resources/products/ccm/LadleCoveringCompounds.webp" },
-        // { name: "CNC Nozzles", link: "cnc-nozzles-continuous-casting-machine-ccm-consumables", image: "assets/images/resources/products/ccm/CNCNozzles.webp" },
-        // { name: "FNC Nozzles", link: "fnc-nozzles-continuous-casting-machine-ccm-consumables", image: "assets/images/resources/products/ccm/FNCNozzles.webp" },
-        // { name: "CNM Nozzles", link: "cnm-nozzles-continuous-casting-machine-ccm-consumables", image: "assets/images/resources/products/ccm/CNMNozzles.webp" },
-        // { name: "CK4 Nozzles", link: "ck4-nozzles-continuous-casting-machine-ccm-consumables", image: "assets/images/resources/products/ccm/CK4Nozzles.webp" },
-        // { name: "CCM Refractory Consumables & Spares", link: "ccm-refractory-consumables-and-spares-continuous-casting-machine-ccm-consumables", image: "assets/images/resources/products/ccm/CCMRefractoryConsumablesSpares.webp" }
+        { name: "Ladle to Tundish Shrouds (LTS)", link: "ladle-to-tundish-shrouds-lts-continuous-casting-machine-ccm-consumables", alt: "Ladle to Tundish Shrouds (LTS) for Continuous Casting Machine CCM Consumables", image: "assets/images/resources/products/ccm/LadletoTundishShrouds(LTS).webp" },
+        { name: "Submerged Entry Nozzles (SEN)", link: "submerged-entry-nozzles-sen-continuous-casting-machine-ccm-consumables", alt: "Submerged Entry Nozzles (SEN) for Continuous Casting Machine CCM Consumables", image: "assets/images/resources/products/ccm/SubmergedEntryNozzles(SEN).webp" },
+        { name: "Monoblock Stoppers", link: "monoblock-stoppers-continuous-casting-machine-ccm-consumables", alt: "Monoblock Stoppers for Continuous Casting Machine CCM Consumables", image: "assets/images/resources/products/ccm/MonoblockStoppers.webp" },
+        { name: "Tundish Well Blocks", link: "tundish-well-blocks-continuous-casting-machine-ccm-consumables", alt: "Tundish Well Blocks for Continuous Casting Machine CCM Consumables", image: "assets/images/resources/products/ccm/TundishWellBlocks.webp" },
+        { name: "Tundish Impact Pads", link: "tundish-impact-pads-continuous-casting-machine-ccm-consumables", alt: "Tundish Impact Pads for Continuous Casting Machine CCM Consumables", image: "assets/images/resources/products/ccm/TundishImpactPads.webp" },
+        { name: "Tundish Boards", link: "tundish-boards-continuous-casting-machine-ccm-consumables", alt: "Tundish Boards for Continuous Casting Machine CCM Consumables", image: "assets/images/resources/products/ccm/TundishBoards.webp" },
+        { name: "Ceramic Foam Filters", link: "ceramic-foam-filters-continuous-casting-machine-ccm-consumables", alt: "Ceramic Foam Filters for Continuous Casting Machine CCM Consumables", image: "assets/images/resources/products/ccm/CeramicFoamFilters.webp" },
+        { name: "Casting Powder", link: "casting-powder-continuous-casting-machine-ccm-consumables", alt: "Casting Powder for Continuous Casting Machine CCM Consumables", image: "assets/images/resources/products/ccm/CastingPowderMouldPowder.webp" },
+        { name: "Mould Powder", link: "mould-powder-continuous-casting-machine-ccm-consumables", alt: "Mould Powder for Continuous Casting Machine CCM Consumables", image: "assets/images/resources/products/ccm/CastingPowderMouldPowder.webp" },
+        { name: "Radex Tubes", link: "radex-tubes-continuous-casting-machine-ccm-consumables", alt: "Radex Tubes for Continuous Casting Machine CCM Consumables", image: "assets/images/resources/products/ccm/RadexTubes.webp" },
+        { name: "Covering Compounds", link: "tundish-covering-compounds-continuous-casting-machine-ccm-consumables", alt: "Covering Compounds for Continuous Casting Machine CCM Consumables", image: "assets/images/resources/products/ccm/TundishCoveringCompounds.webp" },
+        { name: "Ladle Covering Compounds", link: "ladle-covering-compounds-continuous-casting-machine-ccm-consumables", alt: "Ladle Covering Compounds for Continuous Casting Machine CCM Consumables", image: "assets/images/resources/products/ccm/LadleCoveringCompounds.webp" },
       ];
 
       const wrappers = document.querySelectorAll(".custom-carousel-wrapper");
@@ -74,7 +55,7 @@
 
           const img = document.createElement("img");
           img.src = prod.image || "assets/images/resources/CCMConsumables.webp";
-          img.alt = prod.name;
+          img.alt = prod.alt;
 
           const overlay = document.createElement("div");
           overlay.className = "industry-overlay";

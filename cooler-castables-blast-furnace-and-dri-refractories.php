@@ -5,6 +5,9 @@
 $title = 'Cooler Castables Manufacturer & Supplier | Refractotherm';
 $description = 'Cooler Castables are utilized in the cooling zones of DRI plants and pelletizing operations, where hot material is rapidly quenched by ambient air. This...';
 $keywords = 'Cooler Castables, Blast Furnace And Dri Refractories, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

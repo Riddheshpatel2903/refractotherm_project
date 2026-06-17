@@ -5,6 +5,9 @@
 $title = 'Exothermic Sleeves Manufacturer & Supplier | Refractotherm';
 $description = 'Exothermic Sleeves are highly reactive feeder components utilized in foundries to prevent shrinkage cavities in the final casting by providing a steady ...';
 $keywords = 'Exothermic Sleeves, Foundry And Metallurgical Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

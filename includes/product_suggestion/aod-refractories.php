@@ -22,18 +22,18 @@
   <script>
     document.addEventListener("DOMContentLoaded", function () {
       const allCategoryProducts = [
-        { name: "AOD Converter Bricks", link: "aod-converter-bricks-aod-refractories-argon-oxygen-decarburization", image: "assets/images/resources/products/aod/AODConverterBricks.webp" },
-        { name: "Magnesia Carbon Bricks", link: "magnesia-carbon-bricks-aod-refractories-argon-oxygen-decarburization", image: "assets/images/resources/products/aod/MagnesiaCarbonBricks.webp" },
-        { name: "AOD Tuyere Bricks", link: "aod-tuyere-bricks-aod-refractories-argon-oxygen-decarburization", image: "assets/images/resources/products/aod/AODTuyereBricks.webp" },
-        { name: "Burner Blocks", link: "burner-blocks-aod-refractories-argon-oxygen-decarburization", image: "assets/images/resources/products/aod/BurnerBlocks.webp" },
-        { name: "Slag Line Refractories", link: "slag-line-refractories-aod-refractories-argon-oxygen-decarburization", image: "assets/images/resources/products/aod/SlagLineRefractories.webp" },
-        { name: "Safety Lining Materials", link: "safety-lining-materials-aod-refractories-argon-oxygen-decarburization", image: "assets/images/resources/products/aod/SafetyLiningMaterials.webp" },
-        { name: "Refractory Castables", link: "refractory-castables-aod-refractories-argon-oxygen-decarburization", image: "assets/images/resources/products/aod/RefractoryCastables.webp" },
-        { name: "Gunning Mass", link: "gunning-mass-aod-refractories-argon-oxygen-decarburization", image: "assets/images/resources/products/aod/GunningMass.webp" },
-        { name: "Repair Mixes", link: "repair-mixes-aod-refractories-argon-oxygen-decarburization", image: "assets/images/resources/products/aod/RepairMixes.webp" },
-        { name: "Purging Systems", link: "purging-systems-aod-refractories-argon-oxygen-decarburization", image: "assets/images/resources/products/aod/PurgingSystems.webp" },
-        { name: "Taphole Refractories", link: "taphole-refractories-aod-refractories-argon-oxygen-decarburization", image: "assets/images/resources/products/aod/TapholeRefractories.webp" },
-        { name: "Backup Insulation Materials", link: "backup-insulation-materials-aod-refractories-argon-oxygen-decarburization", image: "assets/images/resources/products/aod/BackupInsulationMaterials.webp" }
+        { name: "AOD Converter Bricks", link: "aod-converter-bricks-aod-refractories-argon-oxygen-decarburization",alt: "AOD Converter Bricks for AOD Refractories", image: "assets/images/resources/products/aod/AODConverterBricks.webp" },
+        { name: "Magnesia Carbon Bricks", link: "magnesia-carbon-bricks-aod-refractories-argon-oxygen-decarburization",alt: "Magnesia Carbon Bricks for AOD Refractories", image: "assets/images/resources/products/aod/MagnesiaCarbonBricks.webp" },
+        { name: "AOD Tuyere Bricks", link: "aod-tuyere-bricks-aod-refractories-argon-oxygen-decarburization",alt: "AOD Tuyere Bricks for AOD Refractories", image: "assets/images/resources/products/aod/AODTuyereBricks.webp" },
+        { name: "Burner Blocks", link: "burner-blocks-aod-refractories-argon-oxygen-decarburization",alt: "Burner Blocks for AOD Refractories", image: "assets/images/resources/products/aod/BurnerBlocks.webp" },
+        { name: "Slag Line Refractories", link: "slag-line-refractories-aod-refractories-argon-oxygen-decarburization",alt: "Slag Line Refractories for AOD Refractories", image: "assets/images/resources/products/aod/SlagLineRefractories.webp" },
+        { name: "Safety Lining Materials", link: "safety-lining-materials-aod-refractories-argon-oxygen-decarburization",alt: "Safety Lining Materials for AOD Refractories", image: "assets/images/resources/products/aod/SafetyLiningMaterials.webp" },
+        { name: "Refractory Castables", link: "refractory-castables-aod-refractories-argon-oxygen-decarburization",alt: "Refractory Castables for AOD Refractories", image: "assets/images/resources/products/aod/RefractoryCastables.webp" },
+        { name: "Gunning Mass", link: "gunning-mass-aod-refractories-argon-oxygen-decarburization",alt: "Gunning Mass for AOD Refractories", image: "assets/images/resources/products/aod/GunningMass.webp" },
+        { name: "Repair Mixes", link: "repair-mixes-aod-refractories-argon-oxygen-decarburization",alt: "Repair Mixes for AOD Refractories", image: "assets/images/resources/products/aod/RepairMixes.webp" },
+        { name: "Purging Systems", link: "purging-systems-aod-refractories-argon-oxygen-decarburization",alt: "Purging Systems for AOD Refractories", image: "assets/images/resources/products/aod/PurgingSystems.webp" },
+        { name: "Taphole Refractories", link: "taphole-refractories-aod-refractories-argon-oxygen-decarburization",alt: "Taphole Refractories for AOD Refractories", image: "assets/images/resources/products/aod/TapholeRefractories.webp" },
+        { name: "Backup Insulation Materials", link: "backup-insulation-materials-aod-refractories-argon-oxygen-decarburization",alt: "Backup Insulation Materials for AOD Refractories", image: "assets/images/resources/products/aod/BackupInsulationMaterials.webp" }
       ];
 
       const wrappers = document.querySelectorAll(".custom-carousel-wrapper");
@@ -55,7 +55,7 @@
 
           const img = document.createElement("img");
           img.src = prod.image || "assets/images/resources/SteelmakingRefractories.webp";
-          img.alt = prod.name;
+          img.alt = prod.alt;
 
           const overlay = document.createElement("div");
           overlay.className = "industry-overlay";

@@ -5,6 +5,9 @@
 $title = 'Thermal Insulation Materials Manufacturer & Supplier | Refractotherm';
 $description = 'Thermal Insulation Materials encompass our broader range of energy-saving solutions tailored for industrial processes spanning low to ultra-high tempera...';
 $keywords = 'Thermal Insulation Materials, Insulation And Thermal Products, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

@@ -5,6 +5,9 @@
 $title = 'Zircon Based Refractories Manufacturer & Supplier | Refractotherm';
 $description = 'Zircon Based Refractories (Zirconium Silicate) are dense, highly inert materials favored for their exceptional resistance to aggressive chemical environ...';
 $keywords = 'Zircon Based Refractories, Pre Cast Shapes And Refractory Bricks, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

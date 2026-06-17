@@ -5,6 +5,9 @@
 $title = 'Incinerator Refractories Manufacturer & Supplier | Refractotherm';
 $description = 'Incinerator Refractories line the combustion chambers of municipal solid waste (MSW) incinerators and hazardous waste-to-energy plants.';
 $keywords = 'Incinerator Refractories, Special Industry Refractories, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

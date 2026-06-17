@@ -5,6 +5,9 @@
 $title = 'Heat Resistant Tiles Manufacturer & Supplier | Refractotherm';
 $description = 'Heat Resistant Tiles are specialized, flat refractory shapes utilized for paving industrial floors, lining transport chutes, and constructing the interi...';
 $keywords = 'Heat Resistant Tiles, Pre Cast Shapes And Refractory Bricks, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

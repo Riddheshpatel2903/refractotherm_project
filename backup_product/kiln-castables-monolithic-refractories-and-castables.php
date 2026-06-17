@@ -5,6 +5,9 @@
 $title = 'Kiln Castables Manufacturer & Supplier | Refractotherm';
 $description = 'Kiln Castables are high-performance monolithic refractory materials specifically developed for rotary kilns, lime kilns, calcination units, and other hi...';
 $keywords = 'Kiln Castables, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

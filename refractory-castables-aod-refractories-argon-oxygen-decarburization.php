@@ -5,6 +5,9 @@
 $title = 'Refractory Castables Manufacturer & Supplier | Refractotherm';
 $description = 'Refractory Castables for AOD applications are high-strength, monolithic materials extensively used for casting the converter lip ring, cone sections, an...';
 $keywords = 'Refractory Castables, Aod Refractories Argon Oxygen Decarburization, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

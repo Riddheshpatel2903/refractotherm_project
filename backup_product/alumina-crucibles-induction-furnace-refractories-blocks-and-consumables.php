@@ -5,6 +5,9 @@
 $title = 'Alumina Crucibles Manufacturer & Supplier | Refractotherm';
 $description = 'Alumina Crucibles are high-performance refractory vessels designed for melting, calcination, and high-temperature chemical processing applications. Manu...';
 $keywords = 'Alumina Crucibles, Induction Furnace Refractories Blocks And Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

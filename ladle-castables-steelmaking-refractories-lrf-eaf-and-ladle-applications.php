@@ -5,6 +5,9 @@
 $title = 'Ladle Castables Manufacturer & Supplier | Refractotherm';
 $description = 'Ladle Castables are advanced monolithic refractory formulations designed for the working and safety linings of steel ladles. Utilizing high-purity alumi...';
 $keywords = 'Ladle Castables, Steelmaking Refractories Lrf Eaf And Ladle Applications, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

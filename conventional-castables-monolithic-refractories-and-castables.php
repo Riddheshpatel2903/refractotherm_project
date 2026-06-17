@@ -5,6 +5,9 @@
 $title = 'Conventional Castables Manufacturer & Supplier | Refractotherm';
 $description = 'Conventional castables are refractory mixtures consisting of aggregates and a relatively high amount of calcium aluminate cement. They provide robust st...';
 $keywords = 'Conventional Castables, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

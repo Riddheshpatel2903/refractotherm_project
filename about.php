@@ -4,6 +4,9 @@
 <?php
 $title = 'About Us | Refractotherm';
 $description = 'Refractotherm engineers high-performance refractory products, flow control systems and thermal solutions for global steel, cement, foundry and power industries.';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 
@@ -35,7 +38,7 @@ include 'includes/head.php';
   <section class="section" id="overview">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/site/companyoverview.webp" alt="Refractotherm industrial facility"
+        <img src="assets/images/resources/site/companyoverview.webp" alt="About Refractotherm"
           loading="lazy" />
       </div>
       <div class="split__body reveal">
@@ -56,8 +59,6 @@ include 'includes/head.php';
       </div>
     </div>
   </section>
-
-  <!-- OUR JOURNEY -->
 
 
   <!-- OUR STRENGTHS -->
@@ -119,7 +120,7 @@ include 'includes/head.php';
     </div>
   </section>
 
-
+    <!-- OUR JOURNEY -->
     <section class="section section--alt">
     <div class="container">
       <div class="section__head">
@@ -128,7 +129,6 @@ include 'includes/head.php';
           <h3>Our Journey</h3>
         </div>
       </div>
-      <!-- HORIZONTAL TIMELINE -->
       <div class="horizontal-timeline-wrapper reveal">
         <div class="horizontal-timeline">
           <div class="horizontal-timeline-line"></div>
@@ -238,55 +238,6 @@ include 'includes/head.php';
       </div>
     </div>
   </section>
-
-  <!-- 15. CONTACT CTA -->
-  <!-- <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url(assets/images/resources/about-2.webp);"></div>
-    <div class="container cta__grid">
-      <div class="cta__intro">
-        <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Get in Touch</span>
-        <h3>Discuss your refractory and thermal engineering requirements.</h3>
-        <p>
-          Our engineering teams respond within one business day. Share your project brief and we will match you with the
-          right specialist.
-        </p>
-        <ul class="cta__info">
-          <li>
-            <i class="fa-solid fa-location-dot"></i> FF-71, Vraj Real Estate, Near Telephone Exchange Road, Bopal, Ahmedabad – 380058, Gujarat, India
-          </li>
-          <li><i class="fa-solid fa-phone"></i> +91 98259 57604</li>
-          <li>
-            <i class="fa-solid fa-envelope"></i> <a
-              href="mailto:info@refractotherm.com">info@refractotherm.com</a>
-          </li>
-        </ul>
-      </div>
-      <form class="cta__form"
-        onsubmit="event.preventDefault(); this.querySelector('button').textContent = 'Submitted Ã¢Å“â€œ';">
-        <h3>Request a Quote</h3>
-        <div class="row">
-          <input type="text" class="inputsections" placeholder="Full Name" required />
-          <input type="text" class="inputsections" placeholder="Company" required />
-        </div>
-        <div class="row">
-          <input type="email" class="inputsections" placeholder="Work Email" required />
-          <input type="tel" class="inputsections" placeholder="Phone" />
-        </div>
-        <select class="category inputsections" required>
-          <option value="">Inquiry Type</option>
-          <option>Sales & Product Info</option>
-          <option>Technical Support</option>
-          <option>Partnership</option>
-          <option>General Information</option>
-        </select>
-        <textarea rows="4" class="inputsections" placeholder="How can we help?"></textarea>
-        <button type="submit" class="btn btn--primary btn--block">
-          Submit Inquiry <i class="fa-solid fa-arrow-right"></i>
-        </button>
-      </form>
-    </div>
-  </section> -->
-
 
   <?php include 'includes/footer.php'; ?>
 </body>

@@ -5,6 +5,9 @@
 $title = 'Carbon Free Sen Manufacturer & Supplier | Refractotherm';
 $description = 'Carbon Free SEN (Submerged Entry Nozzles) are advanced refractory flow-control components specifically developed for continuous casting applications whe...';
 $keywords = 'Carbon Free Sen, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

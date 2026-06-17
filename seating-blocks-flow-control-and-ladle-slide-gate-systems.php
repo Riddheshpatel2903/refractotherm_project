@@ -5,6 +5,9 @@
 $title = 'Seating Blocks Manufacturer & Supplier | Refractotherm';
 $description = 'Seating Blocks are precision-engineered refractory components designed to provide a secure and accurately aligned seating surface for nozzles, collector...';
 $keywords = 'Seating Blocks, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

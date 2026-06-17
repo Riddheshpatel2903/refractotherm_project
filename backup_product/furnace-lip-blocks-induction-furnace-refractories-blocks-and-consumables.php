@@ -5,6 +5,9 @@
 $title = 'Furnace Lip Blocks Manufacturer & Supplier | Refractotherm';
 $description = 'Furnace Lip Blocks are specially designed precast refractory components installed at the lip or edge areas of furnaces, ladles, and molten metal handlin...';
 $keywords = 'Furnace Lip Blocks, Induction Furnace Refractories Blocks And Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

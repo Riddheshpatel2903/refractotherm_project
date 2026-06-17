@@ -5,6 +5,9 @@
 $title = 'Delta Castables Manufacturer & Supplier | Refractotherm';
 $description = 'Delta Castables are specialized monolithic refractory mixes designed for steel plants that prefer to cast their own EAF roof delta sections on-site. The...';
 $keywords = 'Delta Castables, Steelmaking Refractories Lrf Eaf And Ladle Applications, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

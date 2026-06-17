@@ -5,6 +5,9 @@
 $title = 'Safety Lining Materials Manufacturer & Supplier | Refractotherm';
 $description = 'Safety Lining Materials (or permanent linings) form the crucial backup layer in an AOD vessel, situated directly against the steel shell. They act as th...';
 $keywords = 'Safety Lining Materials, Aod Refractories Argon Oxygen Decarburization, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

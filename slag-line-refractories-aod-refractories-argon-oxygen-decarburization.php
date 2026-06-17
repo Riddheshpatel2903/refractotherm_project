@@ -5,6 +5,9 @@
 $title = 'Slag Line Refractories Manufacturer & Supplier | Refractotherm';
 $description = 'The slag line in an AOD converter shifts dramatically due to the tilting of the vessel and vigorous stirring. Our Slag Line Refractories are engineered ...';
 $keywords = 'Slag Line Refractories, Aod Refractories Argon Oxygen Decarburization, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

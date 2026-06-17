@@ -5,6 +5,9 @@
 $title = 'Pusher Blocks Manufacturer & Supplier | Refractotherm';
 $description = 'Pusher Blocks are specially engineered precast refractory components used in pusher-type reheating furnaces and other high-temperature industrial system...';
 $keywords = 'Pusher Blocks, Induction Furnace Refractories Blocks And Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

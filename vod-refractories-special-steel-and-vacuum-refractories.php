@@ -5,6 +5,9 @@
 $title = 'Vod Refractories Manufacturer & Supplier | Refractotherm';
 $description = 'VOD (Vacuum Oxygen Decarburization) Refractories are engineered for the extreme environment of secondary stainless steel refining.';
 $keywords = 'Vod Refractories, Special Steel And Vacuum Refractories, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

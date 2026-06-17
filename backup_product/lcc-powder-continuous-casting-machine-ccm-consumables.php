@@ -5,6 +5,9 @@
 $title = 'Lcc Powder Manufacturer & Supplier | Refractotherm';
 $description = 'LCC Powder (Ladle Covering Compound) is a specially formulated insulating material used on the surface of molten steel in ladles during steelmaking and ...';
 $keywords = 'Lcc Powder, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

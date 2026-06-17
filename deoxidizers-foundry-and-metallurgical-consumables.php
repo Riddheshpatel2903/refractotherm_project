@@ -5,6 +5,9 @@
 $title = 'Deoxidizers Manufacturer & Supplier | Refractotherm';
 $description = 'Deoxidizers are critical metallurgical additions used to eliminate dissolved oxygen from the molten metal bath prior to casting, preventing the formatio...';
 $keywords = 'Deoxidizers, Foundry And Metallurgical Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

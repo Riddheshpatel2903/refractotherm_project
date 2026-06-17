@@ -5,6 +5,9 @@
 $title = 'Metering Nozzles Manufacturer & Supplier | Refractotherm';
 $description = 'Metering Nozzles are precision-engineered refractory flow-control components used in tundish systems to regulate and maintain a controlled flow of molte...';
 $keywords = 'Metering Nozzles, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

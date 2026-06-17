@@ -5,6 +5,9 @@
 $title = 'Isostatically Pressed Products Manufacturer & Supplier | Refractotherm';
 $description = 'Isostatically Pressed Products represent the highest tier of refractory shaping technology. By applying uniform hydraulic pressure from all directions, ...';
 $keywords = 'Isostatically Pressed Products, Pre Cast Shapes And Refractory Bricks, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

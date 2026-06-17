@@ -5,6 +5,9 @@
 $title = 'Synthetic Slag Manufacturer & Supplier | Refractotherm';
 $description = 'Synthetic Slag is a pre-fused or mechanically blended metallurgical flux utilized during secondary refining in the ladle or melting in the induction fur...';
 $keywords = 'Synthetic Slag, Foundry And Metallurgical Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

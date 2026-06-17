@@ -5,6 +5,9 @@
 $title = 'Magnesia Carbon Bricks Manufacturer & Supplier | Refractotherm';
 $description = 'Magnesia Carbon Bricks are premium composite refractories manufactured from high-purity dead-burnt magnesia, fused magnesia, and flake graphite. They ar...';
 $keywords = 'Magnesia Carbon Bricks, Steelmaking Refractories Lrf Eaf And Ladle Applications, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

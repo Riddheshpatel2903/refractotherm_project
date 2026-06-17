@@ -5,6 +5,9 @@
 $title = 'High Temperature Sealants Manufacturer & Supplier | Refractotherm';
 $description = 'High Temperature Sealants and mastics are specialized, air-setting refractory pastes used for critical bonding, patching, and sealing applications in ex...';
 $keywords = 'High Temperature Sealants, Insulation And Thermal Products, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

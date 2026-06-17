@@ -5,6 +5,9 @@
 $title = 'Radex Tubes Manufacturer & Supplier | Refractotherm';
 $description = 'Radex Tubes are refractory protection tubes used in continuous casting operations to shield the molten steel stream during transfer from the ladle to th...';
 $keywords = 'Radex Tubes, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

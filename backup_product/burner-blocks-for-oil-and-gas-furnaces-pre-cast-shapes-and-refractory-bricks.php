@@ -5,6 +5,9 @@
 $title = 'Burner Blocks For Oil And Gas Furnaces Manufacturer & Supplier | Refractotherm';
 $description = 'Burner Blocks (or burner quarls) are specialized pre-cast shapes designed to house the burner assembly in oil and gas-fired furnaces. They play a vital ...';
 $keywords = 'Burner Blocks For Oil And Gas Furnaces, Pre Cast Shapes And Refractory Bricks, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

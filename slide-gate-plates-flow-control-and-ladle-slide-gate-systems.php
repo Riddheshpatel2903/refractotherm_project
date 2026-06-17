@@ -5,6 +5,9 @@
 $title = 'Slide Gate Plates Manufacturer & Supplier | Refractotherm';
 $description = 'Slide Gate Plates are precision-engineered refractory components used in ladle and tundish slide gate systems to regulate, control, and stop the flow of...';
 $keywords = 'Slide Gate Plates, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

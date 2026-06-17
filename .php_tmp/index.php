@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Refractotherm Router
  * A traditional, authentic routing system with all routes explicitly defined.
@@ -12,8 +13,8 @@ $uri = rtrim(str_replace($base_path, '', $request), '/');
 
 // 2. Handle 301 Redirects for Legacy / Misspelled URLs
 $redirects = [
-    'global'          => 'global-presence',
-    'globle'          => 'global-presence',
+    'global' => 'global-presence',
+    'globle' => 'global-presence',
     'globle-presence' => 'global-presence',
     'globle-precence' => 'global-presence'
 ];
@@ -29,7 +30,6 @@ $routes = [
     '' => 'home.php',
     'home' => 'home.php',
     'index' => 'home.php',
-
     // Explicit Page Mappings
     'about' => 'about.php',
     'acid-resistant-bricks-pre-cast-shapes-and-refractory-bricks' => 'acid-resistant-bricks-pre-cast-shapes-and-refractory-bricks.php',
@@ -86,7 +86,7 @@ $routes = [
     'furnace-lining-materials-induction-furnace-refractories-blocks-and-consumables' => 'furnace-lining-materials-induction-furnace-refractories-blocks-and-consumables.php',
     'furnace-repair-mixes-induction-furnace-refractories-blocks-and-consumables' => 'furnace-repair-mixes-induction-furnace-refractories-blocks-and-consumables.php',
     'furnace-roof-castables-induction-furnace-refractories-blocks-and-consumables' => 'furnace-roof-castables-induction-furnace-refractories-blocks-and-consumables.php',
-    'furnace-safety-lining-materials-induction-furnace-refractories-blocks-and-consumables' => 'furnace-safety-lining-materials-induction-furnace-refractories-blocks-and-consumables.php',
+    'safety-lining-materials-induction-furnace-refractories-blocks-and-consumables' => 'safety-lining-materials-induction-furnace-refractories-blocks-and-consumables.php',
     'furnace-top-blocks-induction-furnace-refractories-blocks-and-consumables' => 'furnace-top-blocks-induction-furnace-refractories-blocks-and-consumables.php',
     'global-presence' => 'global-presence.php',
     'global-steel-tech-expo-2026' => 'global-steel-tech-expo-2026.php',
@@ -165,7 +165,7 @@ $routes = [
     'testimonials' => 'testimonials.php',
     'thermocouple-protection-tubes-foundry-and-metallurgical-consumables' => 'thermocouple-protection-tubes-foundry-and-metallurgical-consumables.php',
     'tundish-boards-continuous-casting-machine-ccm-consumables' => 'tundish-boards-continuous-casting-machine-ccm-consumables.php',
-    'tundish-covering-compounds-continuous-casting-machine-ccm-consumables' => 'tundish-covering-compounds-continuous-casting-machine-ccm-consumables.php',
+    'covering-compounds-continuous-casting-machine-ccm-consumables' => 'covering-compounds-continuous-casting-machine-ccm-consumables.php',
     'tundish-impact-pads-continuous-casting-machine-ccm-consumables' => 'tundish-impact-pads-continuous-casting-machine-ccm-consumables.php',
     'tundish-nozzles-flow-control-and-ladle-slide-gate-systems' => 'tundish-nozzles-flow-control-and-ladle-slide-gate-systems.php',
     'tundish-well-blocks-continuous-casting-machine-ccm-consumables' => 'tundish-well-blocks-continuous-casting-machine-ccm-consumables.php',

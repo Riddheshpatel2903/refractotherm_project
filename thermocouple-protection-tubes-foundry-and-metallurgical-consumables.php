@@ -5,6 +5,9 @@
 $title = 'Thermocouple Protection Tubes Manufacturer & Supplier | Refractotherm';
 $description = 'Thermocouple Protection Tubes are robust, highly refractory sheaths designed to protect delicate thermocouple wires from the extreme heat and corrosive ...';
 $keywords = 'Thermocouple Protection Tubes, Foundry And Metallurgical Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

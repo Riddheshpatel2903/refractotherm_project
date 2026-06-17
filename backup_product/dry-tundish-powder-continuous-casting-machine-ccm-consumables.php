@@ -5,6 +5,9 @@
 $title = 'Dry Tundish Powder Manufacturer & Supplier | Refractotherm';
 $description = 'Dry Tundish Powder is a specially formulated refractory material used for creating working linings in tundishes during continuous casting operations. Ap...';
 $keywords = 'Dry Tundish Powder, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

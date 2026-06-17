@@ -5,6 +5,9 @@
 $title = 'Runner Castables Manufacturer & Supplier | Refractotherm';
 $description = 'Runner Castables are utilized to line the network of iron and slag runners that distribute hot metal and slag from the main trough to the torpedo ladles...';
 $keywords = 'Runner Castables, Blast Furnace And Dri Refractories, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

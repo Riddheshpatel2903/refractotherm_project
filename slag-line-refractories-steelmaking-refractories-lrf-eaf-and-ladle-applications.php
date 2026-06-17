@@ -5,6 +5,9 @@
 $title = 'Slag Line Refractories Manufacturer & Supplier | Refractotherm';
 $description = 'Slag Line Refractories are specialized high-grade materials specifically designed to endure the most aggressive environment in steel ladles and furnaces...';
 $keywords = 'Slag Line Refractories, Steelmaking Refractories Lrf Eaf And Ladle Applications, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

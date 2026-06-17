@@ -5,6 +5,9 @@
 $title = 'Ladle Nozzles Manufacturer & Supplier | Refractotherm';
 $description = 'Ladle Nozzles are critical refractory flow-control components installed at the bottom of steel ladles to regulate and direct the discharge of molten ste...';
 $keywords = 'Ladle Nozzles, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

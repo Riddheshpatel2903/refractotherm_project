@@ -5,6 +5,9 @@
 $title = 'Mud Gun Mass Manufacturer & Supplier | Refractotherm';
 $description = 'Mud Gun Mass (synonymous with Tap Hole Clay) is the critical consumable for casthouse operations, injected via the high-pressure mud gun to safely termi...';
 $keywords = 'Mud Gun Mass, Blast Furnace And Dri Refractories, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

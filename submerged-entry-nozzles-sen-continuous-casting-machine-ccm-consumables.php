@@ -5,6 +5,9 @@
 $title = 'Submerged Entry Nozzles Sen Manufacturer & Supplier | Refractotherm';
 $description = 'Submerged Entry Nozzles (SEN) are critical refractory flow-control components used in continuous casting machines to transfer molten steel from the tund...';
 $keywords = 'Submerged Entry Nozzles Sen, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

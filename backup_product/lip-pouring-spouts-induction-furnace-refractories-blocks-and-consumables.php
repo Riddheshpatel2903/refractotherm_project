@@ -5,6 +5,9 @@
 $title = 'Lip Pouring Spouts Manufacturer & Supplier | Refractotherm';
 $description = 'Lip Pouring Spouts are precision-engineered precast refractory components designed to facilitate the controlled pouring and transfer of molten metal dur...';
 $keywords = 'Lip Pouring Spouts, Induction Furnace Refractories Blocks And Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

@@ -5,6 +5,9 @@
 $title = 'Delta Sections Manufacturer & Supplier | Refractotherm';
 $description = 'The Delta Section is the central, critical component of the Electric Arc Furnace roof, containing the ports through which the graphite electrodes pass. ...';
 $keywords = 'Delta Sections, Steelmaking Refractories Lrf Eaf And Ladle Applications, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

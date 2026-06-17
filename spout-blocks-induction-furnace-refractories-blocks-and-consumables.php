@@ -5,6 +5,9 @@
 $title = 'Spout Blocks Manufacturer & Supplier | Refractotherm';
 $description = 'Spout Blocks are precision-engineered precast refractory components designed for molten metal tapping, pouring, transfer, and discharge applications in ...';
 $keywords = 'Spout Blocks, Induction Furnace Refractories Blocks And Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

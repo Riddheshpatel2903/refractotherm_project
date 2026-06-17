@@ -22,28 +22,20 @@
   <script>
     document.addEventListener("DOMContentLoaded", function () {
       const allCategoryProducts = [
-        { name: "Slide Gate Plates", link: "slide-gate-plates-flow-control-and-ladle-slide-gate-systems", image: "assets/images/resources/products/flowcontrol/SlideGatePlates.webp" },
-        // { name: "Slide Gate Sand", link: "slide-gate-sand-flow-control-and-ladle-slide-gate-systems", image: "assets/images/resources/products/flowcontrol/SlideGateSand.webp" },
-        { name: "Slide Gate Mechanisms", link: "slide-gate-mechanisms-flow-control-and-ladle-slide-gate-systems", image: "assets/images/resources/products/flowcontrol/SlideGateMechanisms.webp" },
-        { name: "Collector Nozzles", link: "collector-nozzles-flow-control-and-ladle-slide-gate-systems", image: "assets/images/resources/products/flowcontrol/CollectorNozzles.webp" },
-        { name: "Ladle Nozzles", link: "ladle-nozzles-flow-control-and-ladle-slide-gate-systems", image: "assets/images/resources/products/flowcontrol/LadleNozzles.webp" },
-        { name: "Tundish Nozzles", link: "tundish-nozzles-flow-control-and-ladle-slide-gate-systems", image: "assets/images/resources/products/flowcontrol/TundishNozzles.webp" },
-        { name: "Metering Nozzles", link: "metering-nozzles-flow-control-and-ladle-slide-gate-systems", image: "assets/images/resources/products/flowcontrol/MeteringNozzles.webp" },
-        { name: "Upper Nozzles", link: "upper-nozzles-flow-control-and-ladle-slide-gate-systems", image: "assets/images/resources/products/flowcontrol/UpperNozzles.webp" },
-        { name: "Lower Nozzles", link: "lower-nozzles-flow-control-and-ladle-slide-gate-systems", image: "assets/images/resources/products/flowcontrol/LowerNozzles.webp" },
-        // { name: "Inner Nozzles", link: "inner-nozzles-flow-control-and-ladle-slide-gate-systems", image: "assets/images/resources/products/flowcontrol/InnerNozzles.webp" },
-        // { name: "Outer Nozzles", link: "outer-nozzles-flow-control-and-ladle-slide-gate-systems", image: "assets/images/resources/products/flowcontrol/OuterNozzles.webp" },
-        // { name: "Composite Nozzles", link: "composite-nozzles-flow-control-and-ladle-slide-gate-systems", image: "assets/images/resources/products/flowcontrol/CompositeNozzles.webp" },
-        { name: "Zirconia Nozzles", link: "zirconia-nozzles-flow-control-and-ladle-slide-gate-systems", image: "assets/images/resources/products/flowcontrol/ZirconiaNozzles.webp" },
-        // { name: "Zirconia Inserts", link: "zirconia-inserts-flow-control-and-ladle-slide-gate-systems", image: "assets/images/resources/products/flowcontrol/ZirconiaInserts.webp" },
-        // { name: "Iso-Pressed Nozzles", link: "iso-pressed-nozzles-flow-control-and-ladle-slide-gate-systems", image: "assets/images/resources/products/flowcontrol/IsoPressedNozzles.webp" },
-        { name: "Porous Plugs", link: "porous-plugs-flow-control-and-ladle-slide-gate-systems", image: "assets/images/resources/products/flowcontrol/PorousPlugs.webp" },
-        { name: "Bottom Purging (BP) System", link: "bottom-purging-bp-sets-flow-control-and-ladle-slide-gate-systems", image: "assets/images/resources/products/flowcontrol/BottomPurging(BP)Sets.webp" },
-        // { name: "Purging Plug Systems", link: "purging-plug-systems-flow-control-and-ladle-slide-gate-systems", image: "assets/images/resources/products/flowcontrol/PurgingPlugSystems.webp" },
-        { name: "Well Blocks", link: "well-blocks-flow-control-and-ladle-slide-gate-systems", image: "assets/images/resources/products/flowcontrol/WellBlocks.webp" },
-        { name: "Seating Blocks", link: "seating-blocks-flow-control-and-ladle-slide-gate-systems", image: "assets/images/resources/products/flowcontrol/SeatingBlocks.webp" },
-        // { name: "SEN Seating Blocks", link: "sen-seating-blocks-flow-control-and-ladle-slide-gate-systems", image: "assets/images/resources/products/flowcontrol/SENSeatingBlocks.webp" },
-        { name: "Flow Control Systems", link: "flow-control-systems-flow-control-and-ladle-slide-gate-systems", image: "assets/images/resources/products/flowcontrol/FlowControlSystems.webp" }
+        { name: "Slide Gate Plates", link: "slide-gate-plates-flow-control-and-ladle-slide-gate-systems",alt:"Slide Gate Plates For Flow Control And Slide Gate Systems", image: "assets/images/resources/products/flowcontrol/SlideGatePlates.webp" },
+        { name: "Slide Gate Mechanisms", link: "slide-gate-mechanisms-flow-control-and-ladle-slide-gate-systems",alt:"Slide Gate Mechanisms For Flow Control And Slide Gate Systems", image: "assets/images/resources/products/flowcontrol/SlideGateMechanisms.webp" },
+        { name: "Collector Nozzles", link: "collector-nozzles-flow-control-and-ladle-slide-gate-systems",alt:"Collector Nozzles For Flow Control And Slide Gate Systems", image: "assets/images/resources/products/flowcontrol/CollectorNozzles.webp" },
+        { name: "Ladle Nozzles", link: "ladle-nozzles-flow-control-and-ladle-slide-gate-systems",alt:"Ladle Nozzles For Flow Control And Slide Gate Systems", image: "assets/images/resources/products/flowcontrol/LadleNozzles.webp" },
+        { name: "Tundish Nozzles", link: "tundish-nozzles-flow-control-and-ladle-slide-gate-systems",alt:"Tundish Nozzles For Flow Control And Slide Gate Systems", image: "assets/images/resources/products/flowcontrol/TundishNozzles.webp" },
+        { name: "Metering Nozzles", link: "metering-nozzles-flow-control-and-ladle-slide-gate-systems",alt:"Metering Nozzles For Flow Control And Slide Gate Systems", image: "assets/images/resources/products/flowcontrol/MeteringNozzles.webp" },
+        { name: "Upper Nozzles", link: "upper-nozzles-flow-control-and-ladle-slide-gate-systems",alt:"Upper Nozzles For Flow Control And Slide Gate Systems", image: "assets/images/resources/products/flowcontrol/UpperNozzles.webp" },
+        { name: "Lower Nozzles", link: "lower-nozzles-flow-control-and-ladle-slide-gate-systems",alt:"Lower Nozzles For Flow Control And Slide Gate Systems", image: "assets/images/resources/products/flowcontrol/LowerNozzles.webp" },
+        { name: "Zirconia Nozzles", link: "zirconia-nozzles-flow-control-and-ladle-slide-gate-systems",alt:"Zirconia Nozzles For Flow Control And Slide Gate Systems", image: "assets/images/resources/products/flowcontrol/ZirconiaNozzles.webp" },
+        { name: "Porous Plugs", link: "porous-plugs-flow-control-and-ladle-slide-gate-systems",alt:"Porous Plugs For Flow Control And Slide Gate Systems", image: "assets/images/resources/products/flowcontrol/PorousPlugs.webp" },
+        { name: "Bottom Purging (BP) System", link: "bottom-purging-bp-sets-flow-control-and-ladle-slide-gate-systems",alt:"Bottom Purging (BP) System For Flow Control And Slide Gate Systems", image: "assets/images/resources/products/flowcontrol/BottomPurging(BP)Sets.webp" },
+        { name: "Well Blocks", link: "well-blocks-flow-control-and-ladle-slide-gate-systems",alt:"Well Blocks For Flow Control And Slide Gate Systems", image: "assets/images/resources/products/flowcontrol/WellBlocks.webp" },
+        { name: "Seating Blocks", link: "seating-blocks-flow-control-and-ladle-slide-gate-systems",alt:"Seating Blocks For Flow Control And Slide Gate Systems", image: "assets/images/resources/products/flowcontrol/SeatingBlocks.webp" },
+        { name: "Flow Control Systems", link: "flow-control-systems-flow-control-and-ladle-slide-gate-systems",alt:"Flow Control Systems For Flow Control And Slide Gate Systems", image: "assets/images/resources/products/flowcontrol/FlowControlSystems.webp" }
       ];
 
       const wrappers = document.querySelectorAll(".custom-carousel-wrapper");
@@ -65,7 +57,7 @@
 
           const img = document.createElement("img");
           img.src = prod.image || "assets/images/resources/FlowControlSystems.webp";
-          img.alt = prod.name;
+          img.alt = prod.alt;
 
           const overlay = document.createElement("div");
           overlay.className = "industry-overlay";

@@ -5,6 +5,9 @@
 $title = 'Refractory Cements Manufacturer & Supplier | Refractotherm';
 $description = 'Refractory Cements are specialized high-temperature bonding materials used in the installation, repair, and maintenance of refractory linings across var...';
 $keywords = 'Refractory Cements, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

@@ -4,6 +4,9 @@
 <?php
 $title = 'Excellence in Engineering Award | News & Events | Refractotherm';
 $description = 'Refractotherm is proud to announce we have been recognized for outstanding contributions to metallurgical engineering and thermal efficiency.';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

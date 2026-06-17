@@ -5,6 +5,9 @@
 $title = 'Vacuum Degassing Refractories Manufacturer & Supplier | Refractotherm';
 $description = 'Vacuum Degassing Refractories encompass the complete lining solutions for RH (Ruhrstahl-Heraeus) and other advanced vacuum degassing vessels.';
 $keywords = 'Vacuum Degassing Refractories, Special Steel And Vacuum Refractories, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

@@ -5,6 +5,9 @@
 $title = 'Taphole Mass Manufacturer & Supplier | Refractotherm';
 $description = 'Taphole Mass is a specialized, unshaped refractory material used to pack the annular space around taphole sleeves or to fill the taphole in Eccentric Bo...';
 $keywords = 'Taphole Mass, Steelmaking Refractories Lrf Eaf And Ladle Applications, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

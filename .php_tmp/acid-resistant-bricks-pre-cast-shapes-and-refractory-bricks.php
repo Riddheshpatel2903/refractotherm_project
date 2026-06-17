@@ -5,6 +5,9 @@
 $title = 'Acid Resistant Bricks Manufacturer & Supplier | Refractotherm';
 $description = 'Acid Resistant Bricks are specialized ceramic products designed explicitly to endure aggressive chemical environments, particularly those involving high...';
 $keywords = 'Acid Resistant Bricks, Pre Cast Shapes And Refractory Bricks, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 
@@ -40,17 +43,12 @@ include 'includes/head.php';
       <div class="split__media reveal">
         <img src="assets/images/resources/products/precast_shape/AcidResistantBricks.webp"
           alt="Acid Resistant Bricks - Pre-Cast Shapes and Bricks" />
-
       </div>
       <div class="split__body reveal">
         <span class="eyebrow"><span class="eyebrow__bar"></span>Product Overview</span>
-        <h3>Acid Resistant Bricks</h3>
-        <p class="lead">Acid Resistant Bricks are specialized ceramic products designed explicitly to endure aggressive
-          chemical environments, particularly those involving highly corrosive acids and acidic fumes.</p>
-        <p>Characterized by extremely low water absorption and high silica content, these bricks are fired at high
-          temperatures to achieve a vitrified, impermeable structure. They provide unparalleled protection in acid
-          storage tanks, battery rooms, pickling lines, and sulfur recovery units in the petrochemical and fertilizer
-          industries.</p>
+        <h2>Acid Resistant Bricks</h2>
+        <p class="lead">Acid Resistant Bricks are specialized ceramic products designed explicitly to endure aggressive chemical environments, particularly those involving highly corrosive acids and acidic fumes.</p>
+        <p>Characterized by extremely low water absorption and high silica content, these bricks are fired at high temperatures to achieve a vitrified, impermeable structure. As a leading refractory supply provider, we engineer these bricks to provide unparalleled lining protection in acid storage tanks, pickling lines, and sulfur recovery units across the chemical and petrochemical industries.</p>
         <ul class="check overview-check-list">
           <li class="overview-check-item">
             <i class="fa-solid fa-check overview-check-icon"></i>
@@ -75,134 +73,96 @@ include 'includes/head.php';
 
 
   <!-- APPLICATIONS & BENEFITS -->
-  <section class="section">
-    <div class="container">
-      <div class="section__head">
-        <div>
-          <span class="eyebrow"><span class="eyebrow__bar"></span>Usage Areas</span>
-          <h3>Applications.</h3>
-        </div>
-      </div>
-      <div class="benefit-list-container" style="margin-bottom: 50px;">
-        <div class="benefit-list-item reveal">
-          <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Reheating Furnaces</h4>
-        </div>
-        <div class="benefit-list-item reveal">
-          <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Steel Plants</h4>
-        </div>
-        <div class="benefit-list-item reveal">
-          <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Foundries</h4>
-        </div>
-        <div class="benefit-list-item reveal">
-          <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Rotary Kilns</h4>
-        </div>
-        <div class="benefit-list-item reveal">
-          <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Boilers</h4>
-        </div>
-        <div class="benefit-list-item reveal">
-          <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Petrochemical Plants</h4>
-        </div>
-        <div class="benefit-list-item reveal">
-          <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Non-Ferrous Metal Industries</h4>
-        </div>
-        <div class="benefit-list-item reveal">
-          <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">High-Temperature Process Equipment</h4>
-        </div>
-      </div>
-
-      <div class="section__head">
-        <div>
-          <span class="eyebrow"><span class="eyebrow__bar"></span>Value Added</span>
-          <h3>Key Benefits.</h3>
-        </div>
-      </div>
-      <div class="benefit-list-container">
-        <div class="benefit-list-item reveal">
-          <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Excellent Thermal Resistance</h4>
-        </div>
-        <div class="benefit-list-item reveal">
-          <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">High Mechanical Strength</h4>
-        </div>
-        <div class="benefit-list-item reveal">
-          <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Superior Wear & Abrasion Resistance</h4>
-        </div>
-        <div class="benefit-list-item reveal">
-          <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Enhanced Structural Stability</h4>
-        </div>
-        <div class="benefit-list-item reveal">
-          <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Long Service Life</h4>
-        </div>
-        <div class="benefit-list-item reveal">
-          <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Customized Design Solutions</h4>
-        </div>
-        <div class="benefit-list-item reveal">
-          <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Reliable Performance in High-Temperature Environments</h4>
-        </div>
-        <div class="benefit-list-item reveal">
-          <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Reduced Maintenance Requirements</h4>
-        </div>
-        <div class="benefit-list-item reveal">
-          <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Improved Operational Efficiency</h4>
-        </div>
+<section class="section">
+  <div class="container">
+    <div class="section__head">
+      <div>
+        <span class="eyebrow"><span class="eyebrow__bar"></span>Usage Areas</span>
+        <h2>Applications</h2>
       </div>
     </div>
-  </section>
+    
+    <div class="benefit-list-container" style="margin-bottom: 50px;">
+      <div class="benefit-list-item reveal">
+        <i class="fa-solid fa-check benefit-tick"></i>
+        <p class="benefit-text">Chemical Storage Tanks and Process Vessels</p>
+      </div>
+      <div class="benefit-list-item reveal">
+        <i class="fa-solid fa-check benefit-tick"></i>
+        <p class="benefit-text">Industrial Acid Pickling Lines</p>
+      </div>
+      <div class="benefit-list-item reveal">
+        <i class="fa-solid fa-check benefit-tick"></i>
+        <p class="benefit-text">Battery Rooms and Industrial Floor Linings</p>
+      </div>
+      <div class="benefit-list-item reveal">
+        <i class="fa-solid fa-check benefit-tick"></i>
+        <p class="benefit-text">Petrochemical Sulfur Recovery Units</p>
+      </div>
+      <div class="benefit-list-item reveal">
+        <i class="fa-solid fa-check benefit-tick"></i>
+        <p class="benefit-text">Fertilizer and Dye Manufacturing Plants</p>
+      </div>
+      <div class="benefit-list-item reveal">
+        <i class="fa-solid fa-check benefit-tick"></i>
+        <p class="benefit-text">Industrial Chimneys and Flue Gas Linings</p>
+      </div>
+      <div class="benefit-list-item reveal">
+        <i class="fa-solid fa-check benefit-tick"></i>
+        <p class="benefit-text">Acid Regeneration and Recovery Plants</p>
+      </div>
+      <div class="benefit-list-item reveal">
+        <i class="fa-solid fa-check benefit-tick"></i>
+        <p class="benefit-text">Wastewater and Chemical Treatment Facilities</p>
+      </div>
+    </div>
+
+       <div class="section__head">
+      <div>
+        <span class="eyebrow"><span class="eyebrow__bar"></span>Value Added</span>
+        <h2>Key Benefits</h2>
+      </div>
+    </div>
+    
+    <div class="benefit-list-container">
+      <div class="benefit-list-item reveal">
+        <i class="fa-solid fa-check benefit-tick"></i>
+        <p class="benefit-text">Exceptional Resistance to Highly Corrosive Acids</p>
+      </div>
+      <div class="benefit-list-item reveal">
+        <i class="fa-solid fa-check benefit-tick"></i>
+        <p class="benefit-text">Extremely Low Porosity to Prevent Chemical Penetration</p>
+      </div>
+      <div class="benefit-list-item reveal">
+        <i class="fa-solid fa-check benefit-tick"></i>
+        <p class="benefit-text">High Compressive Strength and Mechanical Durability</p>
+      </div>
+      <div class="benefit-list-item reveal">
+        <i class="fa-solid fa-check benefit-tick"></i>
+        <p class="benefit-text">Superior Wear and Abrasion Resistance against Flowing Fluids</p>
+      </div>
+      <div class="benefit-list-item reveal">
+        <i class="fa-solid fa-check benefit-tick"></i>
+        <p class="benefit-text">Long Operational Service Life under Aggressive Chemical Stress</p>
+      </div>
+      <div class="benefit-list-item reveal">
+        <i class="fa-solid fa-check benefit-tick"></i>
+        <p class="benefit-text">Reliable Thermal Shock Resistance in Fluctuating Mediums</p>
+      </div>
+      <div class="benefit-list-item reveal">
+        <i class="fa-solid fa-check benefit-tick"></i>
+        <p class="benefit-text">Significantly Reduced Plant Maintenance Requirements</p>
+      </div>
+      <div class="benefit-list-item reveal">
+        <i class="fa-solid fa-check benefit-tick"></i>
+        <p class="benefit-text">Customized Dimensions Tailored to Specific Project Layouts</p>
+      </div>
+    </div>
+  </div>
+</section>
 
   <!-- SUGGESTED PRODUCTS -->
   <?php include 'includes/product_suggestion/precast-shapes.php'; ?>
-  <!-- INQUIRY CTA -->
-  <!-- <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
-    <div class="container cta__grid">
-      <div class="cta__intro">
-        <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>
-        <h3>Request a Quote for Acid Resistant Bricks </h3>
-        <p>Connect with our refractory specialists to select the ideal Alumina Crucible for your laboratory,
-          metallurgical, or industrial application. Custom sizes and high-purity grades are available based on your
-          requirements.</p>
-        <ul class="cta__info">
-          <li><i class="fa-solid fa-phone"></i> +91 98259 57604</li>
-          <li><i class="fa-solid fa-envelope"></i> <a
-              href="mailto:info@refractotherm.com">info@refractotherm.com</a>
-          </li>
-        </ul>
-      </div>
-      <form class="cta__form"
-        onsubmit="event.preventDefault(); this.querySelector('button').textContent = 'Submitted âœ“';">
-        <h3>Request Acid Resistant Bricks Quote</h3>
-        <div class="row">
-          <input type="text" class="inputsections" placeholder="Full Name" required />
-          <input type="text" class="inputsections" placeholder="Company" required />
-        </div>
-        <div class="row">
-          <input type="email" class="inputsections" placeholder="Work Email" required />
-          <input type="tel" class="inputsections" placeholder="Phone" />
-        </div>
-        <textarea rows="4" class="inputsections"
-          placeholder="Describe your quantity requirements, application temperatures, and any specific technical needs..."></textarea>
-        <button type="submit" class="btn btn--primary btn--block">
-          Get Product Quote <i class="fa-solid fa-arrow-right"></i>
-        </button>
-      </form>
-    </div>
-  </section> -->
 
 
   <?php include 'includes/footer.php'; ?>

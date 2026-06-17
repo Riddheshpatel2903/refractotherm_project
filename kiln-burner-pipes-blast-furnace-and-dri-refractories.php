@@ -5,6 +5,9 @@
 $title = 'Kiln Burner Pipes Manufacturer & Supplier | Refractotherm';
 $description = 'Kiln Burner Pipes (or burner lances) project into the rotary kiln to deliver pulverized coal, oil, or gas. They are constantly exposed to the most inten...';
 $keywords = 'Kiln Burner Pipes, Blast Furnace And Dri Refractories, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

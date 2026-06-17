@@ -5,6 +5,9 @@
 $title = 'Boiler Castables Manufacturer & Supplier | Refractotherm';
 $description = 'Boiler Castables are specially engineered refractory castables designed to withstand the demanding operating conditions found in power generation, steam...';
 $keywords = 'Boiler Castables, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

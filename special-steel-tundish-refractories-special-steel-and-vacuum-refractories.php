@@ -5,6 +5,9 @@
 $title = 'Special Steel Tundish Refractories Manufacturer & Supplier | Refractotherm';
 $description = 'Special Steel Tundish Refractories are formulated specifically for the continuous casting of high-alloy, stainless, and bearing steels, where even micro...';
 $keywords = 'Special Steel Tundish Refractories, Special Steel And Vacuum Refractories, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

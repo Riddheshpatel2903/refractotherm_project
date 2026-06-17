@@ -5,6 +5,9 @@
 $title = 'Nozzle Filling Compound Nfc Manufacturer & Supplier | Refractotherm';
 $description = 'Nozzle Filling Compound (NFC) is a specialized refractory consumable used in steel ladles to prevent molten steel from entering and clogging the ladle n...';
 $keywords = 'Nozzle Filling Compound Nfc, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

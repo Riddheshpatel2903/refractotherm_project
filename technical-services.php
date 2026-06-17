@@ -4,6 +4,9 @@
 <?php
 $title = 'Services | Refractotherm';
 $description = 'Refractotherm provides comprehensive refractory installation, maintenance, inspection, and engineering support services designed to improve operational reliability.';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

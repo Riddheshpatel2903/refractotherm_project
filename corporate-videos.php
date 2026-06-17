@@ -4,6 +4,9 @@
 <?php
 $title = 'Corporate Videos | Refractotherm';
 $description = "Watch Refractotherm's corporate videos highlighting our manufacturing processes, product demonstrations, and corporate vision.";
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

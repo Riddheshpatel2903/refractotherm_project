@@ -4,6 +4,9 @@
 <?php
 $title = 'News & Events | Refractotherm';
 $description = 'Stay updated with the latest news, events, industry exhibitions, and announcements from Refractotherm India LLP.';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

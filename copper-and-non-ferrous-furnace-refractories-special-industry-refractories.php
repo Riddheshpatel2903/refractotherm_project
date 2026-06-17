@@ -5,6 +5,9 @@
 $title = 'Copper And Non Ferrous Furnace Refractories Manufacturer & Supplier | Refractotherm';
 $description = 'Copper & Non-Ferrous Furnace Refractories are engineered for the smelting and refining of copper, lead, zinc, and other non-ferrous metals.';
 $keywords = 'Copper And Non Ferrous Furnace Refractories, Special Industry Refractories, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

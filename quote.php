@@ -4,6 +4,9 @@
 <?php
 $title = 'Get a Quote | Refractotherm';
 $description = 'Request a commercial quotation for Refractotherm refractory castables, monolithic mixes, flow control, and continuous casting refractories.';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

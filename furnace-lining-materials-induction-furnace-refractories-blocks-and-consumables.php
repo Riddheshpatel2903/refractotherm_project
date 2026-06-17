@@ -5,6 +5,9 @@
 $title = 'Furnace Lining Materials Manufacturer & Supplier | Refractotherm';
 $description = 'Furnace Lining Materials encompass a comprehensive range of refractory solutions, including ramming masses, castables, and bricks, designed to form the ...';
 $keywords = 'Furnace Lining Materials, Induction Furnace Refractories Blocks And Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

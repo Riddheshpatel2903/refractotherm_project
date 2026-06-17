@@ -5,6 +5,9 @@
 $title = 'Iso Pressed Nozzles Manufacturer & Supplier | Refractotherm';
 $description = 'Iso Pressed Nozzles are precision-engineered refractory flow-control components manufactured using isostatic pressing technology, a process that applies...';
 $keywords = 'Iso Pressed Nozzles, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

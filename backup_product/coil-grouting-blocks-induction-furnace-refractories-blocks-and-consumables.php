@@ -5,6 +5,9 @@
 $title = 'Coil Grouting Blocks Manufacturer & Supplier | Refractotherm';
 $description = 'Coil Grouting Blocks are specially engineered refractory components designed to securely fix, support, and protect heating coils in industrial furnaces....';
 $keywords = 'Coil Grouting Blocks, Induction Furnace Refractories Blocks And Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

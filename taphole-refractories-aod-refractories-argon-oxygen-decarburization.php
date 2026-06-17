@@ -5,6 +5,9 @@
 $title = 'Taphole Refractories Manufacturer & Supplier | Refractotherm';
 $description = 'Taphole Refractories for AOD converters consist of specialized pre-cast blocks and high-density tubes designed to facilitate the safe and rapid tapping ...';
 $keywords = 'Taphole Refractories, Aod Refractories Argon Oxygen Decarburization, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

@@ -5,6 +5,9 @@
 $title = 'AOD Tuyeres | Gas Injection Solutions | Refractotherm';
 $description = 'High-performance AOD Tuyeres engineered for superior gas injection, maximum process efficiency, and long service life in AOD converters.';
 $keywords = 'AOD Tuyeres, Gas Injection, AOD Converter, Stainless Steel Tuyeres, Argon Oxygen Decarburization, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 
@@ -40,7 +43,7 @@ include 'includes/head.php';
       </div>
       <div class="split__body reveal">
         <span class="eyebrow"><span class="eyebrow__bar"></span>Product Overview</span>
-        <h3>Gas Injection Process Metallurgy</h3>
+        <h2>Gas Injection Process Metallurgy</h2>
         <p class="lead">Our AOD Tuyeres are engineered for superior performance and long service life in Argon Oxygen Decarburization (AOD) vessels.</p>
         <p>Designed with precision manufacturing and high-quality materials, they ensure reliable gas injection, operational stability, and maximum process metallurgy efficiency.</p>
         <ul class="check overview-check-list">

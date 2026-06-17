@@ -5,6 +5,9 @@
 $title = 'Cnm Nozzles Manufacturer & Supplier | Refractotherm';
 $description = 'CNM Nozzles are precision-engineered refractory nozzles designed for molten steel flow control in continuous casting operations. These nozzles play a cr...';
 $keywords = 'Cnm Nozzles, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

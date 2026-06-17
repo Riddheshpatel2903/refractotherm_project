@@ -5,6 +5,9 @@
 $title = 'Anti Coating Castables Manufacturer & Supplier | Refractotherm';
 $description = 'Anti-Coating Castables are specialized refractory castables engineered to minimize the adhesion and accumulation of process materials on refractory surf...';
 $keywords = 'Anti Coating Castables, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

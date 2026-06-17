@@ -5,6 +5,9 @@
 $title = 'Top Cast Blocks Manufacturer & Supplier | Refractotherm';
 $description = 'Top Cast Blocks are precision-engineered precast refractory components designed for use in high-temperature industrial applications where dimensional ac...';
 $keywords = 'Top Cast Blocks, Induction Furnace Refractories Blocks And Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

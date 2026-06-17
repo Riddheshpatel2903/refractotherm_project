@@ -5,6 +5,9 @@
 $title = 'Silica Ramming Mass Manufacturer & Supplier | Refractotherm';
 $description = 'Silica Ramming Mass is a high-quality unshaped refractory material manufactured from carefully selected and graded quartzite aggregates with controlled ...';
 $keywords = 'Silica Ramming Mass, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

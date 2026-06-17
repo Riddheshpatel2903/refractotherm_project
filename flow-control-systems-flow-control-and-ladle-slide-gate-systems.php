@@ -5,6 +5,9 @@
 $title = 'Flow Control Systems Manufacturer & Supplier | Refractotherm';
 $description = 'Flow Control Systems are integrated refractory and mechanical assemblies designed to regulate, control, and optimize the movement of molten steel throug...';
 $keywords = 'Flow Control Systems, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

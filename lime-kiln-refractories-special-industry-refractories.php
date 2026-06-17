@@ -5,6 +5,9 @@
 $title = 'Lime Kiln Refractories Manufacturer & Supplier | Refractotherm';
 $description = 'Lime Kiln Refractories face a unique challenge: intense chemical attack from highly basic calcium oxide (quicklime) combined with severe mechanical abra...';
 $keywords = 'Lime Kiln Refractories, Special Industry Refractories, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

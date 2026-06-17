@@ -5,6 +5,9 @@
 $title = 'Launder Refractories Manufacturer & Supplier | Refractotherm';
 $description = 'Launder Refractories are used to line the channels (launders) that transport molten hot metal or slag from the furnace tapping area to holding vessels o...';
 $keywords = 'Launder Refractories, Blast Furnace And Dri Refractories, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

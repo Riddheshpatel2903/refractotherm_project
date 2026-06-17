@@ -5,6 +5,9 @@
 $title = 'Tap Hole Clay Manufacturer & Supplier | Refractotherm';
 $description = 'Tap Hole Clay is a highly plastic, resin or tar-bonded unshaped refractory used to seal the blast furnace taphole against the immense pressure of the he...';
 $keywords = 'Tap Hole Clay, Blast Furnace And Dri Refractories, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

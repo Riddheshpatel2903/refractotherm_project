@@ -5,6 +5,9 @@
 $title = 'Tundish Impact Pads Manufacturer & Supplier | Refractotherm';
 $description = 'Tundish Impact Pads are specially designed refractory components installed directly beneath the ladle shroud entry point inside the tundish. Their prima...';
 $keywords = 'Tundish Impact Pads, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

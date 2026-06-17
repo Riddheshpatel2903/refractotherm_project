@@ -5,6 +5,9 @@
 $title = 'Nano Bonded Castables Manufacturer & Supplier | Refractotherm';
 $description = 'Nano Bonded Castables represent a breakthrough in refractory technology, completely eliminating calcium aluminate cement and relying on a colloidal sili...';
 $keywords = 'Nano Bonded Castables, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

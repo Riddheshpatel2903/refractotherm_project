@@ -5,6 +5,9 @@
 $title = 'Petrochemical Heater Refractories Manufacturer & Supplier | Refractotherm';
 $description = 'Petrochemical Heater Refractories are utilized in the construction and repair of fired heaters, reformers, and cracking units within oil refineries and ...';
 $keywords = 'Petrochemical Heater Refractories, Special Industry Refractories, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

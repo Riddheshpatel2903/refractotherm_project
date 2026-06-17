@@ -5,6 +5,9 @@
 $title = 'Magnesia Carbon Bricks Manufacturer & Supplier | Refractotherm';
 $description = 'While Magnesia-Chrome or Dolomite are often used in the lower AOD sections, our high-grade Magnesia Carbon Bricks are extensively utilized in the upper ...';
 $keywords = 'Magnesia Carbon Bricks, Aod Refractories Argon Oxygen Decarburization, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

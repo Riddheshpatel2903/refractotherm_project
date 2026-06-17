@@ -5,6 +5,9 @@
 $title = 'Zirconia Nozzles Manufacturer & Supplier | Refractotherm';
 $description = 'Zirconia Nozzles are premium refractory flow-control components manufactured using high-purity zirconium oxide (ZrO₂) for critical steelmaking and con...';
 $keywords = 'Zirconia Nozzles, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

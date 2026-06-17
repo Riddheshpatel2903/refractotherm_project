@@ -5,6 +5,9 @@
 $title = 'Rotary Kiln Refractory Bricks Manufacturer & Supplier | Refractotherm';
 $description = 'Rotary Kiln Refractory Bricks are engineered for the harsh environment of Direct Reduced Iron (DRI) / Sponge Iron kilns, where they endure constant mech...';
 $keywords = 'Rotary Kiln Refractory Bricks, Blast Furnace And Dri Refractories, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

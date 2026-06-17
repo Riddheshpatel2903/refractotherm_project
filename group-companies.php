@@ -4,6 +4,9 @@
 <?php
 $title = 'Group Companies | Refractotherm';
 $description = "Refractotherm's global network and affiliated group companies driving excellence in the refractory industry.";
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

@@ -22,13 +22,13 @@
   <script>
     document.addEventListener("DOMContentLoaded", function () {
       const allCategoryProducts = [
-        { name: "Calcination Kiln Refractories", link: "calcination-kiln-refractories-special-industry-refractories", image: "assets/images/resources/products/spacial_industries/CalcinationKilnRefractories.webp" },
-        { name: "Lime Kiln Refractories", link: "lime-kiln-refractories-special-industry-refractories", image: "assets/images/resources/products/spacial_industries/LimeKilnRefractories.webp" },
-        { name: "Cement Kiln Refractories", link: "cement-kiln-refractories-special-industry-refractories", image: "assets/images/resources/products/spacial_industries/CementKilnRefractories.webp" },
-        { name: "Petrochemical Heater Refractories", link: "petrochemical-heater-refractories-special-industry-refractories", image: "assets/images/resources/products/spacial_industries/PetrochemicalHeaterRefractories.webp" },
-        { name: "Aluminium Furnace Refractories", link: "aluminium-furnace-refractories-special-industry-refractories", image: "assets/images/resources/products/spacial_industries/AluminiumFurnaceRefractories.webp" },
-        { name: "Copper & Non-Ferrous Furnace Refractories", link: "copper-and-non-ferrous-furnace-refractories-special-industry-refractories", image: "assets/images/resources/products/spacial_industries/Copper&Non-FerrousFurnaceRefractories.webp" },
-        { name: "Incinerator Refractories", link: "incinerator-refractories-special-industry-refractories", image: "assets/images/resources/products/spacial_industries/IncineratorRefractories.webp" }
+        { name: "Calcination Kiln Refractories", link: "calcination-kiln-refractories-special-industry-refractories",alt:"Calcinated Kiln Refractories for Special Industry Refractories", image: "assets/images/resources/products/spacial_industries/CalcinationKilnRefractories.webp" },
+        { name: "Lime Kiln Refractories", link: "lime-kiln-refractories-special-industry-refractories",alt:"Lime Kiln Refractories for Special Industry Refractories", image: "assets/images/resources/products/spacial_industries/LimeKilnRefractories.webp" },
+        { name: "Cement Kiln Refractories", link: "cement-kiln-refractories-special-industry-refractories",alt:"Cement Kiln Refractories for Special Industry Refractories", image: "assets/images/resources/products/spacial_industries/CementKilnRefractories.webp" },
+        { name: "Petrochemical Heater Refractories", link: "petrochemical-heater-refractories-special-industry-refractories",alt:"Petrochemical Heater Refractories for Special Industry Refractories", image: "assets/images/resources/products/spacial_industries/PetrochemicalHeaterRefractories.webp" },
+        { name: "Aluminium Furnace Refractories", link: "aluminium-furnace-refractories-special-industry-refractories",alt:"Aluminium Furnace Refractories for Special Industry Refractories", image: "assets/images/resources/products/spacial_industries/AluminiumFurnaceRefractories.webp" },
+        { name: "Copper & Non-Ferrous Furnace Refractories", link: "copper-and-non-ferrous-furnace-refractories-special-industry-refractories",alt:"Copper & Non-Ferrous Furnace Refractories for Special Industry Refractories", image: "assets/images/resources/products/spacial_industries/Copper&Non-FerrousFurnaceRefractories.webp" },
+        { name: "Incinerator Refractories", link: "incinerator-refractories-special-industry-refractories",alt:"Incinerator Refractories for Special Industry Refractories", image: "assets/images/resources/products/spacial_industries/IncineratorRefractories.webp" }
       ];
 
       const wrappers = document.querySelectorAll(".custom-carousel-wrapper");
@@ -50,7 +50,7 @@
 
           const img = document.createElement("img");
           img.src = prod.image || "assets/images/resources/FurnaceProducts.webp";
-          img.alt = prod.name;
+          img.alt = prod.alt;
 
           const overlay = document.createElement("div");
           overlay.className = "industry-overlay";

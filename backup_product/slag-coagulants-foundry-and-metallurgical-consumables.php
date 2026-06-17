@@ -5,6 +5,9 @@
 $title = 'Slag Coagulants Manufacturer & Supplier | Refractotherm';
 $description = 'Slag Coagulants (or deslagging agents) are specialized mineral blends applied to the surface of the molten metal prior to pouring.';
 $keywords = 'Slag Coagulants, Foundry And Metallurgical Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

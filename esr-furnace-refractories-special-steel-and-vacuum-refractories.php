@@ -5,6 +5,9 @@
 $title = 'Esr Furnace Refractories Manufacturer & Supplier | Refractotherm';
 $description = 'ESR (Electro-Slag Remelting) Furnace Refractories are critical for producing ultra-high-purity tool steels, aerospace superalloys, and large forging ing...';
 $keywords = 'Esr Furnace Refractories, Special Steel And Vacuum Refractories, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

@@ -5,6 +5,9 @@
 $title = 'Fire Clay Bricks Manufacturer & Supplier | Refractotherm';
 $description = 'Fire Clay Bricks are alumino-silicate refractories containing typically 30% to 45% alumina. They provide a cost-effective, reliable solution for low to ...';
 $keywords = 'Fire Clay Bricks, Pre Cast Shapes And Refractory Bricks, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

@@ -5,6 +5,9 @@
 $title = 'Repair Mixes Manufacturer & Supplier | Refractotherm';
 $description = 'Repair Mixes are highly plastic, hand-applied or trowelable refractory formulations used for precision cold repairs of the AOD converter. They are parti...';
 $keywords = 'Repair Mixes, Aod Refractories Argon Oxygen Decarburization, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

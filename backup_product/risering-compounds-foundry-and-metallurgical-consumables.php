@@ -5,6 +5,9 @@
 $title = 'Risering Compounds Manufacturer & Supplier | Refractotherm';
 $description = 'Risering Compounds (also known as hot-topping or anti-piping compounds) are applied to the top surface of the open riser immediately after pouring.';
 $keywords = 'Risering Compounds, Foundry And Metallurgical Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

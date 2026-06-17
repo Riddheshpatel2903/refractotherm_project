@@ -5,6 +5,9 @@
 $title = 'End Arch Bricks Manufacturer & Supplier | Refractotherm';
 $description = 'End Arch Bricks are tapered across their width rather than their length. They are utilized in conjunction with standard straights to turn arches of spec...';
 $keywords = 'End Arch Bricks, Pre Cast Shapes And Refractory Bricks, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

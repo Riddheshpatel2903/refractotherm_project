@@ -4,6 +4,9 @@
 <?php
 $title = 'Careers | Refractotherm';
 $description = 'Refractotherm engineers high-performance refractory products, flow control systems and thermal solutions for global steel, cement, foundry and power industries.';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 
@@ -36,7 +39,7 @@ include 'includes/head.php';
     <div class="container split">
       <div class="split__body reveal">
         <span class="eyebrow"><span class="eyebrow__bar"></span>Life at Refractotherm</span>
-        <h3>Engineering Excellence Driven by People.</h3>
+        <h2>Engineering Excellence Driven by People.</h2>
         <p class="lead">
           We operate at the intersection of material science, heavy manufacturing, and field engineering.
         </p>
@@ -58,7 +61,7 @@ include 'includes/head.php';
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Join Us</span>
-        <h3>Submit Your Application.</h3>
+        <h2>Submit Your Application.</h2>
         <p>
           Don't see a role that fits your exact profile? We are always looking for exceptional talent in refractory
           engineering. Submit your resume to our global talent pool.
@@ -70,7 +73,7 @@ include 'includes/head.php';
       </div>
       <form class="cta__form"
         onsubmit="event.preventDefault(); this.querySelector('button').textContent = 'Application Submitted âœ“';">
-        <h3>Application Form</h3>
+        <h2>Application Form</h2>
         <div class="row">
           <input type="text" class="inputsections" placeholder="First Name" required />
           <input type="text" class="inputsections" placeholder="Last Name" required />
@@ -106,30 +109,30 @@ include 'includes/head.php';
       <div class="section__head section__head--center">
         <div>
           <span class="eyebrow"><span class="eyebrow__bar"></span>Value Proposition</span>
-          <h3>Why Build Your Career With Us?</h3>
+          <h2>Why Build Your Career With Us?</h2>
         </div>
       </div>
 
       <div class="cert-grid careers-benefit-grid">
         <div class="cert careers-benefit-card">
           <i class="fa-solid fa-earth-americas careers-benefit-icon"></i>
-          <h4>Global Exposure</h4>
+          <h3>Global Exposure</h3>
           <p class="careers-benefit-desc">Work on critical infrastructure projects across multiple continents.</p>
         </div>
         <div class="cert careers-benefit-card">
           <i class="fa-solid fa-flask careers-benefit-icon"></i>
-          <h4>Advanced R&D</h4>
+          <h3>Advanced R&D</h3>
           <p class="careers-benefit-desc">Access to state-of-the-art ceramic testing and formulation laboratories.</p>
         </div>
         <div class="cert careers-benefit-card">
           <i class="fa-solid fa-helmet-safety careers-benefit-icon"></i>
-          <h4>Safety First</h4>
+          <h3>Safety First</h3>
           <p class="careers-benefit-desc">An uncompromising commitment to zero-harm in our plants and at client sites.
           </p>
         </div>
         <div class="cert careers-benefit-card">
           <i class="fa-solid fa-arrow-trend-up careers-benefit-icon"></i>
-          <h4>Career Growth</h4>
+          <h3>Career Growth</h3>
           <p class="careers-benefit-desc">Structured mentoring and clear pathways to technical or managerial leadership.
           </p>
         </div>

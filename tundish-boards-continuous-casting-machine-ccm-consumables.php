@@ -5,6 +5,9 @@
 $title = 'Tundish Boards Manufacturer & Supplier | Refractotherm';
 $description = 'Tundish Boards are custom-made, preformed refractory lining panels used to create the working lining inside steel ladles and tundishes. Installed direct...';
 $keywords = 'Tundish Boards, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

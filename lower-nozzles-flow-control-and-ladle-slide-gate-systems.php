@@ -5,6 +5,9 @@
 $title = 'Lower Nozzles Manufacturer & Supplier | Refractotherm';
 $description = 'Lower Nozzles are essential refractory flow-control components positioned below the slide gate plate assembly in steel ladle systems. They serve as the ...';
 $keywords = 'Lower Nozzles, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

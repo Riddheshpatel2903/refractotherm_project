@@ -5,6 +5,9 @@
 $title = 'Ladle To Tundish Shrouds Lts Manufacturer & Supplier | Refractotherm';
 $description = 'Ladle to Tundish Shrouds (LTS) are specialized refractory tubes used in continuous casting operations to transfer molten steel safely from the ladle to ...';
 $keywords = 'Ladle To Tundish Shrouds Lts, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

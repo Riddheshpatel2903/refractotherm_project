@@ -5,6 +5,9 @@
 $title = 'Porous Plugs Manufacturer & Supplier | Refractotherm';
 $description = 'Porous Plugs are specialized refractory components installed in the bottom of steel ladles to inject inert gases, typically argon, into molten steel dur...';
 $keywords = 'Porous Plugs, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

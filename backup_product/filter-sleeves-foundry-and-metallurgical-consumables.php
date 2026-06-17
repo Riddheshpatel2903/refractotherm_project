@@ -5,6 +5,9 @@
 $title = 'Filter Sleeves Manufacturer & Supplier | Refractotherm';
 $description = 'Filter Sleeves combine the insulating properties of a refractory sleeve with the purifying capabilities of a ceramic foam or extruded filter, placed dir...';
 $keywords = 'Filter Sleeves, Foundry And Metallurgical Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

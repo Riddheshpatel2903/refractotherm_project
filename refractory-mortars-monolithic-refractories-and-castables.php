@@ -5,6 +5,9 @@
 $title = 'Refractory Mortars Manufacturer & Supplier | Refractotherm';
 $description = 'Refractory Mortars are specially formulated bonding materials used for laying, jointing, and repairing refractory bricks in high-temperature industrial ...';
 $keywords = 'Refractory Mortars, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

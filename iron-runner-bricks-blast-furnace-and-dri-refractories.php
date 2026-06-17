@@ -5,6 +5,9 @@
 $title = 'Iron Runner Bricks Manufacturer & Supplier | Refractotherm';
 $description = 'Iron Runner Bricks provide a pre-fired, highly reliable alternative to monolithic linings for specific runner designs, particularly where immediate inst...';
 $keywords = 'Iron Runner Bricks, Blast Furnace And Dri Refractories, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

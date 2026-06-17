@@ -5,6 +5,9 @@
 $title = 'Tundish Working Linings Manufacturer & Supplier | Refractotherm';
 $description = 'Tundish Working Linings form the primary refractory layer that comes into direct contact with molten steel during continuous casting operations. Applied...';
 $keywords = 'Tundish Working Linings, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

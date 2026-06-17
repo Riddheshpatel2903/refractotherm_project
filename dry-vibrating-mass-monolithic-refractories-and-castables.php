@@ -5,6 +5,9 @@
 $title = 'Dry Vibrating Mass Manufacturer & Supplier | Refractotherm';
 $description = 'Dry Vibrating Mass is an unshaped refractory lining material designed for installation through vibration compaction in induction furnaces and high-tempe...';
 $keywords = 'Dry Vibrating Mass, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

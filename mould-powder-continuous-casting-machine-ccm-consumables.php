@@ -5,6 +5,9 @@
 $title = 'Mould Powder Manufacturer & Supplier | Refractotherm';
 $description = 'Mould Powder (also known as Mold Flux) is an essential consumable used in continuous casting operations to ensure smooth and efficient solidification of molten steel within the mould.';
 $keywords = 'Mould Powder, Mold Flux, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

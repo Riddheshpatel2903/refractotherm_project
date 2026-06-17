@@ -5,6 +5,9 @@
 $title = 'Gunning Mass Manufacturer & Supplier | Refractotherm';
 $description = 'Gunning Mass is an essential unshaped refractory used to perform rapid hot-repairs on the AOD working lining. It allows operators to patch deeply worn a...';
 $keywords = 'Gunning Mass, Aod Refractories Argon Oxygen Decarburization, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

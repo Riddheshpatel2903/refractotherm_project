@@ -5,6 +5,9 @@
 $title = 'High Alumina Bricks Manufacturer & Supplier | Refractotherm';
 $description = 'High Alumina Bricks are the workhorse of industrial refractories, widely used across the steel, cement, glass, and petrochemical industries. We offer a ...';
 $keywords = 'High Alumina Bricks, Pre Cast Shapes And Refractory Bricks, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

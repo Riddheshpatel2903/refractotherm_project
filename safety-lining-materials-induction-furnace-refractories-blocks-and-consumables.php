@@ -2,9 +2,9 @@
 <html lang="en">
 
 <?php
-$title = 'Monoblock Stoppers Manufacturer & Supplier | Refractotherm';
-$description = 'Monoblock Stoppers are critical flow-control components used in continuous casting tundishes to regulate and control the flow of molten steel from the t...';
-$keywords = 'Monoblock Stoppers, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$title = 'Safety Lining Materials Manufacturer & Supplier | Refractotherm';
+$description = 'Safety Lining Materials act as the critical backup layer between the working lining and the induction coil. They are designed to prevent catastr...';
+$keywords = 'Safety Lining Materials, Induction Furnace Refractories Blocks And Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
 $indexing = 'index';
 
@@ -21,9 +21,9 @@ include 'includes/head.php';
     <div class="page-banner-bg" style="background-image: url('assets/images/resources/site/banner.webp');">
     </div>
     <div class="container page-banner-container">
-      <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>CONTINUOUS CASTING MACHINE (CCM)
+      <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>INDUCTION FURNACE REFRACTORIES, BLOCKS &
         CONSUMABLES</span>
-      <h1 class="page-banner-title">Monoblock Stoppers</h1>
+      <h1 class="page-banner-title">Safety Lining Materials</h1>
     </div>
   </section>
 
@@ -31,8 +31,8 @@ include 'includes/head.php';
     <ol class="breadcrumb">
       <li><a href="home">Home</a></li>
       <li><a href="products">Products</a></li>
-      <li><a href="products#continuous-casting-machine-ccm-consumables">CONTINUOUS CASTING MACHINE CONSUMABLES</a></li>
-      <li class="active">Monoblock Stoppers </li>
+      <li><a href="products#induction-furnace-refractories-blocks-and-consumables">INDUCTION FURNACE REFRACTORIES, BLOCKS & CONSUMABLES</a></li>
+      <li class="active">Safety Lining Materials </li>
     </ol>
   </nav>
 
@@ -40,47 +40,42 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/ccm/MonoblockStoppers.webp"
-          alt="Monoblock Stoppers for Continuous Casting Tundishes, Flow Control Systems and Molten Steel Regulation Applications" />
+        <img src="assets/images/resources/products/induction_furnace/FurnaceSafetyLiningMaterials.webp"
+          alt="Safety Lining Materials for High Temperature Industrial Applications" />
 
       </div>
       <div class="split__body reveal">
         <span class="eyebrow"><span class="eyebrow__bar"></span>Product Overview</span>
-        <h3>Monoblock Stoppers</h3>
-        <p class="lead">Monoblock Stoppers are critical flow-control components used in continuous casting tundishes to
-          regulate and control the flow of molten steel from the tundish to the mould. Manufactured as a single-piece
-          refractory unit, these stoppers are designed to provide precise flow regulation while maintaining structural
-          integrity under demanding steelmaking conditions.
-        </p>
-        <p>Operating in direct contact with molten steel, Monoblock Stoppers are exposed to severe thermal, chemical,
-          and mechanical stresses throughout the casting process. To ensure reliable performance, they are manufactured
-          using high-quality refractory materials such as alumina-carbon, zirconia-enhanced alumina, and other
-          specialized compositions that offer excellent resistance to erosion, thermal shock, and clogging. Their robust
-          construction helps maintain consistent steel flow, improve casting stability, and support high-quality steel
-          production.</p>
+        <h3>Safety Lining Materials</h3>
+        <p class="lead">Safety Lining Materials act as the critical backup layer between the working lining and
+          the induction coil. They are designed to prevent catastrophic metal breakouts and protect the coil in the
+          event of primary lining failure.</p>
+        <p>Formulated for high refractoriness and excellent insulating properties, these materials ensure that any
+          molten metal penetrating the working lining solidifies before reaching the coil. A reliable safety lining is
+          essential for the safe and secure operation of any induction melting facility.</p>
         <ul class="check overview-check-list">
           <li class="overview-check-item">
             <i class="fa-solid fa-check overview-check-icon"></i>
-            Accurate and responsive molten steel flow control
-
+            Ultimate protection against metal breakouts
           </li>
           <li class="overview-check-item">
             <i class="fa-solid fa-check overview-check-icon"></i>
-            Excellent resistance to thermal shock and steel erosion
-
+            High refractoriness and low thermal conductivity
           </li>
           <li class="overview-check-item">
             <i class="fa-solid fa-check overview-check-icon"></i>
-            Strong monolithic construction for enhanced durability
+            Easy to install and highly reliable
           </li>
           <li class="overview-check-item">
             <i class="fa-solid fa-check overview-check-icon"></i>
-            Supports stable casting operations and improved steel quality
+            Protects expensive induction coils from damage
           </li>
         </ul>
       </div>
     </div>
   </section>
+
+
 
   <!-- APPLICATIONS & BENEFITS -->
   <section class="section">
@@ -94,35 +89,35 @@ include 'includes/head.php';
       <div class="benefit-list-container" style="margin-bottom: 50px;">
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Continuous Casting Machines (CCM)</h4>
+          <h4 class="benefit-text">Coreless Induction Furnaces</h4>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Billet Casting</h4>
+          <h4 class="benefit-text">Steel Melting Operations</h4>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Bloom Casting</h4>
+          <h4 class="benefit-text">Alloy Steel Production</h4>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Slab Casting</h4>
+          <h4 class="benefit-text">Stainless Steel Melting</h4>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Tundish Operations</h4>
+          <h4 class="benefit-text">Foundry Applications</h4>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Steel Melting Shops</h4>
+          <h4 class="benefit-text">Ferro Alloy Manufacturing</h4>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Secondary Metallurgy Operations</h4>
+          <h4 class="benefit-text">Non-Ferrous Metal Melting</h4>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Integrated Steel Plants</h4>
+          <h4 class="benefit-text">High-Temperature Melting Processes</h4>
         </div>
       </div>
 
@@ -135,50 +130,50 @@ include 'includes/head.php';
       <div class="benefit-list-container">
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Improved Steel Cleanliness</h4>
+          <h4 class="benefit-text">Enhanced Furnace Safety</h4>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Enhanced Casting Performance</h4>
+          <h4 class="benefit-text">Improved Lining Performance</h4>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Better Flow Control</h4>
+          <h4 class="benefit-text">Extended Campaign Life</h4>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Reduced Reoxidation</h4>
+          <h4 class="benefit-text">Superior Thermal Efficiency</h4>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Consistent Casting Quality</h4>
+          <h4 class="benefit-text">Reduced Maintenance Downtime</h4>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Improved Surface Finish</h4>
+          <h4 class="benefit-text">Improved Metal Yield</h4>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Reduced Inclusion Levels</h4>
+          <h4 class="benefit-text">Reliable Furnace Operation</h4>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Enhanced Operational Reliability</h4>
+          <h4 class="benefit-text">Better Resistance to Thermal Shock</h4>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Extended Equipment Life</h4>
+          <h4 class="benefit-text">Cost-Effective Furnace Maintenance</h4>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Increased Productivity & Yield</h4>
+          <h4 class="benefit-text">Increased Productivity & Operational Efficiency</h4>
         </div>
       </div>
     </div>
   </section>
 
   <!-- SUGGESTED PRODUCTS -->
-  <?php include 'includes/product_suggestion/ccm.php'; ?>
+  <?php include 'includes/product_suggestion/induction-furnace.php'; ?>
 
   <!-- INQUIRY CTA -->
   <!-- <section class="cta" id="contact">
@@ -186,10 +181,10 @@ include 'includes/head.php';
     <div class="container cta__grid">
       <div class="cta__intro">
         <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>
-        <h3>Request a Quote for Monoblock Stoppers</h3>
-        <p>Connect with our continuous casting specialists to select the most suitable Monoblock Stopper design,
-          refractory composition, and configuration for your tundish system, casting process, and steel grade
-          requirements. Customized solutions are available for a wide range of casting applications..</p>
+        <h3>Request a Quote for Safety Lining Materials </h3>
+        <p>Connect with our refractory specialists to select the ideal Alumina Crucible for your laboratory,
+          metallurgical, or industrial application. Custom sizes and high-purity grades are available based on your
+          requirements.</p>
         <ul class="cta__info">
           <li><i class="fa-solid fa-phone"></i> +91 98259 57604</li>
           <li><i class="fa-solid fa-envelope"></i> <a
@@ -198,8 +193,8 @@ include 'includes/head.php';
         </ul>
       </div>
       <form class="cta__form"
-        onsubmit="event.preventDefault(); this.querySelector('button').textContent = 'Submitted Ã¢Å“â€œ';">
-        <h3>Request Monoblock Stoppers Quote</h3>
+        onsubmit="event.preventDefault(); this.querySelector('button').textContent = 'Submitted âœ“';">
+        <h3>Request Safety Lining Materials Quote</h3>
         <div class="row">
           <input type="text" class="inputsections" placeholder="Full Name" required />
           <input type="text" class="inputsections" placeholder="Company" required />
@@ -218,9 +213,8 @@ include 'includes/head.php';
   </section> -->
 
   <!-- FOOTER -->
-
   <?php include 'includes/footer.php'; ?>
-
 </body>
 
 </html>
+

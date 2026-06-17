@@ -5,6 +5,9 @@
 $title = 'Tundish Well Blocks Manufacturer & Supplier | Refractotherm';
 $description = 'Tundish Well Blocks are critical refractory components installed in the bottom section of a tundish to house and support nozzles, stopper systems, and o...';
 $keywords = 'Tundish Well Blocks, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

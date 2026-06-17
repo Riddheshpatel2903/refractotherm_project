@@ -5,6 +5,9 @@
 $title = 'Well Blocks Manufacturer & Supplier | Refractotherm';
 $description = 'Well Blocks are critical preformed refractory components installed in steel ladles and tundishes to house, support, and secure nozzle assemblies used in...';
 $keywords = 'Well Blocks, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

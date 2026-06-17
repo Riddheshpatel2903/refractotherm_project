@@ -5,6 +5,9 @@
 $title = 'Ebt Refractories Manufacturer & Supplier | Refractotherm';
 $description = 'EBT (Eccentric Bottom Tapping) Refractories constitute a specialized assembly used in modern Electric Arc Furnaces to achieve rapid, slag-free tapping. ...';
 $keywords = 'Ebt Refractories, Steelmaking Refractories Lrf Eaf And Ladle Applications, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

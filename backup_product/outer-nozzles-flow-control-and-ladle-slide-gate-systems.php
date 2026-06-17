@@ -5,6 +5,9 @@
 $title = 'Outer Nozzles Manufacturer & Supplier | Refractotherm';
 $description = 'Outer Nozzles are critical refractory flow-control components positioned at the outlet section of steel ladle and continuous casting systems. They provi...';
 $keywords = 'Outer Nozzles, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

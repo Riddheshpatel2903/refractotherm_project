@@ -5,6 +5,9 @@
 $title = 'Foundry Coatings Manufacturer & Supplier | Refractotherm';
 $description = 'Foundry Coatings (commonly referred to as mold washes or core washes) are refractory liquids or pastes applied to the surface of sand molds and cores.';
 $keywords = 'Foundry Coatings, Foundry And Metallurgical Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

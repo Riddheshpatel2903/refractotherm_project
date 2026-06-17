@@ -5,6 +5,9 @@
 $title = 'Ultra Low Cement Castables Ulcc Manufacturer & Supplier | Refractotherm';
 $description = 'Ultra Low Cement Castables (ULCC) contain even less cement than LCCs, virtually eliminating the low-melting phases that compromise high-temperature stre...';
 $keywords = 'Ultra Low Cement Castables Ulcc, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

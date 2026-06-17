@@ -5,6 +5,9 @@
 $title = 'Magnesia Spinel Bricks Manufacturer & Supplier | Refractotherm';
 $description = 'Magnesia Spinel Bricks are high-performance basic refractories composed of high-purity magnesia and synthetic alumina-magnesia spinel. They are widely u...';
 $keywords = 'Magnesia Spinel Bricks, Steelmaking Refractories Lrf Eaf And Ladle Applications, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

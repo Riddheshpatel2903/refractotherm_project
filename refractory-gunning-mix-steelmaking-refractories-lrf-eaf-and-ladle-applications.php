@@ -5,6 +5,9 @@
 $title = 'Refractory Gunning Mix Manufacturer & Supplier | Refractotherm';
 $description = 'Refractory Gunning Mixes are unshaped refractory materials designed for installation via pneumatic gunning equipment. They are the primary solution for ...';
 $keywords = 'Refractory Gunning Mix, Steelmaking Refractories Lrf Eaf And Ladle Applications, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

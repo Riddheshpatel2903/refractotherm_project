@@ -4,6 +4,9 @@
 <?php
 $title = 'Global Steel Tech Expo 2026 | News & Events | Refractotherm';
 $description = 'Join Refractotherm at the upcoming international steel exhibition where we will showcase our newest ultra-low cement castable formulations.';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

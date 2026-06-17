@@ -5,6 +5,9 @@
 $title = 'Furnace Bottom Blocks Manufacturer & Supplier | Refractotherm';
 $description = 'Furnace Bottom Blocks are specially engineered refractory blocks installed at the bottom section of industrial furnaces to provide structural support, t...';
 $keywords = 'Furnace Bottom Blocks, Induction Furnace Refractories Blocks And Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

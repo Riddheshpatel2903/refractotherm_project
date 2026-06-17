@@ -5,6 +5,9 @@
 $title = 'Gunning Mass Manufacturer & Supplier | Refractotherm';
 $description = 'Gunning Mass is a specially engineered monolithic refractory material designed for pneumatic application onto refractory linings for maintenance, repair...';
 $keywords = 'Gunning Mass, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

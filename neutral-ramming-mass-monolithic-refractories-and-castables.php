@@ -5,6 +5,9 @@
 $title = 'Neutral Ramming Mass Manufacturer & Supplier | Refractotherm';
 $description = 'Neutral Ramming Mass is a high-performance refractory lining material specifically developed for induction furnaces handling stainless steel, alloy stee...';
 $keywords = 'Neutral Ramming Mass, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

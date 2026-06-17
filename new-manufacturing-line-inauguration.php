@@ -4,6 +4,9 @@
 <?php
 $title = 'New Manufacturing Line Inauguration | News & Events | Refractotherm';
 $description = 'We have successfully launched our new automated production line for high-purity alumina slide gate plates, increasing our global capacity.';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

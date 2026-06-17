@@ -5,6 +5,9 @@
 $title = 'INTERFLOW® Ladle Slide Gate Systems | Refractotherm';
 $description = 'INTERFLOW® Ladle Slide Gate Systems provide precise and reliable molten steel flow control during ladle and continuous casting operations.';
 $keywords = 'Ladle Slide Gate Systems, Flow Control, Steelmaking, INTERFLOW, Hydraulic Slide Gate, Secondary Metallurgy, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

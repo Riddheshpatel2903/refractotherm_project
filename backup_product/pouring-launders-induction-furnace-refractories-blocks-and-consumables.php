@@ -5,6 +5,9 @@
 $title = 'Pouring Launders Manufacturer & Supplier | Refractotherm';
 $description = 'Pouring Launders are specially engineered refractory channels designed for the safe, efficient, and controlled transfer of molten metal between furnaces...';
 $keywords = 'Pouring Launders, Induction Furnace Refractories Blocks And Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

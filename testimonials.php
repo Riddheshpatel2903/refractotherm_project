@@ -4,6 +4,9 @@
 <?php
 $title = 'Testimonials | Refractotherm';
 $description = "Read success stories and testimonials from global industries relying on Refractotherm's high-performance refractory products.";
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

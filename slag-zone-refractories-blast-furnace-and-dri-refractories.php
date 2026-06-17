@@ -5,6 +5,9 @@
 $title = 'Slag Zone Refractories Manufacturer & Supplier | Refractotherm';
 $description = 'Slag Zone Refractories are deployed in areas where liquid slag aggregates and reacts aggressively with the furnace lining, such as the lower sidewalls o...';
 $keywords = 'Slag Zone Refractories, Blast Furnace And Dri Refractories, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

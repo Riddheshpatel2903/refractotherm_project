@@ -5,6 +5,9 @@
 $title = 'Low Cement Castables Lcc Manufacturer & Supplier | Refractotherm';
 $description = 'Low Cement Castables (LCC) feature a reduced calcium aluminate cement content, which significantly lowers the amount of water required for casting. This...';
 $keywords = 'Low Cement Castables Lcc, Monolithic Refactories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

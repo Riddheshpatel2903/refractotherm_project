@@ -5,6 +5,9 @@
 $title = 'Graphite Stopper Rods Manufacturer & Supplier | Refractotherm';
 $description = 'Graphite Stopper Rods are essential flow-control components used in continuous casting tundishes to regulate the flow of molten steel from the tundish t...';
 $keywords = 'Graphite Stopper Rods, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

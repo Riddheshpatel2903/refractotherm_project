@@ -5,6 +5,9 @@
 $title = 'LININGMAN® Pneumatic Lining Vibrator | Refractotherm';
 $description = 'LININGMAN® Pneumatic Lining Vibrator is designed for efficient compaction and uniform installation of refractory ramming mass linings in induction furnaces.';
 $keywords = 'Pneumatic Lining Vibrator, Refractory Compaction, Induction Melting Furnaces, LININGMAN, Ramming Mass Lining, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

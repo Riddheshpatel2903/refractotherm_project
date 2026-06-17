@@ -5,6 +5,9 @@
 $title = 'Customized Refractory Shapes Manufacturer & Supplier | Refractotherm';
 $description = 'When standard brick formats are insufficient, our Customized Refractory Shapes provide the perfect engineered solution. We have the capability to design...';
 $keywords = 'Customized Refractory Shapes, Pre Cast Shapes And Refractory Bricks, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

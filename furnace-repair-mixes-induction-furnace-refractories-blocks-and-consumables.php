@@ -5,6 +5,9 @@
 $title = 'Repair Mixes Manufacturer & Supplier | Refractotherm';
 $description = 'Repair Mixes are specially formulated refractory compounds designed for the quick and effective patching of worn-out or damaged sections of furn...';
 $keywords = 'Repair Mixes, Induction Furnace Refractories Blocks And Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

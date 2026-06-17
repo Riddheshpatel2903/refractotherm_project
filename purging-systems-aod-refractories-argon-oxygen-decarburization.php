@@ -5,6 +5,9 @@
 $title = 'Purging Systems Manufacturer & Supplier | Refractotherm';
 $description = 'Purging Systems, including highly engineered porous plugs and seating blocks, are vital for injecting inert gases (like Argon) into the molten bath. Whi...';
 $keywords = 'Purging Systems, Aod Refractories Argon Oxygen Decarburization, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

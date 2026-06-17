@@ -5,6 +5,9 @@
 $title = 'Ck4 Nozzles Manufacturer & Supplier | Refractotherm';
 $description = 'CK4 Nozzles are advanced refractory flow-control components used in continuous casting systems to regulate and direct the flow of molten steel with high...';
 $keywords = 'Ck4 Nozzles, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

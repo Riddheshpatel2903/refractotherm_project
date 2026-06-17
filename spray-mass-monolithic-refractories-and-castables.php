@@ -5,6 +5,9 @@
 $title = 'Spray Mass Manufacturer & Supplier | Refractotherm';
 $description = 'Spray Mass is a specially formulated monolithic refractory material designed for application through spraying equipment onto existing refractory linings...';
 $keywords = 'Spray Mass, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

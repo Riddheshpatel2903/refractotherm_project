@@ -5,6 +5,9 @@
 $title = 'Tundish Nozzles Manufacturer & Supplier | Refractotherm';
 $description = 'Tundish Nozzles are precision-engineered refractory components installed at the base of the tundish to regulate and direct the flow of molten steel into...';
 $keywords = 'Tundish Nozzles, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

@@ -5,6 +5,9 @@
 $title = 'Rr Coil Coat Manufacturer & Supplier | Refractotherm';
 $description = 'RR Coil Coat is an advanced, high-performance coating material tailored for induction furnace coils. It offers exceptional arc resistance and insulation...';
 $keywords = 'Rr Coil Coat, Induction Furnace Refractories Blocks And Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

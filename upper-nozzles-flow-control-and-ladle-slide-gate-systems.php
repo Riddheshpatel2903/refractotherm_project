@@ -5,6 +5,9 @@
 $title = 'Upper Nozzles Manufacturer & Supplier | Refractotherm';
 $description = 'Upper Nozzles are critical refractory flow-control components installed in the bottom section of steel ladles above the slide gate plate assembly. They ...';
 $keywords = 'Upper Nozzles, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

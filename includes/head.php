@@ -15,6 +15,8 @@ if (!isset($keywords)) {
   <title><?php echo htmlspecialchars($title); ?></title>
   <meta name="description" content="<?php echo htmlspecialchars($description); ?>" />
   <meta name="keywords" content="<?php echo htmlspecialchars($keywords); ?>">
+  <link rel="canonical" href="<?php echo htmlspecialchars($connonical_url); ?>" />
+  <meta name="robots" content="<?php echo htmlspecialchars($indexing); ?>" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link

@@ -5,6 +5,9 @@
 $title = 'Slag Conditioner Manufacturer & Supplier | Refractotherm';
 $description = 'Slag Conditioner is a highly reactive, synthetic metallurgical flux added to the steel ladle during secondary refining. It is designed to rapidly form a...';
 $keywords = 'Slag Conditioner, Steelmaking Refractories Lrf Eaf And Ladle Applications, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

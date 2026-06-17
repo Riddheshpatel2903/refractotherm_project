@@ -5,6 +5,9 @@
 $title = 'Vd Refractories Manufacturer & Supplier | Refractotherm';
 $description = 'VD (Vacuum Degassing) Refractories are utilized in secondary metallurgy to remove dissolved gases (hydrogen, nitrogen) and non-metallic inclusions from ...';
 $keywords = 'Vd Refractories, Special Steel And Vacuum Refractories, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

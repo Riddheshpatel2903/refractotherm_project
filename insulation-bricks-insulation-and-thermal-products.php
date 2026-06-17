@@ -5,6 +5,9 @@
 $title = 'Insulation Bricks Manufacturer & Supplier | Refractotherm';
 $description = 'Insulating Firebricks (IFB) are highly porous refractory bricks designed to minimize heat loss and reduce the overall thermal mass of the furnace lining.';
 $keywords = 'Insulation Bricks, Insulation And Thermal Products, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

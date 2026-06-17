@@ -5,6 +5,9 @@
 $title = 'Hot Repair Mixes Manufacturer & Supplier | Refractotherm';
 $description = 'Hot Repair Mixes are specialized refractory maintenance materials designed for repairing and restoring worn refractory linings while equipment remains a...';
 $keywords = 'Hot Repair Mixes, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

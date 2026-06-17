@@ -5,6 +5,9 @@
 $title = 'Self Flow Castables Manufacturer & Supplier | Refractotherm';
 $description = 'Self Flow Castables are scientifically formulated with advanced dispersants and an optimized particle size distribution that allows the material to flow...';
 $keywords = 'Self Flow Castables, Monolithic Refractories Product, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

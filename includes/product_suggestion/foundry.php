@@ -21,17 +21,13 @@
   <script>
     document.addEventListener("DOMContentLoaded", function () {
       const allCategoryProducts = [
-        { name: "Ceramic Pouring Cups", link: "ceramic-pouring-cups-foundry-and-metallurgical-consumables", image: "assets/images/resources/products/foundries/CeramicPouringCups.webp" },
-        // { name: "Filter Sleeves", link: "filter-sleeves-foundry-and-metallurgical-consumables", image: "assets/images/resources/products/foundries/FilterSleeves.webp" },
-        { name: "Exothermic Sleeves", link: "exothermic-sleeves-foundry-and-metallurgical-consumables", image: "assets/images/resources/products/foundries/ExothermicSleeves.webp" },
-        // { name: "Risering Compounds", link: "risering-compounds-foundry-and-metallurgical-consumables", image: "assets/images/resources/products/foundries/RiseringCompounds.webp" },
-        { name: "Foundry Coatings", link: "foundry-coatings-foundry-and-metallurgical-consumables", image: "assets/images/resources/products/foundries/FoundryCoatings.webp" },
-        { name: "Synthetic Slag", link: "synthetic-slag-foundry-and-metallurgical-consumables", image: "assets/images/resources/products/foundries/SyntheticSlag.webp" },
-        // { name: "Slag Coagulants", link: "slag-coagulants-foundry-and-metallurgical-consumables", image: "assets/images/resources/products/foundries/SlagCoagulants.webp" },
-        { name: "Deoxidizers", link: "deoxidizers-foundry-and-metallurgical-consumables", image: "assets/images/resources/products/foundries/Deoxidizers.webp" },
-        { name: "Carbon Raisers", link: "carbon-raisers-foundry-and-metallurgical-consumables", image: "assets/images/resources/products/foundries/CarbonRaisers.webp" },
-        { name: "Thermocouple Protection Tubes", link: "thermocouple-protection-tubes-foundry-and-metallurgical-consumables", image: "assets/images/resources/products/foundries/ThermocoupleProtectionTubes.webp" },
-        // { name: "Exothermic Compounds", link: "exothermic-compounds-foundry-and-metallurgical-consumables", image: "assets/images/resources/products/foundries/ExothermicCompounds.webp" }
+        { name: "Ceramic Pouring Cups", link: "ceramic-pouring-cups-foundry-and-metallurgical-consumables",alt:"Ceramic Pouring Cups For Foundry And Metallurgical Consumables", image: "assets/images/resources/products/foundries/CeramicPouringCups.webp" },
+        { name: "Exothermic Sleeves", link: "exothermic-sleeves-foundry-and-metallurgical-consumables",alt:"Exothermic Sleeves For Foundry And Metallurgical Consumables", image: "assets/images/resources/products/foundries/ExothermicSleeves.webp" },
+        { name: "Foundry Coatings", link: "foundry-coatings-foundry-and-metallurgical-consumables",alt:"Foundry Coatings For Foundry And Metallurgical Consumables", image: "assets/images/resources/products/foundries/FoundryCoatings.webp" },
+        { name: "Synthetic Slag", link: "synthetic-slag-foundry-and-metallurgical-consumables",alt:"Synthetic Slag For Foundry And Metallurgical Consumables", image: "assets/images/resources/products/foundries/SyntheticSlag.webp" },
+        { name: "Deoxidizers", link: "deoxidizers-foundry-and-metallurgical-consumables",alt:"Deoxidizers For Foundry And Metallurgical Consumables", image: "assets/images/resources/products/foundries/Deoxidizers.webp" },
+        { name: "Carbon Raisers", link: "carbon-raisers-foundry-and-metallurgical-consumables",alt:"Carbon Raisers For Foundry And Metallurgical Consumables", image: "assets/images/resources/products/foundries/CarbonRaisers.webp" },
+        { name: "Thermocouple Protection Tubes", link: "thermocouple-protection-tubes-foundry-and-metallurgical-consumables",alt:"Thermocouple Protection Tubes for Foundry and Metallurgical Consumables", image: "assets/images/resources/products/foundries/ThermocoupleProtectionTubes.webp" },
       ];
 
       const wrappers = document.querySelectorAll(".custom-carousel-wrapper");
@@ -53,7 +49,7 @@
 
           const img = document.createElement("img");
           img.src = prod.image || "assets/images/resources/CCMConsumables.webp";
-          img.alt = prod.name;
+          img.alt = prod.alt;
 
           const overlay = document.createElement("div");
           overlay.className = "industry-overlay";

@@ -5,6 +5,9 @@
 $title = 'Ebt Filler Sand Manufacturer & Supplier | Refractotherm';
 $description = 'EBT Filler Sand is a specialized granular refractory material used to fill the Eccentric Bottom Tapping (EBT) taphole in Electric Arc Furnaces. Its prim...';
 $keywords = 'Ebt Filler Sand, Steelmaking Refractories Lrf Eaf And Ladle Applications, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 

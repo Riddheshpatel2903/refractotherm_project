@@ -5,6 +5,9 @@
 $title = 'Acidic Ramming Mass Manufacturer & Supplier | Refractotherm';
 $description = 'Acidic Ramming Mass is a premium refractory lining material manufactured from carefully selected high-purity quartzite with controlled particle size dis...';
 $keywords = 'Acidic Ramming Mass, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$connonical_url = 'refractotherm.com';
+$indexing = 'index';
+
 include 'includes/head.php';
 ?>
 
@@ -19,7 +22,7 @@ include 'includes/head.php';
     </div>
     <div class="container page-banner-container">
       <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Monolithic Refractories & Castables</span>
-      <h2 class="page-banner-title">Acidic Ramming Mass</h2>
+      <h1 class="page-banner-title">Acidic Ramming Mass</h1>
     </div>
   </section>
 
@@ -44,17 +47,10 @@ include 'includes/head.php';
       </div>
       <div class="split__body reveal">
         <span class="eyebrow"><span class="eyebrow__bar"></span>Product Overview</span>
-        <h3>Acidic Ramming Mass</h3>
-        <p class="lead">Acidic Ramming Mass is a premium refractory lining material manufactured from carefully selected
-          high-purity quartzite with controlled particle size distribution and specialized sintering additives. Designed
-          primarily for coreless induction furnaces, this refractory mass develops a strong, dense, and durable lining
-          capable of withstanding the severe thermal and mechanical conditions encountered during metal melting
-          operations.</p>
+        <h2>Acidic Ramming Mass</h2>
+      <p class="lead">Acidic Ramming Mass is a premium refractory lining material manufactured from carefully selected high-purity quartzite with controlled particle size distribution and specialized sintering additives. Designed primarily for coreless induction furnaces, this refractory mass develops a strong, dense, and durable lining capable of withstanding the severe thermal and mechanical conditions encountered during metal melting operations.</p>
         <p>
-          Widely used in steel foundries, cast iron foundries, and induction furnace melting applications, Acidic
-          Ramming Mass offers excellent thermal stability, strong sintering characteristics, and reliable resistance to
-          molten metal penetration. Its ability to form a compact and homogeneous furnace lining contributes to improved
-          thermal efficiency, reduced refractory consumption, and extended furnace campaign life.
+          Widely used in steel foundries, cast iron foundries, and induction furnace melting applications, Acidic Ramming Mass offers excellent thermal stability, strong sintering characteristics, and reliable resistance to molten metal penetration. Its ability to form a compact and homogeneous furnace lining contributes to improved thermal efficiency, reduced refractory consumption, and extended furnace campaign life.
         </p>
         <ul class="check overview-check-list">
           <li class="overview-check-item">
@@ -79,138 +75,94 @@ include 'includes/head.php';
   </section>
   
   <!-- APPLICATIONS & BENEFITS -->
-  <section class="section">
+   <section class="section">
     <div class="container">
       <div class="section__head">
         <div>
           <span class="eyebrow"><span class="eyebrow__bar"></span>Usage Areas</span>
-          <h3>Applications.</h3>
+          <h2>Applications</h2>
         </div>
       </div>
       <div class="benefit-list-container" style="margin-bottom: 50px;">
+>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Induction Melting Furnaces</h4>
+          <p class="benefit-text">Coreless Induction Melting Furnaces</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Electric Arc Furnaces (EAF)</h4>
+          <p class="benefit-text">Steel Manufacturing Foundries</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Ladle Refining Furnaces (LRF)</h4>
+          <p class="benefit-text">Grey and Ductile Iron Foundries</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Steel Ladles</h4>
+          <p class="benefit-text">Lining for Iron Launders and Spouts</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Tundishes</h4>
+          <p class="benefit-text">Alloy Steel Melting Units</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Reheating Furnaces</h4>
+          <p class="benefit-text">Holding Furnaces for Molten Metal</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Rotary Kilns</h4>
+          <p class="benefit-text">Crucible Linings in Metal Foundries</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">High-Temperature Process Equipment</h4>
+          <p class="benefit-text">High-Temperature Iron and Steel Scrap Melting</p>
         </div>
       </div>
 
       <div class="section__head">
         <div>
           <span class="eyebrow"><span class="eyebrow__bar"></span>Value Added</span>
-          <h3>Key Benefits.</h3>
+          <h2>Key Benefits</h2>
         </div>
       </div>
       <div class="benefit-list-container">
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Superior Thermal Resistance</h4>
+          <p class="benefit-text">Superior Thermal Stability at Extreme Melting Temperatures</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Excellent Mechanical Strength</h4>
+          <p class="benefit-text">Excellent Sintering Properties to Create a Dense Lining Barrier</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Enhanced Abrasion & Erosion Resistance</h4>
+          <p class="benefit-text">High Resistance to Molten Steel and Slag Penetration</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Improved Operational Reliability</h4>
+          <p class="benefit-text">Enhanced Volume Stability to Prevent Lining Cracks and Joint Failures</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Extended Service Life</h4>
+          <p class="benefit-text">Extended Furnace Campaign Life for Maximum Production Runs</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Reduced Maintenance Requirements</h4>
+          <p class="benefit-text">Reduced Refractory Material Consumption and Low Maintenance Costs</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Improved Furnace Performance</h4>
+          <p class="benefit-text">Optimized Heat Insulation to Improve Total Furnace Performance</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Lower Downtime & Maintenance Costs</h4>
-        </div>
-        <div class="benefit-list-item reveal">
-          <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Consistent Performance in High-Temperature Applications</h4>
-        </div>
-        <div class="benefit-list-item reveal">
-          <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Optimized Productivity & Operational Efficiency</h4>
+          <p class="benefit-text">Minimal Structural Downtime during Sintering and Dry Out Cycles</p>
         </div>
       </div>
     </div>
   </section>
 
  <?php include 'includes/product_suggestion/monolithic.php'; ?>
-  <!-- INQUIRY CTA -->
-  <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
-    <div class="container cta__grid">
-      <div class="cta__intro">
-        <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>
-        <h3>Request a Quote for Refactory Silica Ramming Mass</h3>
-        <p>Speak with our refractory experts to determine the most suitable acidic ramming mass grade for your induction
-          furnace. We offer customized solutions based on furnace capacity, metal type, operating conditions, and
-          production requirements.
-        </p>
-        <ul class="cta__info">
-          <li><i class="fa-solid fa-phone"></i> +91 98259 57604</li>
-          <li><i class="fa-solid fa-envelope"></i> <a
-              href="mailto:info@refractotherm.com">info@refractotherm.com</a>
-          </li>
-        </ul>
-      </div>
-      <form class="cta__form"
-        onsubmit="event.preventDefault(); this.querySelector('button').textContent = 'Submitted Ã¢Å“â€œ';">
-        <h3>Request Product Quote</h3>
-        <div class="row">
-          <input type="text" class="inputsections" placeholder="Full Name" required />
-          <input type="text" class="inputsections" placeholder="Company" required />
-        </div>
-        <div class="row">
-          <input type="email" class="inputsections" placeholder="Work Email" required />
-          <input type="tel" class="inputsections" placeholder="Phone" />
-        </div>
-        <textarea rows="4" class="inputsections"
-          placeholder="Describe your quantity requirements, application temperatures, and any specific technical needs..."></textarea>
-        <button type="submit" class="btn btn--primary btn--block">
-          Get Product Quote <i class="fa-solid fa-arrow-right"></i>
-        </button>
-      </form>
-    </div>
-  </section>
 
   <?php include 'includes/footer.php'; ?>
 
