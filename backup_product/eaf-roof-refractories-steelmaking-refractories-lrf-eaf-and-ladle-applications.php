@@ -6,7 +6,7 @@ $title = 'Eaf Roof Refractories Manufacturer & Supplier | Refractotherm';
 $description = 'Electric Arc Furnace (EAF) Roof Refractories consist of highly specialized bricks and monolithic castables designed to form the protective canopy over t...';
 $keywords = 'Eaf Roof Refractories, Steelmaking Refractories Lrf Eaf And Ladle Applications, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

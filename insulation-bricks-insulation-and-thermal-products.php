@@ -6,7 +6,7 @@ $title = 'Insulation Bricks Manufacturer & Supplier | Refractotherm';
 $description = 'Insulating Firebricks (IFB) are highly porous refractory bricks designed to minimize heat loss and reduce the overall thermal mass of the furnace lining.';
 $keywords = 'Insulation Bricks, Insulation And Thermal Products, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>
@@ -45,7 +45,7 @@ include 'includes/head.php';
       </div>
       <div class="split__body reveal">
         <span class="eyebrow"><span class="eyebrow__bar"></span>Product Overview</span>
-        <h3>Insulation Bricks</h3>
+        <h2>Insulation Bricks</h2>
         <p class="lead">Insulating Firebricks (IFB) are highly porous refractory bricks designed to minimize heat loss
           and reduce the overall thermal mass of the furnace lining.</p>
         <p>Manufactured from high-purity refractory clays and combustible burn-out additives, these bricks feature a
@@ -81,90 +81,90 @@ include 'includes/head.php';
       <div class="section__head">
         <div>
           <span class="eyebrow"><span class="eyebrow__bar"></span>Usage Areas</span>
-          <h3>Applications.</h3>
+          <h2>Applications.</h2>
         </div>
       </div>
       <div class="benefit-list-container" style="margin-bottom: 50px;">
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Reheating Furnaces</h4>
+          <P class="benefit-text">Reheating Furnaces</P>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Induction Melting Furnaces</h4>
+          <P class="benefit-text">Induction Melting Furnaces</P>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Electric Arc Furnaces (EAF)</h4>
+          <P class="benefit-text">Electric Arc Furnaces (EAF)</P>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Ladle Refining Furnaces (LRF)</h4>
+          <P class="benefit-text">Ladle Refining Furnaces (LRF)</P>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Boilers</h4>
+          <P class="benefit-text">Boilers</P>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Kilns</h4>
+          <P class="benefit-text">Kilns</P>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Petrochemical Plants</h4>
+          <P class="benefit-text">Petrochemical Plants</P>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">High-Temperature Process Equipment</h4>
+          <P class="benefit-text">High-Temperature Process Equipment</P>
         </div>
       </div>
 
       <div class="section__head">
         <div>
           <span class="eyebrow"><span class="eyebrow__bar"></span>Value Added</span>
-          <h3>Key Benefits.</h3>
+          <h2>Key Benefits.</h2>
         </div>
       </div>
       <div class="benefit-list-container">
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Excellent Thermal Insulation Performance</h4>
+          <P class="benefit-text">Excellent Thermal Insulation Performance</P>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Reduced Heat Loss</h4>
+          <P class="benefit-text">Reduced Heat Loss</P>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Improved Energy Efficiency</h4>
+          <P class="benefit-text">Improved Energy Efficiency</P>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Lower Fuel & Energy Consumption</h4>
+          <P class="benefit-text">Lower Fuel & Energy Consumption</P>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Enhanced Process Stability</h4>
+          <P class="benefit-text">Enhanced Process Stability</P>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Lightweight & Easy Installation</h4>
+          <P class="benefit-text">Lightweight & Easy Installation</P>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Improved Equipment Protection</h4>
+          <P class="benefit-text">Improved Equipment Protection</P>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Reduced Operating Costs</h4>
+          <P class="benefit-text">Reduced Operating Costs</P>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Extended Equipment Service Life</h4>
+          <P class="benefit-text">Extended Equipment Service Life</P>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Reliable High-Temperature Performance</h4>
+          <P class="benefit-text">Reliable High-Temperature Performance</P>
         </div>
       </div>
     </div>
@@ -173,45 +173,7 @@ include 'includes/head.php';
   <!-- SUGGESTED PRODUCTS -->
   <?php include 'includes/product_suggestion/insulation-thermal.php'; ?>
 
-  <!-- INQUIRY CTA -->
-  <!-- <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
-    <div class="container cta__grid">
-      <div class="cta__intro">
-        <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>
-        <h3>Request a Quote for Insulation Bricks </h3>
-        <p>Connect with our refractory specialists to select the ideal Alumina Crucible for your laboratory,
-          metallurgical, or industrial application. Custom sizes and high-purity grades are available based on your
-          requirements.</p>
-        <ul class="cta__info">
-          <li><i class="fa-solid fa-phone"></i> +91 98259 57604</li>
-          <li><i class="fa-solid fa-envelope"></i> <a
-              href="mailto:info@refractotherm.com">info@refractotherm.com</a>
-          </li>
-        </ul>
-      </div>
-      <form class="cta__form"
-        onsubmit="event.preventDefault(); this.querySelector('button').textContent = 'Submitted Ã¢Å“â€œ';">
-        <h3>Request Insulation Bricks Quote</h3>
-        <div class="row">
-          <input type="text" class="inputsections" placeholder="Full Name" required />
-          <input type="text" class="inputsections" placeholder="Company" required />
-        </div>
-        <div class="row">
-          <input type="email" class="inputsections" placeholder="Work Email" required />
-          <input type="tel" class="inputsections" placeholder="Phone" />
-        </div>
-        <textarea rows="4" class="inputsections"
-          placeholder="Describe your quantity requirements, application temperatures, and any specific technical needs..."></textarea>
-        <button type="submit" class="btn btn--primary btn--block">
-          Get Product Quote <i class="fa-solid fa-arrow-right"></i>
-        </button>
-      </form>
-    </div>
-  </section> -->
-
   <!-- FOOTER -->
-
   <?php include 'includes/footer.php'; ?>
 
 </body>

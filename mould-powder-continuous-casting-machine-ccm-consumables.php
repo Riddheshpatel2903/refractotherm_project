@@ -6,7 +6,7 @@ $title = 'Mould Powder Manufacturer & Supplier | Refractotherm';
 $description = 'Mould Powder (also known as Mold Flux) is an essential consumable used in continuous casting operations to ensure smooth and efficient solidification of molten steel within the mould.';
 $keywords = 'Mould Powder, Mold Flux, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>
@@ -41,12 +41,12 @@ include 'includes/head.php';
     <div class="container split">
       <div class="split__media reveal">
         <img src="assets/images/resources/products/ccm/CastingPowderMouldPowder.webp"
-          alt="Mould Powder for Continuous Casting Lubrication, Heat Transfer Control and Steelmaking Applications" />
+          alt="Mould Powder - Continuous Casting Machine CCM Consumables - Refractotherm" />
 
       </div>
       <div class="split__body reveal">
         <span class="eyebrow"><span class="eyebrow__bar"></span>Product Overview</span>
-        <h3>Mould Powder</h3>
+        <h2>Mould Powder</h2>
         <p class="lead">Mould Powder, also known as Mold Flux, is an essential consumable used in
           continuous casting operations to ensure smooth and efficient solidification of molten steel within the mould.
           Applied on the molten steel surface inside the mould, the powder melts and forms a protective slag layer that
@@ -86,90 +86,90 @@ include 'includes/head.php';
       <div class="section__head">
         <div>
           <span class="eyebrow"><span class="eyebrow__bar"></span>Usage Areas</span>
-          <h3>Applications.</h3>
+          <h2>Applications.</h2>
         </div>
       </div>
       <div class="benefit-list-container" style="margin-bottom: 50px;">
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Continuous Casting Machines (CCM)</h4>
+          <p class="benefit-text">Continuous Casting Machines (CCM)</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Billet Casting</h4>
+          <p class="benefit-text">Billet Casting</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Bloom Casting</h4>
+          <p class="benefit-text">Bloom Casting</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Slab Casting</h4>
+          <p class="benefit-text">Slab Casting</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Tundish Operations</h4>
+          <p class="benefit-text">Tundish Operations</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Steel Melting Shops</h4>
+          <p class="benefit-text">Steel Melting Shops</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Secondary Metallurgy Operations</h4>
+          <p class="benefit-text">Secondary Metallurgy Operations</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Integrated Steel Plants</h4>
+          <p class="benefit-text">Integrated Steel Plants</p>
         </div>
       </div>
 
       <div class="section__head">
         <div>
           <span class="eyebrow"><span class="eyebrow__bar"></span>Value Added</span>
-          <h3>Key Benefits.</h3>
+          <h2>Key Benefits.</h2>
         </div>
       </div>
       <div class="benefit-list-container">
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Improved Steel Cleanliness</h4>
+          <p class="benefit-text">Improved Steel Cleanliness</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Enhanced Casting Performance</h4>
+          <p class="benefit-text">Enhanced Casting Performance</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Better Flow Control</h4>
+          <p class="benefit-text">Better Flow Control</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Reduced Reoxidation</h4>
+          <p class="benefit-text">Reduced Reoxidation</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Consistent Casting Quality</h4>
+          <p class="benefit-text">Consistent Casting Quality</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Improved Surface Finish</h4>
+          <p class="benefit-text">Improved Surface Finish</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Reduced Inclusion Levels</h4>
+          <p class="benefit-text">Reduced Inclusion Levels</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Enhanced Operational Reliability</h4>
+          <p class="benefit-text">Enhanced Operational Reliability</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Extended Equipment Life</h4>
+          <p class="benefit-text">Extended Equipment Life</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Increased Productivity & Yield</h4>
+          <p class="benefit-text">Increased Productivity & Yield</p>
         </div>
       </div>
     </div>

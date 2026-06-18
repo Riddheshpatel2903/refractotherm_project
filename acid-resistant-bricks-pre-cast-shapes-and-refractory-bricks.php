@@ -6,7 +6,7 @@ $title = 'Acid Resistant Bricks Manufacturer & Supplier | Refractotherm';
 $description = 'Acid Resistant Bricks are specialized ceramic products designed explicitly to endure aggressive chemical environments, particularly those involving high...';
 $keywords = 'Acid Resistant Bricks, Pre Cast Shapes And Refractory Bricks, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

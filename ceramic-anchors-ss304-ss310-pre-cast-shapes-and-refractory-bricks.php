@@ -6,7 +6,7 @@ $title = 'Ceramic Anchors Ss304 Ss310 Manufacturer & Supplier | Refractotherm';
 $description = 'Refractory Anchors are vital hardware components used to secure monolithic castable or plastic refractory linings to the steel casing of the furnace, pr...';
 $keywords = 'Ceramic Anchors Ss304 Ss310, Pre Cast Shapes And Refractory Bricks, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

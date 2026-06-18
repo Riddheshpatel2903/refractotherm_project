@@ -6,7 +6,7 @@ $title = 'Furnace Bottom Nozzle Blocks Manufacturer & Supplier | Refractotherm';
 $description = 'Furnace Bottom Nozzle Blocks are precision-engineered refractory components installed at the bottom section of furnaces and ladles to control the flow o...';
 $keywords = 'Furnace Bottom Nozzle Blocks, Induction Furnace Refractories Blocks And Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

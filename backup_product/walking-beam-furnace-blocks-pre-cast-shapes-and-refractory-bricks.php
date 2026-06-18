@@ -6,7 +6,7 @@ $title = 'Walking Beam Furnace Blocks Manufacturer & Supplier | Refractotherm';
 $description = 'Walking Beam Furnace Blocks are critical structural components used in the hearth of modern steel reheating furnaces, where heavy steel slabs or billets...';
 $keywords = 'Walking Beam Furnace Blocks, Pre Cast Shapes And Refractory Bricks, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

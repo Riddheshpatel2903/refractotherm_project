@@ -6,7 +6,7 @@ $title = 'Composite Nozzles Manufacturer & Supplier | Refractotherm';
 $description = 'Composite Nozzles are advanced refractory flow-control components manufactured using a combination of different refractory materials within a single noz...';
 $keywords = 'Composite Nozzles, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

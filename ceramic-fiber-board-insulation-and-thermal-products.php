@@ -6,7 +6,7 @@ $title = 'Ceramic Fiber Board Manufacturer & Supplier | Refractotherm';
 $description = 'Ceramic Fiber Boards are rigid, vacuum-formed insulation products manufactured from ceramic fiber blended with specialized organic and inorganic binders.';
 $keywords = 'Ceramic Fiber Board, Insulation And Thermal Products, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

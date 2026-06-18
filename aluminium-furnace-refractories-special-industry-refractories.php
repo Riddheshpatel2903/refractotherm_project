@@ -6,7 +6,7 @@ $title = 'Aluminium Furnace Refractories Manufacturer & Supplier | Refractotherm
 $description = 'Aluminium Furnace Refractories must overcome the aggressive nature of molten aluminium, which deeply penetrates traditional refractories and forms destr...';
 $keywords = 'Aluminium Furnace Refractories, Special Industry Refractories, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

@@ -6,7 +6,7 @@ $title = 'Taphole Mass Manufacturer & Supplier | Refractotherm';
 $description = 'Taphole Mass is a specialized, unshaped refractory material used to pack the annular space around taphole sleeves or to fill the taphole in Eccentric Bo...';
 $keywords = 'Taphole Mass, Steelmaking Refractories Lrf Eaf And Ladle Applications, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>
@@ -41,12 +41,12 @@ include 'includes/head.php';
     <div class="container split">
       <div class="split__media reveal">
         <img src="assets/images/resources/products/steelmaking/TapholeMass.webp"
-          alt="Taphole Mass for Steelmaking and Ladle Applications" />
+          alt="Taphole Mass - Steelmaking Refractories - Refractotherm" />
 
       </div>
       <div class="split__body reveal">
         <span class="eyebrow"><span class="eyebrow__bar"></span>Product Overview</span>
-        <h3>Taphole Mass</h3>
+        <h2>Taphole Mass</h2>
         <p class="lead">Taphole Mass is a specialized, unshaped refractory material used to pack the annular space
           around taphole sleeves or to fill the taphole in Eccentric Bottom Tapping (EBT) furnaces. It ensures a secure
           seal and safe, reliable opening during tapping.</p>
@@ -83,136 +83,96 @@ include 'includes/head.php';
       <div class="section__head">
         <div>
           <span class="eyebrow"><span class="eyebrow__bar"></span>Usage Areas</span>
-          <h3>Applications.</h3>
+          <h2>Applications.</h2>
         </div>
       </div>
       <div class="benefit-list-container" style="margin-bottom: 50px;">
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Ladle Refining Furnaces (LRF)</h4>
+          <p class="benefit-text">Ladle Refining Furnaces (LRF)</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Electric Arc Furnaces (EAF)</h4>
+          <p class="benefit-text">Electric Arc Furnaces (EAF)</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Steel Ladles</h4>
+          <p class="benefit-text">Steel Ladles</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Secondary Metallurgy Operations</h4>
+          <p class="benefit-text">Secondary Metallurgy Operations</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Alloy Steel Production</h4>
+          <p class="benefit-text">Alloy Steel Production</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Stainless Steel Manufacturing</h4>
+          <p class="benefit-text">Stainless Steel Manufacturing</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Integrated Steel Plants</h4>
+          <p class="benefit-text">Integrated Steel Plants</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Special Steel Applications</h4>
+          <p class="benefit-text">Special Steel Applications</p>
         </div>
       </div>
 
       <div class="section__head">
         <div>
           <span class="eyebrow"><span class="eyebrow__bar"></span>Value Added</span>
-          <h3>Key Benefits.</h3>
+          <h2>Key Benefits.</h2>
         </div>
       </div>
       <div class="benefit-list-container">
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Superior Resistance to Slag Attack</h4>
+          <p class="benefit-text">Superior Resistance to Slag Attack</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Excellent Thermal Shock Resistance</h4>
+          <p class="benefit-text">Excellent Thermal Shock Resistance</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Extended Refractory Service Life</h4>
+          <p class="benefit-text">Extended Refractory Service Life</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Improved Process Stability</h4>
+          <p class="benefit-text">Improved Process Stability</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Enhanced Furnace Performance</h4>
+          <p class="benefit-text">Enhanced Furnace Performance</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Reduced Refractory Consumption</h4>
+          <p class="benefit-text">Reduced Refractory Consumption</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Lower Maintenance Requirements</h4>
+          <p class="benefit-text">Lower Maintenance Requirements</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Improved Operational Reliability</h4>
+          <p class="benefit-text">Improved Operational Reliability</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Increased Productivity & Cost Efficiency</h4>
+          <p class="benefit-text">Increased Productivity & Cost Efficiency</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Consistent Performance in High-Temperature Steelmaking Operations</h4>
+          <p class="benefit-text">Consistent Performance in High-Temperature Steelmaking Operations</p>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- SUGGESTED PRODUCTS -->
   <?php include 'includes/product_suggestion/steelmaking-refractories.php'; ?>
-
-  <!-- INQUIRY CTA -->
-  <!-- <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
-    <div class="container cta__grid">
-      <div class="cta__intro">
-        <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>
-        <h3>Request a Quote for Taphole Mass </h3>
-        <p>Connect with our refractory specialists to select the ideal Alumina Crucible for your laboratory,
-          metallurgical, or industrial application. Custom sizes and high-purity grades are available based on your
-          requirements.</p>
-        <ul class="cta__info">
-          <li><i class="fa-solid fa-phone"></i> +91 98259 57604</li>
-          <li><i class="fa-solid fa-envelope"></i> <a
-              href="mailto:info@refractotherm.com">info@refractotherm.com</a>
-          </li>
-        </ul>
-      </div>
-      <form class="cta__form"
-        onsubmit="event.preventDefault(); this.querySelector('button').textContent = 'Submitted Ã¢Å“â€œ';">
-        <h3>Request Taphole Mass Quote</h3>
-        <div class="row">
-          <input type="text" class="inputsections" placeholder="Full Name" required />
-          <input type="text" class="inputsections" placeholder="Company" required />
-        </div>
-        <div class="row">
-          <input type="email" class="inputsections" placeholder="Work Email" required />
-          <input type="tel" class="inputsections" placeholder="Phone" />
-        </div>
-        <textarea rows="4" class="inputsections"
-          placeholder="Describe your quantity requirements, application temperatures, and any specific technical needs..."></textarea>
-        <button type="submit" class="btn btn--primary btn--block">
-          Get Product Quote <i class="fa-solid fa-arrow-right"></i>
-        </button>
-      </form>
-    </div>
-  </section> -->
-
-  <!-- FOOTER -->
 
   <?php include 'includes/footer.php'; ?>
 

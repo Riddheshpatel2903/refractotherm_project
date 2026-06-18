@@ -6,7 +6,7 @@ $title = 'Taphole Sleeves Manufacturer & Supplier | Refractotherm';
 $description = 'Taphole Sleeves are precision-engineered refractory tubes installed in Basic Oxygen Furnaces (BOF) and Electric Arc Furnaces (EAF) to facilitate the con...';
 $keywords = 'Taphole Sleeves, Steelmaking Refractories Lrf Eaf And Ladle Applications, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

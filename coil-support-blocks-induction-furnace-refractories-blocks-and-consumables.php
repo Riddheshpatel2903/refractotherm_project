@@ -6,7 +6,7 @@ $title = 'Coil Support Blocks Manufacturer & Supplier | Refractotherm';
 $description = 'Coil Support Blocks are precision-engineered precast refractory components designed to support and protect heating coils in industrial furnaces and ther...';
 $keywords = 'Coil Support Blocks, Induction Furnace Refractories Blocks And Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

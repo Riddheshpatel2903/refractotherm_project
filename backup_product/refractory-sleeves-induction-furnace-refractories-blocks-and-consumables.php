@@ -6,7 +6,7 @@ $title = 'Refractory Sleeves Manufacturer & Supplier | Refractotherm';
 $description = 'Refractory Sleeves are highly durable insulating components used to protect thermocouples and other sensitive instruments in high-temperature metal melt...';
 $keywords = 'Refractory Sleeves, Induction Furnace Refractories Blocks And Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

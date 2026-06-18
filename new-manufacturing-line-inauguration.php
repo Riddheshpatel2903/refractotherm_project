@@ -5,7 +5,7 @@
 $title = 'New Manufacturing Line Inauguration | News & Events | Refractotherm';
 $description = 'We have successfully launched our new automated production line for high-purity alumina slide gate plates, increasing our global capacity.';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>
@@ -40,12 +40,12 @@ include 'includes/head.php';
       <!-- LEFT ARTICLE CONTENT -->
       <article class="news-detail-content">
         <div class="news-detail-img-wrapper">
-          <img src="assets/images/resources/site/expandingcapabilities.webp" alt="New Manufacturing Line Inauguration" class="news-detail-img" />
+          <img src="assets/images/resources/site/expandingcapabilities.webp" alt="New Manufacturing Line Inauguration - Refractotherm" class="news-detail-img" />
         </div>
         <div class="news-detail-body">
           <p>Marking a momentous milestone in our expansion journey, Refractotherm India LLP has officially inaugurated a brand new, fully automated production line dedicated to manufacturing high-purity alumina slide gate plates and flow control systems. This state-of-the-art expansion represents a significant capital investment in automation, workplace safety, and capacity enhancement.</p>
           
-          <h4>Advanced Robotics and Automated Quality Control</h4>
+          <h2>Advanced Robotics and Automated Quality Control</h2>
           <p>The new manufacturing line integrates next-generation hydraulic pressing machinery, automated raw material mixing plants, and advanced robotic handling systems. Crucially, the line features a customized laser-scanning inspection system that checks each slide gate plate for dimensional accuracy up to micrometric tolerances, ensuring zero-defect output and maintaining the highest safety standards for liquid steel containment.</p>
           
           <div class="news-detail-quote">
@@ -53,7 +53,7 @@ include 'includes/head.php';
             <cite>— Head of Operations, Refractotherm</cite>
           </div>
 
-          <h4>Boosting Production Capacity & Thermal Efficiency</h4>
+          <h2>Boosting Production Capacity & Thermal Efficiency</h2>
           <p>With this expansion, our total manufacturing capacity for slide gate plates and purging plug systems has increased by approximately 30%. The integration of high-efficiency gas-fired curing kilns also reduces our energy consumption per ton of finished refractory, supporting our ongoing corporate commitment to ecological sustainability and lower carbon manufacturing footprints.</p>
           
           <p>The new line is fully operational as of June 2026, and the first batch of advanced high-purity alumina refractories has already been successfully dispatched to our leading global metallurgy clients.</p>

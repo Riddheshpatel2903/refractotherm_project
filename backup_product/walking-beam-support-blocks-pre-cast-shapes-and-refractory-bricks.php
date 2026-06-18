@@ -6,7 +6,7 @@ $title = 'Walking Beam Support Blocks Manufacturer & Supplier | Refractotherm';
 $description = 'Walking Beam Support Blocks (often used in conjunction with skid pipe insulation) are designed to support and insulate the intricate water-cooled pipe n...';
 $keywords = 'Walking Beam Support Blocks, Pre Cast Shapes And Refractory Bricks, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

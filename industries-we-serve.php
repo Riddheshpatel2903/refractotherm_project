@@ -5,7 +5,7 @@
 $title = 'Industries | Refractotherm';
 $description = 'Refractotherm engineers high-performance refractory products, flow control systems and thermal solutions for global steel, cement, foundry and power industries.';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>
@@ -40,7 +40,7 @@ include 'includes/head.php';
       <div class="section__head section__head--center">
         <div>
           <span class="eyebrow"><span class="eyebrow__bar"></span>Sectors</span>
-          <h3>Demanding Process Environments.</h3>
+          <h2>Demanding Process Environments.</h2>
         </div>
       </div>
       <p class="section-intro-text">
@@ -49,7 +49,7 @@ include 'includes/head.php';
       </p>
 
       <!-- Steel & Metallurgical Industries -->
-      <h3 id="steel-metallurgical" style="margin-top: 60px; margin-bottom: 30px; border-bottom: 2px solid var(--orange); padding-bottom: 10px;">Steel & Metallurgical Industries</h3>
+      <h2 id="steel-metallurgical" style="margin-top: 60px; margin-bottom: 30px; border-bottom: 2px solid var(--orange); padding-bottom: 10px;">Steel & Metallurgical Industries</h2>
       <div class="industry-stack-grid" style="margin-top: 0;">
         <div class="industry-stack-card reveal">
           <div class="industry-stack-img" style="background-image: url('assets/images/resources/IntegratedSteelPlants.webp');"></div>
@@ -78,7 +78,7 @@ include 'includes/head.php';
       </div>
 
       <!-- Furnace & Casting Operations -->
-      <h3 id="furnace-casting" style="margin-top: 60px; margin-bottom: 30px; border-bottom: 2px solid var(--orange); padding-bottom: 10px;">Furnace & Casting Operations</h3>
+      <h2 id="furnace-casting" style="margin-top: 60px; margin-bottom: 30px; border-bottom: 2px solid var(--orange); padding-bottom: 10px;">Furnace & Casting Operations</h2>
       <div class="industry-stack-grid" style="margin-top: 0;">
         <div class="industry-stack-card reveal">
           <div class="industry-stack-img" style="background-image: url('assets/images/resources/InductionMeltingFurnaces.webp');"></div>
@@ -115,7 +115,7 @@ include 'includes/head.php';
       </div>
 
       <!-- Process Industries -->
-      <h3 id="process-industries" style="margin-top: 60px; margin-bottom: 30px; border-bottom: 2px solid var(--orange); padding-bottom: 10px;">Process Industries</h3>
+      <h2 id="process-industries" style="margin-top: 60px; margin-bottom: 30px; border-bottom: 2px solid var(--orange); padding-bottom: 10px;">Process Industries</h2>
       <div class="industry-stack-grid" style="margin-top: 0;">
         <div class="industry-stack-card reveal">
           <div class="industry-stack-img" style="background-image: url('assets/images/resources/SpongeIron(DRI)Plants.webp');"></div>

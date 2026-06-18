@@ -5,7 +5,7 @@
 $title = 'Global Steel Tech Expo 2026 | News & Events | Refractotherm';
 $description = 'Join Refractotherm at the upcoming international steel exhibition where we will showcase our newest ultra-low cement castable formulations.';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>
@@ -45,7 +45,7 @@ include 'includes/head.php';
         <div class="news-detail-body">
           <p>Refractotherm India LLP is thrilled to announce our active participation in the upcoming <strong>Global Steel Tech Expo 2026</strong>, one of the world\'s premier exhibitions dedicated to the iron, steel, and metallurgical manufacturing sectors. This globally renowned platform gathers industry pioneers, engineers, researchers, and raw material suppliers from across the globe to exchange ideas and exhibit state-of-the-art technological advancements.</p>
           
-          <h4>Showcasing High-Temperature Engineering</h4>
+          <h2>Showcasing High-Temperature Engineering</h2>
           <p>At our exhibition stand, Refractotherm will highlight our latest range of monolithic refractories and customized pre-cast, pre-fired shapes. A key focus of our presentation will be our newly formulated <strong>Ultra-Low Cement Castables (ULCC)</strong>. These advanced formulations have been specifically engineered to offer superior thermal shock resistance, exceptional mechanical strength under extreme loads, and optimized abrasion resistance in high-temperature blast furnaces and ladle environments.</p>
           
           <div class="news-detail-quote">
@@ -53,7 +53,7 @@ include 'includes/head.php';
             <cite>— Director of Technology, Refractotherm India</cite>
           </div>
 
-          <h4>Visit Our Exhibition Stand</h4>
+          <h2>Visit Our Exhibition Stand</h2>
           <p>We invite all our valued clients, industrial partners, and engineering professionals to visit our booth. Our technical experts and R&D engineers will be on-site to discuss customized thermal engineering solutions, conduct material demonstrations, and answer detailed technical queries regarding refractory performance optimization.</p>
           
           <ul class="news-detail-bullets">

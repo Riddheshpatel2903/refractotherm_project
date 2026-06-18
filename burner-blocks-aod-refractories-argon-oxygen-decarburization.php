@@ -6,7 +6,7 @@ $title = 'Burner Blocks Manufacturer & Supplier | Refractotherm';
 $description = 'Burner Blocks for AOD applications are utilized primarily in preheating stations and specialized converter heating systems. They securely house the burn...';
 $keywords = 'Burner Blocks, Aod Refractories Argon Oxygen Decarburization, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

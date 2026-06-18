@@ -6,7 +6,7 @@ $title = 'Zirconia Inserts Manufacturer & Supplier | Refractotherm';
 $description = 'Zirconia Inserts are specialized refractory components integrated into nozzles, collector nozzles, submerged entry nozzles (SENs), and other flow-contro...';
 $keywords = 'Zirconia Inserts, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

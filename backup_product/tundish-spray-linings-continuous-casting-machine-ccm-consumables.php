@@ -6,7 +6,7 @@ $title = 'Tundish Spray Linings Manufacturer & Supplier | Refractotherm';
 $description = 'Tundish Spray Linings are monolithic refractory linings applied by spraying specialized refractory materials onto the permanent lining of a tundish. Wid...';
 $keywords = 'Tundish Spray Linings, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

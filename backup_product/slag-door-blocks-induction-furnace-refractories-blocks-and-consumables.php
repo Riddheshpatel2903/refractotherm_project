@@ -6,7 +6,7 @@ $title = 'Slag Door Blocks Manufacturer & Supplier | Refractotherm';
 $description = 'Slag Door Blocks are specially designed precast refractory components installed at slag discharge openings in furnaces, ladles, and melting systems. The...';
 $keywords = 'Slag Door Blocks, Induction Furnace Refractories Blocks And Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

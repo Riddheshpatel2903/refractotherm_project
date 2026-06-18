@@ -6,7 +6,7 @@ $title = 'Insulating Tundish Boards Manufacturer & Supplier | Refractotherm';
 $description = 'Insulating Tundish Boards are preformed refractory insulation panels used as working linings in tundishes during continuous casting operations. Their pr...';
 $keywords = 'Insulating Tundish Boards, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

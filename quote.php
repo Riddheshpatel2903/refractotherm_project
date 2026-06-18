@@ -5,7 +5,7 @@
 $title = 'Get a Quote | Refractotherm';
 $description = 'Request a commercial quotation for Refractotherm refractory castables, monolithic mixes, flow control, and continuous casting refractories.';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>
@@ -33,7 +33,7 @@ include 'includes/head.php';
     <div class="container split">
       <div class="split__body reveal">
         <span class="eyebrow"><span class="eyebrow__bar"></span>Global Fulfillment</span>
-        <h3>Request Technical Quote.</h3>
+        <h2>Request Technical Quote.</h2>
         <p class="lead">
           REFRACTOTHERM manages end-to-end industrial supply chains, exporting custom-engineered high-temperature
           solutions to over 40 countries.
@@ -48,7 +48,7 @@ include 'includes/head.php';
             style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.06); padding: 20px; border-radius: 8px;">
             <i class="fa-solid fa-truck-ramp-box"
               style="color: var(--orange); font-size: 1.5rem; margin-bottom: 10px;"></i>
-            <h4 style="color: #fff; font-size: 0.95rem; margin-bottom: 5px;">Export Grade Packing</h4>
+            <h3 style="color: #fff; font-size: 0.95rem; margin-bottom: 5x;">Export Grade Packing</h3>
             <p style="font-size: 0.8rem; color: #94a3b8; margin: 0; line-height: 1.4;">25kg/50kg multi-layer bags, 1.2MT
               Big Bags, or custom palletized shrink-wrapping.</p>
           </div>
@@ -56,7 +56,7 @@ include 'includes/head.php';
             style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.06); padding: 20px; border-radius: 8px;">
             <i class="fa-solid fa-certificate"
               style="color: var(--orange); font-size: 1.5rem; margin-bottom: 10px;"></i>
-            <h4 style="color: #fff; font-size: 0.95rem; margin-bottom: 5px;">ISO 9001:2015 QC</h4>
+            <h3 style="color: #fff; font-size: 0.95rem; margin-bottom: 5px;">ISO 9001:2015 QC</h3>
             <p style="font-size: 0.8rem; color: #94a3b8; margin: 0; line-height: 1.4;">Every batch is certified by our
               NABL-accredited labs for density, CCS, and HMOR.</p>
           </div>
@@ -66,7 +66,7 @@ include 'includes/head.php';
       <div class="split__media reveal" style="box-shadow: var(--shadow);">
         <form class="cta__form" id="quoteForm" onsubmit="event.preventDefault(); handleQuoteSubmit();"
           style="width: 100%;">
-          <h3>RFQ Request Details</h3>
+          <h2>RFQ Request Details</h2>
 
           <div class="row">
             <div>

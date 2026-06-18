@@ -6,7 +6,7 @@ $title = 'Alkali Resistant Castables Manufacturer & Supplier | Refractotherm';
 $description = 'Alkali Resistant Castables are specially formulated refractory castables developed to withstand aggressive alkali vapors, alkali salts, and chemical att...';
 $keywords = 'Alkali Resistant Castables, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

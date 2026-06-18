@@ -6,7 +6,7 @@ $title = 'Carbon Raisers Manufacturer & Supplier | Refractotherm';
 $description = 'Carbon Raisers (or recarburizers) are high-purity carbonaceous materials added to the melting furnace or ladle to precisely adjust and increase the carb...';
 $keywords = 'Carbon Raisers, Foundry And Metallurgical Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

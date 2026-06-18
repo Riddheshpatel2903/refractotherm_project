@@ -74,8 +74,10 @@ if (in_array($current_page_name, $specialized_detail_pages)) {
                       <a href="alumina-spinel-castables-monolithic-refractories-and-castables">Alumina Spinel Castables</a>
                       <a href="insulating-castables-monolithic-refractories-and-castables">Insulating Castables</a>
                       <a href="refractory-mortars-monolithic-refractories-and-castables">Refractory Mortars</a> 
-                      <a href="refractory-cements-monolithic-refractories-and-castables">Refractory Cements</a>
                       <a href="silica-ramming-mass-monolithic-refractories-and-castables">Silica Ramming Mass</a>
+                      <a href="acidic-ramming-mass-monolithic-refractories-and-castables">Acidic Ramming Mass</a>
+                      <a href="neutral-ramming-mass-monolithic-refractories-and-castables">Neutral Ramming Mass</a>
+                      <a href="basic-ramming-mass-monolithic-refractories-and-castables">Basic Ramming Mass</a>
                       <a href="dry-vibrating-mass-monolithic-refractories-and-castables">Dry Vibrating Mass</a>
                       <a href="gunning-mass-aod-refractories-argon-oxygen-decarburization">Gunning Mass</a>
                       <a href="spray-mass-monolithic-refractories-and-castables">Spray Mass</a>

@@ -6,7 +6,7 @@ $title = 'Ceramic Fiber Rope Manufacturer & Supplier | Refractotherm';
 $description = 'Ceramic Fiber Ropes are dense, resilient packing and sealing materials available in twisted, round braided, and square braided configurations.';
 $keywords = 'Ceramic Fiber Rope, Insulation And Thermal Products, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

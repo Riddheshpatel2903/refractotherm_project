@@ -6,7 +6,7 @@ $title = 'Coil Cement Manufacturer & Supplier | Refractotherm';
 $description = 'Coil Cement is a specialized refractory compound designed to provide electrical insulation and structural support to induction furnace coils. Formulated...';
 $keywords = 'Coil Cement, Induction Furnace Refractories Blocks And Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

@@ -6,7 +6,7 @@ $title = 'Inner Nozzles Manufacturer & Supplier | Refractotherm';
 $description = 'Inner Nozzles are specialized refractory flow-control components installed within steel ladle nozzle assemblies and continuous casting systems to guide ...';
 $keywords = 'Inner Nozzles, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

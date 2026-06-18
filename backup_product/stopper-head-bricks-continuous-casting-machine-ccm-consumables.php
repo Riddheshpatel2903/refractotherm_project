@@ -6,7 +6,7 @@ $title = 'Stopper Head Bricks Manufacturer & Supplier | Refractotherm';
 $description = 'Stopper Head Bricks are specialized refractory components fitted at the lower end of stopper rod assemblies used in tundish flow-control systems. They p...';
 $keywords = 'Stopper Head Bricks, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

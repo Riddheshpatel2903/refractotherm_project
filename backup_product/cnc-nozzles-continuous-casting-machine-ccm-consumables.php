@@ -6,7 +6,7 @@ $title = 'Cnc Nozzles Manufacturer & Supplier | Refractotherm';
 $description = 'CNC Nozzles are high-precision refractory flow-control components used in continuous casting systems to regulate the flow of molten steel from the tundi...';
 $keywords = 'Cnc Nozzles, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

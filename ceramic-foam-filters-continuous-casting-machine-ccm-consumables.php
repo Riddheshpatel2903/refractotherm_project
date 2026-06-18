@@ -6,7 +6,7 @@ $title = 'Ceramic Foam Filters Manufacturer & Supplier | Refractotherm';
 $description = 'Ceramic Foam Filters are advanced filtration media used in molten metal handling and casting operations to remove non-metallic inclusions, slag particle...';
 $keywords = 'Ceramic Foam Filters, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

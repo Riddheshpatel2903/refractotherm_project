@@ -6,7 +6,7 @@ $title = 'Casting Powder Mould Powder Manufacturer & Supplier | Refractotherm';
 $description = 'Casting Powder, commonly known as Mould Powder or Mold Flux, is an essential consumable used in continuous casting operations to ensure smooth and effic...';
 $keywords = 'Casting Powder Mould Powder, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

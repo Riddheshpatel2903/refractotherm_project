@@ -6,7 +6,7 @@ $title = 'Casting Powder Manufacturer & Supplier | Refractotherm';
 $description = 'Casting Powder is an essential consumable used in continuous casting operations to ensure smooth and efficient solidification of molten steel within the mould.';
 $keywords = 'Casting Powder, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

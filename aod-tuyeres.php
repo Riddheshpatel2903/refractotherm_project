@@ -6,7 +6,7 @@ $title = 'AOD Tuyeres | Gas Injection Solutions | Refractotherm';
 $description = 'High-performance AOD Tuyeres engineered for superior gas injection, maximum process efficiency, and long service life in AOD converters.';
 $keywords = 'AOD Tuyeres, Gas Injection, AOD Converter, Stainless Steel Tuyeres, Argon Oxygen Decarburization, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>
@@ -180,7 +180,7 @@ include 'includes/head.php';
       <div class="specialized-grid" style="grid-template-columns: repeat(2, 1fr); max-width: 800px; margin: 30px auto 0 auto;">
         <!-- Card 1: INTERFLOW Ladle Slide Gate -->
         <a href="interflow-ladle-slide-gate-systems" class="category-card">
-          <div class="category-card__img" style="background-image: url('assets/images/resources/products/interflow_slide_gate.png');"></div>
+          <div class="category-card__img" style="background-image: url('assets/images/resources/products/interflow_slide_gate.webp');"></div>
           <div class="category-card__overlay"></div>
           <div class="category-card__content">
             <h4 class="category-card__title">Ladle Slide Gate Systems</h4>
@@ -193,7 +193,7 @@ include 'includes/head.php';
 
         <!-- Card 2: Pneumatic Lining Vibrator -->
         <a href="pneumatic-lining-vibrator" class="category-card">
-          <div class="category-card__img" style="background-image: url('assets/images/resources/products/pneumatic_lining_vibrator.png');"></div>
+          <div class="category-card__img" style="background-image: url('assets/images/resources/products/pneumatic_lining_vibrator.webp');"></div>
           <div class="category-card__overlay"></div>
           <div class="category-card__content">
             <h4 class="category-card__title">Pneumatic Lining Vibrator</h4>

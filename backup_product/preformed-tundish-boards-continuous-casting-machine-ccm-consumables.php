@@ -6,7 +6,7 @@ $title = 'Preformed Tundish Boards Manufacturer & Supplier | Refractotherm';
 $description = 'Preformed Tundish Boards are factory-manufactured refractory lining panels designed to serve as the working lining inside tundishes used in continuous c...';
 $keywords = 'Preformed Tundish Boards, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

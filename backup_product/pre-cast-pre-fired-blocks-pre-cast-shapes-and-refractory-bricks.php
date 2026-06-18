@@ -6,7 +6,7 @@ $title = 'Pre Cast Pre Fired Blocks Manufacturer & Supplier | Refractotherm';
 $description = 'Pre-Cast Pre-Fired (PCPF) Blocks represent the pinnacle of modern refractory engineering. They are manufactured under strictly controlled factory condit...';
 $keywords = 'Pre Cast Pre Fired Blocks, Pre Cast Shapes And Refractory Bricks, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

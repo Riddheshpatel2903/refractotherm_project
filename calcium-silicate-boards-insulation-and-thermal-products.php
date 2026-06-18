@@ -6,7 +6,7 @@ $title = 'Calcium Silicate Boards Manufacturer & Supplier | Refractotherm';
 $description = 'Calcium Silicate Boards are rigid, highly efficient, asbestos-free insulation products characterized by their low bulk density and exceptionally low the...';
 $keywords = 'Calcium Silicate Boards, Insulation And Thermal Products, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

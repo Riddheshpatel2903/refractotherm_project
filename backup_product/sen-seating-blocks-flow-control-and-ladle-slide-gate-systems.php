@@ -6,7 +6,7 @@ $title = 'Sen Seating Blocks Manufacturer & Supplier | Refractotherm';
 $description = 'SEN Seating Blocks are specialized refractory components designed to securely support and accurately position Submerged Entry Nozzles (SENs) within cont...';
 $keywords = 'Sen Seating Blocks, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

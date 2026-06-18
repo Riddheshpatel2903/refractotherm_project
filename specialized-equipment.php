@@ -6,7 +6,7 @@ $title = 'Specialized Equipment | Refractotherm';
 $description = "Explore Refractotherm's high-performance specialized equipment including INTERFLOW® slide gates, LININGMAN® pneumatic vibrators, and custom AOD tuyeres.";
 $keywords = 'Specialized Equipment, Ladle Slide Gate Systems, Pneumatic Lining Vibrator, AOD Tuyeres, Flow Control, Refractory Ramming Mass, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>
@@ -40,7 +40,7 @@ include 'includes/head.php';
       <div class="section__head section__head--center">
         <div>
           <span class="eyebrow"><span class="eyebrow__bar"></span>Productivity &amp; Control</span>
-          <h3>Engineered to maximize efficiency and process safety.</h3>
+          <h2>Engineered to maximize efficiency and process safety.</h2>
         </div>
       </div>
       <p class="section-intro-text">
@@ -55,14 +55,14 @@ include 'includes/head.php';
       <div class="section__head">
         <div>
           <span class="eyebrow"><span class="eyebrow__bar"></span>Equipment Range</span>
-          <h3>Specialized Systems portfolio</h3>
+          <h2>Specialized Systems portfolio</h2>
         </div>
       </div>
 
       <div class="specialized-grid">
         <!-- Card 1: INTERFLOW Ladle Slide Gate -->
         <a href="interflow-ladle-slide-gate-systems" class="category-card">
-          <div class="category-card__img" style="background-image: url('assets/images/resources/products/interflow_slide_gate.png');"></div>
+          <div class="category-card__img" style="background-image: url('assets/images/resources/products/interflow_slide_gate.webp');"></div>
           <div class="category-card__overlay"></div>
           <div class="category-card__content">
             <h4 class="category-card__title">Ladle Slide Gate Systems</h4>
@@ -75,7 +75,7 @@ include 'includes/head.php';
 
         <!-- Card 2: Pneumatic Lining Vibrator -->
         <a href="pneumatic-lining-vibrator" class="category-card">
-          <div class="category-card__img" style="background-image: url('assets/images/resources/products/pneumatic_lining_vibrator.png');"></div>
+          <div class="category-card__img" style="background-image: url('assets/images/resources/products/pneumatic_lining_vibrator.webp');"></div>
           <div class="category-card__overlay"></div>
           <div class="category-card__content">
             <h4 class="category-card__title">Pneumatic Lining Vibrator</h4>

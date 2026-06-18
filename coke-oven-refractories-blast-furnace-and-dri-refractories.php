@@ -6,7 +6,7 @@ $title = 'Coke Oven Refractories Manufacturer & Supplier | Refractotherm';
 $description = 'Coke Oven Refractories form the structural backbone of the coke battery, subjected to extreme thermal cycling, heavy mechanical loads from the pushing r...';
 $keywords = 'Coke Oven Refractories, Blast Furnace And Dri Refractories, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

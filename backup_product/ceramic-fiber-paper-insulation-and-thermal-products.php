@@ -6,7 +6,7 @@ $title = 'Ceramic Fiber Paper Manufacturer & Supplier | Refractotherm';
 $description = 'Ceramic Fiber Paper is a highly uniform, flexible sheet material manufactured from washed, high-purity ceramic fibers and a small amount of organic binder.';
 $keywords = 'Ceramic Fiber Paper, Insulation And Thermal Products, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

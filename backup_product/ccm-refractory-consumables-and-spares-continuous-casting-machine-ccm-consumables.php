@@ -6,7 +6,7 @@ $title = 'Ccm Refractory Consumables And Spares Manufacturer & Supplier | Refrac
 $description = 'CCM Refractory Consumables & Spares are essential components used throughout continuous casting operations to ensure efficient molten steel handling, pr...';
 $keywords = 'Ccm Refractory Consumables And Spares, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

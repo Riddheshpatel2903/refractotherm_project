@@ -6,7 +6,7 @@ $title = 'Aod Converter Bricks Manufacturer & Supplier | Refractotherm';
 $description = 'AOD Converter Bricks form the critical working lining of the Argon Oxygen Decarburization vessel, a key reactor in the production of stainless steel and...';
 $keywords = 'Aod Converter Bricks, Aod Refractories Argon Oxygen Decarburization, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

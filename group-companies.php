@@ -5,7 +5,7 @@
 $title = 'Group Companies | Refractotherm';
 $description = "Refractotherm's global network and affiliated group companies driving excellence in the refractory industry.";
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>
@@ -40,7 +40,7 @@ include 'includes/head.php';
       <div class="section__head section__head--center reveal">
         <div>
           <span class="eyebrow"><span class="eyebrow__bar"></span>Global Reach</span>
-          <h3>Our Affiliated Entities</h3>
+          <h2>Our Affiliated Entities</h2>
         </div>
       </div>
       
@@ -51,7 +51,7 @@ include 'includes/head.php';
             <div class="image-card__icon">
               <i class="fa-solid fa-building"></i>
             </div>
-            <h3 class="image-card__title">Refractotherm LLP</h3>
+            <h2 class="image-card__title">Refractotherm LLP</h2>
             <p class="image-card__desc">   FF-71, Vraj Real Estate,
               Near Telephone Exchange Road, Bopal,
               Ahmedabad – 380058, Gujarat, India</p>
@@ -64,7 +64,7 @@ include 'includes/head.php';
             <div class="image-card__icon">
               <i class="fa-solid fa-flask"></i>
             </div>
-            <h3 class="image-card__title">Refractotherm LLP</h3>
+            <h2 class="image-card__title">Refractotherm LLP</h2>
             <p class="image-card__desc">   FF-71, Vraj Real Estate,
               Near Telephone Exchange Road, Bopal,
               Ahmedabad – 380058, Gujarat, India</p>
@@ -77,7 +77,7 @@ include 'includes/head.php';
             <div class="image-card__icon">
               <i class="fa-solid fa-globe"></i>
             </div>
-            <h3 class="image-card__title">Refractotherm LLP</h3>
+            <h2 class="image-card__title">Refractotherm LLP</h2>
             <p class="image-card__desc">   FF-71, Vraj Real Estate,
               Near Telephone Exchange Road, Bopal,
               Ahmedabad – 380058, Gujarat, India</p>

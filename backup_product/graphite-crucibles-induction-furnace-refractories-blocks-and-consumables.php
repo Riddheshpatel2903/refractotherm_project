@@ -6,7 +6,7 @@ $title = 'Graphite Crucibles Manufacturer & Supplier | Refractotherm';
 $description = 'Graphite Crucibles are engineered for superior thermal conductivity, excellent resistance to thermal shock, and chemical inertness. These crucibles are ...';
 $keywords = 'Graphite Crucibles, Induction Furnace Refractories Blocks And Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

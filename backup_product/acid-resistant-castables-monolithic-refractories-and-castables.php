@@ -6,7 +6,7 @@ $title = 'Acid Resistant Castables Manufacturer & Supplier | Refractotherm';
 $description = 'Acid Resistant Castables are specially formulated refractory materials developed to withstand corrosive acidic environments encountered in chemical proc...';
 $keywords = 'Acid Resistant Castables, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

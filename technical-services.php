@@ -5,7 +5,7 @@
 $title = 'Services | Refractotherm';
 $description = 'Refractotherm provides comprehensive refractory installation, maintenance, inspection, and engineering support services designed to improve operational reliability.';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>
@@ -40,7 +40,7 @@ include 'includes/head.php';
       <div class="section__head">
         <div>
           <span class="eyebrow"><span class="eyebrow__bar"></span>Core Services</span>
-          <h3>Services Include.</h3>
+          <h2>Services Include.</h2>
         </div>
       </div>
 
@@ -137,18 +137,6 @@ include 'includes/head.php';
           </div>
         </div>
 
-        <!-- Service 9: Refractory Performance Audits -->
-        <div class="service-alternate-row reveal">
-          <div class="service-alternate-img"
-            style="background-image: url('assets/images/resources/services/RefractoryPerformanceAudits.webp');">
-          </div>
-          <div class="service-alternate-body">
-            <h3>Refractory Performance Audits</h3>
-            <p>In-depth structural audits investigating premature wear phenomena, profiling refractory-slag reactions,
-              and optimizing chemical compositions.</p>
-          </div>
-        </div>
-
         <!-- Service 10: Furnace Performance Optimization -->
         <div class="service-alternate-row reveal">
           <div class="service-alternate-img"
@@ -205,7 +193,7 @@ include 'includes/head.php';
       <div class="section__head section__head--center">
         <div>
           <span class="eyebrow"><span class="eyebrow__bar"></span>Industries Served</span>
-          <h3>Applications.</h3>
+          <h2>Applications.</h2>
         </div>
       </div>
       <div class="industries-slider" style="margin-top: 40px;">
@@ -271,50 +259,50 @@ include 'includes/head.php';
       <div class="section__head ">
         <div>
           <span class="eyebrow"><span class="eyebrow__bar"></span>Value Added</span>
-          <h3>Key Benefits.</h3>
+          <h2>Key Benefits.</h2>
         </div>
       </div>
       
       <div class="benefit-list-container">
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Enhanced Operational Reliability</h4>
+          <p class="benefit-text">Enhanced Operational Reliability</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Extended Refractory Service Life</h4>
+          <p class="benefit-text">Extended Refractory Service Life</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Improved Furnace Performance</h4>
+          <p class="benefit-text">Improved Furnace Performance</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Reduced Maintenance Downtime</h4>
+          <p class="benefit-text">Reduced Maintenance Downtime</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Increased Plant Productivity</h4>
+          <p class="benefit-text">Increased Plant Productivity</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Optimized Energy Efficiency</h4>
+          <p class="benefit-text">Optimized Energy Efficiency</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Lower Operating Costs</h4>
+          <p class="benefit-text">Lower Operating Costs</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Improved Process Stability</h4>
+          <p class="benefit-text">Improved Process Stability</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Professional Technical Support</h4>
+          <p class="benefit-text">Professional Technical Support</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Complete Turnkey Execution</h4>
+          <p class="benefit-text">Complete Turnkey Execution</p>
         </div>
       </div>
     </div>

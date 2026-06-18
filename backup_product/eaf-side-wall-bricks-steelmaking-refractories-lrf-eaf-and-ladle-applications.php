@@ -6,7 +6,7 @@ $title = 'Eaf Side Wall Bricks Manufacturer & Supplier | Refractotherm';
 $description = "EAF Side Wall Bricks form the critical working lining of the Electric Arc Furnace barrel. This zone, particularly the 'hot spots' near the electrodes, i...";
 $keywords = 'Eaf Side Wall Bricks, Steelmaking Refractories Lrf Eaf And Ladle Applications, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

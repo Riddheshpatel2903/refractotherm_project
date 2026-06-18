@@ -6,7 +6,7 @@ $title = 'Insulating Castables Manufacturer & Supplier | Refractotherm';
 $description = 'Insulating Castables are lightweight monolithic refractory materials specifically engineered to provide excellent thermal insulation in high-temperature...';
 $keywords = 'Insulating Castables, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>
@@ -58,7 +58,6 @@ include 'includes/head.php';
         </p>
         <ul class="check overview-check-list">
           <li class="overview-check-item">
-
             <i class="fa-solid fa-check overview-check-icon"></i>
             Low thermal conductivity for superior insulation performance
           </li>

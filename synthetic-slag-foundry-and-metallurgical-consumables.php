@@ -6,7 +6,7 @@ $title = 'Synthetic Slag Manufacturer & Supplier | Refractotherm';
 $description = 'Synthetic Slag is a pre-fused or mechanically blended metallurgical flux utilized during secondary refining in the ladle or melting in the induction fur...';
 $keywords = 'Synthetic Slag, Foundry And Metallurgical Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>
@@ -41,12 +41,12 @@ include 'includes/head.php';
     <div class="container split">
       <div class="split__media reveal">
         <img src="assets/images/resources/products/foundries/SyntheticSlag.webp"
-          alt="Synthetic Slag - Foundry &amp; Metallurgical Consumables" />
+          alt="Synthetic Slag - Foundry & Metallurgical Consumables - Refractotherm" />
 
       </div>
       <div class="split__body reveal">
         <span class="eyebrow"><span class="eyebrow__bar"></span>Product Overview</span>
-        <h3>Synthetic Slag</h3>
+        <h2>Synthetic Slag</h2>
         <p class="lead">Synthetic Slag is a pre-fused or mechanically blended metallurgical flux utilized during
           secondary refining in the ladle or melting in the induction furnace.</p>
         <p>Carefully formulated with optimum basicity (typically high in CaO and Al2O3), our synthetic slag melts
@@ -82,90 +82,90 @@ include 'includes/head.php';
       <div class="section__head">
         <div>
           <span class="eyebrow"><span class="eyebrow__bar"></span>Usage Areas</span>
-          <h3>Applications.</h3>
+          <h2>Applications.</h2>
         </div>
       </div>
       <div class="benefit-list-container" style="margin-bottom: 50px;">
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Steel Foundries</h4>
+          <p class="benefit-text">Steel Foundries</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Iron Foundries</h4>
+          <p class="benefit-text">Iron Foundries</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Non-Ferrous Foundries</h4>
+          <p class="benefit-text">Non-Ferrous Foundries</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Casting Operations</h4>
+          <p class="benefit-text">Casting Operations</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Metal Treatment Processes</h4>
+          <p class="benefit-text">Metal Treatment Processes</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Secondary Metallurgy Operations</h4>
+          <p class="benefit-text">Secondary Metallurgy Operations</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Molten Metal Handling Systems</h4>
+          <p class="benefit-text">Molten Metal Handling Systems</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Quality Control & Temperature Measurement Applications</h4>
+          <p class="benefit-text">Quality Control & Temperature Measurement Applications</p>
         </div>
       </div>
 
       <div class="section__head">
         <div>
           <span class="eyebrow"><span class="eyebrow__bar"></span>Value Added</span>
-          <h3>Key Benefits.</h3>
+          <h2>Key Benefits.</h2>
         </div>
       </div>
       <div class="benefit-list-container">
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Improved Casting Quality</h4>
+          <p class="benefit-text">Improved Casting Quality</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Enhanced Metal Cleanliness</h4>
+          <p class="benefit-text">Enhanced Metal Cleanliness</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Better Feeding Efficiency</h4>
+          <p class="benefit-text">Better Feeding Efficiency</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Reduced Casting Defects</h4>
+          <p class="benefit-text">Reduced Casting Defects</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Improved Process Control</h4>
+          <p class="benefit-text">Improved Process Control</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Increased Metal Recovery</h4>
+          <p class="benefit-text">Increased Metal Recovery</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Enhanced Operational Reliability</h4>
+          <p class="benefit-text">Enhanced Operational Reliability</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Consistent Product Performance</h4>
+          <p class="benefit-text">Consistent Product Performance</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Improved Production Efficiency</h4>
+          <p class="benefit-text">Improved Production Efficiency</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Cost-Effective Metallurgical Solutions</h4>
+          <p class="benefit-text">Cost-Effective Metallurgical Solutions</p>
         </div>
       </div>
     </div>
@@ -173,45 +173,6 @@ include 'includes/head.php';
 
   <!-- SUGGESTED PRODUCTS -->
   <?php include 'includes/product_suggestion/foundry.php'; ?>
-
-  <!-- INQUIRY CTA -->
-  <!-- <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
-    <div class="container cta__grid">
-      <div class="cta__intro">
-        <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>
-        <h3>Request a Quote for Synthetic Slag </h3>
-        <p>Connect with our refractory specialists to select the ideal Alumina Crucible for your laboratory,
-          metallurgical, or industrial application. Custom sizes and high-purity grades are available based on your
-          requirements.</p>
-        <ul class="cta__info">
-          <li><i class="fa-solid fa-phone"></i> +91 98259 57604</li>
-          <li><i class="fa-solid fa-envelope"></i> <a
-              href="mailto:info@refractotherm.com">info@refractotherm.com</a>
-          </li>
-        </ul>
-      </div>
-      <form class="cta__form"
-        onsubmit="event.preventDefault(); this.querySelector('button').textContent = 'Submitted Ã¢Å“â€œ';">
-        <h3>Request Synthetic Slag Quote</h3>
-        <div class="row">
-          <input type="text" class="inputsections" placeholder="Full Name" required />
-          <input type="text" class="inputsections" placeholder="Company" required />
-        </div>
-        <div class="row">
-          <input type="email" class="inputsections" placeholder="Work Email" required />
-          <input type="tel" class="inputsections" placeholder="Phone" />
-        </div>
-        <textarea rows="4" class="inputsections"
-          placeholder="Describe your quantity requirements, application temperatures, and any specific technical needs..."></textarea>
-        <button type="submit" class="btn btn--primary btn--block">
-          Get Product Quote <i class="fa-solid fa-arrow-right"></i>
-        </button>
-      </form>
-    </div>
-  </section> -->
-
-  <!-- FOOTER -->
 
   <?php include 'includes/footer.php'; ?>
 

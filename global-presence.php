@@ -6,7 +6,7 @@ $title = 'Global Presence | Refractotherm';
 $description = 'Refractotherm engineers high-performance refractory products, flow control systems and thermal solutions for global steel, cement, foundry and power industries.';
 $keywords = 'Global Presence, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>
@@ -33,9 +33,6 @@ include 'includes/head.php';
     </ol>
   </nav>
 
-  <!-- =========================================
-     GLOBAL & NATIONAL NETWORK SECTION
-========================================= -->
 
   <section class="network-section">
 
@@ -66,7 +63,7 @@ include 'includes/head.php';
 
       <!-- GLOBAL NETWORK HEADING -->
       <div style="text-align: center; margin-top: 2rem; margin-bottom: 2rem;">
-        <h3 class="section-title" style="font-size: 2.2rem;">Global Network</h3>
+        <h2 class="section-title" style="font-size: 2.2rem;">Global Network</h2>
       </div>
 
       <!-- NETWORK WRAPPER -->
@@ -75,7 +72,7 @@ include 'includes/head.php';
         <!-- MAP -->
         <div class="map-box">
 
-          <img src="assets/images/resources/world_map.webp" alt="">
+          <img src="assets/images/resources/world_map.webp" alt="Globle Presence in Diffrent Coutries - Refractotherm">
 
           <div class="map-point india" data-title="India" data-desc="Head Office & Manufacturing">
           </div>
@@ -104,14 +101,6 @@ include 'includes/head.php';
           <div class="map-point australia" data-title="Australia & New Zealand" data-desc="Export Operations & Supply">
           </div>
 
-          <!-- TOOLTIP -->
-          <div class="map-tooltip" id="tooltip">
-
-            <h4></h4>
-            <p></p>
-
-          </div>
-
         </div>
 
         <!-- RIGHT CONTENT -->
@@ -119,63 +108,63 @@ include 'includes/head.php';
 
           <div class="network-card">
             <div>
-              <h4>India</h4>
+              <h3>India</h3>
               <p>Ahmedabad (Global HQ & Manufacturing), Mumbai, Delhi, Kolkata</p>
             </div>
           </div>
 
           <div class="network-card">
             <div>
-              <h4>Middle East</h4>
+              <h3>Middle East</h3>
               <p>UAE (Regional Distribution Hub & UAE Office)</p>
             </div>
           </div>
 
           <div class="network-card">
             <div>
-              <h4>South Africa & African Markets</h4>
+              <h3>South Africa & African Markets</h3>
               <p>Industrial Project Support</p>
             </div>
           </div>
 
           <div class="network-card">
             <div>
-              <h4>South East Asia</h4>
+              <h3>South East Asia</h3>
               <p>Regional Sales & Support</p>
             </div>
           </div>
 
           <div class="network-card">
             <div>
-              <h4>Europe</h4>
+              <h3>Europe</h3>
               <p>Technical Sales & Distribution</p>
             </div>
           </div>
 
           <div class="network-card">
             <div>
-              <h4>North America (USA & Canada)</h4>
+              <h3>North America (USA & Canada)</h3>
               <p>USA & Canada (Technical Support Office)</p>
             </div>
           </div>
 
           <div class="network-card">
             <div>
-              <h4>South America</h4>
+              <h3>South America</h3>
               <p>Export Operations</p>
             </div>
           </div>
 
           <div class="network-card">
             <div>
-              <h4>Australia & New Zealand</h4>
+              <h3>Australia & New Zealand</h3>
               <p>Export Operations & Supply</p>
             </div>
           </div>
 
           <div class="network-card">
             <div>
-              <h4>Russia & CIS Region</h4>
+              <h3>Russia & CIS Region</h3>
               <p>Industrial Supply & Distribution</p>
             </div>
           </div>
@@ -255,7 +244,7 @@ include 'includes/head.php';
 
       <!-- INDIAN NETWORK HEADING -->
       <div style="text-align: center; margin-top: 5rem; margin-bottom: 2rem;">
-        <h3 class="section-title" style="font-size: 2.2rem;">Indian Network</h3>
+        <h2 class="section-title" style="font-size: 2.2rem;">Indian Network</h2>
       </div>
 
       <div class="network-wrapper-national">
@@ -265,28 +254,28 @@ include 'includes/head.php';
   
           <div class="network-card">
             <div>
-              <h4>Ahmedabad</h4>
+              <h3>Ahmedabad</h3>
               <p>Global Headquarters & Manufacturing Unit</p>
             </div>
           </div>
 
           <div class="network-card">
             <div>
-              <h4>Mumbai</h4>
+              <h3>Mumbai</h3>
               <p>Regional Office & Sales Operations</p>
             </div>
           </div>
 
           <div class="network-card">
             <div>
-              <h4>Kolkata</h4>
+              <h3>Kolkata</h3>
               <p>East India Regional Office</p>
             </div>
           </div>
 
           <div class="network-card">
             <div>
-              <h4>Delhi</h4>
+              <h3>Delhi</h3>
               <p>North India Operations & Support</p>
             </div>
           </div>
@@ -328,7 +317,7 @@ include 'includes/head.php';
         <!-- MAP -->
         <div class="map-box-national">
 
-          <img src="assets/images/resources/india.webp" alt="India Map" class="image_india">
+          <img src="assets/images/resources/india.webp" alt="India Map - Refractotherm" class="image_india">
           <div class="map-point-national ahmedabad" data-title="Ahmedabad"
             data-desc="Global Headquarters & Manufacturing">
           </div>
@@ -339,24 +328,11 @@ include 'includes/head.php';
           <div class="map-point-national delhi" data-title="Delhi" data-desc="North India Operations">
           </div>
 
-          <!-- <div class="map-point-national chennai" data-title="Chennai" data-desc="South India Distribution Hub">
-          </div> -->
-
           <div class="map-point-national kolkata" data-title="Kolkata" data-desc="East India Regional Office">
           </div>
-
-          <!-- TOOLTIP -->
-          <div class="map-tooltip">
-            <h4></h4>
-            <p></p>
-          </div>
-
         </div>
-
       </div>
-
     </div>
-
   </section>
 
   <?php include 'includes/footer.php'; ?>

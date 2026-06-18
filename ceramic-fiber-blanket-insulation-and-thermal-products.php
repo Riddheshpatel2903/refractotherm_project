@@ -6,7 +6,7 @@ $title = 'Ceramic Fiber Blanket Manufacturer & Supplier | Refractotherm';
 $description = 'Ceramic Fiber Blankets are lightweight, flexible insulating materials manufactured from spun ceramic fibers, offering exceptional thermal stability up t...';
 $keywords = 'Ceramic Fiber Blanket, Insulation And Thermal Products, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

@@ -6,7 +6,7 @@ $title = 'Alumina Magnesia Carbon Bricks Manufacturer & Supplier | Refractotherm
 $description = 'Alumina Magnesia Carbon (AMC) Bricks are advanced composite refractories engineered for the demanding conditions of steel ladles, particularly in the me...';
 $keywords = 'Alumina Magnesia Carbon Bricks, Steelmaking Refractories Lrf Eaf And Ladle Applications, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

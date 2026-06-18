@@ -6,7 +6,7 @@ $title = 'Backup Lining Materials Manufacturer & Supplier | Refractotherm';
 $description = 'Backup Lining Materials provide essential thermal insulation and mechanical support to the working lining in high-temperature industrial furnaces. These...';
 $keywords = 'Backup Lining Materials, Induction Furnace Refractories Blocks And Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

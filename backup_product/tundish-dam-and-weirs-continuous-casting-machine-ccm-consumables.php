@@ -6,7 +6,7 @@ $title = 'Tundish Dam And Weirs Manufacturer & Supplier | Refractotherm';
 $description = 'Tundish Dams and Weirs are specialized refractory flow-modifying components installed inside tundishes to optimize molten steel flow during continuous c...';
 $keywords = 'Tundish Dam And Weirs, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

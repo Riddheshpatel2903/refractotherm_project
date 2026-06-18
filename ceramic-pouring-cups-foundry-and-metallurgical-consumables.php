@@ -6,7 +6,7 @@ $title = 'Ceramic Pouring Cups Manufacturer & Supplier | Refractotherm';
 $description = 'Ceramic Pouring Cups (or pouring basins) are critical components at the very start of the gating system in both sand casting and investment casting foun...';
 $keywords = 'Ceramic Pouring Cups, Foundry And Metallurgical Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

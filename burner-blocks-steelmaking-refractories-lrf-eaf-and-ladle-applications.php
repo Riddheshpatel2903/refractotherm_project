@@ -6,7 +6,7 @@ $title = 'Burner Blocks Manufacturer & Supplier | Refractotherm';
 $description = 'Burner Blocks are critical pre-cast refractory shapes designed to house, protect, and optimize the flame geometry of oxy-fuel burners injected into Elec...';
 $keywords = 'Burner Blocks, Steelmaking Refractories Lrf Eaf And Ladle Applications, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

@@ -6,7 +6,7 @@ $title = 'Radex Powder Manufacturer & Supplier | Refractotherm';
 $description = 'Radex Powder is a low-density, free-flowing insulating covering compound used in ladles and tundishes during steelmaking and continuous casting operatio...';
 $keywords = 'Radex Powder, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

@@ -6,7 +6,7 @@ $title = 'Calcination Kiln Refractories Manufacturer & Supplier | Refractotherm'
 $description = 'Calcination Kiln Refractories are engineered for rotary and vertical kilns used in the high-temperature processing of bauxite, petroleum coke, clay, and...';
 $keywords = 'Calcination Kiln Refractories, Special Industry Refractories, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

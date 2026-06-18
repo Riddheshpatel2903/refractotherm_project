@@ -6,7 +6,7 @@ $title = 'Tundish Covering Compounds Manufacturer & Supplier | Refractotherm';
 $description = 'Tundish Covering Compounds are specialized insulating materials applied to the surface of molten steel in tundishes during continuous casting operations...';
 $keywords = 'Tundish Covering Compounds, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>
@@ -23,7 +23,7 @@ include 'includes/head.php';
     <div class="container page-banner-container">
       <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>CONTINUOUS CASTING MACHINE (CCM)
         CONSUMABLES</span>
-      <h1 class="page-banner-title">Tundish Covering Compounds</h1>
+      <h1 class="page-banner-title">Covering Compounds</h1>
     </div>
   </section>
 
@@ -32,7 +32,7 @@ include 'includes/head.php';
       <li><a href="home">Home</a></li>
       <li><a href="products">Products</a></li>
       <li><a href="products#continuous-casting-machine-ccm-consumables">CONTINUOUS CASTING MACHINE CONSUMABLES</a></li>
-      <li class="active">Tundish Covering Compounds </li>
+      <li class="active">Covering Compounds </li>
     </ol>
   </nav>
 
@@ -41,19 +41,18 @@ include 'includes/head.php';
     <div class="container split">
       <div class="split__media reveal">
         <img src="assets\images\resources\products\ccm/TundishCoveringCompounds.webp"
-          alt="Radex Tubes for Molten Steel Stream Protection and Continuous Casting Applications" />
+          alt="Covering Compounds - Continuous Casting Machine (CCM) Consumables " />
 
       </div>
       <div class="split__body reveal">
         <span class="eyebrow"><span class="eyebrow__bar"></span>Product Overview</span>
-        <h3>Tundish Covering Compounds</h3>
-        <p class="lead">Tundish Covering Compounds are specialized insulating materials applied to the surface of molten
+        <h2>Covering Compounds</h2>
+        <p class="lead">Covering Compounds are specialized insulating materials applied to the surface of molten
           steel in tundishes during continuous casting operations. These compounds form a protective layer over the
           molten steel bath, helping to minimize heat loss, reduce atmospheric contamination, and maintain stable
           casting conditions throughout the casting sequence.</p>
         <p>During continuous casting, molten steel remains exposed in the tundish for extended periods, making
-          temperature control and oxidation prevention essential for maintaining steel quality. Tundish Covering
-          Compounds create an insulating barrier that reduces thermal losses while limiting direct contact between
+          temperature control and oxidation prevention essential for maintaining steel quality. Covering Compounds create an insulating barrier that reduces thermal losses while limiting direct contact between
           molten steel and atmospheric oxygen. Depending on the casting requirements, these compounds may be insulating,
           partially sintering, or specially formulated to support steel cleanliness and process stability.</p>
         <ul class="check overview-check-list">
@@ -87,90 +86,90 @@ include 'includes/head.php';
       <div class="section__head">
         <div>
           <span class="eyebrow"><span class="eyebrow__bar"></span>Usage Areas</span>
-          <h3>Applications.</h3>
+          <h2>Applications.</h2>
         </div>
       </div>
       <div class="benefit-list-container" style="margin-bottom: 50px;">
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Continuous Casting Machines (CCM)</h4>
+          <p class="benefit-text">Continuous Casting Machines (CCM)</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Billet Casting</h4>
+          <p class="benefit-text">Billet Casting</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Bloom Casting</h4>
+          <p class="benefit-text">Bloom Casting</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Slab Casting</h4>
+          <p class="benefit-text">Slab Casting</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Tundish Operations</h4>
+          <p class="benefit-text">Tundish Operations</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Steel Melting Shops</h4>
+          <p class="benefit-text">Steel Melting Shops</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Secondary Metallurgy Operations</h4>
+          <p class="benefit-text">Secondary Metallurgy Operations</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Integrated Steel Plants</h4>
+          <p class="benefit-text">Integrated Steel Plants</p>
         </div>
       </div>
 
       <div class="section__head">
         <div>
           <span class="eyebrow"><span class="eyebrow__bar"></span>Value Added</span>
-          <h3>Key Benefits.</h3>
+          <h2>Key Benefits.</h2>
         </div>
       </div>
       <div class="benefit-list-container">
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Improved Steel Cleanliness</h4>
+          <p class="benefit-text">Improved Steel Cleanliness</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Enhanced Casting Performance</h4>
+          <p class="benefit-text">Enhanced Casting Performance</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Better Flow Control</h4>
+          <p class="benefit-text">Better Flow Control</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Reduced Reoxidation</h4>
+          <p class="benefit-text">Reduced Reoxidation</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Consistent Casting Quality</h4>
+          <p class="benefit-text">Consistent Casting Quality</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Improved Surface Finish</h4>
+          <p class="benefit-text">Improved Surface Finish</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Reduced Inclusion Levels</h4>
+          <p class="benefit-text">Reduced Inclusion Levels</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Enhanced Operational Reliability</h4>
+          <p class="benefit-text">Enhanced Operational Reliability</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Extended Equipment Life</h4>
+          <p class="benefit-text">Extended Equipment Life</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Increased Productivity & Yield</h4>
+          <p class="benefit-text">Increased Productivity & Yield</p>
         </div>
       </div>
     </div>
@@ -181,7 +180,6 @@ include 'includes/head.php';
 
 
   <!-- FOOTER -->
-
   <?php include 'includes/footer.php'; ?>
 
 </body>

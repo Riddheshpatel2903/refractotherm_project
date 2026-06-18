@@ -6,7 +6,7 @@ $title = 'Copper And Non Ferrous Furnace Refractories Manufacturer & Supplier | 
 $description = 'Copper & Non-Ferrous Furnace Refractories are engineered for the smelting and refining of copper, lead, zinc, and other non-ferrous metals.';
 $keywords = 'Copper And Non Ferrous Furnace Refractories, Special Industry Refractories, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>
@@ -40,7 +40,7 @@ include 'includes/head.php';
     <div class="container split">
       <div class="split__media reveal">
         <img src="assets/images/resources/products/spacial_industries/Copper&Non-FerrousFurnaceRefractories.webp"
-          alt="Copper & Non-Ferrous Furnace Refractories - Refractotherm" />
+          alt="Copper & Non-Ferrous Furnace Refractories - Special Industry Refractories - Refractotherm" />
 
       </div>
       <div class="split__body reveal">
@@ -88,35 +88,35 @@ include 'includes/head.php';
       <div class="benefit-list-container" style="margin-bottom: 50px;">
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Lime Kilns</h4>
+          <p class="benefit-text">Lime Kilns</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Petrochemical Heaters</h4>
+          <p class="benefit-text">Petrochemical Heaters</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Non-Ferrous Metal Furnaces</h4>
+          <p class="benefit-text">Non-Ferrous Metal Furnaces</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Aluminium Melting Furnaces</h4>
+          <p class="benefit-text">Aluminium Melting Furnaces</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Copper Processing Furnaces</h4>
+          <p class="benefit-text">Copper Processing Furnaces</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Incinerators</h4>
+          <p class="benefit-text">Incinerators</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Heat Treatment Furnaces</h4>
+          <p class="benefit-text">Heat Treatment Furnaces</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">High-Temperature Process Industries</h4>
+          <p class="benefit-text">High-Temperature Process Industries</p>
         </div>
       </div>
 
@@ -129,43 +129,43 @@ include 'includes/head.php';
       <div class="benefit-list-container">
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Excellent Thermal Resistance</h4>
+          <p class="benefit-text">Excellent Thermal Resistance</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Superior Chemical Resistance</h4>
+          <p class="benefit-text">Superior Chemical Resistance</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Enhanced Operational Reliability</h4>
+          <p class="benefit-text">Enhanced Operational Reliability</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Improved Thermal Efficiency</h4>
+          <p class="benefit-text">Improved Thermal Efficiency</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Extended Refractory Service Life</h4>
+          <p class="benefit-text">Extended Refractory Service Life</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Reduced Maintenance Downtime</h4>
+          <p class="benefit-text">Reduced Maintenance Downtime</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Improved Process Performance</h4>
+          <p class="benefit-text">Improved Process Performance</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Lower Operating Costs</h4>
+          <p class="benefit-text">Lower Operating Costs</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Consistent High-Temperature Performance</h4>
+          <p class="benefit-text">Consistent High-Temperature Performance</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Reliable Protection in Critical Industrial Applications</h4>
+          <p class="benefit-text">Reliable Protection in Critical Industrial Applications</p>
         </div>
       </div>
     </div>
@@ -174,45 +174,7 @@ include 'includes/head.php';
   <!-- SUGGESTED PRODUCTS -->
   <?php include 'includes/product_suggestion/special-industries.php'; ?>
 
-  <!-- INQUIRY CTA -->
-  <!-- <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
-    <div class="container cta__grid">
-      <div class="cta__intro">
-        <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>
-        <h3>Request a Quote for Copper & Non-Ferrous Furnace Refractories </h3>
-        <p>Connect with our refractory specialists to select the ideal Alumina Crucible for your laboratory,
-          metallurgical, or industrial application. Custom sizes and high-purity grades are available based on your
-          requirements.</p>
-        <ul class="cta__info">
-          <li><i class="fa-solid fa-phone"></i> +91 98259 57604</li>
-          <li><i class="fa-solid fa-envelope"></i> <a
-              href="mailto:info@refractotherm.com">info@refractotherm.com</a>
-          </li>
-        </ul>
-      </div>
-      <form class="cta__form"
-        onsubmit="event.preventDefault(); this.querySelector('button').textContent = 'Submitted âœ“';">
-        <h3>Request Copper & Non-Ferrous Furnace Refractories Quote</h3>
-        <div class="row">
-          <input type="text" class="inputsections" placeholder="Full Name" required />
-          <input type="text" class="inputsections" placeholder="Company" required />
-        </div>
-        <div class="row">
-          <input type="email" class="inputsections" placeholder="Work Email" required />
-          <input type="tel" class="inputsections" placeholder="Phone" />
-        </div>
-        <textarea rows="4" class="inputsections"
-          placeholder="Describe your quantity requirements, application temperatures, and any specific technical needs..."></textarea>
-        <button type="submit" class="btn btn--primary btn--block">
-          Get Product Quote <i class="fa-solid fa-arrow-right"></i>
-        </button>
-      </form>
-    </div>
-  </section> -->
-
   <!-- FOOTER -->
-
   <?php include 'includes/footer.php'; ?>
 
 </body>

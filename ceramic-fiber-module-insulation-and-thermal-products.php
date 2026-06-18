@@ -6,7 +6,7 @@ $title = 'Ceramic Fiber Module Manufacturer & Supplier | Refractotherm';
 $description = 'Ceramic Fiber Modules consist of tightly folded or stacked ceramic fiber blankets, pre-compressed and banded to specific densities, complete with integr...';
 $keywords = 'Ceramic Fiber Module, Insulation And Thermal Products, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

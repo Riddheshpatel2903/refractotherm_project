@@ -6,7 +6,7 @@ $title = 'Side Arch Bricks Manufacturer & Supplier | Refractotherm';
 $description = 'Side Arch Bricks are specifically tapered along their length to allow for the construction of self-supporting refractory arches, furnace roofs (crowns),...';
 $keywords = 'Side Arch Bricks, Pre Cast Shapes And Refractory Bricks, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

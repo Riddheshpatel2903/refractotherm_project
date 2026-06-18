@@ -6,7 +6,7 @@ $title = 'Exothermic Compounds Manufacturer & Supplier | Refractotherm';
 $description = 'Exothermic Compounds are highly reactive powder blends used in various specialized foundry applications where intense, localized heat generation is requ...';
 $keywords = 'Exothermic Compounds, Foundry And Metallurgical Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

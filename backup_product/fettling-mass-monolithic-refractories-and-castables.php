@@ -6,7 +6,7 @@ $title = 'Fettling Mass Manufacturer & Supplier | Refractotherm';
 $description = 'Fettling Mass is a specialized refractory repair material used for patching, maintenance, and rebuilding worn or damaged refractory linings in furnaces,...';
 $keywords = 'Fettling Mass, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

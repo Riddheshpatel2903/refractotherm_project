@@ -6,7 +6,7 @@ $title = 'Alumina Spinel Castables Manufacturer & Supplier | Refractotherm';
 $description = 'Alumina Spinel Castables are high-performance refractory castables engineered using high-purity alumina aggregates, reactive alumina, magnesia, and adva...';
 $keywords = 'Alumina Spinel Castables, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

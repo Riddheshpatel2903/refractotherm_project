@@ -6,7 +6,7 @@ $title = 'Mica Sheets Manufacturer & Supplier | Refractotherm';
 $description = 'Mica Sheets (primarily Phlogopite or Muscovite based) are specialized laminate materials renowned for their dual properties of phenomenal electrical ins...';
 $keywords = 'Mica Sheets, Insulation And Thermal Products, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

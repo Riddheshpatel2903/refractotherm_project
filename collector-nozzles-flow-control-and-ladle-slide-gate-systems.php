@@ -6,7 +6,7 @@ $title = 'Collector Nozzles Manufacturer & Supplier | Refractotherm';
 $description = 'Collector Nozzles are critical refractory flow-control components installed beneath the slide gate assembly of steel ladles to safely transfer molten st...';
 $keywords = 'Collector Nozzles, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

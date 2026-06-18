@@ -6,7 +6,7 @@ $title = 'Shoulder Bricks Manufacturer & Supplier | Refractotherm';
 $description = 'Shoulder Bricks feature a stepped or angled profile, designed to facilitate structural transitions within furnace masonry, such as supporting an arch sp...';
 $keywords = 'Shoulder Bricks, Pre Cast Shapes And Refractory Bricks, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

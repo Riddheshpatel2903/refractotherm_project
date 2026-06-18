@@ -6,7 +6,7 @@ $title = 'Bottom Purging Bp Sets Manufacturer & Supplier | Refractotherm';
 $description = 'Bottom Purging (BP) System are integrated refractory and gas-injection systems installed at the bottom of steel ladles to facilitate controlled argon purg...';
 $keywords = 'Bottom Purging Bp Sets, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

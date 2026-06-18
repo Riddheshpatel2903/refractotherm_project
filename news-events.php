@@ -5,7 +5,7 @@
 $title = 'News & Events | Refractotherm';
 $description = 'Stay updated with the latest news, events, industry exhibitions, and announcements from Refractotherm India LLP.';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>
@@ -40,7 +40,7 @@ include 'includes/head.php';
       <div class="section__head section__head--center reveal">
         <div>
           <span class="eyebrow"><span class="eyebrow__bar"></span>Announcements</span>
-          <h3>Recent Happenings</h3>
+          <h2>Recent Happenings</h2>
         </div>
       </div>
       

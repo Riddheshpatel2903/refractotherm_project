@@ -6,7 +6,7 @@ $title = 'Esr Furnace Refractories Manufacturer & Supplier | Refractotherm';
 $description = 'ESR (Electro-Slag Remelting) Furnace Refractories are critical for producing ultra-high-purity tool steels, aerospace superalloys, and large forging ing...';
 $keywords = 'Esr Furnace Refractories, Special Steel And Vacuum Refractories, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>
@@ -41,12 +41,12 @@ include 'includes/head.php';
     <div class="container split">
       <div class="split__media reveal">
         <img src="assets/images/resources/products/spacial_steel/ESRFurnaceRefractories.webp"
-          alt="ESR Furnace Refractories - Refractotherm" />
+          alt="ESR Furnace Refractories - Special Steel and Vacuum Refractories - Refractotherm" />
 
       </div>
       <div class="split__body reveal">
         <span class="eyebrow"><span class="eyebrow__bar"></span>Product Overview</span>
-        <h3>ESR Furnace Refractories</h3>
+        <h2>ESR Furnace Refractories</h2>
         <p class="lead">ESR (Electro-Slag Remelting) Furnace Refractories are critical for producing ultra-high-purity
           tool steels, aerospace superalloys, and large forging ingots.</p>
         <p>In the ESR process, the refractory must not introduce any inclusions into the highly reactive, superheated
@@ -82,90 +82,90 @@ include 'includes/head.php';
       <div class="section__head">
         <div>
           <span class="eyebrow"><span class="eyebrow__bar"></span>Usage Areas</span>
-          <h3>Applications.</h3>
+          <h2>Applications.</h2>
         </div>
       </div>
       <div class="benefit-list-container" style="margin-bottom: 50px;">
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Vacuum Oxygen Decarburization (VOD)</h4>
+          <p class="benefit-text">Vacuum Oxygen Decarburization (VOD)</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Vacuum Degassing (VD)</h4>
+          <p class="benefit-text">Vacuum Degassing (VD)</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Electro Slag Remelting (ESR)</h4>
+          <p class="benefit-text">Electro Slag Remelting (ESR)</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Special Steel Manufacturing</h4>
+          <p class="benefit-text">Special Steel Manufacturing</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Stainless Steel Production</h4>
+          <p class="benefit-text">Stainless Steel Production</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Alloy Steel Production</h4>
+          <p class="benefit-text">Alloy Steel Production</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Secondary Metallurgy Operations</h4>
+          <p class="benefit-text">Secondary Metallurgy Operations</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">High-Purity Steel Applications</h4>
+          <p class="benefit-text">High-Purity Steel Applications</p>
         </div>
       </div>
 
       <div class="section__head">
         <div>
           <span class="eyebrow"><span class="eyebrow__bar"></span>Value Added</span>
-          <h3>Key Benefits.</h3>
+          <h2>Key Benefits.</h2>
         </div>
       </div>
       <div class="benefit-list-container">
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Superior Thermal Stability</h4>
+          <p class="benefit-text">Superior Thermal Stability</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Excellent Resistance to Thermal Shock</h4>
+          <p class="benefit-text">Excellent Resistance to Thermal Shock</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Enhanced Process Reliability</h4>
+          <p class="benefit-text">Enhanced Process Reliability</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Improved Steel Cleanliness</h4>
+          <p class="benefit-text">Improved Steel Cleanliness</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Consistent Metallurgical Performance</h4>
+          <p class="benefit-text">Consistent Metallurgical Performance</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Extended Refractory Service Life</h4>
+          <p class="benefit-text">Extended Refractory Service Life</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Reduced Maintenance Requirements</h4>
+          <p class="benefit-text">Reduced Maintenance Requirements</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Improved Product Quality</h4>
+          <p class="benefit-text">Improved Product Quality</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Increased Operational Efficiency</h4>
+          <p class="benefit-text">Increased Operational Efficiency</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Reliable Performance in Critical Steelmaking Applications</h4>
+          <p class="benefit-text">Reliable Performance in Critical Steelmaking Applications</p>
         </div>
       </div>
     </div>
@@ -174,45 +174,7 @@ include 'includes/head.php';
   <!-- SUGGESTED PRODUCTS -->
   <?php include 'includes/product_suggestion/steel-and-vacume.php'; ?>
 
-  <!-- INQUIRY CTA -->
-  <!-- <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
-    <div class="container cta__grid">
-      <div class="cta__intro">
-        <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>
-        <h3>Request a Quote for ESR Furnace Refractories </h3>
-        <p>Connect with our refractory specialists to select the ideal Alumina Crucible for your laboratory,
-          metallurgical, or industrial application. Custom sizes and high-purity grades are available based on your
-          requirements.</p>
-        <ul class="cta__info">
-          <li><i class="fa-solid fa-phone"></i> +91 98259 57604</li>
-          <li><i class="fa-solid fa-envelope"></i> <a
-              href="mailto:info@refractotherm.com">info@refractotherm.com</a>
-          </li>
-        </ul>
-      </div>
-      <form class="cta__form"
-        onsubmit="event.preventDefault(); this.querySelector('button').textContent = 'Submitted âœ“';">
-        <h3>Request ESR Furnace Refractories Quote</h3>
-        <div class="row">
-          <input type="text" class="inputsections" placeholder="Full Name" required />
-          <input type="text" class="inputsections" placeholder="Company" required />
-        </div>
-        <div class="row">
-          <input type="email" class="inputsections" placeholder="Work Email" required />
-          <input type="tel" class="inputsections" placeholder="Phone" />
-        </div>
-        <textarea rows="4" class="inputsections"
-          placeholder="Describe your quantity requirements, application temperatures, and any specific technical needs..."></textarea>
-        <button type="submit" class="btn btn--primary btn--block">
-          Get Product Quote <i class="fa-solid fa-arrow-right"></i>
-        </button>
-      </form>
-    </div>
-  </section> -->
-
   <!-- FOOTER -->
-
   <?php include 'includes/footer.php'; ?>
 
 </body>

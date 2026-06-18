@@ -6,7 +6,7 @@ $title = 'Abrasion Resistant Castables Manufacturer & Supplier | Refractotherm';
 $description = 'Abrasion Resistant Castables are specially engineered refractory materials designed to withstand severe mechanical wear caused by the continuous movemen...';
 $keywords = 'Abrasion Resistant Castables, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

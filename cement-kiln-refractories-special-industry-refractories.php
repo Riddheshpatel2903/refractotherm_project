@@ -6,7 +6,7 @@ $title = 'Cement Kiln Refractories Manufacturer & Supplier | Refractotherm';
 $description = 'Cement Kiln Refractories form the critical protective barrier inside the massive rotary kilns used to produce cement clinker at temperatures exceeding 1...';
 $keywords = 'Cement Kiln Refractories, Special Industry Refractories, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

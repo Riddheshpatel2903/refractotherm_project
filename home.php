@@ -5,7 +5,7 @@
 $title = 'Refractotherm | Advanced Refractory & Thermal Engineering Solutions';
 $description = 'Refractotherm engineers high-performance refractory products, flow control systems and thermal solutions for global steel, cement, foundry and power industries.';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>
@@ -46,9 +46,7 @@ include 'includes/head.php';
     <div class="container split">
       <div class="split__media">
         <img src="assets/images/resources/site/companyoverview-1.webp" alt="Refractotherm steel plant operations" loading="lazy"  />
-        <!-- <div class="split__badge">
-          <strong><i class="fa-solid fa-certificate"></i></strong>
-        </div> -->
+
       </div>
       <div class="split__body reveal">
         <span class="eyebrow"><span class="eyebrow__bar"></span>About Us</span>

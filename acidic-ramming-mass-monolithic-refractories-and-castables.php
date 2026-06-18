@@ -6,7 +6,7 @@ $title = 'Acidic Ramming Mass Manufacturer & Supplier | Refractotherm';
 $description = 'Acidic Ramming Mass is a premium refractory lining material manufactured from carefully selected high-purity quartzite with controlled particle size dis...';
 $keywords = 'Acidic Ramming Mass, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

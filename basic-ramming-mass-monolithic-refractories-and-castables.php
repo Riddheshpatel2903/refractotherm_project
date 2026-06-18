@@ -6,7 +6,7 @@ $title = 'Basic Ramming Mass Manufacturer & Supplier | Refractotherm';
 $description = 'Basic Ramming Mass is a high-performance unshaped refractory material manufactured primarily from high-purity magnesia and specially selected refractory...';
 $keywords = 'Basic Ramming Mass, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

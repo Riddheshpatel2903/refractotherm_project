@@ -5,7 +5,7 @@
 $title = 'Corporate Videos | Refractotherm';
 $description = "Watch Refractotherm's corporate videos highlighting our manufacturing processes, product demonstrations, and corporate vision.";
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>
@@ -21,7 +21,7 @@ include 'includes/head.php';
     <div class="page-banner-bg" style="background-image: url('assets/images/resources/site/banner.webp');"></div>
     <div class="container page-banner-container">
       <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Media Center</span>
-      <h2 class="page-banner-title">Corporate Videos</h2>
+      <h1 class="page-banner-title">Corporate Videos</h1>
       <p class="lead page-banner-lead">Explore our state-of-the-art facilities and witness our high-performance solutions in action.</p>
     </div>
   </section>
@@ -51,11 +51,8 @@ include 'includes/head.php';
         <div class="video-card reveal">
           <div class="video-thumbnail">
                  <video autoplay loop muted playsinline class="video-thumbnail-bg">
-                   <source src="assets/videos/Refractory.mp4" type="video/mp4">
-                 </video>
-           
-
-            
+                   <source src="assets/videos/Refractory.mp4" alt="Corporate Profile - Refractotherm India LLP" type="video/mp4">
+                 </video>  
             <div class="play-btn video-play-overlay"><i class="fa-solid fa-play"></i></div>
           </div>
           <div class="video-content">
@@ -68,11 +65,8 @@ include 'includes/head.php';
         <div class="video-card reveal">
           <div class="video-thumbnail">
                  <video autoplay loop muted playsinline class="video-thumbnail-bg">
-                   <source src="assets/videos/Refractory.mp4" type="video/mp4">
-                 </video>
-            
-
-            
+                   <source src="assets/videos/Refractory.mp4" alt="Manufacturing Facility Tour - Refractotherm India LLP" type="video/mp4">
+                 </video>   
             <div class="play-btn video-play-overlay"><i class="fa-solid fa-play"></i></div>
           </div>
           <div class="video-content">

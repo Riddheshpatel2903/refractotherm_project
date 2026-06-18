@@ -6,7 +6,7 @@ $title = 'Tcc Powder Manufacturer & Supplier | Refractotherm';
 $description = 'TCC Powder (Tundish Covering Compound) is a specialized insulating and protective material applied to the surface of molten steel in tundishes during co...';
 $keywords = 'Tcc Powder, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

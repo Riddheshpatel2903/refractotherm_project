@@ -6,7 +6,7 @@ $title = 'Coil Coating Compounds Manufacturer & Supplier | Refractotherm';
 $description = 'Coil Coating Compounds are premium protective coatings specifically formulated for the copper coils of coreless induction furnaces. They offer an essent...';
 $keywords = 'Coil Coating Compounds, Induction Furnace Refractories Blocks And Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

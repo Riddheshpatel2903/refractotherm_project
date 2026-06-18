@@ -6,7 +6,7 @@ $title = 'Shotcreting Materials Manufacturer & Supplier | Refractotherm';
 $description = 'Shotcreting Materials are specialized monolithic refractory products designed for pneumatic placement through shotcrete equipment to create durable, hig...';
 $keywords = 'Shotcreting Materials, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

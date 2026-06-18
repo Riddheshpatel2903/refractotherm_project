@@ -6,7 +6,7 @@ $title = 'Heat Resistant Tiles Manufacturer & Supplier | Refractotherm';
 $description = 'Heat Resistant Tiles are specialized, flat refractory shapes utilized for paving industrial floors, lining transport chutes, and constructing the interi...';
 $keywords = 'Heat Resistant Tiles, Pre Cast Shapes And Refractory Bricks, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>
@@ -41,12 +41,12 @@ include 'includes/head.php';
     <div class="container split">
       <div class="split__media reveal">
         <img src="assets/images/resources/products/precast_shape/HeatResistantTiles.webp"
-          alt="Heat Resistant Tiles - Pre-Cast Shapes and Bricks" />
+          alt="Heat Resistant Tiles - Pre-Cast Shapes and Refractory Bricks - Refractotherm" />
 
       </div>
       <div class="split__body reveal">
         <span class="eyebrow"><span class="eyebrow__bar"></span>Product Overview</span>
-        <h3>Heat Resistant Tiles</h3>
+        <h2>Heat Resistant Tiles</h2>
         <p class="lead">Heat Resistant Tiles are specialized, flat refractory shapes utilized for paving industrial
           floors, lining transport chutes, and constructing the interior of low-temperature flues and chimneys.</p>
         <p>Manufactured for high density and mechanical strength, these tiles offer excellent resistance to foot
@@ -82,86 +82,86 @@ include 'includes/head.php';
       <div class="section__head">
         <div>
           <span class="eyebrow"><span class="eyebrow__bar"></span>Usage Areas</span>
-          <h3>Applications.</h3>
+          <h2>Applications.</h2>
         </div>
       </div>
       <div class="benefit-list-container" style="margin-bottom: 50px;">
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Reheating Furnaces</h4>
+          <p class="benefit-text">Reheating Furnaces</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Steel Plants</h4>
+          <p class="benefit-text">Steel Plants</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Foundries</h4>
+          <p class="benefit-text">Foundries</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Rotary Kilns</h4>
+          <p class="benefit-text">Rotary Kilns</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Boilers</h4>
+          <p class="benefit-text">Boilers</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Petrochemical Plants</h4>
+          <p class="benefit-text">Petrochemical Plants</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Non-Ferrous Metal Industries</h4>
+          <p class="benefit-text">Non-Ferrous Metal Industries</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">High-Temperature Process Equipment</h4>
+          <p class="benefit-text">High-Temperature Process Equipment</p>
         </div>
       </div>
 
       <div class="section__head">
         <div>
           <span class="eyebrow"><span class="eyebrow__bar"></span>Value Added</span>
-          <h3>Key Benefits.</h3>
+          <h2>Key Benefits.</h2>
         </div>
       </div>
       <div class="benefit-list-container">
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Excellent Thermal Resistance</h4>
+          <p class="benefit-text">Excellent Thermal Resistance</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">High Mechanical Strength</h4>
+          <p class="benefit-text">High Mechanical Strength</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Superior Wear & Abrasion Resistance</h4>
+          <p class="benefit-text">Superior Wear & Abrasion Resistance</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Enhanced Structural Stability</h4>
+          <p class="benefit-text">Enhanced Structural Stability</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Long Service Life</h4>
+          <p class="benefit-text">Long Service Life</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Customized Design Solutions</h4>
+          <p class="benefit-text">Customized Design Solutions</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Reliable Performance in High-Temperature Environments</h4>
+          <p class="benefit-text">Reliable Performance in High-Temperature Environments</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Reduced Maintenance Requirements</h4>
+          <p class="benefit-text">Reduced Maintenance Requirements</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <h4 class="benefit-text">Improved Operational Efficiency</h4>
+          <p class="benefit-text">Improved Operational Efficiency</p>
         </div>
       </div>
     </div>
@@ -169,43 +169,6 @@ include 'includes/head.php';
 
   <!-- SUGGESTED PRODUCTS -->
   <?php include 'includes/product_suggestion/precast-shapes.php'; ?>
-
-  <!-- INQUIRY CTA -->
-  <!-- <section class="cta" id="contact">
-    <div class="cta__bg" style="background-image: url('assets/images/resources/about-2.webp');"></div>
-    <div class="container cta__grid">
-      <div class="cta__intro">
-        <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>Inquiry</span>
-        <h3>Request a Quote for Heat Resistant Tiles </h3>
-        <p>Connect with our refractory specialists to select the ideal Alumina Crucible for your laboratory,
-          metallurgical, or industrial application. Custom sizes and high-purity grades are available based on your
-          requirements.</p>
-        <ul class="cta__info">
-          <li><i class="fa-solid fa-phone"></i> +91 98259 57604</li>
-          <li><i class="fa-solid fa-envelope"></i> <a
-              href="mailto:info@refractotherm.com">info@refractotherm.com</a>
-          </li>
-        </ul>
-      </div>
-      <form class="cta__form"
-        onsubmit="event.preventDefault(); this.querySelector('button').textContent = 'Submitted âœ“';">
-        <h3>Request Heat Resistant Tiles Quote</h3>
-        <div class="row">
-          <input type="text" class="inputsections" placeholder="Full Name" required />
-          <input type="text" class="inputsections" placeholder="Company" required />
-        </div>
-        <div class="row">
-          <input type="email" class="inputsections" placeholder="Work Email" required />
-          <input type="tel" class="inputsections" placeholder="Phone" />
-        </div>
-        <textarea rows="4" class="inputsections"
-          placeholder="Describe your quantity requirements, application temperatures, and any specific technical needs..."></textarea>
-        <button type="submit" class="btn btn--primary btn--block">
-          Get Product Quote <i class="fa-solid fa-arrow-right"></i>
-        </button>
-      </form>
-    </div>
-  </section> -->
 
   <!-- FOOTER -->
   <?php include 'includes/footer.php'; ?>

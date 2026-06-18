@@ -6,7 +6,7 @@ $title = 'Backup Insulation Materials Manufacturer & Supplier | Refractotherm';
 $description = 'Backup Insulation Materials are deployed between the safety lining and the outer steel shell of the AOD converter. Their critical function is to manage ...';
 $keywords = 'Backup Insulation Materials, Aod Refractories Argon Oxygen Decarburization, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

@@ -6,7 +6,7 @@ $title = 'Acid Resistant Mortars Manufacturer & Supplier | Refractotherm';
 $description = 'Acid Resistant Mortars are specially formulated jointing and bonding materials designed for the installation of acid-resistant bricks, tiles, and lining...';
 $keywords = 'Acid Resistant Mortars, Monolithic Refractories And Castables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

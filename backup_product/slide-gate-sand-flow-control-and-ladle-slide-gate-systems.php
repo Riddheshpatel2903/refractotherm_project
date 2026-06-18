@@ -6,7 +6,7 @@ $title = 'Slide Gate Sand Manufacturer & Supplier | Refractotherm';
 $description = 'Slide Gate Sand is a specially engineered refractory filler material used in steel ladle slide gate systems to prevent molten steel from penetrating int...';
 $keywords = 'Slide Gate Sand, Flow Control And Ladle Slide Gate Systems, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

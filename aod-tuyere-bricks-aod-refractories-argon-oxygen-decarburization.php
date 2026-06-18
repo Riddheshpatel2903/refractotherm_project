@@ -6,7 +6,7 @@ $title = 'Aod Tuyere Bricks Manufacturer & Supplier | Refractotherm';
 $description = 'AOD Tuyere Bricks represent the most technologically demanding refractories within the converter. They surround the gas injection pipes where argon and ...';
 $keywords = 'Aod Tuyere Bricks, Aod Refractories Argon Oxygen Decarburization, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

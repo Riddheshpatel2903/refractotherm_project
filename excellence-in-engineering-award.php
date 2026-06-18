@@ -5,7 +5,7 @@
 $title = 'Excellence in Engineering Award | News & Events | Refractotherm';
 $description = 'Refractotherm is proud to announce we have been recognized for outstanding contributions to metallurgical engineering and thermal efficiency.';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>
@@ -45,7 +45,7 @@ include 'includes/head.php';
         <div class="news-detail-body">
           <p>Refractotherm India LLP is proud and honored to announce that we have been awarded the prestigious <strong>Excellence in Engineering Award 2026</strong> by the National Metallurgy & Refractories Association. This recognition highlights our team's continuous dedication to high-temperature engineering research, thermal efficiency enhancement, and innovative material science.</p>
           
-          <h4>Recognizing Innovation in Thermal Refractories</h4>
+          <h2>Recognizing Innovation in Thermal Refractories</h2>
           <p>The engineering award specifically recognizes Refractotherm's breakthroughs in designing energy-saving, low-thermal-conductivity backup insulation materials and nano-bonded castable solutions. These advanced products have successfully helped our clients in the cement and steelmaking industries reduce energy loss, optimize heat retention, and lower overall furnace fuel consumption, resulting in a measurable reduction of carbon dioxide emissions.</p>
           
           <div class="news-detail-quote">
@@ -53,7 +53,7 @@ include 'includes/head.php';
             <cite>— Managing Partner, Refractotherm India LLP</cite>
           </div>
 
-          <h4>Our Commitment to Continuous Progress</h4>
+          <h2>Our Commitment to Continuous Progress</h2>
           <p>We extend our deepest gratitude to all our clients and business partners whose trust and collaboration have motivated our engineering innovations. Moving forward, Refractotherm remains dedicated to investing in metallurgical research, refining our custom casting formulations, and engineering solutions that contribute to a greener, more energy-efficient industrial landscape.</p>
         </div>
         <div class="news-detail-back-wrapper">

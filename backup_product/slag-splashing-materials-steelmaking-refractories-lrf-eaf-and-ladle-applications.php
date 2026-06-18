@@ -6,7 +6,7 @@ $title = 'Slag Splashing Materials Manufacturer & Supplier | Refractotherm';
 $description = 'Slag Splashing Materials are specialized magnesia-based formulations utilized in the Basic Oxygen Furnace (BOF) to extend the refractory lining life. Fo...';
 $keywords = 'Slag Splashing Materials, Steelmaking Refractories Lrf Eaf And Ladle Applications, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>

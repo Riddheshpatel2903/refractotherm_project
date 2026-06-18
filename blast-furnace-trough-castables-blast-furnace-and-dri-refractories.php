@@ -6,7 +6,7 @@ $title = 'Blast Furnace Trough Castables Manufacturer & Supplier | Refractotherm
 $description = 'Blast Furnace Trough Castables are highly specialized, ultra-low cement formulations (typically Alumina-Silicon Carbide-Carbon based) engineered for the...';
 $keywords = 'Blast Furnace Trough Castables, Blast Furnace And Dri Refractories, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
-$indexing = 'index';
+$indexing = 'index, follow';
 
 include 'includes/head.php';
 ?>
