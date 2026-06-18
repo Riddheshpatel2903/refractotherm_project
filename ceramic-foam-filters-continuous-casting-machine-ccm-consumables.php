@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/ccm/CeramicFoamFilters.webp"
+        <img src="assets/images/resources/products/ccm/ceramicfoamfilters.webp"
           alt="Ceramic Foam Filters - Continuous casting Machines - Refractotherm" />
 
       </div>

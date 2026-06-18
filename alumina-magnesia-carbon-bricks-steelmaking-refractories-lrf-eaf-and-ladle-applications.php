@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/steelmaking/AluminaMagnesiaCarbonBricks.webp"
+        <img src="assets/images/resources/products/steelmaking/aluminamagnesiacarbonbricks.webp"
           alt="Alumina Magnesia Carbon Bricks for Steelmaking and Ladle Applications" />
 
       </div>

@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/induction_furnace/CoilCoatingCompounds.webp"
+        <img src="assets/images/resources/products/induction_furnace/coilcoatingcompounds.webp"
           alt="Coil Coating Compounds - INDUCTION FURNACE REFRACTORIES, BLOCKS & CONSUMABLES - Refractotherm" />
 
       </div>

@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 
 <?php
@@ -31,7 +31,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/monolithic/AcidResistantCastables.webp"
+        <img src="assets/images/resources/products/monolithic/acidresistantcastables.webp"
           alt="Acid Resistant Castables for Chemical Plants, Fertilizer Units, Chimneys and Corrosion Resistant Industrial Applications" />
 
       </div>

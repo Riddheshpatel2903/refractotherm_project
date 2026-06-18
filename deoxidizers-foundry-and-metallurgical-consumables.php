@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/foundries/Deoxidizers.webp"
+        <img src="assets/images/resources/products/foundries/deoxidizers.webp"
           alt="Deoxidizers - Foundry & Metallurgical Consumables - Refractotherm" />
 
       </div>

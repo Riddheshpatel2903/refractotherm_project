@@ -31,7 +31,8 @@ include 'includes/head.php';
       <span class="eyebrow"><span class="eyebrow__bar"></span>Pioneering Advanced Refractory & Thermal Solutions</span>
       <h1>Global Partner for Advanced Refractory, Metallurgical & Thermal Engineering Solutions</h1>
       <p class="lead">
-        Delivering Reliable Refractory, Metallurgical & Thermal Solutions to Steel, Foundry and Process Industries Worldwide
+        Delivering Reliable Refractory, Metallurgical & Thermal Solutions to Steel, Foundry and Process Industries
+        Worldwide
       </p>
       <div class="hero__actions">
         <a href="products" class="btn--hero-primary">Explore Products <i class="fa-solid fa-arrow-right"></i></a>
@@ -45,25 +46,32 @@ include 'includes/head.php';
   <section class="section" id="about">
     <div class="container split">
       <div class="split__media">
-        <img src="assets/images/resources/site/companyoverview-1.webp" alt="Refractotherm steel plant operations" loading="lazy"  />
+        <img src="assets/images/resources/site/companyoverview-1.webp" alt="Refractotherm steel plant operations"
+          loading="lazy" />
 
       </div>
       <div class="split__body reveal">
         <span class="eyebrow"><span class="eyebrow__bar"></span>About Us</span>
         <h3>Refractotherm India LLP</h3>
         <p class="lead">
-          Refractotherm India LLP is a trusted manufacturer, supplier, and export partner of high-performance refractory and metallurgical products for the steel, foundry, ferro alloy, and process industries.
+          Refractotherm India LLP is a trusted manufacturer, supplier, and export partner of high-performance refractory
+          and metallurgical products for the steel, foundry, ferro alloy, and process industries.
         </p>
         <p class="lead">
-          Built on nearly three decades of industry experience, we deliver reliable products, technical expertise, and engineering solutions that help customers improve operational efficiency, maximize productivity, reduce downtime, and achieve sustainable growth in demanding high-temperature environments.
+          Built on nearly three decades of industry experience, we deliver reliable products, technical expertise, and
+          engineering solutions that help customers improve operational efficiency, maximize productivity, reduce
+          downtime, and achieve sustainable growth in demanding high-temperature environments.
         </p>
         <p class="lead">
-          With a strong commitment to quality, innovation, and customer satisfaction, we provide solutions that meet the evolving needs of modern industries across India and international markets.
+          With a strong commitment to quality, innovation, and customer satisfaction, we provide solutions that meet the
+          evolving needs of modern industries across India and international markets.
         </p>
-        <h5 style="margin-top: 1.5rem; color: var(--orange); font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase;">
+        <h5
+          style="margin-top: 1.5rem; color: var(--orange); font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase;">
           Engineering Excellence. Delivering Reliability. Building Long-Term Partnerships.
         </h5>
-        <a href="#" class="btn btn--dark" style="margin-top: 1.5rem;">Read Company Profile <i class="fa-solid fa-arrow-right"></i></a>
+        <a href="#" class="btn btn--dark" style="margin-top: 1.5rem;">Read Company Profile <i
+            class="fa-solid fa-arrow-right"></i></a>
       </div>
     </div>
   </section>
@@ -85,7 +93,9 @@ include 'includes/head.php';
       <div class="prod-grid">
         <!-- Category 1 -->
         <a href="products#monolithic-refractories-and-castables" class="category-card">
-          <div class="category-card__img" style="background-image: url(assets/images/resources/products/MONOLITHIC-REFRACTORIES-CASTABLES.webp);"></div>
+          <div class="category-card__img"
+            style="background-image: url(assets/images/resources/products/monolithic-refractories-castables.webp);">
+          </div>
           <div class="category-card__overlay"></div>
           <div class="category-card__content">
             <h4 class="category-card__title">Monolithic Refractories</h4>
@@ -98,12 +108,12 @@ include 'includes/head.php';
         <!-- Category 2 -->
         <a href="products#flow-control-and-ladle-slide-gate-systems" class="category-card">
           <div class="category-card__img"
-            style="background-image: url(assets/images/resources/products/flowcontrol/FlowControlSystems.webp);"></div>
+            style="background-image: url(assets/images/resources/products/flowcontrol/flowcontrolsystems.webp);"></div>
           <div class="category-card__overlay"></div>
           <div class="category-card__content">
             <h4 class="category-card__title">Flow Control Systems</h4>
             <div class="category-card__hover-content">
-              
+
               <span class="category-card__link">View more <i class="fa-solid fa-arrow-right"></i></span>
             </div>
           </div>
@@ -139,7 +149,7 @@ include 'includes/head.php';
         <!-- Category 5 -->
         <a href="products#steelmaking-refractories-lrf-eaf-and-ladle-applications" class="category-card">
           <div class="category-card__img"
-            style="background-image: url(assets/images/resources/products/Steelmaking.webp);">
+            style="background-image: url(assets/images/resources/products/steelmaking.webp);">
           </div>
           <div class="category-card__overlay"></div>
           <div class="category-card__content">
@@ -152,12 +162,12 @@ include 'includes/head.php';
         <!-- Category 7 -->
         <a href="products#blast-furnace-and-dri-refractories" class="category-card">
           <div class="category-card__img"
-            style="background-image: url(assets/images/resources/products/BlastFurnace.webp);">
+            style="background-image: url(assets/images/resources/products/blastfurnace.webp);">
           </div>
           <div class="category-card__overlay"></div>
           <div class="category-card__content">
             <h4 class="category-card__title">Blast Furnace & DRI</h4>
-            <div class="category-card__hover-content">    
+            <div class="category-card__hover-content">
               <span class="category-card__link">View more <i class="fa-solid fa-arrow-right"></i></span>
             </div>
           </div>
@@ -170,7 +180,7 @@ include 'includes/head.php';
           <div class="category-card__overlay"></div>
           <div class="category-card__content">
             <h4 class="category-card__title">Special Industry Refractories</h4>
-            <div class="category-card__hover-content">  
+            <div class="category-card__hover-content">
               <span class="category-card__link">View more <i class="fa-solid fa-arrow-right"></i></span>
             </div>
           </div>
@@ -178,7 +188,7 @@ include 'includes/head.php';
         <!-- Category 9 -->
         <a href="products#foundry-and-metallurgical-consumables" class="category-card">
           <div class="category-card__img"
-            style="background-image: url(assets/images/resources/products/Fundry_consumables.webp);"></div>
+            style="background-image: url(assets/images/resources/products/fundry_consumables.webp);"></div>
           <div class="category-card__overlay"></div>
           <div class="category-card__content">
             <h4 class="category-card__title">Foundry Consumables</h4>
@@ -205,7 +215,8 @@ include 'includes/head.php';
       <div class="home-industries-grid">
         <!-- Card 1: Steel & Metallurgical Industries -->
         <a href="industries-we-serve#steel-metallurgical" class="home-industry-card reveal">
-          <div class="home-industry-card-bg" style="background-image: url('assets/images/resources/hero-4.webp');"></div>
+          <div class="home-industry-card-bg" style="background-image: url('assets/images/resources/hero-4.webp');">
+          </div>
           <div class="home-industry-card-overlay"></div>
           <div class="home-industry-card-content">
             <h4 class="home-industry-card-title">Steel & Metallurgical Industries</h4>
@@ -217,7 +228,8 @@ include 'includes/head.php';
 
         <!-- Card 2: Furnace & Casting Operations -->
         <a href="industries-we-serve#furnace-casting" class="home-industry-card reveal">
-          <div class="home-industry-card-bg" style="background-image: url('assets/images/resources/ElectricArcFurnaces(EAF).webp');"></div>
+          <div class="home-industry-card-bg"
+            style="background-image: url('assets/images/resources/electricarcfurnaces(eaf).webp');"></div>
           <div class="home-industry-card-overlay"></div>
           <div class="home-industry-card-content">
             <h4 class="home-industry-card-title">Furnace & Casting Operations</h4>
@@ -229,7 +241,8 @@ include 'includes/head.php';
 
         <!-- Card 3: Process Industries -->
         <a href="industries-we-serve#process-industries" class="home-industry-card reveal">
-          <div class="home-industry-card-bg" style="background-image: url('assets/images/resources/CementPlants.webp');"></div>
+          <div class="home-industry-card-bg"
+            style="background-image: url('assets/images/resources/cementplants.webp');"></div>
           <div class="home-industry-card-overlay"></div>
           <div class="home-industry-card-content">
             <h4 class="home-industry-card-title">Process Industries</h4>
@@ -347,7 +360,7 @@ include 'includes/head.php';
       <div class="serv-grid">
         <div class="serv">
           <div class="serv__img" style="
-                background-image: url(assets/images/resources/RefractoryInstallation.webp);
+                background-image: url(assets/images/resources/refractoryinstallation.webp);
               "></div>
           <div class="serv__body">
             <h4>Refractory Installation</h4>
@@ -359,7 +372,7 @@ include 'includes/head.php';
         </div>
         <div class="serv">
           <div class="serv__img" style="
-                background-image: url(assets/images/resources/FurnaceLining.webp);
+                background-image: url(assets/images/resources/furnacelining.webp);
               "></div>
           <div class="serv__body">
             <h4>Furnace Lining & Relining</h4>
@@ -371,7 +384,7 @@ include 'includes/head.php';
         </div>
         <div class="serv">
           <div class="serv__img" style="
-                background-image: url(assets/images/resources/EAF.webp);
+                background-image: url(assets/images/resources/eaf.webp);
               "></div>
           <div class="serv__body">
             <h4>EAF Refractory Installation</h4>
@@ -383,8 +396,7 @@ include 'includes/head.php';
         </div>
         <div class="serv">
           <div class="serv__img" style="
-                background-image: url(assets/images/resources/LRF.webp);
-              "></div>
+                background-image: url(assets/images/resources/lrf.webp);"></div>
           <div class="serv__body">
             <h4>LRF Refractory Installation</h4>
             <p>
@@ -560,7 +572,8 @@ include 'includes/head.php';
         <span class="eyebrow"><span class="eyebrow__bar"></span>Our Mission</span>
         <h3>Our Mission</h3>
         <p class="lead" style="font-size: 1.15rem; line-height: 1.8; color: #334155;">
-          To deliver innovative refractory, metallurgical, and thermal engineering solutions that enhance industrial performance, improve operational efficiency, and create long-term value for our customers.
+          To deliver innovative refractory, metallurgical, and thermal engineering solutions that enhance industrial
+          performance, improve operational efficiency, and create long-term value for our customers.
         </p>
       </div>
     </div>
@@ -573,7 +586,8 @@ include 'includes/head.php';
         <span class="eyebrow"><span class="eyebrow__bar"></span>Our Vision</span>
         <h3>Our Vision</h3>
         <p class="lead" style="font-size: 1.15rem; line-height: 1.8; color: #334155;">
-          To become a globally trusted partner in refractory, metallurgical, and thermal engineering solutions through quality, innovation, and engineering excellence.
+          To become a globally trusted partner in refractory, metallurgical, and thermal engineering solutions through
+          quality, innovation, and engineering excellence.
         </p>
       </div>
       <div class="split__media">
@@ -597,8 +611,9 @@ include 'includes/head.php';
         </p>
         <ul class="cta__info">
           <li> <a href="https://maps.app.goo.gl/WTdRfAkDKHLtUGVf8" target="_blank">
-            <i class="fa-solid fa-location-dot"></i> FF-71, Vraj Real Estate, Near Telephone Exchange Road, Bopal, Ahmedabad, 380058, Gujarat, India
-</a></li>
+              <i class="fa-solid fa-location-dot"></i> FF-71, Vraj Real Estate, Near Telephone Exchange Road, Bopal,
+              Ahmedabad, 380058, Gujarat, India
+            </a></li>
           <li><i class="fa-solid fa-phone"> <a href="tel:+919825957604"></i> +91 98259 57604</a></li>
           <li>
             <i class="fa-solid fa-envelope"></i> <a href="mailto:info@refractotherm.com"></a>info@refractotherm.com</a>

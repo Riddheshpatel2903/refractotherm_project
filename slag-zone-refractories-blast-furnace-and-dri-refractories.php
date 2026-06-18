@@ -39,7 +39,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/blast_furnace/SlagZoneRefractories.webp"
+        <img src="assets/images/resources/products/blast_furnace/slagzonerefractories.webp"
           alt="Slag Zone Refractories - Blast Furnace & DRI Refractories - Refractotherm" />
       </div>
       <div class="split__body reveal">

@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 
 <?php
@@ -30,7 +30,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/insulation/CeramicFiberPaper.webp"
+        <img src="assets/images/resources/products/insulation/ceramicfiberpaper.webp"
           alt="Ceramic Fiber Paper - Thermal Insulation" />
 
       </div>

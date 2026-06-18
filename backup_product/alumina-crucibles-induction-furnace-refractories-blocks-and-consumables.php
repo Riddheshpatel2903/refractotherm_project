@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 
 <?php
@@ -31,7 +31,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/induction_furnace/AluminaCrucibles.webp"
+        <img src="assets/images/resources/products/induction_furnace/aluminacrucibles.webp"
           alt="Alumina Crucibles for High Temperature Laboratory, Metallurgical and Industrial Applications" />
 
       </div>

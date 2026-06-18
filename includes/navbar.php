@@ -67,19 +67,19 @@ if (in_array($current_page_name, $specialized_detail_pages)) {
                   <div class="mega__subproducts">
                     <div class="mega__subproducts-inner">
                       <a href="conventional-castables-monolithic-refractories-and-castables">Conventional Castables</a>
-                      <a href="nano-bonded-castables-monolithic-refractories-and-castables">Nano Bonded Castables</a>
-                      <a href="ultra-low-cement-castables-ulcc-monolithic-refractories-and-castables">Ultra Low Cement Castables (ULCC)</a>
                       <a href="low-cement-castables-lcc-monolithic-refactories-and-castables">Low Cement Castables (LCC)</a>
+                      <a href="ultra-low-cement-castables-ulcc-monolithic-refractories-and-castables">Ultra Low Cement Castables (ULCC)</a>
+                      <a href="nano-bonded-castables-monolithic-refractories-and-castables">Nano Bonded Castables</a>
                       <a href="self-flow-castables-monolithic-refractories-product">Self Flow Castables</a>
                       <a href="alumina-spinel-castables-monolithic-refractories-and-castables">Alumina Spinel Castables</a>
                       <a href="insulating-castables-monolithic-refractories-and-castables">Insulating Castables</a>
-                      <a href="refractory-mortars-monolithic-refractories-and-castables">Refractory Mortars</a> 
+                      <a href="refractory-mortars-monolithic-refractories-and-castables">Refractory Mortars</a>
                       <a href="silica-ramming-mass-monolithic-refractories-and-castables">Silica Ramming Mass</a>
                       <a href="acidic-ramming-mass-monolithic-refractories-and-castables">Acidic Ramming Mass</a>
-                      <a href="neutral-ramming-mass-monolithic-refractories-and-castables">Neutral Ramming Mass</a>
                       <a href="basic-ramming-mass-monolithic-refractories-and-castables">Basic Ramming Mass</a>
+                      <a href="neutral-ramming-mass-monolithic-refractories-and-castables">Neutral Ramming Mass</a>
                       <a href="dry-vibrating-mass-monolithic-refractories-and-castables">Dry Vibrating Mass</a>
-                      <a href="gunning-mass-aod-refractories-argon-oxygen-decarburization">Gunning Mass</a>
+                      <a href="gunning-mass-monolithic-refractories-and-castables">Gunning Mass</a>
                       <a href="spray-mass-monolithic-refractories-and-castables">Spray Mass</a>
                       <a href="hot-repair-mixes-monolithic-refractories-and-castables">Hot Repair Mixes</a>
                     </div>
@@ -91,16 +91,20 @@ if (in_array($current_page_name, $specialized_detail_pages)) {
                   <a href="products#flow-control-and-ladle-slide-gate-systems" class="mega__category-title">Flow Control & Ladle Slide Gate Systems</a>
                   <div class="mega__subproducts">
                     <div class="mega__subproducts-inner">
-                      <a href="slide-gate-plates-flow-control-and-ladle-slide-gate-systems">Slide Gate Plates</a>
-                      <a href="slide-gate-mechanisms-flow-control-and-ladle-slide-gate-systems">Slide Gate Mechanisms</a> 
+                      <a href="slide-gate-plates-flow-control-and-ladle-slide-gate-systems">Ladle Slide Gate Refractory Plates</a>
+                      <a href="slide-gate-plates-flow-control-and-ladle-slide-gate-systems">Alumina Carbon Slide Gate Plates</a>
+                      <a href="slide-gate-plates-flow-control-and-ladle-slide-gate-systems">Magnesia Carbon Slide Gate Plates</a>
+                      <a href="slide-gate-mechanisms-flow-control-and-ladle-slide-gate-systems">Slide Gate Mechanisms</a>
+                      <a href="collector-nozzles-flow-control-and-ladle-slide-gate-systems">Collector Nozzles</a>
                       <a href="ladle-nozzles-flow-control-and-ladle-slide-gate-systems">Ladle Nozzles</a>
                       <a href="tundish-nozzles-flow-control-and-ladle-slide-gate-systems">Tundish Nozzles</a>
                       <a href="metering-nozzles-flow-control-and-ladle-slide-gate-systems">Metering Nozzles</a>
-                      <a href="collector-nozzles-flow-control-and-ladle-slide-gate-systems">Collector Nozzles</a>
+                      <a href="upper-nozzles-flow-control-and-ladle-slide-gate-systems">Upper Nozzles</a>
+                      <a href="lower-nozzles-flow-control-and-ladle-slide-gate-systems">Lower Nozzles</a>
                       <a href="zirconia-nozzles-flow-control-and-ladle-slide-gate-systems">Zirconia Nozzles</a>
                       <a href="porous-plugs-flow-control-and-ladle-slide-gate-systems">Porous Plugs</a>
-                      <a href="bottom-purging-bp-sets-flow-control-and-ladle-slide-gate-systems">Bottom Purging (BP) Sets</a>
-                        <a href="well-blocks-flow-control-and-ladle-slide-gate-systems">Well Blocks</a>
+                      <a href="bottom-purging-bp-sets-flow-control-and-ladle-slide-gate-systems">Bottom Purging Systems</a>
+                      <a href="well-blocks-flow-control-and-ladle-slide-gate-systems">Well Blocks</a>
                       <a href="seating-blocks-flow-control-and-ladle-slide-gate-systems">Seating Blocks</a>
                       <a href="flow-control-systems-flow-control-and-ladle-slide-gate-systems">Flow Control Systems</a>
                     </div>
@@ -112,17 +116,17 @@ if (in_array($current_page_name, $specialized_detail_pages)) {
                   <a href="products#continuous-casting-machine-ccm-consumables" class="mega__category-title">Continuous Casting Machine (CCM) Consumables</a>
                   <div class="mega__subproducts">
                     <div class="mega__subproducts-inner">
+                      <a href="submerged-entry-nozzles-sen-continuous-casting-machine-ccm-consumables">Submerged Entry Nozzles (SEN)</a>
+                      <a href="ladle-to-tundish-shrouds-lts-continuous-casting-machine-ccm-consumables">Ladle to Tundish Shrouds (LTS)</a>
                       <a href="monoblock-stoppers-continuous-casting-machine-ccm-consumables">Monoblock Stoppers</a>
                       <a href="tundish-well-blocks-continuous-casting-machine-ccm-consumables">Tundish Well Blocks</a>
-                      <a href="ladle-to-tundish-shrouds-lts-continuous-casting-machine-ccm-consumables">Ladle to Tundish Shrouds (LTS)</a> <a
-                        href="submerged-entry-nozzles-sen-continuous-casting-machine-ccm-consumables">Submerged Entry Nozzles (SEN)</a>
                       <a href="tundish-impact-pads-continuous-casting-machine-ccm-consumables">Tundish Impact Pads</a>
-                        <a href="tundish-boards-continuous-casting-machine-ccm-consumables">Tundish Boards</a>
-                        <a href="ceramic-foam-filters-continuous-casting-machine-ccm-consumables">Ceramic Foam Filters</a>
-                        <a href="casting-powder-continuous-casting-machine-ccm-consumables">Casting Powder</a>
-                        <a href="mould-powder-continuous-casting-machine-ccm-consumables">Mould Powder</a>
-                        <a href="radex-tubes-continuous-casting-machine-ccm-consumables">Radex Tubes</a>
-                        <a href="covering-compounds-continuous-casting-machine-ccm-consumables">Covering Compounds</a> 
+                      <a href="tundish-boards-continuous-casting-machine-ccm-consumables">Tundish Boards</a>
+                      <a href="casting-powder-continuous-casting-machine-ccm-consumables">Casting Powder</a>
+                      <a href="mould-powder-continuous-casting-machine-ccm-consumables">Mould Powder</a>
+                      <a href="ceramic-foam-filters-continuous-casting-machine-ccm-consumables">Ceramic Foam Filters</a>
+                      <a href="radex-tubes-continuous-casting-machine-ccm-consumables">Radex Tubes</a>
+                      <a href="covering-compounds-continuous-casting-machine-ccm-consumables">Covering Compounds</a>
                     </div>
                   </div>
                 </div>
@@ -152,18 +156,17 @@ if (in_array($current_page_name, $specialized_detail_pages)) {
                   <a href="products#induction-furnace-refractories-blocks-and-consumables" class="mega__category-title">Induction Furnace Refractories, Blocks & Consumables</a>
                   <div class="mega__subproducts">
                     <div class="mega__subproducts-inner">
+                      <a href="furnace-top-blocks-induction-furnace-refractories-blocks-and-consumables">Furnace Top Blocks</a>
                       <a href="furnace-bottom-blocks-induction-furnace-refractories-blocks-and-consumables">Furnace Bottom Blocks</a>
                       <a href="furnace-roof-castables-induction-furnace-refractories-blocks-and-consumables">Roof Castables</a>
-                      <a href="furnace-top-blocks-induction-furnace-refractories-blocks-and-consumables">Furnace Top Blocks</a>
                       <a href="rim-blocks-induction-furnace-refractories-blocks-and-consumables">Rim Blocks</a>
-                      <a href="pusher-blocks-induction-furnace-refractories-blocks-and-consumables">Pusher Blocks</a> 
+                      <a href="pusher-blocks-induction-furnace-refractories-blocks-and-consumables">Pusher Blocks</a>
                       <a href="spout-blocks-induction-furnace-refractories-blocks-and-consumables">Spout Blocks</a>
                       <a href="coil-support-blocks-induction-furnace-refractories-blocks-and-consumables">Coil Support Blocks</a>
-                      <a href="coil-cement-induction-furnace-refractories-blocks-and-consumables">Coil Cement</a>
                       <a href="coil-coating-compounds-induction-furnace-refractories-blocks-and-consumables">Coil Coating Compounds</a>
                       <a href="furnace-lining-materials-induction-furnace-refractories-blocks-and-consumables">Furnace Lining Materials</a>
                       <a href="safety-lining-materials-induction-furnace-refractories-blocks-and-consumables">Safety Lining Materials</a>
-                      <a href="furnace-repair-mixes-induction-furnace-refractories-blocks-and-consumables">Furnace Repair Mixes</a>
+                      <a href="furnace-repair-mixes-induction-furnace-refractories-blocks-and-consumables">Repair Mixes</a>
                     </div>
                   </div>
                 </div>
@@ -174,15 +177,15 @@ if (in_array($current_page_name, $specialized_detail_pages)) {
                   <a href="products#steelmaking-refractories-lrf-eaf-and-ladle-applications" class="mega__category-title">Steelmaking Refractories (LRF, EAF & Ladle Applications)</a>
                   <div class="mega__subproducts">
                     <div class="mega__subproducts-inner">
-                      <a href="magnesia-carbon-bricks-aod-refractories-argon-oxygen-decarburization">Magnesia Carbon Bricks</a>
-                      <a href="slag-line-refractories-aod-refractories-argon-oxygen-decarburization">Slag Line Refractories</a>
+                      <a href="magnesia-carbon-bricks-steelmaking-refractories-lrf-eaf-and-ladle-applications">Magnesia Carbon Bricks</a>
+                      <a href="alumina-magnesia-carbon-bricks-steelmaking-refractories-lrf-eaf-and-ladle-applications">Alumina Magnesia Carbon Bricks</a>
+                      <a href="slag-line-refractories-steelmaking-refractories-lrf-eaf-and-ladle-applications">Slag Line Refractories</a>
                       <a href="ladle-castables-steelmaking-refractories-lrf-eaf-and-ladle-applications">Ladle Castables</a>
                       <a href="taphole-mass-steelmaking-refractories-lrf-eaf-and-ladle-applications">Taphole Mass</a>
+                      <a href="burner-blocks-steelmaking-refractories-lrf-eaf-and-ladle-applications">Burner Blocks</a>
                       <a href="ebt-refractories-steelmaking-refractories-lrf-eaf-and-ladle-applications">EBT Refractories</a>
                       <a href="delta-castables-steelmaking-refractories-lrf-eaf-and-ladle-applications">Delta Castables</a>
-                      <a href="burner-blocks-aod-refractories-argon-oxygen-decarburization">Burner Blocks</a>
                       <a href="refractory-gunning-mix-steelmaking-refractories-lrf-eaf-and-ladle-applications">Refractory Gunning Mix</a>
-                      <a href="alumina-magnesia-carbon-bricks-steelmaking-refractories-lrf-eaf-and-ladle-applications">Alumina Magnesia Carbon Bricks</a>
                     </div>
                   </div>
                 </div>
@@ -293,9 +296,6 @@ if (in_array($current_page_name, $specialized_detail_pages)) {
                       <a href="esr-furnace-refractories-special-steel-and-vacuum-refractories">ESR Furnace Refractories</a>
                       <a href="special-steel-tundish-refractories-special-steel-and-vacuum-refractories">Special Steel Tundish Refractories</a>
                       <a href="vacuum-degassing-refractories-special-steel-and-vacuum-refractories">Vacuum Degassing Refractories</a>
-                      <a href="alloy-steel-production-refractories-special-steel-and-vacuum-refractories">Alloy Steel Production Refractories</a>
-                      <a href="vacuum-degassing-refractories-special-steel-and-vacuum-refractories">Secondary Metallurgy Operations</a>
-                      <a href="vacuum-degassing-refractories-special-steel-and-vacuum-refractories">High-Purity Steel Application</a>
                     </div>
                   </div>
                 </div>

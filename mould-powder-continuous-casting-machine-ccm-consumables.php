@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/ccm/CastingPowderMouldPowder.webp"
+        <img src="assets/images/resources/products/ccm/castingpowdermouldpowder.webp"
           alt="Mould Powder - Continuous Casting Machine CCM Consumables - Refractotherm" />
 
       </div>

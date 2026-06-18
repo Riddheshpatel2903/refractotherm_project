@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 
 <?php
@@ -30,7 +30,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/monolithic/BoilerCastables.webp"
+        <img src="assets/images/resources/products/monolithic/boilercastables.webp"
           alt="Boiler Castables for CFB Boilers, AFBC Boilers, Cyclones, Ash Handling Systems and Power Plant Applications" />
 
       </div>

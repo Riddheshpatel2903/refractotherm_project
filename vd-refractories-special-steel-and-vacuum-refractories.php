@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/spacial_steel/VDRefractories.webp"
+        <img src="assets/images/resources/products/spacial_steel/vdrefractories.webp"
           alt="VD Refractories - Special Steel and Vacuum Refractories - Refractotherm" />
 
       </div>

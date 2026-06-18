@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/aod/RepairMixes.webp" alt="Repair Mixes - AOD Refractories Argon Oxygen Decarburization - Refractotherm" />
+        <img src="assets/images/resources/products/aod/repairmixes.webp" alt="Repair Mixes - AOD Refractories Argon Oxygen Decarburization - Refractotherm" />
 
       </div>
       <div class="split__body reveal">

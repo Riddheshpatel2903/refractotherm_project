@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/steelmaking/EBTRefractories.webp"
+        <img src="assets/images/resources/products/steelmaking/ebtrefractories.webp"
           alt="EBT Refractories - Steelmaking Refractories Lrf Eaf And Ladle Applications - Refractotherm" />
       </div>
       <div class="split__body reveal">

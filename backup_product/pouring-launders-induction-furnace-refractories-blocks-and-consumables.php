@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 
 <?php
@@ -31,7 +31,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/induction_furnace/PouringLaunders.webp"
+        <img src="assets/images/resources/products/induction_furnace/pouringlaunders.webp"
           alt="Pouring Launders for Molten Metal Transfer in Aluminium, Steel, Foundry and Non-Ferrous Metal Applications" />
 
       </div>

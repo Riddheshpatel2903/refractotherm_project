@@ -39,7 +39,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/blast_furnace/CoolerCastables.webp"
+        <img src="assets/images/resources/products/blast_furnace/coolercastables.webp"
           alt="Cooler Castables - Blast Furnace and DRI Applications - Refractotherm" />
 
       </div>

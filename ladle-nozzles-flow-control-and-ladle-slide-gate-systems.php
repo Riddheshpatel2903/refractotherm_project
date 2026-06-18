@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/flowcontrol/LadleNozzles.webp"
+        <img src="assets/images/resources/products/flowcontrol/ladlenozzles.webp"
           alt="Ladle Nozzles for Steel Ladles, Continuous Casting Systems, Secondary Metallurgy Operations and Molten Steel Flow Control Applications" />
 
       </div>

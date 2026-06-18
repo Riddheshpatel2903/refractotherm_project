@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/aod/TapholeRefractories.webp"
+        <img src="assets/images/resources/products/aod/tapholerefractories.webp"
           alt="Taphole Refractories - AOD Refractories - Refractotherm" />
       </div>
       <div class="split__body reveal">

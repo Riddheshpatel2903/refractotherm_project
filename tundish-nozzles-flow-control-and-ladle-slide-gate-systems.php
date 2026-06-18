@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/flowcontrol/TundishNozzles.webp"
+        <img src="assets/images/resources/products/flowcontrol/tundishnozzles.webp"
           alt="Tundish Nozzles - Flow Control and Ladle Slide Gate Systems - Refractotherm" />
 
       </div>

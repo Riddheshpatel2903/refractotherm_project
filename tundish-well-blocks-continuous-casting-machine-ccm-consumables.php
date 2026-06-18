@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/ccm/GraphiteStopperRods.webp"
+        <img src="assets/images/resources/products/ccm/graphitestopperrods.webp"
           alt="Tundish Well Blocks - Continuous Casting Machine CCM Consumables - Refractotherm" />
 
       </div>

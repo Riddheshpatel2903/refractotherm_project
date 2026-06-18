@@ -39,7 +39,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/monolithic/LowCementCastables(LCC).webp"
+        <img src="assets/images/resources/products/monolithic/lowcementcastables(lcc).webp"
           alt="Low Cement Castables (LCC) - Monolithic Refractories and Castables" />
 
       </div>

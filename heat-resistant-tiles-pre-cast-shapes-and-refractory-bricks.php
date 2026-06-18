@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/precast_shape/HeatResistantTiles.webp"
+        <img src="assets/images/resources/products/precast_shape/heatresistanttiles.webp"
           alt="Heat Resistant Tiles - Pre-Cast Shapes and Refractory Bricks - Refractotherm" />
 
       </div>

@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/flowcontrol/SeatingBlocks.webp"
+        <img src="assets/images/resources/products/flowcontrol/seatingblocks.webp"
           alt="Seating Blocks - Flow Control and Ladle Slide Gate Systems - Refractotherm" />
 
       </div>

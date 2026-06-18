@@ -39,7 +39,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/monolithic/SprayMass.webp"
+        <img src="assets/images/resources/products/monolithic/spraymass.webp"
           alt="Spray Mass - Monolithic Refractories & Castables - Refractotherm" />
 
       </div>

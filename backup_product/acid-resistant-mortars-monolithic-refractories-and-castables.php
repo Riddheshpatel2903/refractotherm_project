@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 
 <?php
@@ -31,7 +31,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/monolithic/AcidResistantMortars.webp"
+        <img src="assets/images/resources/products/monolithic/acidresistantmortars.webp"
           alt="Acid Resistant Mortars for Chemical Plants, Acid Proof Brick Linings, Fertilizer Industries and Corrosion Resistant Applications" />
 
       </div>

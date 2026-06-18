@@ -39,7 +39,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/blast_furnace/TapHoleClay.webp"
+        <img src="assets/images/resources/products/blast_furnace/tapholeclay.webp"
           alt="Tap Hole Clay - Blast Furnace & DRI Refractories - Refractotherm" />
       </div>
       <div class="split__body reveal">

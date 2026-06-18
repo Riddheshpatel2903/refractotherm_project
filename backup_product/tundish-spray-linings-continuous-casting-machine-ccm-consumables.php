@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 
 <?php
@@ -31,7 +31,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/ccm/TundishSprayLinings.webp"
+        <img src="assets/images/resources/products/ccm/tundishspraylinings.webp"
           alt="Tundish Spray Linings for Continuous Casting, Steelmaking Refractory Protection and Thermal Insulation Applications" />
 
       </div>

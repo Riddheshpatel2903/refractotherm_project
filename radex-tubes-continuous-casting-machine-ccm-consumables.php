@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/ccm/RadexPowder.webp" alt="Radex Tubes - Continuous Casting Machine Consumables - Refractotherm" />
+        <img src="assets/images/resources/products/ccm/radexpowder.webp" alt="Radex Tubes - Continuous Casting Machine Consumables - Refractotherm" />
 
       </div>
       <div class="split__body reveal">

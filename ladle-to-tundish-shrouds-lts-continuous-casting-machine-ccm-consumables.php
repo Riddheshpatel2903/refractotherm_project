@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/ccm/LadletoTundishShrouds(LTS).webp"
+        <img src="assets/images/resources/products/ccm/ladletotundishshrouds(lts).webp"
           alt="Ladle to Tundish Shrouds (LTS) - Continuous Casting Machine (CCM) Consumables - Refractotherm" />
 
       </div>

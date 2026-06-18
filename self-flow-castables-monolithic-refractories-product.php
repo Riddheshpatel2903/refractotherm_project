@@ -39,7 +39,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/monolithic/SelfFlowCastables.webp"
+        <img src="assets/images/resources/products/monolithic/selfflowcastables.webp"
           alt="Self Flow Castables - Monolithic Refractories & Castables - Refractotherm" />
       </div>
       <div class="split__body reveal">

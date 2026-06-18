@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/flowcontrol/WellBlocks.webp"
+        <img src="assets/images/resources/products/flowcontrol/wellblocks.webp"
           alt="Well Blocks - Flow Control And Ladle Slide Gate Systems - Refractotherm" />
 
       </div>

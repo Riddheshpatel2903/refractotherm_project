@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/steelmaking/LadleCastables.webp"
+        <img src="assets/images/resources/products/steelmaking/ladlecastables.webp"
           alt="Ladle Castables - Steelmaking Refratories Lrf Eaf And Ladle Applications - Refractotherm" />
 
       </div>

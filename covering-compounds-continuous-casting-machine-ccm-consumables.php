@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets\images\resources\products\ccm/TundishCoveringCompounds.webp"
+        <img src="assets\images\resources\products\ccm/tundishcoveringcompounds.webp"
           alt="Covering Compounds - Continuous Casting Machine (CCM) Consumables " />
 
       </div>

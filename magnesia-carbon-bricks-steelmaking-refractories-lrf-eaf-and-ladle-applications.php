@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/aod/MagnesiaCarbonBricks.webp"
+        <img src="assets/images/resources/products/aod/magnesiacarbonbricks.webp"
           alt="Magnesia Carbon Bricks - Steelmaking Refractories Lrf Eaf And Ladle Applications - Refractotherm" />
 
       </div>

@@ -39,7 +39,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/monolithic/AluminaSpinelCastables.webp"
+        <img src="assets/images/resources/products/monolithic/aluminaspinelcastables.webp"
           alt="Alumina Spinel Castables" />
 
       </div>

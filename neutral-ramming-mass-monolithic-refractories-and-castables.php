@@ -39,7 +39,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/monolithic/NeutralRammingMass.webp"
+        <img src="assets/images/resources/products/monolithic/neutralrammingmass.webp"
           alt="Neutral Ramming Mass - Monolithic Refractories And Castables - Refractotherm" />
 
       </div>

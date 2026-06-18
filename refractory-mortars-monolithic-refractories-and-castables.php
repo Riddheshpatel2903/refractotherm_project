@@ -39,7 +39,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/monolithic/RefractoryMortars.webp"
+        <img src="assets/images/resources/products/monolithic/refractorymortars.webp"
           alt="Refractory Mortars - Monolithic Refractories and Castables - Refractotherm" />
 
       </div>

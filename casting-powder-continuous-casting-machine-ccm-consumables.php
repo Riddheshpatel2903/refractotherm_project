@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/ccm/CastingPowderMouldPowder.webp"
+        <img src="assets/images/resources/products/ccm/castingpowdermouldpowder.webp"
           alt="Casting Powder for Continuous Casting Lubrication, Heat Transfer Control and Steelmaking Applications" />
 
       </div>

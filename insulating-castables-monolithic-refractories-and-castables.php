@@ -39,7 +39,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/monolithic/InsulatingCastables.webp"
+        <img src="assets/images/resources/products/monolithic/insulatingcastables.webp"
           alt="Insulating Castables for Furnaces, Boilers, Kilns, Petrochemical Heaters and High Temperature Thermal Insulation Applications" />
 
       </div>

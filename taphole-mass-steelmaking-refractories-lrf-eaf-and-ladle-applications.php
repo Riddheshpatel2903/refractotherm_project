@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/steelmaking/TapholeMass.webp"
+        <img src="assets/images/resources/products/steelmaking/tapholemass.webp"
           alt="Taphole Mass - Steelmaking Refractories - Refractotherm" />
 
       </div>

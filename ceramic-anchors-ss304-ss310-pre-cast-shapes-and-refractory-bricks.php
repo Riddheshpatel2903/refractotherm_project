@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/precast_shape/CeramicAnchors.webp"
+        <img src="assets/images/resources/products/precast_shape/ceramicanchors.webp"
           alt="Ceramic Anchors (SS304 / SS310) - Pre-Cast Shapes and Bricks" />
 
       </div>

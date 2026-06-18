@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/spacial_steel/SpecialSteelTundishRefractories.webp"
+        <img src="assets/images/resources/products/spacial_steel/specialsteeltundishrefractories.webp"
           alt="Special Steel Tundish Refractories - Special Steel And Vacuum Refractories - Refractotherm" />
 
       </div>

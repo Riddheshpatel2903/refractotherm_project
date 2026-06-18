@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/aod/AODConverterBricks.webp"
+        <img src="assets/images/resources/products/aod/aodconverterbricks.webp"
           alt="AOD Converter Bricks for AOD and Secondary Metallurgy" />
 
       </div>

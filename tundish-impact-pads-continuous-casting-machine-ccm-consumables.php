@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/ccm/TundishImpactPads.webp"
+        <img src="assets/images/resources/products/ccm/tundishimpactpads.webp"
           alt="Tundish Impact Pads - Continuous Casting Machine CCM Consumables - Refractotherm" />
 
       </div>

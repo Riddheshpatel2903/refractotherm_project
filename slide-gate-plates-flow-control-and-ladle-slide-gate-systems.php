@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/flowcontrol/SlideGatePlates.webp"
+        <img src="assets/images/resources/products/flowcontrol/slidegateplates.webp"
           alt="Slide Gate Sand - Flow Control and Ladle Slide Gate Systems - Refractotherm" />
       </div>
       <div class="split__body reveal">

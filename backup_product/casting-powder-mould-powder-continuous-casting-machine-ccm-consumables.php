@@ -2,9 +2,9 @@
 <html lang="en">
 
 <?php
-$title = 'Coil Cement Manufacturer & Supplier | Refractotherm';
-$description = 'Coil Cement is a specialized refractory compound designed to provide electrical insulation and structural support to induction furnace coils. Formulated...';
-$keywords = 'Coil Cement, Induction Furnace Refractories Blocks And Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$title = 'Casting Powder Mould Powder Manufacturer & Supplier | Refractotherm';
+$description = 'Casting Powder, commonly known as Mould Powder or Mold Flux, is an essential consumable used in continuous casting operations to ensure smooth and effic...';
+$keywords = 'Casting Powder Mould Powder, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
 $indexing = 'index, follow';
 
@@ -21,9 +21,9 @@ include 'includes/head.php';
     <div class="page-banner-bg" style="background-image: url('assets/images/resources/site/banner.webp');">
     </div>
     <div class="container page-banner-container">
-      <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>INDUCTION FURNACE REFRACTORIES, BLOCKS &
+      <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>CONTINUOUS CASTING MACHINE (CCM)
         CONSUMABLES</span>
-      <h1 class="page-banner-title">Coil Cement</h1>
+      <h1 class="page-banner-title">Casting Powder / Mould Powder</h1>
     </div>
   </section>
 
@@ -31,8 +31,8 @@ include 'includes/head.php';
     <ol class="breadcrumb">
       <li><a href="home">Home</a></li>
       <li><a href="products">Products</a></li>
-      <li><a href="products#induction-furnace-refractories-blocks-and-consumables">INDUCTION FURNACE REFRACTORIES, BLOCKS & CONSUMABLES</a></li>
-      <li class="active">Coil Cement </li>
+      <li><a href="products#continuous-casting-machine-ccm-consumables">CONTINUOUS CASTING MACHINE CONSUMABLES</a></li>
+      <li class="active">Casting Powder / Mould Powder </li>
     </ol>
   </nav>
 
@@ -40,35 +40,39 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/induction_furnace/CoilCement.webp"
-          alt="Coil Cement - INDUCTION FURNACE REFRACTORIES, BLOCKS & CONSUMABLES - Refractotherm" />
+        <img src="assets/images/resources/products/ccm/castingpowdermouldpowder.webp"
+          alt="Casting Powder and Mould Powder for Continuous Casting Lubrication, Heat Transfer Control and Steelmaking Applications" />
 
       </div>
       <div class="split__body reveal">
         <span class="eyebrow"><span class="eyebrow__bar"></span>Product Overview</span>
-        <h2>Coil Cement</h2>
-        <p class="lead">Coil Cement is a specialized refractory compound designed to provide electrical insulation and
-          structural support to induction furnace coils. Formulated with high-purity alumina and specialized binders, it
-          ensures optimum performance under extreme thermal and electrical stresses.</p>
-        <p>In induction furnaces, protecting the copper coil is critical for safe and efficient operation. Our Coil
-          Cement creates a strong, rigid, and thermally conductive layer that prevents short circuits, dampens
-          vibrations, and withstands the mechanical shocks of furnace operation.</p>
+        <h2>Casting Powder / Mould Powder</h2>
+        <p class="lead">Casting Powder, commonly known as Mould Powder or Mold Flux, is an essential consumable used in
+          continuous casting operations to ensure smooth and efficient solidification of molten steel within the mould.
+          Applied on the molten steel surface inside the mould, the powder melts and forms a protective slag layer that
+          performs multiple critical functions during the casting process.</p>
+        <p>A properly designed Casting Powder provides lubrication between the solidifying steel shell and the mould
+          wall, controls heat transfer, minimizes friction, and protects molten steel from atmospheric oxidation. It
+          also absorbs non-metallic inclusions rising from the steel, contributing to improved surface quality and
+          cleaner cast products. Modern mould powders are carefully engineered to meet the specific requirements of
+          billet, bloom, slab, and special steel casting operations.</p>
         <ul class="check overview-check-list">
           <li class="overview-check-item">
             <i class="fa-solid fa-check overview-check-icon"></i>
-            Superior electrical insulation properties
+            Provides effective lubrication during strand solidification
           </li>
           <li class="overview-check-item">
             <i class="fa-solid fa-check overview-check-icon"></i>
-            High mechanical strength and vibration resistance
+            Controls heat transfer for stable casting conditions
+
           </li>
           <li class="overview-check-item">
             <i class="fa-solid fa-check overview-check-icon"></i>
-            Excellent thermal conductivity for coil cooling
+            Protects molten steel from reoxidation and contamination
           </li>
           <li class="overview-check-item">
             <i class="fa-solid fa-check overview-check-icon"></i>
-            Easy workability and fast setting characteristics
+            Absorbs non-metallic inclusions to improve steel cleanliness
           </li>
         </ul>
       </div>
@@ -89,35 +93,35 @@ include 'includes/head.php';
       <div class="benefit-list-container" style="margin-bottom: 50px;">
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <p class="benefit-text">Coreless Induction Furnaces</p>
+          <p class="benefit-text">Continuous Casting Machines (CCM)</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <p class="benefit-text">Steel Melting Operations</p>
+          <p class="benefit-text">Billet Casting</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <p class="benefit-text">Alloy Steel Production</p>
+          <p class="benefit-text">Bloom Casting</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <p class="benefit-text">Stainless Steel Melting</p>
+          <p class="benefit-text">Slab Casting</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <p class="benefit-text">Foundry Applications</p>
+          <p class="benefit-text">Tundish Operations</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <p class="benefit-text">Ferro Alloy Manufacturing</p>
+          <p class="benefit-text">Steel Melting Shops</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <p class="benefit-text">Non-Ferrous Metal Melting</p>
+          <p class="benefit-text">Secondary Metallurgy Operations</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <p class="benefit-text">High-Temperature Melting Processes</p>
+          <p class="benefit-text">Integrated Steel Plants</p>
         </div>
       </div>
 
@@ -130,53 +134,54 @@ include 'includes/head.php';
       <div class="benefit-list-container">
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <p class="benefit-text">Enhanced Furnace Safety</p>
+          <p class="benefit-text">Improved Steel Cleanliness</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <p class="benefit-text">Improved Lining Performance</p>
+          <p class="benefit-text">Enhanced Casting Performance</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <p class="benefit-text">Extended Campaign Life</p>
+          <p class="benefit-text">Better Flow Control</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <p class="benefit-text">Superior Thermal Efficiency</p>
+          <p class="benefit-text">Reduced Reoxidation</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <p class="benefit-text">Reduced Maintenance Downtime</p>
+          <p class="benefit-text">Consistent Casting Quality</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <p class="benefit-text">Improved Metal Yield</p>
+          <p class="benefit-text">Improved Surface Finish</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <p class="benefit-text">Reliable Furnace Operation</p>
+          <p class="benefit-text">Reduced Inclusion Levels</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <p class="benefit-text">Better Resistance to Thermal Shock</p>
+          <p class="benefit-text">Enhanced Operational Reliability</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <p class="benefit-text">Cost-Effective Furnace Maintenance</p>
+          <p class="benefit-text">Extended Equipment Life</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <p class="benefit-text">Increased Productivity & Operational Efficiency</p>
+          <p class="benefit-text">Increased Productivity & Yield</p>
         </div>
       </div>
     </div>
   </section>
 
   <!-- SUGGESTED PRODUCTS -->
-  <?php include 'includes/product_suggestion/induction-furnace.php'; ?>
+  <?php include 'includes/product_suggestion/ccm.php'; ?>
 
-  <!-- FOOTER -->
+
   <?php include 'includes/footer.php'; ?>
+
 </body>
 
 </html>

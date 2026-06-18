@@ -39,7 +39,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/monolithic/AcidicRammingMass.webp"
+        <img src="assets/images/resources/products/monolithic/acidicrammingmass.webp"
           alt="Acidic Ramming Mass for Coreless Induction Furnaces, Steel Foundries, Cast Iron Foundries and Metal Melting Applications" />
         <div class="split__badge">
           <strong></strong>

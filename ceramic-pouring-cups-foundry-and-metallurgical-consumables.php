@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/foundries/CeramicPouringCups.webp"
+        <img src="assets/images/resources/products/foundries/ceramicpouringcups.webp"
           alt="Ceramic Pouring Cups - Foundry &amp; Metallurgical Consumables" />
 
       </div>

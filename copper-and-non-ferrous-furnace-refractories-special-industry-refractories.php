@@ -39,7 +39,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/spacial_industries/Copper&Non-FerrousFurnaceRefractories.webp"
+        <img src="assets/images/resources/products/spacial_industries/copper&non-ferrousfurnacerefractories.webp"
           alt="Copper & Non-Ferrous Furnace Refractories - Special Industry Refractories - Refractotherm" />
 
       </div>

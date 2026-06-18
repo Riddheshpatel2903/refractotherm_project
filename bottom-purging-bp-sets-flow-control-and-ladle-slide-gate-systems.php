@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/flowcontrol/BottomPurging(BP)Sets.webp"
+        <img src="assets/images/resources/products/flowcontrol/bottompurging(bp)sets.webp"
           alt="Bottom Purging BP Sets for Steel Ladles, Argon Stirring Systems, Secondary Metallurgy Operations and Steel Refining Applications" />
 
       </div>

@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 
 <?php
@@ -31,7 +31,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/induction_furnace/FurnaceBottomNozzleBlocks.webp"
+        <img src="assets/images/resources/products/induction_furnace/furnacebottomnozzleblocks.webp"
           alt="Furnace Bottom Nozzle Blocks for Molten Metal Flow Control in Steel Ladles and Furnace Systems" />
 
       </div>

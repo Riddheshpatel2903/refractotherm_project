@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 
 <?php
@@ -31,7 +31,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/ccm/CK4Nozzles.webp"
+        <img src="assets/images/resources/products/ccm/ck4nozzles.webp"
           alt="CK4 Nozzles for Continuous Casting Molten Steel Flow Control and Steelmaking Applications" />
 
       </div>

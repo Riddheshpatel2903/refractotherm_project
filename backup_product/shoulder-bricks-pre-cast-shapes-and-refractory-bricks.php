@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 
 <?php
@@ -31,7 +31,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/precast_shape/ShoulderBricks.webp"
+        <img src="assets/images/resources/products/precast_shape/shoulderbricks.webp"
           alt="Shoulder Bricks - Pre-Cast Shapes and Bricks" />
 
       </div>

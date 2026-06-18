@@ -39,7 +39,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/blast_furnace/MudGunMass.webp"
+        <img src="assets/images/resources/products/blast_furnace/mudgunmass.webp"
           alt="Mud Gun Mass - Blast Furnace and DRI Refractories - Refractotherm" />
 
       </div>

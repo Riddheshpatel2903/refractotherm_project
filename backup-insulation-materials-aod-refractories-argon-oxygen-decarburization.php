@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/aod/BackupInsulationMaterials.webp"
+        <img src="assets/images/resources/products/aod/backupinsulationmaterials.webp"
           alt="Backup Insulation Materials for AOD and Secondary Metallurgy" />
 
       </div>

@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/precast_shape/HighAluminaBricks.webp"
+        <img src="assets/images/resources/products/precast_shape/highaluminabricks.webp"
           alt="High Alumina Bricks - Pre-Cast Shapes and Refractory Bricks" />
 
       </div>

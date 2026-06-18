@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/foundries/FoundryCoatings.webp"
+        <img src="assets/images/resources/products/foundries/foundrycoatings.webp"
           alt="Foundry Coatings - Foundry & Metallurgical Consumables - Refractotherm" />
 
       </div>

@@ -39,7 +39,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/insulation/HighTemperatureSealants.webp"
+        <img src="assets/images/resources/products/insulation/hightemperaturesealants.webp"
           alt="High Temperature Sealants - Thermal Insulation" />
 
       </div>

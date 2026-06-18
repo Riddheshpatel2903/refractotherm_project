@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 
 <?php
@@ -31,7 +31,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/induction_furnace/BottomCastBlocks.webp"
+        <img src="assets/images/resources/products/induction_furnace/bottomcastblocks.webp"
           alt="Bottom Cast Blocks for Furnace Bottom Lining, Steelmaking and High Temperature Industrial Applications" />
 
       </div>

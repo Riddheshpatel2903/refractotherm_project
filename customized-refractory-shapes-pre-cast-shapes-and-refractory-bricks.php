@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/precast_shape/CustomizedRefractoryShapes.webp"
+        <img src="assets/images/resources/products/precast_shape/customizedrefractoryshapes.webp"
           alt="Customized Refractory Shapes - Pre-Cast Shapes and Bricks - Refractotherm" />
 
       </div>

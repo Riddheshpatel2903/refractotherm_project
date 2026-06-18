@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/precast_shape/SiliconCarbideProducts.webp"
+        <img src="assets/images/resources/products/precast_shape/siliconcarbideproducts.webp"
           alt="Silicon Carbide Products - Pre-Cast Shapes and Refractory Bricks" />
       </div>
       <div class="split__body reveal">

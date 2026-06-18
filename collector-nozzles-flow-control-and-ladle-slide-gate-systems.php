@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/flowcontrol/CollectorNozzles.webp"
+        <img src="assets/images/resources/products/flowcontrol/collectornozzles.webp"
           alt="Collector Nozzles - Flow Control and Ladle Slide Gate Systems - Refractotherm" />
 
       </div>

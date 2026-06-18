@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/induction_furnace/TopCastBlocks.webp"
+        <img src="assets/images/resources/products/induction_furnace/topcastblocks.webp"
           alt="Top Cast Blocks for Steelmaking, Foundry and High Temperature Industrial Refractory Applications" />
 
       </div>

@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/ccm/SubmergedEntryNozzles(SEN).webp"
+        <img src="assets/images/resources/products/ccm/submergedentrynozzles(sen).webp"
           alt="Submerged Entry Nozzles - Continuous Casting Machine Ccm Consumables - Refractotherm" />
 
       </div>

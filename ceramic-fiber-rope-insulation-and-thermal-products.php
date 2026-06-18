@@ -39,7 +39,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/insulation/CeramicFiberRope.webp"
+        <img src="assets/images/resources/products/insulation/ceramicfiberrope.webp"
           alt="Ceramic Fiber Rope - Thermal Insulation " />
 
       </div>

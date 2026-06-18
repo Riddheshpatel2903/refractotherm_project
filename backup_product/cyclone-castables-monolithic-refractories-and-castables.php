@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 
 <?php
@@ -30,7 +30,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/monolithic/KilnCastables.webp"
+        <img src="assets/images/resources/products/monolithic/kilncastables.webp"
           alt="Kiln Castables for Rotary Kilns, Cement Kilns, Lime Kilns, Calcination Plants and High Temperature Thermal Processing Applications" />
 
       </div>

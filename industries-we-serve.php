@@ -52,7 +52,7 @@ include 'includes/head.php';
       <h2 id="steel-metallurgical" style="margin-top: 60px; margin-bottom: 30px; border-bottom: 2px solid var(--orange); padding-bottom: 10px;">Steel & Metallurgical Industries</h2>
       <div class="industry-stack-grid" style="margin-top: 0;">
         <div class="industry-stack-card reveal">
-          <div class="industry-stack-img" style="background-image: url('assets/images/resources/IntegratedSteelPlants.webp');"></div>
+          <div class="industry-stack-img" style="background-image: url('assets/images/resources/integratedsteelplants.webp');"></div>
           <div class="industry-stack-content"><h3 class="industry-stack-title">Integrated Steel Plants</h3></div>
         </div>
         <div class="industry-stack-card reveal">
@@ -60,11 +60,11 @@ include 'includes/head.php';
           <div class="industry-stack-content"><h3 class="industry-stack-title">Secondary Steel Plants</h3></div>
         </div>
         <div class="industry-stack-card reveal">
-          <div class="industry-stack-img" style="background-image: url('assets/images/resources/StainlessSteelPlants.webp');"></div>
+          <div class="industry-stack-img" style="background-image: url('assets/images/resources/stainlesssteelplants.webp');"></div>
           <div class="industry-stack-content"><h3 class="industry-stack-title">Stainless Steel Plants</h3></div>
         </div>
         <div class="industry-stack-card reveal">
-          <div class="industry-stack-img" style="background-image: url('assets/images/resources/AlloySteelPlants.webp');"></div>
+          <div class="industry-stack-img" style="background-image: url('assets/images/resources/alloysteelplants.webp');"></div>
           <div class="industry-stack-content"><h3 class="industry-stack-title">Alloy Steel Plants</h3></div>
         </div>
         <div class="industry-stack-card reveal">
@@ -81,11 +81,11 @@ include 'includes/head.php';
       <h2 id="furnace-casting" style="margin-top: 60px; margin-bottom: 30px; border-bottom: 2px solid var(--orange); padding-bottom: 10px;">Furnace & Casting Operations</h2>
       <div class="industry-stack-grid" style="margin-top: 0;">
         <div class="industry-stack-card reveal">
-          <div class="industry-stack-img" style="background-image: url('assets/images/resources/InductionMeltingFurnaces.webp');"></div>
+          <div class="industry-stack-img" style="background-image: url('assets/images/resources/inductionmeltingfurnaces.webp');"></div>
           <div class="industry-stack-content"><h3 class="industry-stack-title">Induction Melting Furnaces</h3></div>
         </div>
         <div class="industry-stack-card reveal">
-          <div class="industry-stack-img" style="background-image: url('assets/images/resources/ElectricArcFurnaces(EAF).webp');"></div>
+          <div class="industry-stack-img" style="background-image: url('assets/images/resources/electricarcfurnaces(eaf).webp');"></div>
           <div class="industry-stack-content"><h3 class="industry-stack-title">Electric Arc Furnaces (EAF)</h3></div>
         </div>
         <div class="industry-stack-card reveal">
@@ -109,7 +109,7 @@ include 'includes/head.php';
           <div class="industry-stack-content"><h3 class="industry-stack-title">Blast Furnace Operations</h3></div>
         </div>
         <div class="industry-stack-card reveal">
-          <div class="industry-stack-img" style="background-image: url('assets/images/resources/ReheatingFurnaces.webp');"></div>
+          <div class="industry-stack-img" style="background-image: url('assets/images/resources/reheatingfurnaces.webp');"></div>
           <div class="industry-stack-content"><h3 class="industry-stack-title">Reheating Furnaces</h3></div>
         </div>
       </div>
@@ -118,7 +118,7 @@ include 'includes/head.php';
       <h2 id="process-industries" style="margin-top: 60px; margin-bottom: 30px; border-bottom: 2px solid var(--orange); padding-bottom: 10px;">Process Industries</h2>
       <div class="industry-stack-grid" style="margin-top: 0;">
         <div class="industry-stack-card reveal">
-          <div class="industry-stack-img" style="background-image: url('assets/images/resources/SpongeIron(DRI)Plants.webp');"></div>
+          <div class="industry-stack-img" style="background-image: url('assets/images/resources/spongeiron(dri)plants.webp');"></div>
           <div class="industry-stack-content"><h3 class="industry-stack-title">Sponge Iron (DRI) Plants</h3></div>
         </div>
         <div class="industry-stack-card reveal">
@@ -126,7 +126,7 @@ include 'includes/head.php';
           <div class="industry-stack-content"><h3 class="industry-stack-title">Lime Plants</h3></div>
         </div>
         <div class="industry-stack-card reveal">
-          <div class="industry-stack-img" style="background-image: url('assets/images/resources/PetrochemicalIndustries.webp');"></div>
+          <div class="industry-stack-img" style="background-image: url('assets/images/resources/petrochemicalindustries.webp');"></div>
           <div class="industry-stack-content"><h3 class="industry-stack-title">Petrochemical Industries</h3></div>
         </div>
         <div class="industry-stack-card reveal">
@@ -134,7 +134,7 @@ include 'includes/head.php';
           <div class="industry-stack-content"><h3 class="industry-stack-title">Non-Ferrous Metal Industries</h3></div>
         </div>
         <div class="industry-stack-card reveal">
-          <div class="industry-stack-img" style="background-image: url('assets/images/resources/CementPlants.webp');"></div>
+          <div class="industry-stack-img" style="background-image: url('assets/images/resources/cementplants.webp');"></div>
           <div class="industry-stack-content"><h3 class="industry-stack-title">High-Temperature Process Industries</h3></div>
         </div>
       </div>

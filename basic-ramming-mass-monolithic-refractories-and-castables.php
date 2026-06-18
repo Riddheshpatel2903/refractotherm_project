@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/monolithic/BasicRammingMass.webp"
+        <img src="assets/images/resources/products/monolithic/basicrammingmass.webp"
           alt="Basic Ramming Mass for Induction Furnaces, Steelmaking Applications, Manganese Steel Production and Basic Slag Operations" />
         <div class="split__badge">
           <strong></strong>

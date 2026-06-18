@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 
 <?php
@@ -31,7 +31,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/ccm/PreformedTundishBoards.webp"
+        <img src="assets/images/resources/products/ccm/preformedtundishboards.webp"
           alt="Preformed Tundish Boards for Continuous Casting Tundish Linings and Steelmaking Refractory Applications" />
 
       </div>

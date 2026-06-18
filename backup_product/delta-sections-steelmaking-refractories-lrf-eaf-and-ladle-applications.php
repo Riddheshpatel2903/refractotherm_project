@@ -2,9 +2,9 @@
 <html lang="en">
 
 <?php
-$title = 'Casting Powder Mould Powder Manufacturer & Supplier | Refractotherm';
-$description = 'Casting Powder, commonly known as Mould Powder or Mold Flux, is an essential consumable used in continuous casting operations to ensure smooth and effic...';
-$keywords = 'Casting Powder Mould Powder, Continuous Casting Machine Ccm Consumables, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
+$title = 'Delta Sections Manufacturer & Supplier | Refractotherm';
+$description = 'The Delta Section is the central, critical component of the Electric Arc Furnace roof, containing the ports through which the graphite electrodes pass. ...';
+$keywords = 'Delta Sections, Steelmaking Refractories Lrf Eaf And Ladle Applications, Refractory Usage, Industrial Refractories, High Temperature Refractories, Refractotherm';
 $connonical_url = 'refractotherm.com';
 $indexing = 'index, follow';
 
@@ -21,9 +21,9 @@ include 'includes/head.php';
     <div class="page-banner-bg" style="background-image: url('assets/images/resources/site/banner.webp');">
     </div>
     <div class="container page-banner-container">
-      <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>CONTINUOUS CASTING MACHINE (CCM)
-        CONSUMABLES</span>
-      <h1 class="page-banner-title">Casting Powder / Mould Powder</h1>
+      <span class="eyebrow eyebrow--light"><span class="eyebrow__bar"></span>STEELMAKING REFRACTORIES (LRF, EAF &amp;
+        LADLE APPLICATIONS)</span>
+      <h1 class="page-banner-title">Delta Sections</h1>
     </div>
   </section>
 
@@ -31,8 +31,8 @@ include 'includes/head.php';
     <ol class="breadcrumb">
       <li><a href="home">Home</a></li>
       <li><a href="products">Products</a></li>
-      <li><a href="products#continuous-casting-machine-ccm-consumables">CONTINUOUS CASTING MACHINE CONSUMABLES</a></li>
-      <li class="active">Casting Powder / Mould Powder </li>
+      <li><a href="products#steelmaking-refractories-lrf-eaf-and-ladle-applications">STEELMAKING REFRACTORIES</a></li>
+      <li class="active">Delta Sections </li>
     </ol>
   </nav>
 
@@ -40,39 +40,37 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/ccm/CastingPowderMouldPowder.webp"
-          alt="Casting Powder and Mould Powder for Continuous Casting Lubrication, Heat Transfer Control and Steelmaking Applications" />
+        <img src="assets/images/resources/products/steelmaking/deltasections.webp"
+          alt="Delta Sections for Steelmaking and Ladle Applications" />
 
       </div>
       <div class="split__body reveal">
         <span class="eyebrow"><span class="eyebrow__bar"></span>Product Overview</span>
-        <h2>Casting Powder / Mould Powder</h2>
-        <p class="lead">Casting Powder, commonly known as Mould Powder or Mold Flux, is an essential consumable used in
-          continuous casting operations to ensure smooth and efficient solidification of molten steel within the mould.
-          Applied on the molten steel surface inside the mould, the powder melts and forms a protective slag layer that
-          performs multiple critical functions during the casting process.</p>
-        <p>A properly designed Casting Powder provides lubrication between the solidifying steel shell and the mould
-          wall, controls heat transfer, minimizes friction, and protects molten steel from atmospheric oxidation. It
-          also absorbs non-metallic inclusions rising from the steel, contributing to improved surface quality and
-          cleaner cast products. Modern mould powders are carefully engineered to meet the specific requirements of
-          billet, bloom, slab, and special steel casting operations.</p>
+        <h2>Delta Sections</h2>
+        <p class="lead">The Delta Section is the central, critical component of the Electric Arc Furnace roof,
+          containing the ports through which the graphite electrodes pass. It endures the most severe conditions in the
+          furnace, including extreme temperature fluctuations, radiant heat, and mechanical vibration from the
+          electrodes.</p>
+        <p>We manufacture highly advanced, pre-cast and pre-fired Delta Sections using ultra-low cement, high-alumina,
+          or alumina-spinel castables reinforced with stainless steel fibers. These monolithic blocks offer vastly
+          superior thermal shock resistance and mechanical strength compared to traditional bricked deltas,
+          significantly reducing installation time and extending roof life.</p>
         <ul class="check overview-check-list">
           <li class="overview-check-item">
             <i class="fa-solid fa-check overview-check-icon"></i>
-            Provides effective lubrication during strand solidification
+            Pre-cast and pre-fired for immediate installation and rapid heat-up
           </li>
           <li class="overview-check-item">
             <i class="fa-solid fa-check overview-check-icon"></i>
-            Controls heat transfer for stable casting conditions
-
+            Exceptional resistance to thermal shock and electrode vibration
           </li>
           <li class="overview-check-item">
             <i class="fa-solid fa-check overview-check-icon"></i>
-            Protects molten steel from reoxidation and contamination
+            Steel fiber reinforcement provides high fracture toughness
           </li>
           <li class="overview-check-item">
             <i class="fa-solid fa-check overview-check-icon"></i>
-            Absorbs non-metallic inclusions to improve steel cleanliness
+            Significantly extends the overall service life of the EAF roof
           </li>
         </ul>
       </div>
@@ -93,27 +91,15 @@ include 'includes/head.php';
       <div class="benefit-list-container" style="margin-bottom: 50px;">
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <p class="benefit-text">Continuous Casting Machines (CCM)</p>
+          <p class="benefit-text">Ladle Refining Furnaces (LRF)</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <p class="benefit-text">Billet Casting</p>
+          <p class="benefit-text">Electric Arc Furnaces (EAF)</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <p class="benefit-text">Bloom Casting</p>
-        </div>
-        <div class="benefit-list-item reveal">
-          <i class="fa-solid fa-check benefit-tick"></i>
-          <p class="benefit-text">Slab Casting</p>
-        </div>
-        <div class="benefit-list-item reveal">
-          <i class="fa-solid fa-check benefit-tick"></i>
-          <p class="benefit-text">Tundish Operations</p>
-        </div>
-        <div class="benefit-list-item reveal">
-          <i class="fa-solid fa-check benefit-tick"></i>
-          <p class="benefit-text">Steel Melting Shops</p>
+          <p class="benefit-text">Steel Ladles</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
@@ -121,7 +107,19 @@ include 'includes/head.php';
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
+          <p class="benefit-text">Alloy Steel Production</p>
+        </div>
+        <div class="benefit-list-item reveal">
+          <i class="fa-solid fa-check benefit-tick"></i>
+          <p class="benefit-text">Stainless Steel Manufacturing</p>
+        </div>
+        <div class="benefit-list-item reveal">
+          <i class="fa-solid fa-check benefit-tick"></i>
           <p class="benefit-text">Integrated Steel Plants</p>
+        </div>
+        <div class="benefit-list-item reveal">
+          <i class="fa-solid fa-check benefit-tick"></i>
+          <p class="benefit-text">Special Steel Applications</p>
         </div>
       </div>
 
@@ -134,52 +132,52 @@ include 'includes/head.php';
       <div class="benefit-list-container">
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <p class="benefit-text">Improved Steel Cleanliness</p>
+          <p class="benefit-text">Superior Resistance to Slag Attack</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <p class="benefit-text">Enhanced Casting Performance</p>
+          <p class="benefit-text">Excellent Thermal Shock Resistance</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <p class="benefit-text">Better Flow Control</p>
+          <p class="benefit-text">Extended Refractory Service Life</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <p class="benefit-text">Reduced Reoxidation</p>
+          <p class="benefit-text">Improved Process Stability</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <p class="benefit-text">Consistent Casting Quality</p>
+          <p class="benefit-text">Enhanced Furnace Performance</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <p class="benefit-text">Improved Surface Finish</p>
+          <p class="benefit-text">Reduced Refractory Consumption</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <p class="benefit-text">Reduced Inclusion Levels</p>
+          <p class="benefit-text">Lower Maintenance Requirements</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <p class="benefit-text">Enhanced Operational Reliability</p>
+          <p class="benefit-text">Improved Operational Reliability</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <p class="benefit-text">Extended Equipment Life</p>
+          <p class="benefit-text">Increased Productivity & Cost Efficiency</p>
         </div>
         <div class="benefit-list-item reveal">
           <i class="fa-solid fa-check benefit-tick"></i>
-          <p class="benefit-text">Increased Productivity & Yield</p>
+          <p class="benefit-text">Consistent Performance in High-Temperature Steelmaking Operations</p>
         </div>
       </div>
     </div>
   </section>
 
   <!-- SUGGESTED PRODUCTS -->
-  <?php include 'includes/product_suggestion/ccm.php'; ?>
+  <?php include 'includes/product_suggestion/steelmaking-refractories.php'; ?>
 
-
+  <!-- FOOTER -->
   <?php include 'includes/footer.php'; ?>
 
 </body>

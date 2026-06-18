@@ -39,7 +39,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/monolithic/UltraLowCementCastables(ULCC).webp"
+        <img src="assets/images/resources/products/monolithic/ultralowcementcastables(ulcc).webp"
           alt="Ultra Low Cement Castables (ULCC) - Monolithic Refractories & Castables - Refractotherm" />
 
       </div>

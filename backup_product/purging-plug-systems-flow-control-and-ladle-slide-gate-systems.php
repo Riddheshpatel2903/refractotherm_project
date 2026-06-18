@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 
 <?php
@@ -31,7 +31,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/flowcontrol/PurgingPlugSystems.webp"
+        <img src="assets/images/resources/products/flowcontrol/purgingplugsystems.webp"
           alt="Purging Plug Systems for Steel Ladles, Argon Gas Injection, Secondary Metallurgy Operations and Steel Refining Applications" />
 
       </div>

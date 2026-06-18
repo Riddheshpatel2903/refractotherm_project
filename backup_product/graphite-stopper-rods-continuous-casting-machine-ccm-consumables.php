@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 
 <?php
@@ -31,7 +31,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/ccm/GraphiteStopperRods.webp"
+        <img src="assets/images/resources/products/ccm/graphitestopperrods.webp"
           alt="Graphite Stopper Rods for Tundish Flow Control Systems and Continuous Casting Applications" />
 
       </div>

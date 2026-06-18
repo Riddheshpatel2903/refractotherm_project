@@ -39,7 +39,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/blast_furnace/CokeOvenRefractories.webp"
+        <img src="assets/images/resources/products/blast_furnace/cokeovenrefractories.webp"
           alt="Coke Oven Refractories - Blast Furnace and DRI Refractories - Refractotherm" />
       </div>
       <div class="split__body reveal">

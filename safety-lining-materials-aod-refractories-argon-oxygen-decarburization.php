@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/aod/SafetyLiningMaterials.webp"
+        <img src="assets/images/resources/products/aod/safetyliningmaterials.webp"
           alt="Safety Lining Materials - AOD Refractories Argon Oxygen Decarbunization - Refractotherm" />
 
       </div>

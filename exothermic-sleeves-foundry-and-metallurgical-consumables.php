@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/foundries/ExothermicSleeves.webp"
+        <img src="assets/images/resources/products/foundries/exothermicsleeves.webp"
           alt="Exothermic Sleeves - Foundry and Metallurgical Consumables - Refractotherm" />
 
       </div>

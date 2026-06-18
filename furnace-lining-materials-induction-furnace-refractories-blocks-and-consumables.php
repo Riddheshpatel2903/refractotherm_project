@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/induction_furnace/FurnaceLiningMaterials.webp"
+        <img src="assets/images/resources/products/induction_furnace/furnaceliningmaterials.webp"
           alt="Furnace Lining Materials - Induction Furnace Refractories Blocks and Consumables - Refractotherm" />
 
       </div>

@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 
 <?php
@@ -31,7 +31,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/flowcontrol/InnerNozzles.webp"
+        <img src="assets/images/resources/products/flowcontrol/innernozzles.webp"
           alt="Inner Nozzles for Steel Ladles, Flow Control Systems, Continuous Casting Operations and Molten Steel Transfer Applications" />
 
       </div>

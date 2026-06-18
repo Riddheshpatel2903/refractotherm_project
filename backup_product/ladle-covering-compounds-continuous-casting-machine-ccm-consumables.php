@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/ccm/LadleCoveringCompounds.webp" alt="Ladle Covering Compounds - CONTINUOUS CASTING MACHINE CONSUMABLES - Refractotherm" />
+        <img src="assets/images/resources/products/ccm/ladlecoveringcompounds.webp" alt="Ladle Covering Compounds - CONTINUOUS CASTING MACHINE CONSUMABLES - Refractotherm" />
 
       </div>
       <div class="split__body reveal">

@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/aod/PurgingSystems.webp"
+        <img src="assets/images/resources/products/aod/purgingsystems.webp"
           alt="Purging Systems - AOD Refractories Argon Oxygen Decarburization - Refractotherm" />
 
       </div>

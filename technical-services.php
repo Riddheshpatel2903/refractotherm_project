@@ -48,7 +48,7 @@ include 'includes/head.php';
         <!-- Service 1: Refractory Installation -->
         <div class="service-alternate-row reveal">
           <div class="service-alternate-img"
-            style="background-image: url('assets/images/resources/services/RefractoryInstallationservices.webp');">
+            style="background-image: url('assets/images/resources/services/refractoryinstallationservices.webp');">
           </div>
           <div class="service-alternate-body">
             <h3>Refractory Installation</h3>
@@ -60,7 +60,7 @@ include 'includes/head.php';
         <!-- Service 2: Furnace Lining & Relining -->
         <div class="service-alternate-row reveal">
           <div class="service-alternate-img"
-            style="background-image: url('assets/images/resources/services/FurnaceLining&Reliningservices.webp');">
+            style="background-image: url('assets/images/resources/services/furnacelining&reliningservices.webp');">
           </div>
           <div class="service-alternate-body">
             <h3>Furnace Lining & Relining</h3>
@@ -72,7 +72,7 @@ include 'includes/head.php';
         <!-- Service 3: Ladle Refractory Lining -->
         <div class="service-alternate-row reveal">
           <div class="service-alternate-img"
-            style="background-image: url('assets/images/resources/services/LadleRefractoryLining.webp');"></div>
+            style="background-image: url('assets/images/resources/services/ladlerefractorylining.webp');"></div>
           <div class="service-alternate-body">
             <h3>Ladle Refractory Lining</h3>
             <p>Complete masonry and casting configurations for transfer and treatment steel ladles, optimized to handle
@@ -83,7 +83,7 @@ include 'includes/head.php';
         <!-- Service 4: CCM Tundish Setup -->
         <div class="service-alternate-row reveal">
           <div class="service-alternate-img"
-            style="background-image: url('assets/images/resources/services/CCMTundishRefractorySetup.webp');"></div>
+            style="background-image: url('assets/images/resources/services/ccmtundishrefractorysetup.webp');"></div>
           <div class="service-alternate-body">
             <h3>CCM Tundish Setup</h3>
             <p>Complete flow control and continuous casting layout. Precision setup of tundish safety linings, dry spray
@@ -94,7 +94,7 @@ include 'includes/head.php';
         <!-- Service 5: Shutdown Maintenance Services -->
         <div class="service-alternate-row reveal">
           <div class="service-alternate-img"
-            style="background-image: url('assets/images/resources/services/ShutdownMaintenanceServices.webp');"></div>
+            style="background-image: url('assets/images/resources/services/shutdownmaintenanceservices.webp');"></div>
           <div class="service-alternate-body">
             <h3>Shutdown Maintenance Services</h3>
             <p>Emergency hot repair spraying, planned maintenance, and rapid cooling relining support to maximize
@@ -105,7 +105,7 @@ include 'includes/head.php';
         <!-- Service 6: Heat-Up & Dry-Out Services -->
         <div class="service-alternate-row reveal">
           <div class="service-alternate-img"
-            style="background-image: url('assets/images/resources/services/Heat-Up&Dry-OutServices.webp');"></div>
+            style="background-image: url('assets/images/resources/services/heat-up&dry-outservices.webp');"></div>
           <div class="service-alternate-body">
             <h3>Heat-Up & Dry-Out Services</h3>
             <p>Controlled thermal dry-out profiling utilizing specialized high-velocity gas burners. Prevents lining
@@ -116,7 +116,7 @@ include 'includes/head.php';
         <!-- Service 7: Technical Supervision -->
         <div class="service-alternate-row reveal">
           <div class="service-alternate-img"
-            style="background-image: url('assets/images/resources/services/TechnicalSupervision.webp');">
+            style="background-image: url('assets/images/resources/services/technicalsupervision.webp');">
           </div>
           <div class="service-alternate-body">
             <h3>Technical Supervision</h3>
@@ -128,7 +128,7 @@ include 'includes/head.php';
         <!-- Service 8: Furnace Inspection & Condition Assessment -->
         <div class="service-alternate-row reveal">
           <div class="service-alternate-img"
-            style="background-image: url('assets/images/resources/services/FurnaceInspectionSupport.webp');">
+            style="background-image: url('assets/images/resources/services/furnaceinspectionsupport.webp');">
           </div>
           <div class="service-alternate-body">
             <h3>Furnace Inspection & Condition Assessment</h3>
@@ -140,7 +140,7 @@ include 'includes/head.php';
         <!-- Service 10: Furnace Performance Optimization -->
         <div class="service-alternate-row reveal">
           <div class="service-alternate-img"
-            style="background-image: url('assets/images/resources/services/FurnacePerformanceOptimization.webp');">
+            style="background-image: url('assets/images/resources/services/furnaceperformanceoptimization.webp');">
           </div>
           <div class="service-alternate-body">
             <h3>Furnace Performance Optimization</h3>
@@ -152,7 +152,7 @@ include 'includes/head.php';
         <!-- Service 11: Energy Saving Thermal Solutions -->
         <div class="service-alternate-row reveal">
           <div class="service-alternate-img"
-            style="background-image: url('assets/images/resources/services/EnergySavingThermalSolutions.webp');"></div>
+            style="background-image: url('assets/images/resources/services/energysavingthermalsolutions.webp');"></div>
           <div class="service-alternate-body">
             <h3>Energy Saving Thermal Solutions</h3>
             <p>Pioneering monolithic and board systems featuring extremely low thermal conductivity to retain maximum
@@ -163,7 +163,7 @@ include 'includes/head.php';
         <!-- Service 12: Annual Maintenance Contracts (AMC) -->
         <div class="service-alternate-row reveal">
           <div class="service-alternate-img"
-            style="background-image: url('assets/images/resources/services/AnnualMaintenanceContracts(AMC).webp');">
+            style="background-image: url('assets/images/resources/services/annualmaintenancecontracts(amc).webp');">
           </div>
           <div class="service-alternate-body">
             <h3>Annual Maintenance Contracts (AMC)</h3>
@@ -175,7 +175,7 @@ include 'includes/head.php';
         <!-- Service 13: Turnkey Refractory Projects -->
         <div class="service-alternate-row reveal">
           <div class="service-alternate-img"
-            style="background-image: url('assets/images/resources/services/CompleteRefractoryTurnkeyProjects.webp');">
+            style="background-image: url('assets/images/resources/services/completerefractoryturnkeyprojects.webp');">
           </div>
           <div class="service-alternate-body">
             <h3>Turnkey Refractory Projects</h3>
@@ -209,7 +209,7 @@ include 'includes/head.php';
             <div class="industry-content"><h3>Induction Melting Furnaces</h3></div>
           </div>
           <div class="industry-card">
-            <img loading="lazy" src="assets/images/resources/ElectricArcFurnaces(EAF).webp" alt="Electric Arc Furnaces (EAF)">
+            <img loading="lazy" src="assets/images/resources/electricarcfurnaces(eaf).webp" alt="Electric Arc Furnaces (EAF)">
             <div class="industry-overlay"></div>
             <div class="industry-content"><h3>Electric Arc Furnaces (EAF)</h3></div>
           </div>
@@ -239,12 +239,12 @@ include 'includes/head.php';
             <div class="industry-content"><h3>Ferro Alloy Plants</h3></div>
           </div>
           <div class="industry-card">
-            <img loading="lazy" src="assets/images/resources/services/application/LimePlants.webp" alt="Lime Plants">
+            <img loading="lazy" src="assets/images/resources/services/application/limeplants.webp" alt="Lime Plants">
             <div class="industry-overlay"></div>
             <div class="industry-content"><h3>Lime Plants</h3></div>
           </div>
           <div class="industry-card">
-            <img loading="lazy" src="assets/images/resources/services/application/HighTemperatureProcessIndustries.webp" alt="High-Temperature Process Industries">
+            <img loading="lazy" src="assets/images/resources/services/application/hightemperatureprocessindustries.webp" alt="High-Temperature Process Industries">
             <div class="industry-overlay"></div>
             <div class="industry-content"><h3>High-Temperature Process Industries</h3></div>
           </div>

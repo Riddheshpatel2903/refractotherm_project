@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/aod/SlagLineRefractories.webp"
+        <img src="assets/images/resources/products/aod/slaglinerefractories.webp"
           alt="Slag Line Refractories - Steelmaking Refractories LRF, EAF, Ladle Applications" />
 
       </div>

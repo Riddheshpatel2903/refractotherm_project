@@ -40,7 +40,7 @@ include 'includes/head.php';
   <section class="section">
     <div class="container split">
       <div class="split__media reveal">
-        <img src="assets/images/resources/products/foundries/ThermocoupleProtectionTubes.webp"
+        <img src="assets/images/resources/products/foundries/thermocoupleprotectiontubes.webp"
           alt="Thermocouple Protection Tubes - Foundry And Metallurgical Consumables - Refractotherm" />
 
       </div>
