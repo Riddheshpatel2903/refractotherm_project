@@ -60,7 +60,7 @@ include 'includes/head.php';
   <section class="section section--alt">
     <div class="container split">
       <div class="split__body reveal">
-
+        <!-- <span class="eyebrow"><span class="eyebrow__bar"></span>Target Sectors</span> -->
         <h2>Applications</h2>
         <ul class="check overview-check-list">
           <li class="overview-check-item"><i class="fa-solid fa-circle-dot" style="color: var(--orange); margin-right: 8px;"></i> Steel Ladles</li>
@@ -72,7 +72,9 @@ include 'includes/head.php';
         </ul>
       </div>
       <div class="split__body reveal">
+        <!-- <span class="eyebrow"><span class="eyebrow__bar"></span>Product Line</span> -->
         <h2>Product Range</h2>
+        <!-- <p>The INTERFLOW® slide gate family includes highly standard configurations to match various ladle capacities:</p> -->
         <ul class="check overview-check-list">
           <li class="overview-check-item"><i class="fa-solid fa-gears" style="color: var(--orange); margin-right: 8px;"></i> INTERFLOW® Type 1QC Hydraulic Ladle Slide Gate Systems</li>
           <li class="overview-check-item"><i class="fa-solid fa-gears" style="color: var(--orange); margin-right: 8px;"></i> INTERFLOW® Type 2QC Hydraulic Ladle Slide Gate Systems</li>
